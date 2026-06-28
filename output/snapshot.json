@@ -2,428 +2,401 @@
   "news": {
     "singapore": [
       {
-        "id": "cf3a1674739627b4e980e8e5a27a54ed",
-        "title": "Fur, fame and felines: Over 100 cats strut their stuff at Singapore’s cat show",
-        "summary": "The best at the Cat Fanciers' Association show will climb the ranks towards Divisional Winner, or even National Winner.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/fur-fame-and-felines",
-        "published": "2026-06-27T21:00:00+00:00"
-      },
-      {
-        "id": "8da835e20aa11e374eb18ef54f81e633",
-        "title": "Build a zoo, control a clan in feudal Japan: Board games to be played competitively at S’pore event",
-        "summary": "WSBG Asia 2026 will be held at the Pico Creative Centre in Kallang from July 11 to July 13.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/build-a-zoo-control-a-clan-in-feudal-japan-board-games-to-be-played-competitively-at-spore-event",
-        "published": "2026-06-27T21:00:00+00:00"
-      },
-      {
-        "id": "38a3d7f9eeb0a49d8ad0ba4ba5a2ddf8",
-        "title": "‘Are they all yours?’ Couple with six kids are asked this wherever the family goes",
-        "summary": "Amirudin Mohd Zain and his wife Aszafirah Abu had not planned on the number of children they wanted to have.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/community/are-they-all-yours-the-question-this-couple-with-six-kids-hears-wherever-they-go",
-        "published": "2026-06-27T21:00:00+00:00"
-      },
-      {
-        "id": "31f3e9a11e4b36fd39dffe1e13625eaf",
-        "title": "‘Diseases, unfortunately, do not sleep’: How CDA is using AI to lead S’pore’s infectious diseases fight",
-        "summary": "AI will complement CDA's existing technologies such as genomic sequencing and wastewater surveillance.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/diseases-unfortunately-do-not-sleep-how-cda-is-using-ai-to-lead-spores-infectious-diseases-fight",
-        "published": "2026-06-27T21:00:00+00:00"
-      },
-      {
-        "id": "333a3e5355ea7e75fb4ea49d79180eb0",
-        "title": "‘Every life is precious’: How miscarriage shaped one mum’s journey to having baby No. 6",
-        "summary": "A small group of parents in Singapore are bucking the trend and having larger families.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/community/every-life-is-precious-how-a-miscarriage-shaped-one-mums-journey-to-having-baby-number-six",
-        "published": "2026-06-27T21:00:00+00:00"
-      },
-      {
-        "id": "96b23ad6e582a13e9aacf3b2a4351f1b",
-        "title": "Small cat, big myth: The curious case of the Singapura",
-        "summary": "The Singapura cat became a global sensation on the back of a compelling origin story but the truth may be far less local.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/the-singapura-cat-is-practically-a-no-show-in-its-own-homeland",
-        "published": "2026-06-27T21:00:00+00:00"
-      },
-      {
-        "id": "1c1c00e9abae8391f5c6b9ed15816b57",
-        "title": "Thousands show up at Hong Lim Park for 18th Pink Dot rally",
-        "summary": "This is the fourth year of Pink Dot since the repeal of Section 377A, a decades-old law criminalising gay sex.",
+        "id": "c542f149f0dcb9e7effbdd7269d991f9",
+        "title": "Commentary: Why 'You suggest, you do lah!' is the wrong response to an employee who speaks up",
+        "summary": "Workers are silent because they are wondering “What will happen to me if I say something?”, says Associate Professor Victor Seah of the Singapore University of Social Sciences.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/pink-dot-rally-lgbtq-community-hong-lim-park-6210706",
-        "published": "2026-06-27T13:14:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/speaking-up-work-singapore-workplace-culture-6212481",
+        "published": "2026-06-28T22:00:00+00:00"
       },
       {
-        "id": "e2c831a7f413b71802567278817f15a4",
-        "title": "More than 110 active mobility devices seized in nine-day operation between LTA and police",
-        "summary": "Common offences detected included the keeping of non-compliant e-bikes or using improper, obscured or tampered number plates.",
+        "id": "3c38d5d050a65b501d93ce123bf1a5f3",
+        "title": "NUS names professorship after liver pathology pioneer Aileen Wee",
+        "summary": "It is the latest in a series of professorships by NUS Medicine to recognise outstanding Singaporeans.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/nus-names-professorship-after-aileen-wee-for-her-pioneering-work-in-liver-pathology",
+        "published": "2026-06-28T21:00:00+00:00"
+      },
+      {
+        "id": "b7404fb7e857fa2a3a14ca6b20593c7f",
+        "title": "askST Jobs: My job feels secure, but my industry is in decline due to AI. Should I be worried?",
+        "summary": "Job security can be an illusion if workers fail to prepare for AI and industry disruption.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/jobs/askst-jobs-my-job-feels-secure-but-my-industry-is-in-decline-due-to-ai-should-i-be-worried",
+        "published": "2026-06-28T21:00:00+00:00"
+      },
+      {
+        "id": "3afbc33435372f129afe5b2df69ff8b1",
+        "title": "Why hitting doesn’t teach, and what parents can do to discipline children instead",
+        "summary": "Experts say teenagers are capable of understanding and discussing consequences",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/community/why-hitting-doesnt-teach-and-what-parents-can-do-to-discipline-children-instead",
+        "published": "2026-06-28T21:00:00+00:00"
+      },
+      {
+        "id": "239c8344ca076ee9a49a395c434ac8cb",
+        "title": "NUS researchers develop novel oral vaccine to protect farmed fish from deadly virus",
+        "summary": "Currently, vaccination mostly involves injecting the fish individually, which is laborious and may not be suitable for small fish.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/environment/nus-researchers-develop-novel-oral-vaccine-to-protect-farmed-fish-from-deadly-virus",
+        "published": "2026-06-28T21:00:00+00:00"
+      },
+      {
+        "id": "cc5bbe91a31596ba513799dfbcd08e75",
+        "title": "Can swimming in the Singapore River make a return? 3 ways to build identity in the city",
+        "summary": "The ideas were gleaned from plenaries at the recent World Cities Summit.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/can-swimming-in-the-singapore-river-make-a-return-3-ways-to-build-identity-in-the-city",
+        "published": "2026-06-28T21:00:00+00:00"
+      },
+      {
+        "id": "55bb6de4752e54c52cf9608ac596b85f",
+        "title": "The GST InvoiceNow Requirement is coming – acting early could save your company money",
+        "summary": "From April 2028, GST-registered businesses in Singapore will need to submit invoice data directly to IRAS via InvoiceNow, and early adopters get access to grants, smoother implementation and earlier efficiency gains.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/gst-invoicenow-requirement-act-early-save-company-money-iras",
+        "published": "2026-06-28T20:00:00+00:00"
+      },
+      {
+        "id": "8d842b6f5ff54a2d270cd77311955e0c",
+        "title": "Snap Insight: Pritam Singh prevails in leadership vote but must demonstrate he is not bigger than WP",
+        "summary": "The Workers’ Party and its chief can now draw a clear line over the Raeesah Khan saga and focus on the future, says SMU law professor Eugene K B Tan.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/lta-police-pmds-confiscated-mobility-devices-6213481",
-        "published": "2026-06-27T09:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/pritam-singh-workers-party-wp-vote-snap-insight-6216436",
+        "published": "2026-06-28T14:22:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "e82d0a957fdfe6c391dc64d72f86fba8",
-        "title": "Centcom: US conducts additional strikes on Iran",
-        "summary": "U.S. Central Command (Centcom) said on Saturday that U.S. forces conducted additional strikes against multiple Iranian targets in response to an attack against a Panama-flagged tanker near the Strait of Hormuz. “CENTCOM forces launched strikes today in direct response to continued Iranian aggression against commercial shipping,” Centcom said in a statement on the social platform…",
+        "id": "09761ff61e0c848e8f0badb979802f1c",
+        "title": "Trump: Reflecting Pool will be drained after July 4; algae ‘criminally made’",
+        "summary": "President Trump said Sunday that the Lincoln Memorial Reflecting Pool will be drained shortly after the country’s 250th anniversary celebrations wrap up, accusing criminals of both damaging the lining and creating algae. “The Reflecting Pool is now in full use after suffering great damage from Criminal, Radical Left Vandals, people that truly hate our Country,”…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/defense/5944131-centcom-us-conducts-additional-strikes-on-iran/",
-        "published": "2026-06-27T22:18:39+00:00"
+        "url": "https://thehill.com/homenews/administration/5944812-trump-reflecting-pool-drained/",
+        "published": "2026-06-28T22:10:35+00:00"
       },
       {
-        "id": "8d383dabaf8a12ac5e80e77a019ac022",
-        "title": "Chuck Todd believes Trump pushing Murkowski closer to Dems",
-        "summary": "Former NBC News chief political analyst Chuck Todd warned on Friday that President Trump is isolating some of his own party, after the president criticized GOP Sen. Lisa Murkowski (Alaska). “The more Trump goes after Murkowski, the more likely the real number Dems will need to take control of the Senate is ‘3’ not 4…",
+        "id": "cdafa538113c5d3254351db44728ce97",
+        "title": "Tillis has ‘positive predisposition’ toward Blanche’s confirmation",
+        "summary": "Republican Sen. Thom Tillis (N.C.) said Sunday he has a “positive predisposition” toward acting Attorney General Todd Blanche, whom President Trump has nominated for the full-time post. “I’m going to go through the nomination process. I have got a positive predisposition towards Blanche,” Tillis, a member of the Senate Judiciary Committee, told host Jake Tapper…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/media/5944123-chuck-todd-believes-trump-pushing-murkowski-closer-to-dems/",
-        "published": "2026-06-27T22:01:59+00:00"
+        "url": "https://thehill.com/homenews/senate/5944816-tillis-blanche-ag-confirmation-process/",
+        "published": "2026-06-28T22:02:01+00:00"
       },
       {
-        "id": "7607a431b39a0dea0c4c0dd1100bdc26",
-        "title": "Trump nominates former Oklahoma state trooper to head ICE",
-        "summary": "President Trump nominated Lance Schroyer, a former Oklahoma state trooper, to direct Immigration and Customs Enforcement. The agency hasn't had a Senate-confirmed director since the Obama administration.",
+        "id": "351d2a830752f12b0a1083fabaf6f247",
+        "title": "Trump warns likely next DC mayor against ‘communist’ policies",
+        "summary": "President Trump on Sunday blasted Janeese Lewis George, the Democratic nominee for mayor of Washington, D.C., as a “communist” whose policies will harm the district. “Janeese Lewis George, the Communist who is almost certainly going to be elected Mayor of Washington, D.C., has stated that she wants to empty the prisons, make D.C. a Sanctuary…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/5944771-dc-mayor-trump-communism-threat/",
+        "published": "2026-06-28T21:21:14+00:00"
+      },
+      {
+        "id": "e4d71af222556fe59972b4ec9b6d944a",
+        "title": "In Venezuela, silence has become a rescue tool",
+        "summary": "In Venezuela rescue crews now stop almost everything and ask for silence so they can hear anyone still alive underneath the rubble. NPR's Eyder Peralta reports from the port city of La Guaira.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
-        "published": "2026-06-27T22:01:36+00:00"
+        "url": "https://www.npr.org/2026/06/28/nx-s1-5874042/in-venezuela-silence-has-become-a-rescue-tool",
+        "published": "2026-06-28T21:00:14+00:00"
       },
       {
-        "id": "7d120cad798c4bb0a08237adec4c518e",
-        "title": "Iran captain calls World Cup a ‘disaster’ after final group stage match",
-        "summary": "The captain of the Iranian men’s national football ripped FIFA and its president Gianni Infantino on Friday for its experience during the World Cup, as it awaits word on whether its tournament run has come to an end. “It’s a disaster World Cup,” Mehdi Taremi told reporters after Iran’s final group stage match against Egypt…",
+        "id": "45d84ecb63297b64ae87a600ba6125a6",
+        "title": "MAHA feels betrayed after Supreme Court ruling on Monsanto, glyphosate",
+        "summary": "Prominent activists with the “Make America Healthy Again” (MAHA) movement are raging and saying they feel betrayed after the Supreme Court sided with pesticide maker Monsanto on Thursday and said it did not need to put a warning label about a potential cancer risk associated with its Roundup weedkiller. The backlash could test the movement’s…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/sports-gaming/5944108-iran-captain-calls-world-cup-a-disaster-after-final-group-stage-match/",
-        "published": "2026-06-27T21:34:51+00:00"
+        "url": "https://thehill.com/policy/healthcare/5943361-activists-maha-supreme-court-monsanto/",
+        "published": "2026-06-28T21:00:00+00:00"
       },
       {
-        "id": "ed0785d242dc2a96da2c2d5845d948a1",
-        "title": "Trump slips on affordability message amid battle in GOP over SAVE America Act",
-        "summary": "President Trump’s intense focus on passing the Safeguard American Voter Eligibility (SAVE America) Act is threatening to put Republicans at risk ahead of the midterm elections as the party finds itself on uneven footing with voters on affordability. Trump sent shockwaves through Washington earlier this week when he canceled what would have been the highly…",
+        "id": "275f5f91013e66a3ddb0ec243a7b1699",
+        "title": "Three firefighters die in Colorado blaze",
+        "summary": "Three firefighters died Saturday in a blaze in western Colorado, Interior Secretary Doug Burgum said Sunday. “Last night, we learned that three wildland firefighters—serving with the U.S. Forest Service and the U.S. Wildland Fire Service—lost their lives on Saturday, June 27, while responding jointly to the Knowles and Gore fires along the Colorado-Utah border,” Burgum…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/administration/5943333-trump-save-america-act/",
-        "published": "2026-06-27T21:00:00+00:00"
+        "url": "https://thehill.com/homenews/state-watch/5944737-three-firefighters-dead-colorado/",
+        "published": "2026-06-28T20:37:58+00:00"
       },
       {
-        "id": "dcdb03d659ff46a11e33730c087fb898",
-        "title": "Live results: Letlow, Fleming duke it out in Louisiana Senate runoff after Cassidy primary ouster",
-        "summary": "Voters in Louisiana are heading to the polls Saturday to weigh in on the Republican Senate runoff following Sen. Bill Cassidy’s ouster last month. GOP Rep. Julia Letlow and state treasurer John Fleming advanced from the initial May primary after neither candidate secured over 50 percent of the vote outright. Cassidy placed in third place…",
+        "id": "6e221fad89a9167947c8de418227b1f5",
+        "title": "Kaine says Hegseth ‘grudge’ against Army looks ‘personal’",
+        "summary": "Sen. Tim Kaine (D-Va.) said Sunday the ouster of Gen. Chris Donahue appears to be due to Defense Secretary Pete Hegseth’s “grudge” against the Army. “Are you pushing out the truth tellers to surround yourself by yes-men? And in particular, it looks like the secretary is coming down hardest … on the Army,” Kaine told…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/5928889-live-results-letlow-fleming-cassidy-louisana-senate-runoff/",
-        "published": "2026-06-27T21:00:00+00:00"
+        "url": "https://thehill.com/homenews/senate/5944695-kaine-questions-pentagon-firings/",
+        "published": "2026-06-28T20:36:39+00:00"
       },
       {
-        "id": "3f9be52dff71a0c333481033f375c841",
-        "title": "Trump names new ICE director",
-        "summary": "President Trump announced his nomination of Lance Schroyer as the next director of Immigration and Customs Enforcement (ICE) on Saturday. The president commended Schroyer’s experience as a former Oklahoma state trooper and U.S. Marine in a Truth Social post, calling him a “PATRIOT with real operational experience.” “Lance has firsthand experience getting Illegal Aliens OFF…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/5944092-trump-nominates-lance-schroyer-ice/",
-        "published": "2026-06-27T20:56:58+00:00"
-      },
-      {
-        "id": "ebf39134a386b4a25aac0a30e115257d",
-        "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
-        "summary": "Firefighters working on the nation's largest current wildfire, burning in southern Utah, are being challenged by historic weather conditions. Extreme wildfire behavior is expected to continue through the weekend.",
+        "id": "362d5dd99990b8fe9ba6d13c68e9e340",
+        "title": "A bridge to Canada may be blocked by the Trump administration",
+        "summary": "The Gordie Howe bridge spans the most important border crossing between the U.S. and Canada. President Donald Trump has said he doesn't want it open yet.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
-        "published": "2026-06-27T19:40:06+00:00"
+        "url": "https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked",
+        "published": "2026-06-28T20:17:22+00:00"
       }
     ],
     "asia": [
       {
-        "id": "2c8c01feabf90bc90f780c2d38a2236f",
-        "title": "Netanyahu plans ‘broad national govt.’ after Israel vote",
-        "summary": "He also hailed the U.S.-brokered agreement with Lebanon, calling it a historic achievement that dealt a blow to arch-foes Iran and Hezbollah",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
-        "published": "2026-06-27T22:17:39+00:00"
-      },
-      {
-        "id": "3d695fc43e49f51a4a89f2c976ff5b05",
-        "title": "West Asia war LIVE: U.S. conducts further strikes against 'multiple targets' in Iran",
-        "summary": "Lebanon's President hopes U.S. will press Israel to withdraw from southern areas",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
-        "published": "2026-06-27T22:08:20+00:00"
-      },
-      {
-        "id": "7f2c5d7d0d5b6d63f1e4da91405199b1",
-        "title": "Rural escapism: Why China’s young urbanites are romanticising countryside living",
-        "summary": "Amid burnout, economic uncertainty and rising costs, more young Chinese urbanites are romanticising rural living through social media, but experts say reality may be more complicated.",
-        "source": "CNA Asia",
-        "category": "asia",
-        "url": "https://www.channelnewsasia.com/east-asia/china-rural-living-content-urban-youths-burnt-out-escape-countryside-escapism-6194891",
-        "published": "2026-06-27T22:00:00+00:00"
-      },
-      {
-        "id": "cbb0ba48d0c2900864b633468b7910fc",
-        "title": "Senior U.S. officials frustrated by Machado bid to return to Venezuela after quakes: White House official",
-        "summary": "Maria Corina Machado ⁠left Venezuela in December, defying a decade-long travel ban to receive the Nobel Peace Prize, after mainly living in hiding for more ​than a year following ‌disputed elections in 2024",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/senior-us-officials-frustrated-by-machado-bid-to-return-to-venezuela-after-earthquakes/article71155629.ece",
-        "published": "2026-06-27T21:26:58+00:00"
-      },
-      {
-        "id": "7a7a2e59b9c55cc2fd6d8aeb30768bdb",
-        "title": "Serbia’s President Vucic says he’ll resign within weeks, amid student protests",
-        "summary": "Serbia’s populist President Aleksandar Vucic said on Saturday that he would resign his post within weeks, paving the way for early elections following youth-led protests that shook his tight grip on power. Vucic did not specify exactly when he would resign or when an election, either for parliament or for a new president, could be held. He has said in the past that he could leave the post amid speculation that he would try to switch to the formally more powerful position of prime minister of the",
+        "id": "0c224548bb984e9cf031066306b12bb1",
+        "title": "Chinese farmer’s forest of cameras fails to bear fruit in compensation bid",
+        "summary": "A Chinese farmer has generated a buzz online by planting a forest of more than 170 surveillance cameras on his land in the hope of boosting his compensation under a land purchase scheme. Footage circulating on social media – which showed the poles standing almost shoulder to shoulder on a hillside in Badong county, Hubei province – prompted rampant speculation about what could possibly warrant such heavy security for an ordinary orchard. On Friday, the local village committee explained the man..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/europe/article/3358621/serbias-president-vucic-says-hell-resign-within-weeks-amid-student-protests?utm_source=rss_feed",
-        "published": "2026-06-27T21:11:56+00:00"
+        "url": "https://www.scmp.com/news/china/science/article/3358657/chinese-farmers-forest-cameras-fails-bear-fruit-compensation-bid?utm_source=rss_feed",
+        "published": "2026-06-28T22:30:08+00:00"
       },
       {
-        "id": "44e8ff7d1e4ee0a214eeb373e1ab1abb",
-        "title": "Six terrorists killed, one captured after Rangers’ base attack in Pakistan’s Karachi",
-        "summary": "Four soldiers dead; attack claimed by Jamaat-ul-Ahrar, a militant faction of the TTP that has largely operated in Khyber Pakhtunkhwa province bordering Afghanistan",
+        "id": "8c0c7e0ed184c2ec5f7552a24e3fc2d9",
+        "title": "Iran warns ships not to bypass its chosen Hormuz route",
+        "summary": "Iran’s top diplomat warned on Sunday that any attempt by ships to bypass its preferred route through the Strait of Hormuz would “increase tensions” in the Middle East, as US and Iranian forces again traded attacks. The exchanges underscored the fragility of a Pakistan-brokered agreement aimed at ending the war launched by the United States and Israel in February that disrupted shipping through the strait and rattled global energy markets. Although a ceasefire took effect in April, sporadic...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3358681/iran-warns-ships-not-bypass-its-chosen-hormuz-route?utm_source=rss_feed",
+        "published": "2026-06-28T22:27:08+00:00"
+      },
+      {
+        "id": "5cca9846899913900e8092ec22c86ae0",
+        "title": "Thai brokerages pivot beyond commissions",
+        "summary": "Thailand's securities brokerage industry is accelerating its transformation as declining commission fees and volatile trading volumes continue to pressure profitability, prompting firms to diversify revenue streams beyond traditional brokerage services.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3278160/thai-brokerages-pivot-beyond-commissions",
+        "published": "2026-06-28T22:17:00+00:00"
+      },
+      {
+        "id": "0c91ba5cbb4f3f29ee68224f7afb45a0",
+        "title": "Blueprint for a better Bangkok",
+        "summary": "With the election of a new Bangkok governor yesterday, several unfinished tasks to develop the nation's capital await the administration during its four-year term.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3278195/blueprint-for-a-better-bangkok",
+        "published": "2026-06-28T22:10:00+00:00"
+      },
+      {
+        "id": "014d0c5a79cfd2eeea84c94e516d51b1",
+        "title": "Trump bashes Washington’s likely next mayor as he touts Potomac golf course project",
+        "summary": "US President Donald Trump lashed out on Sunday at Washington’s presumptive next mayor, calling her a communist who would destroy the capital city, even as he touted grandiose building projects including the refurbishment of a golf course. Trump said in the Truth Social post that he would meet Janeese Lewis George, who prevailed in the Democratic Party mayoral primary on Tuesday which all but assures that she will win November’s election in the heavily Democratic city. But Trump warned that he...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3358679/trump-bashes-washingtons-likely-next-mayor-he-touts-potomac-golf-course-project?utm_source=rss_feed",
+        "published": "2026-06-28T22:02:29+00:00"
+      },
+      {
+        "id": "1888e9d58abdae89420cf4e18a8ac728",
+        "title": "West Asia war LIVE: U.S., Iran agree to halt attacks and hold talks in Doha this week, report says",
+        "summary": "The two sides anticipate meeting ‌on June 30 ​in Doha, ⁠Axios report said, to work ‌out their dispute over the Strait of Hormuz",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/pakistan-karachi-explosion-gunfire-updates/article71155477.ece",
-        "published": "2026-06-27T20:54:38+00:00"
+        "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
+        "published": "2026-06-28T21:54:40+00:00"
       },
       {
-        "id": "0027aec98a245af3a9acab087e15c9fb",
-        "title": "Former Oklahoma state trooper Lance Schroyer nominated as ICE Director: Trump",
-        "summary": "The nomination comes after former ICE director Todd Lyons resigned at the end of May",
+        "id": "74856208043eb22aa57859a5d2c1eaa8",
+        "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
+        "summary": "The U.S. was informed ahead of the attack, which targeted a 200-meter (656-ft)-long tunnel in the ‌town of Majdal Zoun, according to the statement from Israeli PM Netanyahu ‌and Defence Minister Israel Katz",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/former-oklahoma-state-trooper-lance-schroyer-nominated-as-ice-director-trump/article71155596.ece",
-        "published": "2026-06-27T20:36:23+00:00"
+        "url": "https://www.thehindu.com/news/international/israel-destroys-hezbollah-underground-infrastructure-in-southern-lebanon/article71159206.ece",
+        "published": "2026-06-28T21:51:07+00:00"
       },
       {
-        "id": "eb632d04edacd897beef424c35b09f19",
-        "title": "Strong earthquake hits Hindu Kush, shaking Afghanistan and Pakistan",
-        "summary": "",
-        "source": "CNA Asia",
+        "id": "82fbe8c2dc394bc6769e8301d7e4eea2",
+        "title": "Looting, theft in Venezuela's earthquake zone add to tragedy",
+        "summary": "LA GUAIRA (VENEZUELA) - Not even the cables inside the small store remained intact. The earth had barely stopped shaking when the looting and theft began in the area most devastated by Venezuela's double earthquake.",
+        "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/strong-earthquake-hits-hindu-kush-shaking-afghanistan-and-pakistan-6215251",
-        "published": "2026-06-27T20:11:00+00:00"
+        "url": "https://www.bangkokpost.com/world/3278240/looting-theft-in-venezuelas-earthquake-zone-add-to-tragedy",
+        "published": "2026-06-28T21:49:00+00:00"
       }
     ],
     "others": [
       {
-        "id": "d5145dd41fc71733de590052fb2938db",
-        "title": "US launches second night of strikes against Iran after ship struck by drone",
-        "summary": "The attacks come after an Iranian drone allegedly struck another commercial vessel in the Strait of Hormuz on Saturday.",
+        "id": "8e0d3249b0c210df8dc239042e388b3b",
+        "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+        "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-28T21:58:45+00:00"
+      },
+      {
+        "id": "cc6d9a6781e242d15cb540c34917ef84",
+        "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
+        "summary": "This is the second World Cup that comes after deadly nationwide protests inside Iran, and the first one amid a war",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-        "published": "2026-06-27T22:07:03+00:00"
+        "url": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
+        "published": "2026-06-28T21:55:27+00:00"
       },
       {
-        "id": "a0152d8e9c517106548f22d8477440ec",
-        "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-        "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-27T21:35:40+00:00"
-      },
-      {
-        "id": "201b1b91ce2cf51323b150d077c445b3",
-        "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-        "summary": "Videos show Israeli settlers trying to seize a house under construction in the occupied West Bank.",
+        "id": "42eb766d046f915fe234d08bfc564188",
+        "title": "Ireland upstage world champions India to win T20 series at home",
+        "summary": "Ireland won the second T20 by one run over India, who did not give a debut to teen sensation Sooryavanshi.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-        "published": "2026-06-27T21:13:12+00:00"
+        "url": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss",
+        "published": "2026-06-28T21:37:49+00:00"
       },
       {
-        "id": "5637b7ae874e7ef8c15c7d17109b3e52",
-        "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-        "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-27T21:12:51+00:00"
-      },
-      {
-        "id": "2831206bef0e5396157be84291dca970",
-        "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-        "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-27T20:48:16+00:00"
-      },
-      {
-        "id": "969308d4a72bc4aa0b1ad0121545849d",
-        "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
-        "summary": "The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump's first term.",
+        "id": "ec03463e0fe7bd0340ce4b5022ef7411",
+        "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
+        "summary": "Stephen Eustaquio scores in stoppage time as Canada win first knockout match in a World Cup.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
-        "published": "2026-06-27T20:34:57+00:00"
+        "url": "https://www.aljazeera.com/sports/2026/6/28/canada-score-late-to-beat-south-africa-and-reach-last-16-at-world-cup-2026?traffic_source=rss",
+        "published": "2026-06-28T21:36:53+00:00"
       },
       {
-        "id": "ff0d524cb09a90ce98287c7ab8cb8260",
-        "title": "Trump's face is added to select US passports for America's 250th birthday",
-        "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+        "id": "f758862c414ff82f093a0b3bed0e5e0b",
+        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+        "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-06-27T20:03:26+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-28T19:37:07+00:00"
       },
       {
-        "id": "c24c97e3a01f215b7ba1577c7968bbb4",
-        "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
-        "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family membersThe ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of the country’s top politicians Jorge Rodríguez.Another 3,200 ​people were injured ⁠and 3,100 ​left homeless ​by the ​disaster, ​the National Assembly president added, speaking ​on ​state television. Continue reading...",
-        "source": "The Guardian",
+        "id": "9996e0a7c07edd6a52ae30f7b4f95aa6",
+        "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+        "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
+        "source": "BBC World",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
-        "published": "2026-06-27T19:52:15+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-28T18:34:07+00:00"
+      },
+      {
+        "id": "9ffb0a9953818a3546c7b8ddab89b7e1",
+        "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+        "summary": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-06-28T14:30:05+00:00"
+      },
+      {
+        "id": "a0a5b240bdfff7586bbff5f97bdf1bf9",
+        "title": "Saudi Aramco helicopter crashes, all 14 passengers killed",
+        "summary": "Saudi Arabian media report that the helicopter crashed in Ras Tanura on the country's eastern coast early on Sunday. It said that all 14 Saudi nationals on board were killed, and the cause of the crash was unclear.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-06-28T13:38:00+00:00"
       }
     ],
     "tech": [
       {
-        "id": "02948f7ad552ff40d777c43bb280f212",
-        "title": "Michigan spent $1.8B and only created 602 jobs",
-        "summary": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu Comments URL: https://news.ycombinator.com/item?id=48702060 Points: 29 # Comments: 6",
+        "id": "7cb5713a617fda2bbc1b560a52da2146",
+        "title": "Knowledge Distillation of Black-Box Large Language Models",
+        "summary": "Article URL: https://arxiv.org/abs/2401.07013 Comments URL: https://news.ycombinator.com/item?id=48712420 Points: 4 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
-        "published": "2026-06-27T21:44:57+00:00"
+        "url": "https://arxiv.org/abs/2401.07013",
+        "published": "2026-06-28T22:32:04+00:00"
       },
       {
-        "id": "0299ab535ca9fbd81d8f830e798fd07a",
-        "title": "GLP-1 drugs led to weight loss and reversed depression-like behavior in mice",
-        "summary": "Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis Comments URL: https://news.ycombinator.com/item?id=48701984 Points: 32 # Comments: 15",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
-        "published": "2026-06-27T21:34:06+00:00"
-      },
-      {
-        "id": "384646be81f55a428c1000d1eb4bfc39",
-        "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
-        "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length autochopping, and it extends the maximum length of a sample from 20 seconds […]",
+        "id": "265c85feffa588020aad138d26f5eeab",
+        "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+        "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
-        "published": "2026-06-27T21:20:32+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+        "published": "2026-06-28T21:42:51+00:00"
       },
       {
-        "id": "f113d44a2e36d30b002f63cb9978ed88",
-        "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
-        "summary": "Article URL: https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/ Comments URL: https://news.ycombinator.com/item?id=48701822 Points: 111 # Comments: 34",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
-        "published": "2026-06-27T21:14:19+00:00"
-      },
-      {
-        "id": "a5f5b961b80ca38a7921f155e0ac25da",
-        "title": "Should European housing politics be Americanized?",
-        "summary": "Article URL: https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/ Comments URL: https://news.ycombinator.com/item?id=48701766 Points: 9 # Comments: 33",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/",
-        "published": "2026-06-27T21:07:38+00:00"
-      },
-      {
-        "id": "1e85c1d8ccbb6cc3bd6692d1ea133e63",
-        "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-        "summary": "A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that stops their AI agents. Some people made snarky comments about using tmux or Amphetamine, and some defended their choice with “but I only need it sometimes, and forgetting to disable Amphetamine and finding my laptop discharged in my bag is worse.”This is a solution to this problem. Unlike caffeinate, it will prevent your",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://github.com/kageroumado/adrafinil",
-        "published": "2026-06-27T20:34:53+00:00"
-      },
-      {
-        "id": "9a10e31e5f15ac6373ca0b3e1cccbbfa",
-        "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-        "summary": "Article URL: https://ipcrawl.com/ Comments URL: https://news.ycombinator.com/item?id=48700834 Points: 159 # Comments: 85",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://ipcrawl.com/",
-        "published": "2026-06-27T19:09:49+00:00"
-      },
-      {
-        "id": "b892cf1c9e1ce21c5402c1a952215e92",
-        "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-        "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI […]",
+        "id": "55509ed13d03f62a62aeaed26d932250",
+        "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+        "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-        "published": "2026-06-27T18:39:32+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+        "published": "2026-06-28T20:27:36+00:00"
+      },
+      {
+        "id": "9c0e7bdd46d8bf3dd4a5f9c05310d409",
+        "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+        "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system /tmp, no use of eval. Groq is supported by default, and other providers can be add",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/kamaludu/bash4llm/",
+        "published": "2026-06-28T19:43:10+00:00"
+      },
+      {
+        "id": "1ad68851bce33d4219e403f3675b1f00",
+        "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+        "summary": "Hi everyone,I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not mean understanding how they are composed and (2), working on llm with a very low-level layer to understand the correlation between parameters and data and growth of the model and how the GPU works and how some layers can be optimized.So I started worki",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/JustVugg/nanoeuler",
+        "published": "2026-06-28T19:38:14+00:00"
+      },
+      {
+        "id": "088baf4b14b6d4b83382cd090474a467",
+        "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+        "summary": "Article URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number Comments URL: https://news.ycombinator.com/item?id=48710775 Points: 44 # Comments: 28",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+        "published": "2026-06-28T19:38:00+00:00"
+      },
+      {
+        "id": "3a0494c14f4db80a02f1517d65d39d6e",
+        "title": "The US Used to Demand the Best Tech. Now We Ban It",
+        "summary": "Article URL: https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it Comments URL: https://news.ycombinator.com/item?id=48710437 Points: 101 # Comments: 70",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
+        "published": "2026-06-28T19:07:49+00:00"
+      },
+      {
+        "id": "21e76995d239c79b2e91285426c0fe65",
+        "title": "Do LLMs pass the mirror test?",
+        "summary": "Article URL: https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test Comments URL: https://news.ycombinator.com/item?id=48710414 Points: 27 # Comments: 15",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+        "published": "2026-06-28T19:06:07+00:00"
       }
     ],
     "economist": [
       {
-        "id": "fed433ac9c5a5fb9dd91606aa884bff3",
-        "title": "Latin America has turned Trumpy. That creates opportunities",
-        "summary": "Never before have the politics of the region shifted so quickly",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/06/25/latin-america-has-turned-trumpy-that-creates-opportunities",
-        "published": "2026-06-25T12:58:00+00:00"
-      },
-      {
-        "id": "a0214c6e3b0e4f0d03e035185b32d36b",
-        "title": "University-for-all harms poor students the most",
-        "summary": "Time for sane standards in higher education",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/06/25/university-for-all-harms-poor-students-the-most",
-        "published": "2026-06-25T12:58:00+00:00"
-      },
-      {
-        "id": "ec74e80b7ccce534c1f20b2323e43834",
-        "title": "With Iran emboldened, its neighbours must put old divisions aside",
-        "summary": "With a common foe, they cannot afford petty feuds",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/06/25/with-iran-emboldened-its-neighbours-must-put-old-divisions-aside",
-        "published": "2026-06-25T12:58:00+00:00"
-      },
-      {
-        "id": "97a08d41b345898816f92b80be2f618f",
-        "title": "Teaching AI how people work is fraught with problems",
-        "summary": "Tacit knowledge is vital to many jobs",
+        "id": "d58d596479629c91d609c9291a1805fe",
+        "title": "Big oil’s secretive trading arms are having an extraordinary year",
+        "summary": "Meet the corporate gamblers who never waste a good energy crisis",
         "source": "Business",
         "category": "economist",
-        "url": "https://www.economist.com/business/2026/06/25/teaching-ai-how-people-work-is-fraught-with-problems",
-        "published": "2026-06-25T12:58:00+00:00"
+        "url": "https://www.economist.com/business/2026/06/28/big-oils-secretive-trading-arms-are-having-an-extraordinary-year",
+        "published": "2026-06-28T17:45:40+00:00"
       },
       {
-        "id": "674975e419411a99e7d16494f86b4a37",
-        "title": "Why easyJet may be heading for a break-up",
-        "summary": "Its private-equity suitor may be looking to sell it for parts",
-        "source": "Business",
+        "id": "0d5b76c8b0666830571ef987c8e078ef",
+        "title": "Why can’t India’s government build a decent website?",
+        "summary": "Clunky online experiences reveal the failures of Indian officialdom",
+        "source": "Asia",
         "category": "economist",
-        "url": "https://www.economist.com/business/2026/06/25/why-easyjet-may-be-heading-for-a-break-up",
-        "published": "2026-06-25T12:58:00+00:00"
+        "url": "https://www.economist.com/asia/2026/06/28/why-cant-indias-government-build-a-decent-website",
+        "published": "2026-06-28T11:35:24+00:00"
       },
       {
-        "id": "a3f18b95533488825d8c608c4f71e7d8",
-        "title": "UPS is losing ground to FedEx",
-        "summary": "The two logistics giants have similar strategies—and face a common threat",
-        "source": "Business",
+        "id": "2091aae36ae9fa7bd969165e185c1969",
+        "title": "China cracks down on rule-bending offshore investments",
+        "summary": "It wants mainland investors to bet on its own tech dreams not America’s",
+        "source": "Finance",
         "category": "economist",
-        "url": "https://www.economist.com/business/2026/06/25/ups-is-losing-ground-to-fedex",
-        "published": "2026-06-25T12:58:00+00:00"
+        "url": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
+        "published": "2026-06-28T10:33:26+00:00"
       },
       {
         "id": "5ca5584fd0b80eb89ab42a8517113668",
@@ -442,6 +415,33 @@
         "category": "economist",
         "url": "https://www.economist.com/asia/2026/06/25/two-state-elections-may-break-malaysias-ruling-coalition",
         "published": "2026-06-25T12:58:00+00:00"
+      },
+      {
+        "id": "322932bc4cafa31a8b443a1eab4ed02c",
+        "title": "Asian governments are making children care for their parents",
+        "summary": "As populations age, the elderly are being neglected",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/06/25/asian-governments-are-making-children-care-for-their-parents",
+        "published": "2026-06-25T12:58:00+00:00"
+      },
+      {
+        "id": "5bb0001be3e6445b40bd6237ef6e43ef",
+        "title": "Bangladesh’s main industry is battered by blackouts and rising costs",
+        "summary": "A crisis may loom",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/06/25/bangladeshs-main-industry-is-battered-by-blackouts-and-rising-costs",
+        "published": "2026-06-25T12:58:00+00:00"
+      },
+      {
+        "id": "fed433ac9c5a5fb9dd91606aa884bff3",
+        "title": "Latin America has turned Trumpy. That creates opportunities",
+        "summary": "Never before have the politics of the region shifted so quickly",
+        "source": "Leaders",
+        "category": "economist",
+        "url": "https://www.economist.com/leaders/2026/06/25/latin-america-has-turned-trumpy-that-creates-opportunities",
+        "published": "2026-06-25T12:58:00+00:00"
       }
     ]
   },
@@ -451,99 +451,99 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5218.9599609375,
-        "prev_close": 5215.990234375,
-        "change_pct": 0.06,
-        "direction": "up",
-        "price_fmt": "5,219.0",
-        "change_str": "+0.06%"
+        "price": 5191.72998046875,
+        "prev_close": 5218.9599609375,
+        "change_pct": -0.52,
+        "direction": "down",
+        "price_fmt": "5,191.7",
+        "change_str": "-0.52%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7357.490234375,
-        "prev_close": 7358.22021484375,
-        "change_pct": -0.01,
+        "price": 7354.02001953125,
+        "prev_close": 7357.490234375,
+        "change_pct": -0.05,
         "direction": "down",
-        "price_fmt": "7,357.5",
-        "change_str": "-0.01%"
+        "price_fmt": "7,354.0",
+        "change_str": "-0.05%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23076.91015625,
-        "prev_close": 23412.1796875,
-        "change_pct": -1.43,
+        "price": 22671.859375,
+        "prev_close": 23076.91015625,
+        "change_pct": -1.76,
         "direction": "down",
-        "price_fmt": "23,077",
-        "change_str": "-1.43%"
+        "price_fmt": "22,672",
+        "change_str": "-1.76%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 72366.34375,
-        "prev_close": 69174.96875,
-        "change_pct": 4.61,
-        "direction": "up",
-        "price_fmt": "72,366",
-        "change_str": "+4.61%"
+        "price": 69360.8828125,
+        "prev_close": 72366.34375,
+        "change_pct": -4.15,
+        "direction": "down",
+        "price_fmt": "69,361",
+        "change_str": "-4.15%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10529.900390625,
-        "prev_close": 10461.599609375,
-        "change_pct": 0.65,
-        "direction": "up",
-        "price_fmt": "10,530",
-        "change_str": "+0.65%"
+        "price": 10508.0,
+        "prev_close": 10529.900390625,
+        "change_pct": -0.21,
+        "direction": "down",
+        "price_fmt": "10,508",
+        "change_str": "-0.21%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8748.7001953125,
-        "prev_close": 8808.400390625,
-        "change_pct": -0.68,
-        "direction": "down",
-        "price_fmt": "8,748.7",
-        "change_str": "-0.68%"
+        "price": 8764.2001953125,
+        "prev_close": 8748.7001953125,
+        "change_pct": 0.18,
+        "direction": "up",
+        "price_fmt": "8,764.2",
+        "change_str": "+0.18%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2930999994277954,
+        "price": 1.2941700220108032,
         "prev_close": 1.2968100309371948,
-        "change_pct": -0.29,
+        "change_pct": -0.2,
         "direction": "down",
         "price_fmt": "1.29",
-        "change_str": "-0.29%"
+        "change_str": "-0.20%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.471500039100647,
+        "price": 1.4731999635696411,
         "prev_close": 1.4733599424362183,
-        "change_pct": -0.13,
+        "change_pct": -0.01,
         "direction": "down",
         "price_fmt": "1.47",
-        "change_str": "-0.13%"
+        "change_str": "-0.01%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7070000171661377,
+        "price": 1.7062000036239624,
         "prev_close": 1.7101000547409058,
-        "change_pct": -0.18,
+        "change_pct": -0.23,
         "direction": "down",
         "price_fmt": "1.71",
-        "change_str": "-0.18%"
+        "change_str": "-0.23%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 71.98999786376953,
-        "prev_close": 75.26000213623047,
-        "change_pct": -4.34,
-        "direction": "down",
-        "price_fmt": "71.99",
-        "change_str": "-4.34%"
+        "price": 73.41000366210938,
+        "prev_close": 71.98999786376953,
+        "change_pct": 1.97,
+        "direction": "up",
+        "price_fmt": "73.41",
+        "change_str": "+1.97%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4078.699951171875,
-        "prev_close": 4030.5,
-        "change_pct": 1.2,
+        "price": 4078.800048828125,
+        "prev_close": 4078.699951171875,
+        "change_pct": 0.0,
         "direction": "up",
-        "price_fmt": "4,078.7",
-        "change_str": "+1.20%"
+        "price_fmt": "4,078.8",
+        "change_str": "0.00%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 59.21699905395508,
-        "prev_close": 58.347999572753906,
-        "change_pct": 1.49,
-        "direction": "up",
-        "price_fmt": "59.22",
-        "change_str": "+1.49%"
+        "price": 59.1349983215332,
+        "prev_close": 59.21699905395508,
+        "change_pct": -0.14,
+        "direction": "down",
+        "price_fmt": "59.13",
+        "change_str": "-0.14%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.2309999465942383,
-        "prev_close": 3.3429999351501465,
-        "change_pct": -3.35,
-        "direction": "down",
-        "price_fmt": "3.23",
-        "change_str": "-3.35%"
+        "price": 3.308000087738037,
+        "prev_close": 3.2309999465942383,
+        "change_pct": 2.38,
+        "direction": "up",
+        "price_fmt": "3.31",
+        "change_str": "+2.38%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 60107.01953125,
-        "prev_close": 60016.4296875,
-        "change_pct": 0.15,
-        "direction": "up",
-        "price_fmt": "60,107",
-        "change_str": "+0.15%"
+        "price": 58922.66015625,
+        "prev_close": 59940.09765625,
+        "change_pct": -1.7,
+        "direction": "down",
+        "price_fmt": "58,923",
+        "change_str": "-1.70%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1575.97998046875,
-        "prev_close": 1576.6160888671875,
-        "change_pct": -0.04,
+        "price": 1550.5999755859375,
+        "prev_close": 1571.5882568359375,
+        "change_pct": -1.34,
         "direction": "down",
-        "price_fmt": "1,576.0",
-        "change_str": "-0.04%"
+        "price_fmt": "1,550.6",
+        "change_str": "-1.34%"
       }
     ]
   },
