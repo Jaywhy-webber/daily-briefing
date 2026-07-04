@@ -2,372 +2,372 @@
   "news": {
     "singapore": [
       {
-        "id": "5674db75014556556a0986ac772d2602",
-        "title": "CNA Explains: Electricity tariffs are at a record high. Should you lock in a plan now or wait?",
-        "summary": "Almost two-thirds of households still buy electricity under SP Group's regulated tariff. Here's what to consider before deciding whether to lock in a retail plan.",
+        "id": "2c2d19d4bbfbd4d913a4360d3f84c060",
+        "title": "Online Safety Commission offers hope, but victims want process simplified",
+        "summary": "The OSC, backed by the newly enacted Online Safety (Relief and Accountability) Act, started operations on June 29.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/tech/online-safety-commission-offers-hope-but-victims-want-process-simplified",
+        "published": "2026-07-04T21:00:00+00:00"
+      },
+      {
+        "id": "43e8fc70fcc7a69d20782007d0a6270d",
+        "title": "‘I came here for my daughters. Now they send money to help me’: Migrant worker in unpaid wages case",
+        "summary": "Migrant workers speak of hardships due to unpaid wages.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/courts-crime/i-came-here-for-my-daughters-now-they-send-money-to-help-me-migrant-worker-in-unpaid-wages-case",
+        "published": "2026-07-04T21:00:00+00:00"
+      },
+      {
+        "id": "cf5f8142b638bf9acbcc47d461c44526",
+        "title": "Slight easing of North East Line crowding with free off-peak rides, say commuters",
+        "summary": "Those who live near the end of the line benefit more, commuters told The Straits Times.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/transport/only-slight-easing-of-nel-crowding-with-free-off-peak-rides-say-commuters",
+        "published": "2026-07-04T21:00:00+00:00"
+      },
+      {
+        "id": "4d3ca53ebee6c60bbdf33910b1f13858",
+        "title": "VIP sales at condo launches under scrutiny after agents get first dibs",
+        "summary": "CEA's engagement comes at a time when concerns grow over fairness for regular home buyers.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/housing/vip-sales-at-condo-launches-under-scrutiny-after-agents-get-first-dibs",
+        "published": "2026-07-04T21:00:00+00:00"
+      },
+      {
+        "id": "b8620b80491a1c4a9c34e66c07be3609",
+        "title": "Why the man leading NKF has always believed in playing the long game",
+        "summary": "Ang Hao Yao is betting on patience to tackle chronic kidney disease, a fast-growing health crisis in Singapore.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/why-the-man-leading-nkf-has-always-believed-in-playing-the-long-game",
+        "published": "2026-07-04T21:00:00+00:00"
+      },
+      {
+        "id": "d95a7b55764c94bb703861b1da381bd1",
+        "title": "Lower costs, no condensers, hassle-free servicing: How Tengah residents have been won over by the Centralised Cooling System",
+        "summary": "Despite early rollout issues, the centralised chilled water system managed by SP Group has been receiving positive feedback from residents, particularly for its strong after-sales support and improved user experience.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/lower-costs-no-condensers-tengah-centralised-cooling-system-sp-group",
+        "published": "2026-07-04T20:00:00+00:00"
+      },
+      {
+        "id": "70e58a1466c975692c622223a7f9f989",
+        "title": "Pilots reminded to take more cautious approach near weather after turbulence injures crew on SIA, Scoot flights",
+        "summary": "The Transport Safety Investigation Bureau’s reports into the two separate incidents found that turbulence could occur even when onboard weather radar indicated light precipitation or did not fully reflect external weather conditions.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/cna-explains-electricity-tariffs-fixed-price-plan-6227501",
-        "published": "2026-07-03T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/sia-scoot-turbulence-june-2025-transport-safety-investigation-bureau-6231961",
+        "published": "2026-07-04T09:54:11+00:00"
       },
       {
-        "id": "2f6c49d9ff88befa819a902495d66f04",
-        "title": "EVs generally cost less to maintain than petrol cars",
-        "summary": "EV parts like the motor and batteries do not need as much maintenance as engines and transmissions.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/evs-generally-cost-less-to-maintain-than-petrol-cars",
-        "published": "2026-07-03T21:00:00+00:00"
-      },
-      {
-        "id": "f5cb7f3c3251e4b01469d07290c952a3",
-        "title": "As EVs move up a gear in S’pore, what happens after the sale?",
-        "summary": "Today, electric cars account for six in 10 new car registrations. We explore what owning one means.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/as-evs-move-up-a-gear-in-spore-what-happens-after-the-sale",
-        "published": "2026-07-03T21:00:00+00:00"
-      },
-      {
-        "id": "daa0a99c23ff6d86443708318b997143",
-        "title": "Turbulence incidents on SIA, Scoot flights in June 2025 resulted in injuries to crew",
-        "summary": "A total of eight cabin crew members were hurt.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/turbulence-incidents-on-sia-scoot-flights-in-june-2025-resulted-in-injuries-to-crew",
-        "published": "2026-07-03T13:35:00+00:00"
-      },
-      {
-        "id": "ef6129c91a01c4934a63f06db05422a5",
-        "title": "Free AI courses for 60,000 accounting, finance professionals in S’pore under national programme",
-        "summary": "They will be among the first group of non-tech professionals to be taught AI know-how under a national programme.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/free-ai-courses-for-60k-accounting-finance-professionals-in-spore-under-national-push-to-uplift-the",
-        "published": "2026-07-03T13:26:39+00:00"
-      },
-      {
-        "id": "74a223ff566cb1bb1cf60505179a72c9",
-        "title": "MPs to debate future of transport, AI-driven jobs and emerging tech in Parliament next Tuesday",
-        "summary": "MPs will put forth views on ways to ensure S'pore continues to grow in its role as a global transport hub.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/mps-to-debate-future-of-transport-ai-driven-jobs-and-emerging-tech-in-parliament-next-tuesday",
-        "published": "2026-07-03T13:01:59+00:00"
-      },
-      {
-        "id": "5b7aea39948c350a846b9bb5c52bf43d",
-        "title": "Child taken to hospital after fire breaks out in Yishun HDB flat",
-        "summary": "The child was assessed for smoke inhalation and taken to KK Women’s and Children’s Hospital.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/child-taken-to-hospital-after-fire-breaks-out-in-yishun-hdb-flat",
-        "published": "2026-07-03T12:43:57+00:00"
-      },
-      {
-        "id": "068e8964a8e55577a19cba703a34c49b",
-        "title": "Healthcare and social sectors say technology should ease workloads, not replace human touch",
-        "summary": "Industry leaders said adopting technology in sectors built on trust and empathy requires a measured approach.",
+        "id": "f38db8bcd44445f2c763530e738ace77",
+        "title": "PAP can continue to govern well if party is renewed with 'good people' willing to serve: PM Wong",
+        "summary": "The party's youth wing launched the Young PAP Academy and the YP 40 Under 40 Action Fellowship, two new initiatives serving as a \"launchpad\" for the party's next generation of leaders.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/healthcare-social-services-technology-ai-human-touch-6230066",
-        "published": "2026-07-03T10:32:29+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/pap-lawrence-wong-young-pap-40th-anniversary-youth-wing-6231891",
+        "published": "2026-07-04T08:26:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "ea9d6b895432a787c673be63f2d7f3d7",
-        "title": "Pope Leo XIV celebrates America’s 250th in Liberty Medal award acceptance speech",
-        "summary": "Pope Leo XIV celebrated America’s 250th birthday during his acceptance speech for the 2026 Liberty Medal award Friday. The award from the National Constitution Center honors one person who “strive[s] to secure the blessings of liberty for people around the globe,” according to the organization’s website. “In accepting this award, I therefore pray that this, the…",
+        "id": "dabdabe341096504f2898f748937aa48",
+        "title": "The Atlantic republishes JD Vance’s Trump op-ed from 2016",
+        "summary": "The Atlantic on Saturday republished Vice President Vance’s essay, originally published exactly 10 years ago on July 4, reviving some of the more biting comments Vance made about President Trump prior to becoming his second vice president. The original article ran days after Vance published his bestselling memoir, “Hillbilly Elegy.” In an editor’s note, the magazine…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/international/5953091-pope-leo-xiv-america-250th/",
-        "published": "2026-07-03T21:23:21+00:00"
+        "url": "https://thehill.com/homenews/media/5953683-vance-trump-never-trump/",
+        "published": "2026-07-04T22:01:03+00:00"
       },
       {
-        "id": "d2283fcf2270e0a3ccafdc49ff73cbc6",
-        "title": "Taylor Swift and Travis Kelce fans gather for glimpse of top secret wedding",
-        "summary": "Superfans and sleuths appear to have their hunches confirmed on Friday, as dozens of black cars dropped off elegantly dressed guests outside of Madison Square Garden in New York City. The wedding bash is expected to last into Saturday morning.",
+        "id": "764abed9ae32de7294905f4b7354fbcb",
+        "title": "Watch live: Donald Trump to give major speech as America celebrates 250th anniversary",
+        "summary": "President Trump is expected to hold a “long” speech on the National Mall Saturday evening as the U.S. marks its 250th anniversary, even as record heat threatens to upend the festivities. Military flyovers, events at the Great American State Fair and a massive fireworks show are also scheduled throughout the day. First lady Melania Trump…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/video-clips/5951865-watch-live-donald-trump-july-4-speech-national-mall-america-250-celebrations-dc/",
+        "published": "2026-07-04T22:00:00+00:00"
+      },
+      {
+        "id": "373fb1d6656bf75a9bf49b9c2a520368",
+        "title": "Sunday shows preview: After America 250, GOP shifts focus back to Trump’s agenda",
+        "summary": "Millions of Americans turned out to mark the 250th anniversary of U.S. independence this weekend, even as sweltering heat gripped much of the country and forced the nation’s capital to scale back its festivities. A heat dome engulfed more than two dozen states and Washington, D.C., sending temperatures soaring into the triple digits in several major…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/sunday-talk-shows/5953676-sunday-shows-preview-after-america-250-gop-shifts-focus-back-to-trumps-agenda/",
+        "published": "2026-07-04T21:54:08+00:00"
+      },
+      {
+        "id": "cd6f4127a69248880318fcd6d478bd78",
+        "title": "White supremacist group marches on mall",
+        "summary": "Masked demonstrators were seen marching through Washington, D.C.’s Eastern Market neighborhood on Saturday as the nation celebrated its 250th anniversary of independence. Dressed in khakis, white face coverings, sunglasses, and caps bearing the logo of white supremacist group Patriot Front, the members were seen gathering near Union Station and marching through Capitol Hill, according to WTOP.…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/blogs/in-the-know/5953665-white-supremacist-group-marches-on-mall/",
+        "published": "2026-07-04T21:33:30+00:00"
+      },
+      {
+        "id": "a37fbf46113e898960e4013f1f534d72",
+        "title": "5 governor’s seats most likely to flip",
+        "summary": "Three dozen states are holding elections for governor in November, teeing up a test in several of the battleground states President Trump won in 2024. Swing states like Nevada, Georgia and Wisconsin are key bellwethers for the national mood around the White House, the economy and the political parties writ large. Two Midwestern states have also emerged as tests for the…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/5952091-governor-races-battleground-states/",
+        "published": "2026-07-04T21:00:00+00:00"
+      },
+      {
+        "id": "4027ef6fee0a3b0d06fa3687ac23c538",
+        "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
+        "summary": "President Trump ushered in America's 250th anniversary with a darkly political speech that swerved from the typically apolitical, unifying speeches past presidents have given to mark Independence Day.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-        "published": "2026-07-03T21:03:00+00:00"
+        "url": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
+        "published": "2026-07-04T20:34:31+00:00"
       },
       {
-        "id": "a2b76207c84d7bbbd1d0c7889158557d",
-        "title": "Venezuela earthquakes deepen rift between GOP hawks and Trump-backed regime",
-        "summary": "Republicans hawkish on leftist Latin America are warning that Venezuela’s interim President Delcy Rodríguez must be cut out from accessing robust U.S. assistance to the country, as the Trump administration helps lead the global humanitarian response to two massive earthquakes last week. President Trump has placed little emphasis on a democratic transition in the country…",
+        "id": "e69219f3c963626be1f8b59c706a8566",
+        "title": "Trump pardons 11 people ahead of July 4, including Clean Air Act violators: What to know",
+        "summary": "President Donald Trump pardoned 11 people on Friday, including nine people who were convicted of violating a federal air pollution law, a White House official confirmed. It’s the latest acts of clemency granted by Trump in his second term, following a slate of pardons granted specifically to allies and high-profile figures Trump deemed were unfairly…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/administration/5950661-venezuela-earthquakes-aid-trump-republicans/",
-        "published": "2026-07-03T21:00:00+00:00"
+        "url": "https://thehill.com/homenews/administration/5953633-trump-grants-clemency-allies/",
+        "published": "2026-07-04T20:14:13+00:00"
       },
       {
-        "id": "cb1bb214878ef4707b468de71c9b53a3",
-        "title": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
-        "summary": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
+        "id": "0448568c096cd1238bf11c5ab128b656",
+        "title": "Washington's July 4 parade is called off. The fireworks are still on",
+        "summary": "Organizers canceled the Independence Day Parade late Friday, citing an extreme heat warning with temperatures expected to reach up to 115 degrees. The evening fireworks display remains scheduled.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
-        "published": "2026-07-03T20:51:04+00:00"
-      },
-      {
-        "id": "8e7958c770ac2f565fdbb2bca4005c05",
-        "title": "Trump joins Usha Vance’s ‘Storytime’ podcast, reading on presidents and sports",
-        "summary": "President Trump made a guest appearance on second lady Usha Vance’s children’s podcast, where he read a picture book about U.S. presidents while offering unscripted commentary on his presidential predecessors and life in the White House. In Friday’s prerecorded episode of “Storytime with the Second Lady,” Trump read the children’s book “Presidents Play,” which was…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/5953051-trump-joins-usha-vances-storytime-podcast-reading-on-presidents-and-sports/",
-        "published": "2026-07-03T20:26:33+00:00"
-      },
-      {
-        "id": "c46b5044ae17bcdc8e29ca4fb82ef041",
-        "title": "Trump may weigh pardon for Diddy while granting clemency to pollution violators",
-        "summary": "President Trump announced Friday that he has pardoned several people convicted in federal vehicle emissions cases and is reportedly considering pardons for celebrities, including for rapper Sean “Diddy” Combs. The president has not made a decision on Combs or other high-profile clemency requests, but he has discussed them privately in recent days, sources familiar with…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/5953040-trump-may-weigh-pardon-for-diddy-while-granting-clemency-to-pollution-violators/",
-        "published": "2026-07-03T20:12:43+00:00"
-      },
-      {
-        "id": "74bacad3277ab1a5e6234d77732ee3a6",
-        "title": "Bessent brushes off critics of Trump’s crypto haul",
-        "summary": "Treasury Secretary Scott Bessent is brushing off criticism against President Trump for raking in more than $1 billion in cryptocurrency profits while in the White House. “I don’t think there’s an appearance problem,” Bessent told CBS News anchor Kelly O’Grady in an exclusive interview Thursday, after being asked about the optics. “This is an innovation…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/5953033-treasury-secretary-defends-trump-crypto/",
-        "published": "2026-07-03T20:03:43+00:00"
-      },
-      {
-        "id": "12f434f9a001ad570934f809b4f0bcae",
-        "title": "A family steps in to save the dying casino town of Primm, Nevada",
-        "summary": "Primm, Nev., a once-thriving casino town on the border with California, was on the verge of fading away for good. The family it was named for has stepped in and faces the challenge of reviving it.",
-        "source": "NPR",
-        "category": "us",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5822582/demise-and-possible-resurrection-of-primm-nevada",
-        "published": "2026-07-03T19:55:39+00:00"
+        "url": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
+        "published": "2026-07-04T16:42:10+00:00"
       }
     ],
     "asia": [
       {
-        "id": "98a812f2173826565e69082b4ce6d2db",
-        "title": "Two jailed for stabbing Iranian journalist in London in attack blamed on Tehran",
-        "summary": "Pouria Zeraati, a presenter at London-based Iran International, was stabbed in the leg in March 2024 outside his home in the Wimbledon area of London; Iran's senior diplomat in the U.K. has denied Tehran was behind the attack",
+        "id": "04d30b1c0f7cc5ca6796eddb23120d5e",
+        "title": "Inside Taylor Swift and Travis Kelce’s big bash: a garden in the Garden",
+        "summary": "The groom wore a white tuxedo, the couple wrote their own vows and Stevie Nicks sang, according to guests at Friday’s star-studded wedding of megastars Taylor Swift and Travis Kelce in an intimate garden built for the occasion within New York City’s Madison Square Garden arena. Details trickled out on Saturday of the lavish nuptials ‌that had been a closely guarded secret. Their union was confirmed on giant billboards that flashed “JUST&T MARRIED!” The pop music superstar and football player...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3359443/inside-taylor-swift-and-travis-kelces-big-bash-garden-garden?utm_source=rss_feed",
+        "published": "2026-07-04T22:46:12+00:00"
+      },
+      {
+        "id": "4ee69380ebfdc9402cacfb64cd5b7fa4",
+        "title": "China offers sea cable detection tech to clients in Middle East, Europe and Asia",
+        "summary": "China plans to export powerful robots capable of locating marine cables buried under the seabed to regions including “Southeast Asia, the Middle East and Europe”, according to the Science and Technology Daily. China aimed to secure its position in the marine equipment sector by introducing this technology to potential clients in these regions, the official newspaper reported last Monday. “By deepening cooperation in [these] offshore engineering markets, we will integrate Chinese intelligent...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/china/science/article/3359241/china-offers-sea-cable-detection-tech-clients-middle-east-europe-and-asia?utm_source=rss_feed",
+        "published": "2026-07-04T22:00:12+00:00"
+      },
+      {
+        "id": "e61021acd0c6da1bfb4cf6f1a4666df8",
+        "title": "AI is rewriting China’s filmmaking rulebook, but the script isn’t finished",
+        "summary": "More than 95 per cent of China's new microdramas in the first quarter of 2026 were AI-generated, compared with near zero a year ago. CNA speaks to the industry's key cast about the new plot twist.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
+        "published": "2026-07-04T22:00:00+00:00"
+      },
+      {
+        "id": "0c7dfcec2d0f53ca82c388344b3bed3c",
+        "title": "‘Overcapacity’ talk reflects a West irked by China’s industrial rise",
+        "summary": "There is something odd about the debate on China’s “overcapacity”. Europe says the world needs cheaper and faster clean energy deployment, yet complains when China produces the solar panels, wind turbines, batteries and electric vehicles that make this possible. Bruegel, a Brussels-based think tank specialising in economic policy, recently published a working paper, “To what extent can green infrastructure investment mitigate China’s clean-energy overcapacity?” It argues that China’s industrial.",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3358751/overcapacity-talk-reflects-west-irked-chinas-industrial-rise?utm_source=rss_feed",
+        "published": "2026-07-04T21:30:06+00:00"
+      },
+      {
+        "id": "33905338a4f65615a06608f8b7bde9ff",
+        "title": "West Asia war LIVE: Huge crowds throng Tehran for Ayatollah Khamenei's funeral ceremonies",
+        "summary": "Authorities unveiled the casket containing Khamenei's body in a glass case at the Grand Mosalla in Tehran, Iran's capital",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/two-jailed-for-stabbing-iranian-journalist-in-london-in-attack-blamed-on-tehran/article71180591.ece",
-        "published": "2026-07-03T22:25:20+00:00"
+        "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-4-2026-khamenei-funeral-ceremonies/article71181636.ece",
+        "published": "2026-07-04T21:23:34+00:00"
       },
       {
-        "id": "7cdf6dbd2620d1d9a28f7990be689d9a",
-        "title": "PM warns drug networks",
-        "summary": "Prime Minister Anutin Charnvirakul has admitted the arrest of a Thai Airways crew member in Australia on alleged drug-smuggling charges has damaged the nation's international reputation, declaring narcotics suppression a national agenda item.",
-        "source": "Bangkok Post",
+        "id": "4ff8d08d85811d445e76f4d843bfe6fa",
+        "title": "Venezuela quake death toll rises to nearly 3,000",
+        "summary": "Venezuela’s devastating twin earthquakes have killed nearly 3,000, official figures showed on Saturday, as international rescue teams began winding down search operations for survivors in the rubble. Fatalities jumped by more than 300 from Friday to 2,954, following the June 24 disaster that left thousands homeless in the streets and shelter camps. Tens of thousands more are still missing. One of Latin America’s worst earthquake disasters hit hardest in the coastal La Guaira area north of the...",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3280584/pm-warns-drug-networks",
-        "published": "2026-07-03T22:24:00+00:00"
+        "url": "https://www.scmp.com/news/world/americas/article/3359442/venezuela-quake-death-toll-rises-nearly-3000?utm_source=rss_feed",
+        "published": "2026-07-04T20:58:32+00:00"
       },
       {
-        "id": "304594a23d5c8a892b8124c3a7279e9f",
-        "title": "UPDATE 1-Heat wave disrupts Fourth of July events across eastern US",
-        "summary": "Among the events disrupted by the sweltering heat was the Great American State Fair on ‌the National Mall in Washington, a centerpiece of President Donald Trump’s efforts to mark the nation’s 250th birthday",
+        "id": "b6db855f1c7abeaca50b07bbc8dc6440",
+        "title": "Zelensky denies Russia captured key Ukraine city, challenges Putin to meet him there",
+        "summary": "Ukraine still controls the strategically important eastern city of Kostiantynivka, President Volodymyr Zelensky and the General Staff said on Saturday, rejecting Russian claims that it has been captured. Russia’s military ignored Zelensky’s assertions, said it was mopping up remaining pockets of resistance and offered to exchange the remains of dead servicemen. Russian military commanders told President ‌Vladimir Putin on Friday that Moscow’s forces had taken control of Kostiantynivka, a target.",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3359441/zelensky-denies-russia-captured-key-ukraine-city-challenges-putin-meet-him-there?utm_source=rss_feed",
+        "published": "2026-07-04T19:15:31+00:00"
+      },
+      {
+        "id": "27bf5a127c85287b083c20f9730ba4a2",
+        "title": "Why tanks still matter in modern warfare",
+        "summary": "Drones, missiles and precision-guided weapons have transformed the modern battlefield, but military experts argue they cannot achieve the ultimate objective of war – controlling territory. Saurabh Trivedi examines why tanks and ground forces remain indispensable despite the rapid evolution of warfare, drawing on lessons from Ukraine and insights from senior Army officers",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/heatwave-disrupts-fourth-of-july-events-across-eastern-us/article71180594.ece",
-        "published": "2026-07-03T22:20:16+00:00"
-      },
-      {
-        "id": "95d85f52694a137611b9b7b2dcf67a26",
-        "title": "Green manufacturing offers opportunity",
-        "summary": "Thailand is intensifying its efforts to combat global warming by steering investment towards green manufacturing.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3280819/green-manufacturing-offers-opportunity",
-        "published": "2026-07-03T22:09:00+00:00"
-      },
-      {
-        "id": "02e3412c7528f845c7b8a519076daece",
-        "title": "China’s ByteDance discovers new scaling law that could sustain AI boom",
-        "summary": "Researchers at TikTok parent ByteDance have discovered a new scaling law governing how fast artificial intelligence agents can improve by performing real-world tasks, a finding that could help prolong the AI boom just as traditional development methods hit a wall. In a research paper published on Thursday, ByteDance’s Seed AI team revealed that AI agents – autonomous software that executes tasks on a human’s behalf – can double their learning speed every three months by interacting with...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom?utm_source=rss_feed",
-        "published": "2026-07-03T22:00:26+00:00"
-      },
-      {
-        "id": "5bc3175033c6a6dc71a9c8652091c764",
-        "title": "Can Taiwan fix its military manpower shortage by training reservists in advanced weapons?",
-        "summary": "Taiwan is requiring its reservists to train longer and harder, introducing drones and US-made Himars rocket systems into a revamped 14-day call-up programme as it races to offset worsening troop shortages amid a demographic decline. One of the biggest reforms of Taiwan’s reserve force in decades, the overhaul reflects growing concern that a shrinking pool of military-age recruits and mounting pressure from Beijing mean the island can no longer rely solely on its standing military. From this...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/military/article/3359352/can-taiwan-fix-its-military-manpower-shortage-training-reservists-advanced-weapons?utm_source=rss_feed",
-        "published": "2026-07-03T22:00:19+00:00"
-      },
-      {
-        "id": "12a6359724b25d140988d442548b11e7",
-        "title": "Food deliveries surge under co-pay scheme",
-        "summary": "The government's \"Thais Help Thais Plus\" co-payment scheme has helped to revive the economy and stimulate spending in the food and beverage sector, according to two online food delivery operators.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3280794/food-deliveries-surge-under-copay-scheme",
-        "published": "2026-07-03T21:50:00+00:00"
-      },
-      {
-        "id": "c779e88c9116ef47745f0c0de88977bc",
-        "title": "Celebrities descend on Taylor Swift and Travis Kelce’s wedding at Madison Square Garden",
-        "summary": "Taylor Swift and Travis Kelce’s Madison Square Garden wedding has arrived, and guests in formalwear have headed into the arena amid high heat, humming buzz and tented secrecy in Midtown Manhattan. The long-anticipated union of sports and song has brought hype to new heights at a venue usually reserved for big games and bucket-list concerts. It was expected to begin at 5pm, with the close friends and family of the Kansas City Chiefs tight end and the pop superstar celebrating along with several..",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3359385/celebrities-descend-taylor-swift-and-travis-kelces-wedding-madison-square-garden?utm_source=rss_feed",
-        "published": "2026-07-03T21:32:39+00:00"
+        "url": "https://www.thehindu.com/news/national/why-tanks-still-matter-in-modern-warfare/article71182897.ece",
+        "published": "2026-07-04T18:09:39+00:00"
       }
     ],
     "others": [
       {
-        "id": "b2e6511164900eab74e4d8e804735313",
-        "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
-        "summary": "A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.",
+        "id": "1a43ba047fec4e7778496db491f51c51",
+        "title": "US influence challenged by changing global order: Paolo von Schirach",
+        "summary": "US influence challenged by changing global order: Paolo von Schirach",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
-        "published": "2026-07-03T22:20:04+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss",
+        "published": "2026-07-04T22:10:39+00:00"
       },
       {
-        "id": "2217178683315feaf2362f0b88c6be1d",
-        "title": "Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash",
-        "summary": "Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's response.",
+        "id": "c1dbe33a8a9ef13300676bbcc14a8b6d",
+        "title": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
+        "summary": "Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/venezuelas-rodriguez-blames-propaganda-for-quake-response-backlash-2?traffic_source=rss",
-        "published": "2026-07-03T21:49:17+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
+        "published": "2026-07-04T21:08:18+00:00"
       },
       {
-        "id": "bb24c8aa24ef0856241c206734adc98e",
-        "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-        "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-03T21:00:53+00:00"
-      },
-      {
-        "id": "2a2619b35e71afe3d72f89e5201d7b9a",
-        "title": "Iran begins public mourning for Ayatollah killed in February",
-        "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-03T19:03:45+00:00"
-      },
-      {
-        "id": "6adfa0b2330b98063770f918d6a2bf0f",
-        "title": "Maltese tycoon faces trial over Caruana Galizia murder",
-        "summary": "The Maltese businessman accused of masterminding journalist Daphne Caruana Galizia’s 2017 murder is in court — seven years after his arrest. Five other men have already been found guilty for their roles in the murder.",
-        "source": "Deutsche Welle",
-        "category": "others",
-        "url": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-07-03T18:20:00+00:00"
-      },
-      {
-        "id": "ff791e5045188d9a9bf98bf59a1fa60d",
-        "title": "Polish PM warns critical months ahead in face of Russian threat",
-        "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-03T16:41:00+00:00"
-      },
-      {
-        "id": "0816d009eb79f4149f6638706b953ebd",
-        "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
-        "summary": "Port expansion and protections for whales part of BC and Alberta plan to expand country’s presence overseasThe governments of Canada and the province of Alberta will move forward on a major new oil pipeline after the pair announced a plan to ease concerns of British Columbia and First Nations on the Pacific coast.Canada’s prime minister, Mark Carney, shuttled between British Columbia and Alberta on Thursday to announce more than C$150bn in new investments in both provinces, part of a broader pro",
+        "id": "bbfb3adc661ba6f5cb349118214d49d8",
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. Continue reading...",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
-        "published": "2026-07-03T15:34:32+00:00"
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "published": "2026-07-04T20:32:52+00:00"
       },
       {
-        "id": "be10ae85bc46eceddbb99968eaaed940",
-        "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-        "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+        "id": "d35f140b199d65ecfe9982cd85693835",
+        "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
+        "summary": "In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can 'open a new page of hope'.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
+        "published": "2026-07-04T20:06:41+00:00"
+      },
+      {
+        "id": "21fe196c3129952dee60b9a1b20b83cf",
+        "title": "The moral test US founding father Thomas Jefferson failed?",
+        "summary": "Polish general and freedom fighter Thaddeus Kosciuszko presented US founding father Thomas Jefferson with a moral test. Historians still disagree on whether Jefferson passed or not.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/the-moral-test-us-founding-father-thomas-jefferson-failed/a-77833752?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-07-04T19:19:00+00:00"
+      },
+      {
+        "id": "1be7435a75dee62e10669ce4461a2bba",
+        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-03T15:20:57+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-04T18:41:25+00:00"
+      },
+      {
+        "id": "3f88a4c722bf2f460359c78aa6b19795",
+        "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+        "summary": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-07-04T17:48:00+00:00"
+      },
+      {
+        "id": "f795a0dc27c81134ee5f5aac552f3665",
+        "title": "Injury ends Williams' Wimbledon comeback",
+        "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-04T17:22:46+00:00"
       }
     ],
     "tech": [
       {
-        "id": "69f38fea4b4e7485ac42dad88b53c862",
-        "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-        "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and…",
-        "source": "MIT Tech Review",
+        "id": "0c86f63f4d3274b0aecd6109fc37866d",
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 40 # Comments: 4",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-        "published": "2026-07-03T17:34:37+00:00"
+        "url": "https://github.com/openai/codex/issues/30364",
+        "published": "2026-07-04T21:51:09+00:00"
       },
       {
-        "id": "842a9e5caa8eb7ca7056c293aaa8ab1d",
-        "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-        "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now ships […]",
+        "id": "732b42c436288075f3ccaf85ca828c0c",
+        "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+        "summary": "Article URL: https://arxiv.org/abs/2606.26967 Comments URL: https://news.ycombinator.com/item?id=48788849 Points: 5 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://arxiv.org/abs/2606.26967",
+        "published": "2026-07-04T20:38:39+00:00"
+      },
+      {
+        "id": "9bfc34c63e854ff35de7deabe13689dd",
+        "title": "Better Models: Worse Tools",
+        "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 42 # Comments: 13",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+        "published": "2026-07-04T20:16:22+00:00"
+      },
+      {
+        "id": "a547fb5850ae326a8d961a8438ebfaaa",
+        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+        "summary": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main Comments URL: https://news.ycombinator.com/item?id=48788283 Points: 233 # Comments: 100",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+        "published": "2026-07-04T19:41:10+00:00"
+      },
+      {
+        "id": "af63e080ba137f33c21217267a917b63",
+        "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+        "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of intercepting […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-        "published": "2026-07-03T17:33:55+00:00"
+        "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+        "published": "2026-07-04T19:06:27+00:00"
       },
       {
-        "id": "6ee9b2d7556dc39a215e1f23a04cd46f",
-        "title": "How little exercise can you get away with?",
-        "summary": "Even tiny bursts of activity have measurable benefits",
-        "source": "The Economist (Tech)",
+        "id": "7860923ebb746727992b161a945fdaf7",
+        "title": "Verizon is About to Break our Watches",
+        "summary": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches Comments URL: https://news.ycombinator.com/item?id=48787329 Points: 109 # Comments: 48",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
-        "published": "2026-07-03T15:34:30+00:00"
+        "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+        "published": "2026-07-04T17:52:36+00:00"
       },
       {
-        "id": "5da0a5eef30ce81b2ee67c40e24c0774",
-        "title": "While you’re watching the World Cup, the feds may be watching you",
-        "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may not realize that they, too, are being watched. From Kansas City to New […]",
-        "source": "The Verge",
+        "id": "d70ec20c7fe664c16f2dfa397857877a",
+        "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+        "summary": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper Comments URL: https://news.ycombinator.com/item?id=48787201 Points: 43 # Comments: 25",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
-        "published": "2026-07-03T15:00:00+00:00"
+        "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+        "published": "2026-07-04T17:37:21+00:00"
       },
       {
-        "id": "1fed9a66e535d88a039874a19660edd9",
-        "title": "This slim camera has a transparent LCD screen for a viewfinder",
-        "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its photography lighting products, is the latest to join the simple camera craze, […]",
-        "source": "The Verge",
+        "id": "9b7db9e6d8a19021a9d19c0e6bcc406a",
+        "title": "Review: Supergirl is not the disaster its low box office suggests",
+        "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
+        "source": "Ars Technica",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-        "published": "2026-07-03T14:51:38+00:00"
-      },
-      {
-        "id": "9c4b018efbe69536ea2aed25eadf4349",
-        "title": "I finally got my Trump phone",
-        "summary": "Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 (gold version), I'm finally holding one in my own hands. That's right, The Verge's Trump […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
-        "published": "2026-07-03T14:41:11+00:00"
-      },
-      {
-        "id": "c9aa56e45db0017dd2abc080e6a846ff",
-        "title": "Hydration isn’t complicated: Just drink water",
-        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Europe is melting, the eastern US is currently trapped in a \"heat dome,\" the Midwest has the corn sweats to […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
-        "published": "2026-07-03T14:00:00+00:00"
-      },
-      {
-        "id": "dd4c87f5b584630539837c0025b3d8e9",
-        "title": "Anthropic wants to develop its own drugs",
-        "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "published": "2026-07-03T13:56:52+00:00"
+        "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+        "published": "2026-07-04T16:49:14+00:00"
       }
     ],
     "economist": [
@@ -390,6 +390,15 @@
         "published": "2026-07-02T14:22:37+00:00"
       },
       {
+        "id": "11ad7f157241fc1ef89ec8eb8b783295",
+        "title": "NATO ponders how to defend Eastern Europe as America pulls back",
+        "summary": "German tanks are returning to a region they once razed",
+        "source": "International",
+        "category": "economist",
+        "url": "https://www.economist.com/international/2026/07/02/nato-ponders-how-to-defend-eastern-europe-as-america-pulls-back",
+        "published": "2026-07-02T14:22:37+00:00"
+      },
+      {
         "id": "eb119d69ea22b8ad36f316ddbf0b40bb",
         "title": "Indonesia gives its best-known entrepreneur a decade in jail",
         "summary": "The technology giant he built is being yanked around by the state",
@@ -405,15 +414,6 @@
         "source": "Business",
         "category": "economist",
         "url": "https://www.economist.com/business/2026/07/02/the-toddyssey",
-        "published": "2026-07-02T14:22:37+00:00"
-      },
-      {
-        "id": "11ad7f157241fc1ef89ec8eb8b783295",
-        "title": "NATO ponders how to defend Eastern Europe as America pulls back",
-        "summary": "German tanks are returning to a region they once razed",
-        "source": "International",
-        "category": "economist",
-        "url": "https://www.economist.com/international/2026/07/02/nato-ponders-how-to-defend-eastern-europe-as-america-pulls-back",
         "published": "2026-07-02T14:22:37+00:00"
       },
       {
@@ -451,12 +451,12 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5217.14990234375,
-        "prev_close": 5161.5,
-        "change_pct": 1.08,
+        "price": 5244.2900390625,
+        "prev_close": 5217.14990234375,
+        "change_pct": 0.52,
         "direction": "up",
-        "price_fmt": "5,217.1",
-        "change_str": "+1.08%"
+        "price_fmt": "5,244.3",
+        "change_str": "+0.52%"
       },
       {
         "symbol": "^GSPC",
@@ -473,29 +473,29 @@
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23055.029296875,
-        "prev_close": 22881.01953125,
-        "change_pct": 0.76,
+        "price": 23350.029296875,
+        "prev_close": 23055.029296875,
+        "change_pct": 1.28,
         "direction": "up",
-        "price_fmt": "23,055",
-        "change_str": "+0.76%"
+        "price_fmt": "23,350",
+        "change_str": "+1.28%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 68733.1484375,
-        "prev_close": 70474.9609375,
-        "change_pct": -2.47,
-        "direction": "down",
-        "price_fmt": "68,733",
-        "change_str": "-2.47%"
+        "price": 69744.0703125,
+        "prev_close": 68733.1484375,
+        "change_pct": 1.47,
+        "direction": "up",
+        "price_fmt": "69,744",
+        "change_str": "+1.47%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10679.0302734375,
+        "price": 10679.0,
         "prev_close": 10652.900390625,
         "change_pct": 0.25,
         "direction": "up",
@@ -506,12 +506,12 @@
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8724.5,
-        "prev_close": 8722.900390625,
-        "change_pct": 0.02,
+        "price": 8844.400390625,
+        "prev_close": 8724.5,
+        "change_pct": 1.37,
         "direction": "up",
-        "price_fmt": "8,724.5",
-        "change_str": "+0.02%"
+        "price_fmt": "8,844.4",
+        "change_str": "+1.37%"
       }
     ],
     "fx": [
@@ -528,12 +528,12 @@
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4766000509262085,
+        "price": 1.476199984550476,
         "prev_close": 1.4765900373458862,
-        "change_pct": 0.0,
-        "direction": "up",
+        "change_pct": -0.03,
+        "direction": "down",
         "price_fmt": "1.48",
-        "change_str": "0.00%"
+        "change_str": "-0.03%"
       },
       {
         "symbol": "GBPSGD=X",
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 62529.8203125,
-        "prev_close": 61485.30078125,
-        "change_pct": 1.7,
+        "price": 63112.78125,
+        "prev_close": 62544.19921875,
+        "change_pct": 0.91,
         "direction": "up",
-        "price_fmt": "62,530",
-        "change_str": "+1.70%"
+        "price_fmt": "63,113",
+        "change_str": "+0.91%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1755.3499755859375,
-        "prev_close": 1698.16943359375,
-        "change_pct": 3.37,
+        "price": 1781.6500244140625,
+        "prev_close": 1756.5186767578125,
+        "change_pct": 1.43,
         "direction": "up",
-        "price_fmt": "1,755.3",
-        "change_str": "+3.37%"
+        "price_fmt": "1,781.7",
+        "change_str": "+1.43%"
       }
     ]
   },
