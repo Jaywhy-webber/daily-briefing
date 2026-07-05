@@ -2,383 +2,392 @@
   "news": {
     "singapore": [
       {
-        "id": "2c2d19d4bbfbd4d913a4360d3f84c060",
-        "title": "Online Safety Commission offers hope, but victims want process simplified",
-        "summary": "The OSC, backed by the newly enacted Online Safety (Relief and Accountability) Act, started operations on June 29.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/online-safety-commission-offers-hope-but-victims-want-process-simplified",
-        "published": "2026-07-04T21:00:00+00:00"
-      },
-      {
-        "id": "43e8fc70fcc7a69d20782007d0a6270d",
-        "title": "‘I came here for my daughters. Now they send money to help me’: Migrant worker in unpaid wages case",
-        "summary": "Migrant workers speak of hardships due to unpaid wages.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/i-came-here-for-my-daughters-now-they-send-money-to-help-me-migrant-worker-in-unpaid-wages-case",
-        "published": "2026-07-04T21:00:00+00:00"
-      },
-      {
-        "id": "cf5f8142b638bf9acbcc47d461c44526",
-        "title": "Slight easing of North East Line crowding with free off-peak rides, say commuters",
-        "summary": "Those who live near the end of the line benefit more, commuters told The Straits Times.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/only-slight-easing-of-nel-crowding-with-free-off-peak-rides-say-commuters",
-        "published": "2026-07-04T21:00:00+00:00"
-      },
-      {
-        "id": "4d3ca53ebee6c60bbdf33910b1f13858",
-        "title": "VIP sales at condo launches under scrutiny after agents get first dibs",
-        "summary": "CEA's engagement comes at a time when concerns grow over fairness for regular home buyers.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/housing/vip-sales-at-condo-launches-under-scrutiny-after-agents-get-first-dibs",
-        "published": "2026-07-04T21:00:00+00:00"
-      },
-      {
-        "id": "b8620b80491a1c4a9c34e66c07be3609",
-        "title": "Why the man leading NKF has always believed in playing the long game",
-        "summary": "Ang Hao Yao is betting on patience to tackle chronic kidney disease, a fast-growing health crisis in Singapore.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/why-the-man-leading-nkf-has-always-believed-in-playing-the-long-game",
-        "published": "2026-07-04T21:00:00+00:00"
-      },
-      {
-        "id": "d95a7b55764c94bb703861b1da381bd1",
-        "title": "Lower costs, no condensers, hassle-free servicing: How Tengah residents have been won over by the Centralised Cooling System",
-        "summary": "Despite early rollout issues, the centralised chilled water system managed by SP Group has been receiving positive feedback from residents, particularly for its strong after-sales support and improved user experience.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/lower-costs-no-condensers-tengah-centralised-cooling-system-sp-group",
-        "published": "2026-07-04T20:00:00+00:00"
-      },
-      {
-        "id": "70e58a1466c975692c622223a7f9f989",
-        "title": "Pilots reminded to take more cautious approach near weather after turbulence injures crew on SIA, Scoot flights",
-        "summary": "The Transport Safety Investigation Bureau’s reports into the two separate incidents found that turbulence could occur even when onboard weather radar indicated light precipitation or did not fully reflect external weather conditions.",
+        "id": "8b98f3a72acf2653dabaf44e43aa34df",
+        "title": "CNA Explains: Crude oil prices have fallen. Will petrol prices follow?",
+        "summary": "Motorists should not expect to pay pre-conflict prices at the pump anytime soon, analysts say.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/sia-scoot-turbulence-june-2025-transport-safety-investigation-bureau-6231961",
-        "published": "2026-07-04T09:54:11+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/petrol-pump-prices-diesel-oil-iran-war-6224496",
+        "published": "2026-07-05T22:00:00+00:00"
       },
       {
-        "id": "f38db8bcd44445f2c763530e738ace77",
-        "title": "PAP can continue to govern well if party is renewed with 'good people' willing to serve: PM Wong",
-        "summary": "The party's youth wing launched the Young PAP Academy and the YP 40 Under 40 Action Fellowship, two new initiatives serving as a \"launchpad\" for the party's next generation of leaders.",
+        "id": "d0751bc118b7d96d1f44f695fec2af8f",
+        "title": "Commentary: The fragile reopening of Hormuz is no return to normal for Asia",
+        "summary": "A return to pre-war normalcy in the Strait of Hormuz is likely to be slow. This holds implications for Asia, says Coface chief APAC economist Bernard Aw.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/pap-lawrence-wong-young-pap-40th-anniversary-youth-wing-6231891",
-        "published": "2026-07-04T08:26:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/iran-war-strait-hormuz-fragile-reopening-what-it-means-asia-6229406",
+        "published": "2026-07-05T22:00:00+00:00"
+      },
+      {
+        "id": "0ec52608df0a55250d3df527c82fd57f",
+        "title": "‘Diving suits’ developed to assist cyborg cockroaches in underwater search-and-rescue efforts",
+        "summary": "The flexible suits allow the insects to survive and move underwater for up to three hours.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/diving-suits-developed-to-assist-cyborg-cockroaches-in-underwater-search-and-rescue-efforts",
+        "published": "2026-07-05T21:00:00+00:00"
+      },
+      {
+        "id": "7f73a69d4ec0acbfff0bd63d6f191d32",
+        "title": "More physiotherapists opting to work in private healthcare. Can the public sector keep up?",
+        "summary": "If the trends continue, a flip-over may happen, possibly impacting subsidised care.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/more-physiotherapists-opting-to-work-in-private-healthcare-can-public-sector-keep-up",
+        "published": "2026-07-05T21:00:00+00:00"
+      },
+      {
+        "id": "bdca6247e829386cfcaa0738aa397fa0",
+        "title": "NKF lowers malnutrition risk among its patients by putting protein first",
+        "summary": "Having adequate protein intake in dialysis care is often under-recognised.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/nkf-lowers-malnutrition-risk-among-its-patients-by-putting-protein-first",
+        "published": "2026-07-05T21:00:00+00:00"
+      },
+      {
+        "id": "bec60cdb68f390d9fd4bd89f9726fdf7",
+        "title": "Boutique condo developments likely to have more construction quality defects: BCA",
+        "summary": "They accounted for over 58% of private residential projects with low ratings for workmanship.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/housing/boutique-condo-developments-likely-to-have-more-construction-quality-defects-bca",
+        "published": "2026-07-05T21:00:00+00:00"
+      },
+      {
+        "id": "9781e2098f615f22189167541d3b12d1",
+        "title": "askST Jobs: Should you threaten to quit just for a pay rise?",
+        "summary": "Open conversations about pay could be more effective than resignation ultimatums.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/jobs/askst-jobs-should-you-threaten-to-quit-just-for-a-pay-rise",
+        "published": "2026-07-05T21:00:00+00:00"
+      },
+      {
+        "id": "6c7bebc660790597167fb4d980482589",
+        "title": "NUS introduces minor in criminal justice after strong uptake of related courses",
+        "summary": "It will be run jointly by the Faculty of Arts and Social Sciences and the Faculty of Science.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/nus-introduces-minor-in-criminal-justice-following-strong-uptake-of-related-courses",
+        "published": "2026-07-05T21:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "dabdabe341096504f2898f748937aa48",
-        "title": "The Atlantic republishes JD Vance’s Trump op-ed from 2016",
-        "summary": "The Atlantic on Saturday republished Vice President Vance’s essay, originally published exactly 10 years ago on July 4, reviving some of the more biting comments Vance made about President Trump prior to becoming his second vice president. The original article ran days after Vance published his bestselling memoir, “Hillbilly Elegy.” In an editor’s note, the magazine…",
+        "id": "f804f4e174a62df2b2ba9b0a4129fcd7",
+        "title": "Live updates: Trump called FIFA chief over USA player’s red card; Johnson warns of more ‘Mamdanis’",
+        "summary": "President Trump called FIFA President Gianni Infantino to discuss the red card given to Team USA’s Folarin Balogun during Wednesday night’s game against Bosnia and Herzegovina, an person familiar with the conversation told The Hill. Trump later cheered the reversal, calling it an “injustice.” FIFA said its independent panel overturned the red card suspension for…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/media/5953683-vance-trump-never-trump/",
-        "published": "2026-07-04T22:01:03+00:00"
+        "url": "https://thehill.com/homenews/administration/5953858-live-updates-trump-fourth-of-july-speech-aftermath/",
+        "published": "2026-07-05T22:43:58+00:00"
       },
       {
-        "id": "764abed9ae32de7294905f4b7354fbcb",
-        "title": "Watch live: Donald Trump to give major speech as America celebrates 250th anniversary",
-        "summary": "President Trump is expected to hold a “long” speech on the National Mall Saturday evening as the U.S. marks its 250th anniversary, even as record heat threatens to upend the festivities. Military flyovers, events at the Great American State Fair and a massive fireworks show are also scheduled throughout the day. First lady Melania Trump…",
+        "id": "f935486ec661d42f82152b8683085b12",
+        "title": "Former CDC chief medical officer says RFK Jr. caused ‘irreparable harm’",
+        "summary": "Dr. Debra Houry, the former chief medical officer at the Centers for Disease Control and Prevention (CDC), decried the direction of the agency under Department of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. “I think the secretary has caused a lot of irreparable harm, and when you look at many of the…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/video-clips/5951865-watch-live-donald-trump-july-4-speech-national-mall-america-250-celebrations-dc/",
-        "published": "2026-07-04T22:00:00+00:00"
+        "url": "https://thehill.com/policy/healthcare/5954352-cdc-robert-f-kennedy-debra-houry-hhs/",
+        "published": "2026-07-05T22:05:00+00:00"
       },
       {
-        "id": "373fb1d6656bf75a9bf49b9c2a520368",
-        "title": "Sunday shows preview: After America 250, GOP shifts focus back to Trump’s agenda",
-        "summary": "Millions of Americans turned out to mark the 250th anniversary of U.S. independence this weekend, even as sweltering heat gripped much of the country and forced the nation’s capital to scale back its festivities. A heat dome engulfed more than two dozen states and Washington, D.C., sending temperatures soaring into the triple digits in several major…",
+        "id": "14ee354414db8141d7a2d5006a81598d",
+        "title": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
+        "summary": "President Trump will meet Wednesday with Ukrainian President Volodymyr Zelensky and Syrian President Ahmed al-Sharaa, during his trip to Turkey for the annual NATO summit. The president leaves for Ankara on Monday evening for the two-day summit, according to a senior White House official. Trump will participate in bilateral meetings with the two leaders, followed…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/5953676-sunday-shows-preview-after-america-250-gop-shifts-focus-back-to-trumps-agenda/",
-        "published": "2026-07-04T21:54:08+00:00"
+        "url": "https://thehill.com/homenews/administration/5954306-trump-zelensky-al-sharaa-nato-summit/",
+        "published": "2026-07-05T21:39:10+00:00"
       },
       {
-        "id": "cd6f4127a69248880318fcd6d478bd78",
-        "title": "White supremacist group marches on mall",
-        "summary": "Masked demonstrators were seen marching through Washington, D.C.’s Eastern Market neighborhood on Saturday as the nation celebrated its 250th anniversary of independence. Dressed in khakis, white face coverings, sunglasses, and caps bearing the logo of white supremacist group Patriot Front, the members were seen gathering near Union Station and marching through Capitol Hill, according to WTOP.…",
+        "id": "191c1e969bd76cf7786f6839311e486c",
+        "title": "Florida Republican: Trump should seek to ‘normalize’ longtime US immigrants",
+        "summary": "Florida Rep. Carlos Giménez (R) on Sunday said President Trump should seek to “normalize” longtime U.S. immigrants as his administration grapples with the fallout of mass deportation efforts. “I don’t think anybody wants criminals to be here. I don’t think anybody wants gang members to be here. I think that people with active deportation orders,…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/blogs/in-the-know/5953665-white-supremacist-group-marches-on-mall/",
-        "published": "2026-07-04T21:33:30+00:00"
+        "url": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
+        "published": "2026-07-05T21:05:22+00:00"
       },
       {
-        "id": "a37fbf46113e898960e4013f1f534d72",
-        "title": "5 governor’s seats most likely to flip",
-        "summary": "Three dozen states are holding elections for governor in November, teeing up a test in several of the battleground states President Trump won in 2024. Swing states like Nevada, Georgia and Wisconsin are key bellwethers for the national mood around the White House, the economy and the political parties writ large. Two Midwestern states have also emerged as tests for the…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/campaign/5952091-governor-races-battleground-states/",
-        "published": "2026-07-04T21:00:00+00:00"
-      },
-      {
-        "id": "4027ef6fee0a3b0d06fa3687ac23c538",
-        "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
-        "summary": "President Trump ushered in America's 250th anniversary with a darkly political speech that swerved from the typically apolitical, unifying speeches past presidents have given to mark Independence Day.",
+        "id": "d0e85ce539e4c1e2237ebbe8a6e469f1",
+        "title": "Y si sí: the phrase uniting Mexico during the World Cup",
+        "summary": "Mexico's World Cup run has inspired a phrase heard across the country: \"Y si sí.\" Or in English: \"What if we can?\" Anamaria Sayre reports from Mexico City.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
-        "published": "2026-07-04T20:34:31+00:00"
+        "url": "https://www.npr.org/2026/07/05/nx-s1-5881076/y-si-si-the-phrase-uniting-mexicos-world-cup-fans",
+        "published": "2026-07-05T21:03:43+00:00"
       },
       {
-        "id": "e69219f3c963626be1f8b59c706a8566",
-        "title": "Trump pardons 11 people ahead of July 4, including Clean Air Act violators: What to know",
-        "summary": "President Donald Trump pardoned 11 people on Friday, including nine people who were convicted of violating a federal air pollution law, a White House official confirmed. It’s the latest acts of clemency granted by Trump in his second term, following a slate of pardons granted specifically to allies and high-profile figures Trump deemed were unfairly…",
+        "id": "a2d8414413e4d79c28150a39d810e574",
+        "title": "Trump restrictions on private AI models turns attention to open source",
+        "summary": "The Trump administration’s latest restrictions on private AI model releases is ramping up the push for open-source alternatives. Under President Trump, the federal government has restricted the release of private AI models from Anthropic and OpenAI, wielding a kill-switch over models that are controlled by one company and based on private, proprietary data. Supporters of…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/administration/5953633-trump-grants-clemency-allies/",
-        "published": "2026-07-04T20:14:13+00:00"
+        "url": "https://thehill.com/policy/technology/5952253-trump-administration-ai-restrictions-opens/",
+        "published": "2026-07-05T21:00:00+00:00"
       },
       {
-        "id": "0448568c096cd1238bf11c5ab128b656",
-        "title": "Washington's July 4 parade is called off. The fireworks are still on",
-        "summary": "Organizers canceled the Independence Day Parade late Friday, citing an extreme heat warning with temperatures expected to reach up to 115 degrees. The evening fireworks display remains scheduled.",
+        "id": "1867c242b44706edff99088d182c71c4",
+        "title": "Thunderstorms, heat and wind will hamper efforts to contain Colorado wildfires",
+        "summary": "Thunderstorms with high winds could make it more difficult to contain a massive wildfire that has scorched parts of southern Colorado.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
-        "published": "2026-07-04T16:42:10+00:00"
+        "url": "https://www.npr.org/2026/07/05/nx-s1-5883052/colorado-wildfires-thunderstorms-firefighters-killed",
+        "published": "2026-07-05T20:54:38+00:00"
+      },
+      {
+        "id": "e091402f6cf765a422d99b4a6cd80cfd",
+        "title": "Retired general: U.S. has ‘got to stop’ Iran from maintaining control of Strait of Hormuz",
+        "summary": "Retired Gen. Jack Keane on Sunday said the U.S. has “got to stop” Iran from maintaining control of the Strait of Hormuz. “Certainly, if Iran does any major attack, that’s something that would put us back into major combat operations,” Keane said in an interview on “Sunday Morning Futures” with Fox News’s Cheryl Casone. “But…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/defense/5954242-iran-strait-hormuz-negotiations-us-force/",
+        "published": "2026-07-05T20:23:10+00:00"
       }
     ],
     "asia": [
       {
-        "id": "04d30b1c0f7cc5ca6796eddb23120d5e",
-        "title": "Inside Taylor Swift and Travis Kelce’s big bash: a garden in the Garden",
-        "summary": "The groom wore a white tuxedo, the couple wrote their own vows and Stevie Nicks sang, according to guests at Friday’s star-studded wedding of megastars Taylor Swift and Travis Kelce in an intimate garden built for the occasion within New York City’s Madison Square Garden arena. Details trickled out on Saturday of the lavish nuptials ‌that had been a closely guarded secret. Their union was confirmed on giant billboards that flashed “JUST&T MARRIED!” The pop music superstar and football player...",
+        "id": "a53933ca92c69165eb709be703119175",
+        "title": "Wu Xinbo on why Trump’s ‘America first’ foreign policy may be driving China’s rise",
+        "summary": "Wu Xinbo is the dean of the Institute of International Studies at Fudan University in Shanghai and a leading Chinese researcher on the US. In this interview, he analyses how shifts in US foreign policy are changing the relationship between the two countries. This interview first appeared in SCMP Plus. For other interviews in the Open Questions series, click here. As the United States celebrates its 250th anniversary, how do you assess US foreign policy and the future direction of its relations..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3359443/inside-taylor-swift-and-travis-kelces-big-bash-garden-garden?utm_source=rss_feed",
-        "published": "2026-07-04T22:46:12+00:00"
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3359456/wu-xinbo-why-trumps-america-first-foreign-policy-may-be-driving-chinas-rise?utm_source=rss_feed",
+        "published": "2026-07-05T22:00:07+00:00"
       },
       {
-        "id": "4ee69380ebfdc9402cacfb64cd5b7fa4",
-        "title": "China offers sea cable detection tech to clients in Middle East, Europe and Asia",
-        "summary": "China plans to export powerful robots capable of locating marine cables buried under the seabed to regions including “Southeast Asia, the Middle East and Europe”, according to the Science and Technology Daily. China aimed to secure its position in the marine equipment sector by introducing this technology to potential clients in these regions, the official newspaper reported last Monday. “By deepening cooperation in [these] offshore engineering markets, we will integrate Chinese intelligent...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/science/article/3359241/china-offers-sea-cable-detection-tech-clients-middle-east-europe-and-asia?utm_source=rss_feed",
-        "published": "2026-07-04T22:00:12+00:00"
-      },
-      {
-        "id": "e61021acd0c6da1bfb4cf6f1a4666df8",
-        "title": "AI is rewriting China’s filmmaking rulebook, but the script isn’t finished",
-        "summary": "More than 95 per cent of China's new microdramas in the first quarter of 2026 were AI-generated, compared with near zero a year ago. CNA speaks to the industry's key cast about the new plot twist.",
+        "id": "d3da542a9ebde746657641fe89d86e5f",
+        "title": "Johor polls: Will BN’s Onn Hafiz retain the state’s top job, or can the opposition offer a better path?",
+        "summary": "Barisan Nasional’s Onn Hafiz Ghazi is bidding for a second term as Johor chief minister. Who are his potential rivals from Pakatan Harapan and Perikatan Nasional?",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
-        "published": "2026-07-04T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/asia/johor-state-election-onn-hafiz-chief-minister-contenders-maszlee-malik-sahruddin-jamal-6230276",
+        "published": "2026-07-05T22:00:00+00:00"
       },
       {
-        "id": "0c7dfcec2d0f53ca82c388344b3bed3c",
-        "title": "‘Overcapacity’ talk reflects a West irked by China’s industrial rise",
-        "summary": "There is something odd about the debate on China’s “overcapacity”. Europe says the world needs cheaper and faster clean energy deployment, yet complains when China produces the solar panels, wind turbines, batteries and electric vehicles that make this possible. Bruegel, a Brussels-based think tank specialising in economic policy, recently published a working paper, “To what extent can green infrastructure investment mitigate China’s clean-energy overcapacity?” It argues that China’s industrial.",
+        "id": "ece9611f9a9c3fb2b49bc6ac1d1b5569",
+        "title": "Commentary: The fragile reopening of Hormuz is no return to normal for Asia",
+        "summary": "A return to pre-war normalcy in the Strait of Hormuz is likely to be slow. This holds implications for Asia, says Coface chief APAC economist Bernard Aw.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/commentary/iran-war-strait-hormuz-fragile-reopening-what-it-means-asia-6229406",
+        "published": "2026-07-05T22:00:00+00:00"
+      },
+      {
+        "id": "9eb8e8b660ef253e82d13ddaca12db4b",
+        "title": "Upbeat outlook for tourism-related stocks",
+        "summary": "As geopolitical conflicts in the Middle East have begun to soften, the global investor spotlight is shifting back to fundamental economic drivers. The de-escalation of the US-Iran war caused oil prices to dip, allowing tourism-related industries to recover from steep declines during the peak of the tensions.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/investment/3281660/upbeat-outlook-for-tourismrelated-stocks",
+        "published": "2026-07-05T21:57:00+00:00"
+      },
+      {
+        "id": "22a351d5e7a44cb755f1d35f926581f2",
+        "title": "High costs, higher hopes",
+        "summary": "As Thailand focuses its economic development strategy on data centres and electric vehicles (EVs), some are questioning if those sectors can really deliver on growth given the high cost.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3281650/high-costs-higher-hopes",
+        "published": "2026-07-05T21:54:00+00:00"
+      },
+      {
+        "id": "de30a47371de9b6fc422a92f5c1ba6ea",
+        "title": "Venezuela leader vows ‘no social unrest here’ as earthquakes death toll passes 3,000",
+        "summary": "Venezuela’s interim president said on Sunday the country would not descend into social unrest after the twin earthquakes which killed more than 3,000 people and left thousands more missing. One of Latin America’s worst earthquake disasters, the June 24 shocks collapsed scores of buildings, leaving thousands homeless, especially in the coastal La Guaira area north of the capital Caracas. “There will be no social unrest here, what we have here is deep social solidarity,” Delcy Rodriguez said...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3358751/overcapacity-talk-reflects-west-irked-chinas-industrial-rise?utm_source=rss_feed",
-        "published": "2026-07-04T21:30:06+00:00"
+        "url": "https://www.scmp.com/news/world/americas/article/3359503/venezuela-leader-vows-no-social-unrest-here-earthquakes-death-toll-passes-3000?utm_source=rss_feed",
+        "published": "2026-07-05T21:50:39+00:00"
       },
       {
-        "id": "33905338a4f65615a06608f8b7bde9ff",
-        "title": "West Asia war LIVE: Huge crowds throng Tehran for Ayatollah Khamenei's funeral ceremonies",
-        "summary": "Authorities unveiled the casket containing Khamenei's body in a glass case at the Grand Mosalla in Tehran, Iran's capital",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-4-2026-khamenei-funeral-ceremonies/article71181636.ece",
-        "published": "2026-07-04T21:23:34+00:00"
-      },
-      {
-        "id": "4ff8d08d85811d445e76f4d843bfe6fa",
-        "title": "Venezuela quake death toll rises to nearly 3,000",
-        "summary": "Venezuela’s devastating twin earthquakes have killed nearly 3,000, official figures showed on Saturday, as international rescue teams began winding down search operations for survivors in the rubble. Fatalities jumped by more than 300 from Friday to 2,954, following the June 24 disaster that left thousands homeless in the streets and shelter camps. Tens of thousands more are still missing. One of Latin America’s worst earthquake disasters hit hardest in the coastal La Guaira area north of the...",
+        "id": "f1746ffcf4a9a4b4c22634ba4380ee2b",
+        "title": "Anti-drug video fiasco not a vote of confidence in Hong Kong’s AI goals",
+        "summary": "It’s unfortunate for Hong Kong Chief Executive John Lee Ka-chiu that his speech on July 1 marking the 29th anniversary of the handover and highlighting his government’s achievements may have been overshadowed by the outcry over an anti-drug video – or at least what was intended as one. The Correctional Services Department released the video, generated by artificial intelligence (AI), on June 26 before having to pull it twice, ahead of the anniversary. The video – featuring an appealing K-pop...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/americas/article/3359442/venezuela-quake-death-toll-rises-nearly-3000?utm_source=rss_feed",
-        "published": "2026-07-04T20:58:32+00:00"
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359325/anti-drug-video-fiasco-not-vote-confidence-hong-kongs-ai-goals?utm_source=rss_feed",
+        "published": "2026-07-05T21:30:06+00:00"
       },
       {
-        "id": "b6db855f1c7abeaca50b07bbc8dc6440",
-        "title": "Zelensky denies Russia captured key Ukraine city, challenges Putin to meet him there",
-        "summary": "Ukraine still controls the strategically important eastern city of Kostiantynivka, President Volodymyr Zelensky and the General Staff said on Saturday, rejecting Russian claims that it has been captured. Russia’s military ignored Zelensky’s assertions, said it was mopping up remaining pockets of resistance and offered to exchange the remains of dead servicemen. Russian military commanders told President ‌Vladimir Putin on Friday that Moscow’s forces had taken control of Kostiantynivka, a target.",
-        "source": "South China Morning Post",
+        "id": "a52baef880e57bc97bb8c66443d4e7ae",
+        "title": "Council urges review of IF products",
+        "summary": "The Asean Iron & Steel Council (AISC) has called for a review of the use of induction furnace (IF) technology in the production of reinforcing steel bars across Southeast Asia, citing concerns over structural safety.",
+        "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3359441/zelensky-denies-russia-captured-key-ukraine-city-challenges-putin-meet-him-there?utm_source=rss_feed",
-        "published": "2026-07-04T19:15:31+00:00"
-      },
-      {
-        "id": "27bf5a127c85287b083c20f9730ba4a2",
-        "title": "Why tanks still matter in modern warfare",
-        "summary": "Drones, missiles and precision-guided weapons have transformed the modern battlefield, but military experts argue they cannot achieve the ultimate objective of war – controlling territory. Saurabh Trivedi examines why tanks and ground forces remain indispensable despite the rapid evolution of warfare, drawing on lessons from Ukraine and insights from senior Army officers",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/national/why-tanks-still-matter-in-modern-warfare/article71182897.ece",
-        "published": "2026-07-04T18:09:39+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3281505/council-urges-review-of-if-products",
+        "published": "2026-07-05T21:23:00+00:00"
       }
     ],
     "others": [
       {
-        "id": "1a43ba047fec4e7778496db491f51c51",
-        "title": "US influence challenged by changing global order: Paolo von Schirach",
-        "summary": "US influence challenged by changing global order: Paolo von Schirach",
+        "id": "b5f7e2d334d3f12374c8f472af4b5716",
+        "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+        "summary": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss",
-        "published": "2026-07-04T22:10:39+00:00"
+        "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
+        "published": "2026-07-05T22:03:52+00:00"
       },
       {
-        "id": "c1dbe33a8a9ef13300676bbcc14a8b6d",
-        "title": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
-        "summary": "Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
-        "published": "2026-07-04T21:08:18+00:00"
-      },
-      {
-        "id": "bbfb3adc661ba6f5cb349118214d49d8",
-        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. Continue reading...",
+        "id": "e40109340caf50eadcd319c466ca3433",
+        "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
+        "summary": "Interim president says unrest will not break out despite anger at official response to the 24 June disasterVenezuela’s interim president has defended her country’s emergency response to the twin earthquakes that have killed more than 3,000 people, vowing the country would not descend into social unrest.Many Venezuelans have expressed anger at what they see as the US-backed government’s inadequate response to the 24 June disaster before international teams arrived. Continue reading...",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-        "published": "2026-07-04T20:32:52+00:00"
+        "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
+        "published": "2026-07-05T21:50:42+00:00"
       },
       {
-        "id": "d35f140b199d65ecfe9982cd85693835",
-        "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
-        "summary": "In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can 'open a new page of hope'.",
+        "id": "cc335c42f71fe589651363222c99fc74",
+        "title": "Turkiye gears up for its first NATO summit in 22 years",
+        "summary": "Leaders of the NATO member states are expected in Turkiye by July 7 for a summit - the first it will host in 22 years.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
-        "published": "2026-07-04T20:06:41+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss",
+        "published": "2026-07-05T21:42:48+00:00"
       },
       {
-        "id": "21fe196c3129952dee60b9a1b20b83cf",
-        "title": "The moral test US founding father Thomas Jefferson failed?",
-        "summary": "Polish general and freedom fighter Thaddeus Kosciuszko presented US founding father Thomas Jefferson with a moral test. Historians still disagree on whether Jefferson passed or not.",
-        "source": "Deutsche Welle",
-        "category": "others",
-        "url": "https://www.dw.com/en/the-moral-test-us-founding-father-thomas-jefferson-failed/a-77833752?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-07-04T19:19:00+00:00"
-      },
-      {
-        "id": "1be7435a75dee62e10669ce4461a2bba",
-        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+        "id": "cb9bbaa87edade8d247775b75e14c86c",
+        "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+        "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-04T18:41:25+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-05T21:39:12+00:00"
       },
       {
-        "id": "3f88a4c722bf2f460359c78aa6b19795",
-        "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-        "summary": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
+        "id": "03f511386212dbb35ccccbf3c57e1f08",
+        "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
+        "summary": "The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
+        "published": "2026-07-05T20:50:58+00:00"
+      },
+      {
+        "id": "3014a5d77decbaf1305785f7b68665e7",
+        "title": "Wildfires rage in Portugal, Greece, France and Spain",
+        "summary": "Six countries in southern Europe have been hit by wildfires. One of the blazes, in southwestern France, could affect Monday's third stage of the Tour de France, authorities warn.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-07-04T17:48:00+00:00"
+        "url": "https://www.dw.com/en/wildfires-rage-in-portugal-greece-france-and-spain/a-77839526?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-07-05T18:02:00+00:00"
       },
       {
-        "id": "f795a0dc27c81134ee5f5aac552f3665",
-        "title": "Injury ends Williams' Wimbledon comeback",
-        "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+        "id": "6cc4d08ae135e858c767e150f8783c6d",
+        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-04T17:22:46+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-05T17:58:01+00:00"
+      },
+      {
+        "id": "da6a8db06e46796c8b5b89481afaf27f",
+        "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+        "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-05T17:54:47+00:00"
       }
     ],
     "tech": [
       {
-        "id": "0c86f63f4d3274b0aecd6109fc37866d",
-        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 40 # Comments: 4",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://github.com/openai/codex/issues/30364",
-        "published": "2026-07-04T21:51:09+00:00"
-      },
-      {
-        "id": "732b42c436288075f3ccaf85ca828c0c",
-        "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-        "summary": "Article URL: https://arxiv.org/abs/2606.26967 Comments URL: https://news.ycombinator.com/item?id=48788849 Points: 5 # Comments: 0",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://arxiv.org/abs/2606.26967",
-        "published": "2026-07-04T20:38:39+00:00"
-      },
-      {
-        "id": "9bfc34c63e854ff35de7deabe13689dd",
-        "title": "Better Models: Worse Tools",
-        "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 42 # Comments: 13",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-        "published": "2026-07-04T20:16:22+00:00"
-      },
-      {
-        "id": "a547fb5850ae326a8d961a8438ebfaaa",
-        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-        "summary": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main Comments URL: https://news.ycombinator.com/item?id=48788283 Points: 233 # Comments: 100",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-        "published": "2026-07-04T19:41:10+00:00"
-      },
-      {
-        "id": "af63e080ba137f33c21217267a917b63",
-        "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-        "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of intercepting […]",
+        "id": "8ba80d7fad38cce156f018f45e37a1d9",
+        "title": "Some of the nation’s rich are letting AI teach their kids",
+        "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-        "published": "2026-07-04T19:06:27+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "published": "2026-07-05T22:30:54+00:00"
       },
       {
-        "id": "7860923ebb746727992b161a945fdaf7",
-        "title": "Verizon is About to Break our Watches",
-        "summary": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches Comments URL: https://news.ycombinator.com/item?id=48787329 Points: 109 # Comments: 48",
+        "id": "58c1cb09978faa202e5da3813d4c3c83",
+        "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+        "summary": "Article URL: https://github.com/514-labs/dnsglobe Comments URL: https://news.ycombinator.com/item?id=48798313 Points: 8 # Comments: 2",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-        "published": "2026-07-04T17:52:36+00:00"
+        "url": "https://github.com/514-labs/dnsglobe",
+        "published": "2026-07-05T21:55:53+00:00"
       },
       {
-        "id": "d70ec20c7fe664c16f2dfa397857877a",
-        "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
-        "summary": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper Comments URL: https://news.ycombinator.com/item?id=48787201 Points: 43 # Comments: 25",
+        "id": "d9862baf80171c690c9003732b18efe1",
+        "title": "CoCom regulations and GPS receivers for balloons and cubesats",
+        "summary": "Article URL: https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube Comments URL: https://news.ycombinator.com/item?id=48798210 Points: 8 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-        "published": "2026-07-04T17:37:21+00:00"
+        "url": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
+        "published": "2026-07-05T21:39:05+00:00"
       },
       {
-        "id": "9b7db9e6d8a19021a9d19c0e6bcc406a",
-        "title": "Review: Supergirl is not the disaster its low box office suggests",
-        "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
-        "source": "Ars Technica",
+        "id": "17cac7128adc31ce1666db5efd1ae685",
+        "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+        "summary": "Article URL: https://github.com/electronicsleep/rust-vim Comments URL: https://news.ycombinator.com/item?id=48798187 Points: 4 # Comments: 1",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
-        "published": "2026-07-04T16:49:14+00:00"
+        "url": "https://github.com/electronicsleep/rust-vim",
+        "published": "2026-07-05T21:36:28+00:00"
+      },
+      {
+        "id": "11062408d3042e2f641d2a1c0e074d40",
+        "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+        "summary": "I'm making a platform for simple open source games you can play anywhere.Games are all just JavaScript classes and you can read the source of every game on the platform.I started working on initial \"games\" (mostly rendering tests) in 2018 and eventually built all of the platform stuff around it to make it easy to share games.There's also an in-browser editor available for you to make and publish games all from the browser.Would love some feedback on the games and studio features as well as the p",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://homegames.io",
+        "published": "2026-07-05T21:32:44+00:00"
+      },
+      {
+        "id": "bd36c14eb9754d30e21ac4ded03408cf",
+        "title": "Completing a Computer Science Degree on Coursera",
+        "summary": "Article URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera Comments URL: https://news.ycombinator.com/item?id=48798061 Points: 47 # Comments: 18",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+        "published": "2026-07-05T21:20:49+00:00"
+      },
+      {
+        "id": "7127530132837c61dbba0400ea5d43ee",
+        "title": "Reparaible and open source paper printer",
+        "summary": "Article URL: https://www.opentools.studio/ Comments URL: https://news.ycombinator.com/item?id=48797916 Points: 155 # Comments: 46",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.opentools.studio/",
+        "published": "2026-07-05T21:03:06+00:00"
+      },
+      {
+        "id": "86442beb2552d3de6c0440dcf45e9710",
+        "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+        "summary": "There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing, and politically minded acts, Lif stood out as the most \"conscious rapper\" in the traditional sense. It was clear though, that […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+        "published": "2026-07-05T18:30:00+00:00"
       }
     ],
     "economist": [
       {
-        "id": "ec5613b88cc4624e0e4a9f4cfcdf8ff7",
-        "title": "Turkey and Israel should trade energy, not insults",
-        "summary": "Both have much to gain from being less belligerent",
-        "source": "Leaders",
+        "id": "a8aea83f82429f013f07228e7d740610",
+        "title": "Women’s progress at work appears to be stalling",
+        "summary": "After the “lean in” generation, are professional women leaning out?",
+        "source": "Finance",
         "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/07/02/turkey-and-israel-should-trade-energy-not-insults",
-        "published": "2026-07-02T14:22:37+00:00"
+        "url": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling",
+        "published": "2026-07-05T17:22:02+00:00"
+      },
+      {
+        "id": "2c1e5fcb9ccede754a59ab3affbbd5eb",
+        "title": "What Indians are reading, and what that reveals about the self",
+        "summary": "English-language books offer a glimpse of India’s hopes and dreams",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/07/05/what-indians-are-reading-and-what-that-reveals-about-the-self",
+        "published": "2026-07-05T10:43:54+00:00"
       },
       {
         "id": "4745de3faf9fd512fa9b1e0e97052941",
@@ -387,6 +396,15 @@
         "source": "Finance",
         "category": "economist",
         "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+        "published": "2026-07-02T14:22:37+00:00"
+      },
+      {
+        "id": "ec5613b88cc4624e0e4a9f4cfcdf8ff7",
+        "title": "Turkey and Israel should trade energy, not insults",
+        "summary": "Both have much to gain from being less belligerent",
+        "source": "Leaders",
+        "category": "economist",
+        "url": "https://www.economist.com/leaders/2026/07/02/turkey-and-israel-should-trade-energy-not-insults",
         "published": "2026-07-02T14:22:37+00:00"
       },
       {
@@ -408,12 +426,12 @@
         "published": "2026-07-02T14:22:37+00:00"
       },
       {
-        "id": "ac165da41eda899adfd047d3ccbc1fb0",
-        "title": "The Toddyssey",
-        "summary": "You could read Homer. You could see the film. Or you could just go to the office",
+        "id": "b754e4aa750fbd7a1befcbfe1f7120ff",
+        "title": "The Toddyssey: an office epic that would make Homer proud",
+        "summary": "You could read Homer. You could see the film. Or you could just go to work",
         "source": "Business",
         "category": "economist",
-        "url": "https://www.economist.com/business/2026/07/02/the-toddyssey",
+        "url": "https://www.economist.com/business/2026/07/02/the-toddyssey-an-office-epic-that-would-make-homer-proud",
         "published": "2026-07-02T14:22:37+00:00"
       },
       {
@@ -424,24 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/leaders/2026/07/02/venezuelas-earthquakes-are-partly-americas-problem",
         "published": "2026-07-02T11:21:35+00:00"
-      },
-      {
-        "id": "357a3ae9d86eda02dac3cf16c982b93c",
-        "title": "India’s government overhauls a vast workfare programme",
-        "summary": "Critics say it has been gutted",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/07/02/indias-government-overhauls-a-vast-workfare-programme",
-        "published": "2026-07-02T10:45:12+00:00"
-      },
-      {
-        "id": "4a692a23517ec30658d081c55107dec2",
-        "title": "Pakistan’s army chief battles with its imprisoned ex-prime minister",
-        "summary": "Which of Asim Munir or Imran Khan will prevail?",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/07/02/pakistans-army-chief-battles-with-its-imprisoned-ex-prime-minister",
-        "published": "2026-07-02T10:45:04+00:00"
       }
     ]
   },
@@ -518,32 +518,32 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2913000583648682,
+        "price": 1.29135000705719,
         "prev_close": 1.2926900386810303,
-        "change_pct": -0.11,
+        "change_pct": -0.1,
         "direction": "down",
         "price_fmt": "1.29",
-        "change_str": "-0.11%"
+        "change_str": "-0.10%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.476199984550476,
+        "price": 1.4771000146865845,
         "prev_close": 1.4765900373458862,
-        "change_pct": -0.03,
-        "direction": "down",
+        "change_pct": 0.03,
+        "direction": "up",
         "price_fmt": "1.48",
-        "change_str": "-0.03%"
+        "change_str": "+0.03%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7228000164031982,
+        "price": 1.7239500284194946,
         "prev_close": 1.7242000102996826,
-        "change_pct": -0.08,
+        "change_pct": -0.01,
         "direction": "down",
         "price_fmt": "1.72",
-        "change_str": "-0.08%"
+        "change_str": "-0.01%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -558,12 +558,12 @@
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.1898999959230423,
+        "price": 0.1899999976158142,
         "prev_close": 0.1898,
-        "change_pct": 0.05,
+        "change_pct": 0.11,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "+0.05%"
+        "change_str": "+0.11%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 72.12999725341797,
+        "price": 71.72000122070312,
         "prev_close": 71.80000305175781,
-        "change_pct": 0.46,
-        "direction": "up",
-        "price_fmt": "72.13",
-        "change_str": "+0.46%"
+        "change_pct": -0.11,
+        "direction": "down",
+        "price_fmt": "71.72",
+        "change_str": "-0.11%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4187.2998046875,
+        "price": 4201.39990234375,
         "prev_close": 4112.7001953125,
-        "change_pct": 1.81,
+        "change_pct": 2.16,
         "direction": "up",
-        "price_fmt": "4,187.3",
-        "change_str": "+1.81%"
+        "price_fmt": "4,201.4",
+        "change_str": "+2.16%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 62.814998626708984,
+        "price": 63.55500030517578,
         "prev_close": 60.643001556396484,
-        "change_pct": 3.58,
+        "change_pct": 4.8,
         "direction": "up",
-        "price_fmt": "62.81",
-        "change_str": "+3.58%"
+        "price_fmt": "63.56",
+        "change_str": "+4.80%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.244999885559082,
+        "price": 3.2239999771118164,
         "prev_close": 3.196000099182129,
-        "change_pct": 1.53,
+        "change_pct": 0.88,
         "direction": "up",
-        "price_fmt": "3.24",
-        "change_str": "+1.53%"
+        "price_fmt": "3.22",
+        "change_str": "+0.88%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 63112.78125,
-        "prev_close": 62544.19921875,
-        "change_pct": 0.91,
+        "price": 63543.578125,
+        "prev_close": 63088.3046875,
+        "change_pct": 0.72,
         "direction": "up",
-        "price_fmt": "63,113",
-        "change_str": "+0.91%"
+        "price_fmt": "63,544",
+        "change_str": "+0.72%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1781.6500244140625,
-        "prev_close": 1756.5186767578125,
-        "change_pct": 1.43,
+        "price": 1786.18994140625,
+        "prev_close": 1779.032958984375,
+        "change_pct": 0.4,
         "direction": "up",
-        "price_fmt": "1,781.7",
-        "change_str": "+1.43%"
+        "price_fmt": "1,786.2",
+        "change_str": "+0.40%"
       }
     ]
   },
