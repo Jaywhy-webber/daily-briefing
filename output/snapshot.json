@@ -2,375 +2,411 @@
   "news": {
     "singapore": [
       {
-        "id": "808915c000744d4cdb9c39d228169e33",
-        "title": "Retailers, wholesalers face logistical challenges halfway through beverage container return scheme transition period",
-        "summary": "The National Environment Agency and BCRS Ltd, which operates the scheme, told CNA that issues were still being identified and addressed during the scheme's transition period.",
+        "id": "6f9e007714d2c3e4d7a707a57048baaa",
+        "title": "Commentary: AI will change warfare but people remain core to SAF",
+        "summary": "As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-10-cent-deposit-errors-transition-6229386",
-        "published": "2026-07-06T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926",
+        "published": "2026-07-07T22:00:00+00:00"
       },
       {
-        "id": "efb22d90cb728d11ce812e2a3decd068",
-        "title": "Heat and habits: Survey finds hotter days changing how S’pore residents live",
-        "summary": "Survey suggests that heat has boiled over to constrain daily life and incur physical toll on Singapore residents.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/heat-and-habits-survey-finds-hotter-days-changing-how-spore-residents-live",
-        "published": "2026-07-06T20:00:00+00:00"
-      },
-      {
-        "id": "ece72814ae30984f21db434b93cb3453",
-        "title": "Limited-time student promo: Activate ST accounts, read articles to win rewards, lucky draw prizes",
-        "summary": "If you are a student in polytechnic and ITE, take part in ST’s multi-part rewards campaign from July 6 to 10.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/limited-time-student-promo-activate-st-accounts-read-articles-to-win-rewards-lucky-draw-prizes",
-        "published": "2026-07-06T19:00:00+00:00"
-      },
-      {
-        "id": "f22c239f63daa47542f5a3d54c0817db",
-        "title": "Law Society’s disciplinary proceedings against Pritam Singh to be heard on Aug 13",
-        "summary": "A Law Society spokesperson had said it was required by law to initiate disciplinary proceedings against Singh.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/law-societys-disciplinary-proceedings-against-pritam-singh-to-be-heard-on-aug-13",
-        "published": "2026-07-06T14:26:26+00:00"
-      },
-      {
-        "id": "e813b8c07d929083495ca03894c13af6",
-        "title": "GE2025 candidate Stephanie Tan leaves Progress Singapore Party; People’s Power Party changes leaders",
-        "summary": "PPP's secretary-general Goh Meng Seng and chairman Derrick Sim stepped down from their posts.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/politics/ge2025-candidate-stephanie-tan-leaves-progress-singapore-party-peoples-power-party-changes-leaders",
-        "published": "2026-07-06T14:00:00+00:00"
-      },
-      {
-        "id": "a93fd4f30a4ee20d8197c05c4d52cf47",
-        "title": "S’pore, China can deepen collaboration, develop solutions that benefit the world: Chee Hong Tat",
-        "summary": "He highlighted three areas – sustainable energy, artificial intelligence, and eldercare.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/politics/spore-china-can-deepen-collaboration-develop-solutions-that-benefit-the-world-chee-hong-tat",
-        "published": "2026-07-06T13:10:00+00:00"
-      },
-      {
-        "id": "a3e698557ef7f78df8e4419e196d3237",
-        "title": "Hearing for possible sanctions against Pritam Singh, sought by Law Society, fixed for Aug 13",
-        "summary": "The matter will be heard before the Court of Three Judges - the highest disciplinary body for lawyers.",
+        "id": "4106f2a2c4d08e0f33d9a4d5531ca3e9",
+        "title": "New blueprint for Greater Sentosa shifts focus from standalone attractions to novel experiences, say experts",
+        "summary": "Upcoming experiences like islet hopping and canopy dining are designed to encourage visitors to spend more time on the island.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/pritam-singh-disciplinary-proceedings-law-society-hearing-6235381",
-        "published": "2026-07-06T12:36:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/sentosa-brani-tourism-attractions-experiences-6234931",
+        "published": "2026-07-07T22:00:00+00:00"
       },
       {
-        "id": "ae24281caa525cd66bd420fbbfead33b",
-        "title": "Singapore and Indonesia 'strategically aligned' to keep Strait of Malacca and Singapore open to all: PM Wong",
-        "summary": "Prime Minister Lawrence Wong and President Prabowo Subianto also addressed the Middle East conflict's implications for regional shipping lanes at their Jakarta meeting.",
+        "id": "46fee916e6b36699341f5a499a1ea7a2",
+        "title": "GP resource for pre-university students: How will biotechnology change human life?",
+        "summary": "This is a special Straits Times General Paper resource for pre-university students.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/gp-resource-for-pre-university-students-how-will-biotechnology-change-human-life",
+        "published": "2026-07-07T20:00:00+00:00"
+      },
+      {
+        "id": "003e8db847f75d27b0b5554d8133b87e",
+        "title": "From command centres to the front lines: How Samsung’s trusted devices and defence-grade security support enterprise AI adoption",
+        "summary": "Samsung's secure Galaxy devices, Knox controls and partner solutions help firms turn AI governance into practice",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/tech/samsung-devices-defence-grade-security-for-enterprise-ai-adoption",
+        "published": "2026-07-07T20:00:00+00:00"
+      },
+      {
+        "id": "90c37041f2c7116fa08eac07a27615fc",
+        "title": "MPs propose seamless air-sea transfers, training workers for future jobs during Parliament debate",
+        "summary": "24 MPs spoke up over a motion that focused on ways to improve Singapore’s role as a global transport hub.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/politics/mps-propose-seamless-air-sea-transfers-training-workers-for-future-jobs-in-parliament",
+        "published": "2026-07-07T14:51:12+00:00"
+      },
+      {
+        "id": "0d7b5c7ccc154b16e84950ec5c0497d0",
+        "title": "SGH, NHG Health warn of fake ads promoting health products",
+        "summary": "The individual in the videos is not an employee of either institution, both said.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/sgh-nhg-health-warn-of-fake-ads-promoting-health-products",
+        "published": "2026-07-07T13:25:00+00:00"
+      },
+      {
+        "id": "d6ac4f2e574394f8046bf32df9c4b5ec",
+        "title": "Workers' Party MPs warn against over-reliance on mega transport projects",
+        "summary": "During a debate on the future of transport, Workers' Party MPs questioned Singapore's port and airport expansion plans, the 2016 sale of Neptune Orient Lines and the pace of the country's autonomous vehicle rollout.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/indonesia-strait-hormuz-singapore-prabowo-lawrence-wong-6235256",
-        "published": "2026-07-06T11:34:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/wp-warns-over-reliance-mega-transport-project-singapore-parliament-6238341",
+        "published": "2026-07-07T12:47:00+00:00"
+      },
+      {
+        "id": "55d589050840272906339967c23517ab",
+        "title": "Private-hire, taxi drivers to get more help to take up new jobs involving driverless vehicles",
+        "summary": "This aims to help them stay ahead of the growing adoption of autonomous vehicles here.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/politics/private-hire-taxi-drivers-to-get-more-help-to-take-up-new-jobs-involving-driverless-vehicles",
+        "published": "2026-07-07T12:46:21+00:00"
       }
     ],
     "us": [
       {
-        "id": "c7644d230c1af5e218bed0438c7187be",
-        "title": "Platner faces calls to step down after new accusations",
-        "summary": "Democrats and progressives on Monday called for Maine candidate Graham Platner (D) to end his Senate campaign amid a new accusation of sexual assault. “I’ve been very clear that sexual assault or violence against women is a red line,” Rep. Ro Khanna (D-Calif.) said on the social platform X, a previously vocal defender of the…",
+        "id": "42c90798a55953c2f9cdd1c33d16294d",
+        "title": "‘SVU’ star Mariska Hargitay to be first female Emmys host in 15 years",
+        "summary": "“Law and Order: SVU” star Mariska Hargitay is set to be the first female host of the Emmys in 15 years. The Television Academy announced in a press release on Tuesday that Hargitay is hosting the Emmys, which will happen on Sep. 14. “Bringing important stories into the light has been the heartbeat of my…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/5955790-democrats-call-platner-out/",
-        "published": "2026-07-06T21:58:10+00:00"
+        "url": "https://thehill.com/blogs/in-the-know/5957943-hargitay-first-female-emmys-host/",
+        "published": "2026-07-07T22:28:12+00:00"
       },
       {
-        "id": "6cf87eb9c6d80009386eb5b1c616fa0a",
-        "title": "Platner’s unraveling may keep the Senate in play for Democrats",
-        "summary": "It looks like Graham Platner won’t be putting oyster stew on the Senate Dining Room menu any time soon. In the wake of the most serious allegations yet against the scandal-soaked Democratic Senate nominee — this time that he raped an erstwhile girlfriend in 2021 — the months-long drumbeat from party leaders to get him…",
+        "id": "5f3cadce63264be9da11e92ca9e2ebb2",
+        "title": "The Memo: Platner debacle inflames factional turmoil among Democrats",
+        "summary": "A credible allegation of rape against Graham Platner looks near-certain to doom his Senate campaign, even though the Maine Democrat calls the charge “categorically untrue.” The consensus in the political world is that Platner could withdraw from the race any moment. Meanwhile, the episode is ratcheting up tensions that are already burning hot within the…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/5955831-platner-democrats-senate-race-maine/",
-        "published": "2026-07-06T21:58:06+00:00"
+        "url": "https://thehill.com/homenews/campaign/5957988-rape-allegation-platner-senate-campaign/",
+        "published": "2026-07-07T22:24:39+00:00"
       },
       {
-        "id": "da67b9517f140d11a0ea7f86e220b9fb",
-        "title": "When is deadline for Democrats to replace Platner in Maine Senate race?",
-        "summary": "Despite winning the Democratic primary in Maine last month, Senate candidate Graham Platner could be off the ballot in November after a Politico story published on Monday detailed a woman accusing him of sexual assault. July 13 is the deadline for Platner to withdraw from the race and have a replacement, according to the Maine…",
+        "id": "3b52474093648fb1363aee1f83402166",
+        "title": "Collins calls on OMB to rescind parts of controversial proposed grant rule",
+        "summary": "Sen. Susan Collins (R-Maine) called on the Trump administration to withdraw some proposed changes to the federal grantmaking process, joining a growing chorus of opposition to a sweeping new proposal from the Office of Management and Budget (OMB). Collins on Monday sent a letter to OMB Director Russell Vought asking the agency to withdraw portions of…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/5955769-graham-platner-accused-sexual-assault/",
-        "published": "2026-07-06T21:37:34+00:00"
+        "url": "https://thehill.com/policy/healthcare/5957967-susan-collins-opposes-proposed-omb-grant-rule/",
+        "published": "2026-07-07T22:22:30+00:00"
       },
       {
-        "id": "120bce571ad390b5b0c9680cefbca2fa",
-        "title": "This World Cup marks end of era for Ronaldo and other soccer greats",
-        "summary": "Some of the greatest footballers of a generation played their final World Cup match this summer.",
+        "id": "a9c291aa0123acd3b298529713b9f950",
+        "title": "Netanyahu attacks Mamdani for stance on Israel: ‘It’s absurd’",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu on Tuesday went after New York City Mayor Zohran Mamdani (D) for saying he couldn’t support Israel because the country “privileges” Jewish citizens over those of other religions. “He conveniently forgets that the only democracy in the Middle East is Israel. Twenty percent of our citizens are in fact Muslims.…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/5957597-netanyahu-responds-mamdani-israel-criticism/",
+        "published": "2026-07-07T22:03:16+00:00"
+      },
+      {
+        "id": "c4bbb1b5c852de0454ba96a8ab1e299c",
+        "title": "Emanuel expected to light into Netanyahu in Tel Aviv speech",
+        "summary": "Former U.S. Ambassador to Japan Rahm Emanuel on Wednesday is expected to light into Israeli Prime Minister Benjamin Netanyahu in a speech held at Tel Aviv University. Emanuel is expected to say in a nearly finalized draft of the speech that the U.S.-Israeli relationship “cannot stand or survive as it has been.” “To maintain the…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/5957757-former-ambassador-rahm-emanuel-criticizes-israel/",
+        "published": "2026-07-07T21:58:56+00:00"
+      },
+      {
+        "id": "af742ad6f402e60d965f5fc00f890500",
+        "title": "Trump administration eyes offshore space launches",
+        "summary": "The Trump administration is considering allowing space launches and re-entry off U.S. coasts, according to a notice published Tuesday. The Bureau of Ocean Energy Management (BOEM) said in a notice Tuesday that it was considering allowing the use of the U.S. Outer Continental Shelf for offshore space activities. The Outer Continental Shelf refers to submerged lands that can be…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/energy-environment/5957871-offshore-space-launches/",
+        "published": "2026-07-07T21:42:20+00:00"
+      },
+      {
+        "id": "eb53527090d1ba1ec900831205ced7b4",
+        "title": "Reigning champion Argentina escapes with remarkable World Cup victory over Egypt",
+        "summary": "Egypt was leading late, up 2-0. The Argentinians looked beaten. But they fought and fought and fought. Scoring one goal, then another to equalize. And, finally, a third to advance to the quarterfinal.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/06/g-s1-132202/world-cup-retire-ronaldo-neymar-ochoa-neuer",
-        "published": "2026-07-06T21:31:21+00:00"
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884872/2026-world-cup-fifa-argentina-egypt-round-of-16",
+        "published": "2026-07-07T18:49:12+00:00"
       },
       {
-        "id": "e3f6b22dc5e7700c6d660d4e7c670f17",
-        "title": "Chuck Todd: Trump ‘ruined’ July 4 celebration in DC",
-        "summary": "Former “Meet the Press” host Chuck Todd on Sunday accused President Trump of ruining the Fourth of July celebration of the country’s 250th birthday on the National Mall in Washington. Todd said on his podcast “The Chuck ToddCast” that the president took over the celebration originally to be held by America250, which was established by…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/media/5955657-chuck-todd-trump-fourth-july/",
-        "published": "2026-07-06T21:10:00+00:00"
-      },
-      {
-        "id": "918cac1abb7fbe5e6f7b8b7aa2a99572",
-        "title": "USA set to take on Belgium in World Cup amid Trump red card controversy",
-        "summary": "Ahead of this evening's World Cup match between the U.S. and Belgium, the drama about the eligibility of U.S. striker Folarin Balogun continues to swirl following his red card in the previous match.",
+        "id": "3b869e5ecd4b3d6eb92ee2fd142059cf",
+        "title": "International Olympic Committee lifts Russia suspension ahead of 2028 LA Games",
+        "summary": "The International Olympic Committee advised sports bodies to end a three-year program vetting Russians for neutral status ahead of qualifying events for the 2028 Los Angeles Olympics.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/06/nx-s1-5883818/the-world-cup-red-card-controversy-has-the-world-seeing-the-u-s-in-a-new-light",
-        "published": "2026-07-06T21:01:15+00:00"
-      },
-      {
-        "id": "4d0e62ad24618b767e7e85bbd618aa76",
-        "title": "NAACP spending more on midterms than any other election in its history",
-        "summary": "The NAACP will be spending more on midterms than any other election in its history following the Supreme Court’s April ruling that effectively limited the Voting Rights Act’s power against racial vote dilution. In response to the high court’s decision to strike down Louisiana’s second Black majority district, the nonpartisan civil rights organization will invest…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/campaign/5955560-naacp-midterms-spending-record/",
-        "published": "2026-07-06T20:43:21+00:00"
-      },
-      {
-        "id": "0a9cbbbdf6988c8a9e5cf56909e47350",
-        "title": "Live updates: Platner assessing ‘path’ as new assault allegations surface; Trump explains call to FIFA over Balogun red card",
-        "summary": "Maine Senate candidate Graham Platner on Monday denied new sexual assault allegations while saying his Democratic campaign was “taking the time to reflect on the best path forward.” “I wanted to directly address the troubling, serious and false allegations against me. Any accusation of non-consensual behavior is categorically false,” Platner said in the two-minute video posted online. President Trump’s inquiry…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/5954481-trump-inquiry-fifa-penalty-balogun/",
-        "published": "2026-07-06T20:41:47+00:00"
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games",
+        "published": "2026-07-07T17:43:12+00:00"
       }
     ],
     "asia": [
       {
-        "id": "3059c4c0676fc780a1de9b5f6df2b1b2",
-        "title": "Police expand investigation into crash that killed 10 monks",
-        "summary": "Police are investigating whether an adult taught an 11-year-old autistic boy to drive before he crashed a pickup truck into a group of monks on July 2, killing 10 people and injuring several others.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3281999/police-expand-investigation-into-crash-that-killed-10-monks",
-        "published": "2026-07-06T22:23:00+00:00"
-      },
-      {
-        "id": "23b0fc47102bf3bc5c74a41ffd29722d",
-        "title": "'Big Joke' bribe case begins",
-        "summary": "Former deputy national police chief Pol Gen Surachate Hakparn, known as \"Big Joke\", on Monday appeared at the Supreme Court alongside his lawyer to face corruption allegations related to the gold-bribe scandal.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3281909/big-joke-bribe-case-begins",
-        "published": "2026-07-06T22:13:00+00:00"
-      },
-      {
-        "id": "1e21fe4c5e6e656fe832b9edf035a6bd",
-        "title": "Talk of US-China decoupling is getting loud – but neither side is ready for a clean break",
-        "summary": "As the United States marks the 250th anniversary of its founding, it confronts a new world order dominated by its relationship with China. In this wide-ranging series, we examine the pressure points and possibilities in those ties, from hard tech to soft power. In this article, Sylvia Ma examines the numerous financial links between the two economies that make a true decoupling a difficult affair. On a landmark visit to Beijing in 1986, the New York Stock Exchange chairman at the time, John...",
+        "id": "9efbed027b3d60993eafe96794eb85a8",
+        "title": "FCC denies US firm with Chinese links approval to provide telecoms services",
+        "summary": "The US Federal Communications Commission ⁠said on Tuesday it is adding California-based Digitalsystem Technology to a list of companies posing risks to US national security, citing links to Chinese telecoms firms and its ownership by a Chinese national. The FCC also said ‌it was denying the Los Angeles-based IT company permission to provide international telecommunications services, saying it could be exploited by Chinese threat actors. “There is significant risk that the government of China and",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/economy/china-economy/article/3359613/talk-us-china-decoupling-getting-loud-neither-side-ready-clean-break?utm_source=rss_feed",
-        "published": "2026-07-06T22:00:11+00:00"
+        "url": "https://www.scmp.com/tech/policy/article/3359782/fcc-denies-us-firm-chinese-links-approval-provide-telecoms-services?utm_source=rss_feed",
+        "published": "2026-07-07T22:41:33+00:00"
       },
       {
-        "id": "6b5181c53370b01af09f1f3bd73745e1",
-        "title": "Why the next US-China battleground lies beneath the sea",
-        "summary": "Carrying about 98 per cent of global data traffic, undersea cables have become a new front in the strategic rivalry between Washington and Beijing.",
+        "id": "2884bcdabd5aab6f9b86efda3ecf0ffd",
+        "title": "Wan calls for end to Isoc operations",
+        "summary": "Former House speaker Wan Muhamad Noor Matha has called for the dissolution of the Internal Security Operations Command (Isoc), saying its duties overlap with other state agencies and its performance does not justify its budget.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3282542/wan-calls-for-end-to-isoc-operations",
+        "published": "2026-07-07T22:25:00+00:00"
+      },
+      {
+        "id": "0278f3d530d0dc94f233b1777b58bd5e",
+        "title": "Brokerage: Virtual banks face growth, profitability tests",
+        "summary": "Kiatnakin Phatra Securities (KKPS), the brokerage arm of Kiatnakin Phatra Financial Group (KKP), expects the combined loan portfolio of Thailand's three virtual banks to reach 200 billion baht in 5-6 years.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/investment/3282677/brokerage-virtual-banks-face-growth-profitability-tests",
+        "published": "2026-07-07T22:14:00+00:00"
+      },
+      {
+        "id": "c24b22d7cd94351ed7e33714a36676d8",
+        "title": "Call to develop riverside complex",
+        "summary": "Tourism operators support using the land plot previously earmarked for an entertainment complex in Bangkok to attract foreign investors with the same concept excluding a casino, aiming to promote high-value tourism in line with a government pledge.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/property/3282622/call-to-develop-riverside-complex",
+        "published": "2026-07-07T22:03:00+00:00"
+      },
+      {
+        "id": "b48058d5c33aa18c22747b23a3616c6c",
+        "title": "How Hong Kong is fighting to redefine its future with an institutional moat, wealth surge",
+        "summary": "For decades, warnings of Hong Kong’s terminal decline have arrived in periodic waves. When Stephen Roach, the former chairman of Morgan Stanley Asia, ignited a firestorm with his February 2024 assertion that “Hong Kong is over”, he pointed to a toxic cocktail of domestic and external pressures. Roach, who doubled down on his “wake-up call” a year ago, argued that the city’s economic glory was being extinguished by a loss of political autonomy following 2020’s national security law, the spillover",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/business/banking-finance/article/3359698/how-hong-kong-fighting-redefine-its-future-institutional-moat-wealth-surge?utm_source=rss_feed",
+        "published": "2026-07-07T22:00:09+00:00"
+      },
+      {
+        "id": "bac3770654b7bd47ed0eaa0198867fcd",
+        "title": "Johor state polls: PAS’ bid to revive ties with UMNO has failed, says Bersatu chief Muhyiddin",
+        "summary": "Former Malaysian Prime Minister Muhyiddin Yassin tells CNA that his Bersatu party remains focused on making gains in the Johor polls despite its fractured ties with PAS under opposition coalition Perikatan Nasional.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/east-asia/us-china-strategic-rivalry-undersea-cables-6230026",
-        "published": "2026-07-06T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/asia/johor-state-polls-pas-bid-revive-ties-umno-has-failed-says-bersatu-chief-muhyiddin-6237971",
+        "published": "2026-07-07T22:00:00+00:00"
       },
       {
-        "id": "9e8601e4d62224ee587b1ead95f721bb",
-        "title": "Canada picks German firm for new submarine fleet, South Korean competitor loses out",
-        "summary": "In a closely watched outcome, Canada on Monday chose a major German defence contractor over its South Korean competitor to build a US multibillion-dollar fleet of submarines, as mid-tier nations increasingly work together in the face of a less reliable United States. Canadian Prime Minister Mark Carney said that Ottawa chose Thyssenkrupp Marine Systems (TKMS)’s package over Hanwha Ocean Company’s. The move is expected to strengthen ties between Canada and Nato, which is holding a two-day summit.",
+        "id": "df542464e0c4028d2ec3c0ed0d7f60eb",
+        "title": "3 tracks are shaping the Middle East’s post-Iran war order",
+        "summary": "The Iran battlefield might be quieter and diplomacy might have resumed, but the main contest has shifted to the architecture of the Middle East. The question is no longer whether Iran can be contained, the Strait of Hormuz can remain open or another round of escalation can be avoided. The larger issue is who will write the rules after the shock. Three tracks are taking shape. The first is led by the United States and built around the expansion of the Abraham Accords, the integration of Israel...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3359647/canada-picks-german-company-build-new-submarine-fleet-deal-worth-billions?utm_source=rss_feed",
-        "published": "2026-07-06T21:37:53+00:00"
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3359303/3-tracks-are-shaping-middle-easts-post-iran-war-order?utm_source=rss_feed",
+        "published": "2026-07-07T21:30:06+00:00"
       },
       {
-        "id": "3bb90f483503cac9930d224c9a50e70c",
-        "title": "Energy reform 'must proceed'",
-        "summary": "Finance Minister Ekniti Nitithanprapas said the government would need to work more closely with the private sector on energy transition measures if the Constitutional Court decides to reject its 400-billion-baht emergency borrowing decree, stressing that energy reform is vital to economic security.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3281884/energy-reform-must-proceed",
-        "published": "2026-07-06T21:35:00+00:00"
-      },
-      {
-        "id": "75f52559f9619134001ab56d099f80cc",
-        "title": "Hong Kong’s Northern Metropolis project needn’t neglect agriculture",
-        "summary": "Hong Kong’s Northern Metropolis is positioned as the city’s next engine of growth – a long-term solution to land supply, economic transformation and cross-boundary integration. Just as importantly, the government has stressed that this massive undertaking will embed nature conservation and urban-rural integration at its core. Yet, a growing contradiction lies at the heart of this vision. The very landscapes that could support a green, sustainable and liveable Northern Metropolis – its remaining.",
+        "id": "4b60998b9e662fd1aaef750f757f1779",
+        "title": "At UN, Cuba rallies support against ‘cruel’ and ‘ruthless’ US blockade",
+        "summary": "Cuban Foreign Minister Bruno Rodriguez denounced the “ruthless” US embargo against the communist island during a UN General Assembly debate on Tuesday that took place despite diplomatic pressure by Washington to prevent it. “The government of the United States is carrying out against Cuba a multi-dimensional, non-conventional warfare that has already lasted for almost seven decades now and has become ever more cruel and more ruthless during the last seven months,” Rodriguez told the body,...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359169/hong-kongs-northern-metropolis-project-neednt-neglect-agriculture?utm_source=rss_feed",
-        "published": "2026-07-06T21:30:06+00:00"
-      },
-      {
-        "id": "22c1f679e3025752fd1fb2132741cc11",
-        "title": "Rising sea temperatures spur coral bleaching alerts",
-        "summary": "National park officials are closely monitoring coral reefs in Mu Koh Surin National Park after signs of coral bleaching were detected in several areas.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3281969/rising-sea-temperatures-spur-coral-bleaching-alerts",
-        "published": "2026-07-06T21:17:00+00:00"
+        "url": "https://www.scmp.com/news/world/americas/article/3359781/un-cuba-rallies-support-against-cruel-and-ruthless-us-blockade?utm_source=rss_feed",
+        "published": "2026-07-07T21:20:21+00:00"
       }
     ],
     "others": [
       {
-        "id": "b6b7ed59b90474f20186e0b58841986b",
-        "title": "Late Spain goal eliminates Portugal, ends Ronaldo’s international career?",
-        "summary": "Sub Mikel Merino scores in stoppage time to give Spain a 1-0 win over Portugal in the last 16.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/7/6/late-spain-goal-eliminates-portugal-ends-ronaldos-international-career?traffic_source=rss",
-        "published": "2026-07-06T22:20:29+00:00"
-      },
-      {
-        "id": "bdc3268366138284305db75cdc77da68",
-        "title": "Canada picks Germany’s TKMS for new submarines",
-        "summary": "German-owned naval shipbuilding company made the bid with NATO ally Norway, beating out South Korea's Hanwha Ocean.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
-        "published": "2026-07-06T22:13:46+00:00"
-      },
-      {
-        "id": "f170e8e41561269c36ba3ce98eac5048",
-        "title": "USA fans, Mamdani, experts react to FIFA-Trump-Balogun red card controversy",
-        "summary": "USA supporters divided on Trump's intervention and FIFA's decision to suspend striker's ban in Belgium World Cup match.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/7/6/usa-fans-mamdani-experts-react-to-fifa-trump-balogun-red-card-controversy?traffic_source=rss",
-        "published": "2026-07-06T22:11:32+00:00"
-      },
-      {
-        "id": "88633751dde4427e47bc989b2d93a5a1",
-        "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-        "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+        "id": "47a9c9afe54323a5876a5514a9349196",
+        "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+        "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-06T21:02:37+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T22:48:45+00:00"
       },
       {
-        "id": "d05e45825b9fee2792e04e3a5f076511",
-        "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
-        "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in JanuaryCuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said.The impoverished island was already struggling to keep the lights on before the US president, Donald Trump, imposed an oil blockade in January, which has depleted the already dwindling supply of fuel for Cuba’s power plants. Continue reading...",
-        "source": "The Guardian",
+        "id": "06ddf27511c27ca86a43ad8ea883e78a",
+        "title": "Egypt were ‘cheated’ in World Cup loss to Argentina, coach Hassan says",
+        "summary": "'Perhaps they wanted to keep the world champions in the competition,' Hassan said after his team was knocked out.",
+        "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
-        "published": "2026-07-06T19:30:09+00:00"
+        "url": "https://www.aljazeera.com/sports/2026/7/7/egypt-were-cheated-in-world-cup-loss-to-argentina-coach-hassan-says?traffic_source=rss",
+        "published": "2026-07-07T22:04:54+00:00"
       },
       {
-        "id": "ad2b1d7b1c31fc2ed9ee771c9cf8e004",
-        "title": "Trump confirms he asked Fifa to review Balogun ban",
-        "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "id": "ab168cfcf2a219166474792f791257ec",
+        "title": "US says strikes launched as explosions heard in southern Iran",
+        "summary": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
+        "published": "2026-07-07T21:21:16+00:00"
+      },
+      {
+        "id": "1736c3906bd3795164a42627ba4ba9d1",
+        "title": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
+        "summary": "SpaceX joins Nasdaq-100 after IPO, bypassing traditional three-month trading rule for inclusion in the tech-heavy index.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss",
+        "published": "2026-07-07T20:50:34+00:00"
+      },
+      {
+        "id": "eeb5362cfbbfdf532e9a9ee355c4d6eb",
+        "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+        "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-06T19:06:34+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T20:00:57+00:00"
       },
       {
-        "id": "d4980c1f06394adc30a214c83ef690a5",
-        "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-        "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+        "id": "99e5d6eabbd17c18e11295b4813e7d39",
+        "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+        "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-06T19:06:26+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T19:55:59+00:00"
       },
       {
-        "id": "49c4de06f79c262f1822532e8f1e106b",
-        "title": "Emmanuel Macron visits Syria, 18 months after Assad's fall",
-        "summary": "The French president landed in Damascus on Monday evening. He's the first EU leader to visit the country since Bashar Assad's sudden downfall and the rise of former militant turned President Ahmed al-Sharaa.",
+        "id": "d2e08d2f106d9e0f7686fbab3dbd3dfa",
+        "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
+        "summary": "Kyiv suffered heavy Russian strikes ahead of the NATO summit in Ankara. Experts say Russian President Vladimir Putin is trying to send a message.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/emmanuel-macron-visits-syria-18-months-after-assad-s-fall/a-77856791?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-07-06T19:03:00+00:00"
+        "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-07-07T19:46:00+00:00"
+      },
+      {
+        "id": "e7d9ee19275cddfd2b3c94c6ecaa6f1c",
+        "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
+        "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-07T18:56:19+00:00"
       }
     ],
     "tech": [
       {
-        "id": "3c40a71b90e9dd7758a4f543052a50e7",
-        "title": "How little exercise can you get away with?",
-        "summary": "Article URL: https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with Comments URL: https://news.ycombinator.com/item?id=48811147 Points: 27 # Comments: 12",
-        "source": "Hacker News (Top)",
+        "id": "ee192159b143a084e20796e328286741",
+        "title": "Of course viewers are giving up on Netflix shows",
+        "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it returned earlier this year. There seems to be some confusion […]",
+        "source": "The Verge",
         "category": "tech",
-        "url": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
-        "published": "2026-07-06T22:09:36+00:00"
+        "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+        "published": "2026-07-07T21:58:39+00:00"
       },
       {
-        "id": "94ae833e7359fa50ae47828fb9aedcc2",
-        "title": "Full Writeup of the Windows GDID",
-        "summary": "Article URL: https://github.com/SmtimesIWndr/gdid-reversal Comments URL: https://news.ycombinator.com/item?id=48811081 Points: 9 # Comments: 4",
-        "source": "Hacker News (Top)",
+        "id": "096cf29d3c4c579491480a14d90fc307",
+        "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
+        "summary": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Condé Nast, Hearst Magazines, People Inc, and Tastemade. As reported earlier by TechCrunch, the deal includes a mix of licensed past videos and new ongoing series that would have typically been published on YouTube or other […]",
+        "source": "The Verge",
         "category": "tech",
-        "url": "https://github.com/SmtimesIWndr/gdid-reversal",
-        "published": "2026-07-06T22:02:24+00:00"
+        "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
+        "published": "2026-07-07T21:37:19+00:00"
       },
       {
-        "id": "6b8450a8496ae8860b9500dd0448edff",
-        "title": "Titan's Resources and Their Utilization",
-        "summary": "Article URL: https://arxiv.org/abs/2606.06608 Comments URL: https://news.ycombinator.com/item?id=48810841 Points: 7 # Comments: 3",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://arxiv.org/abs/2606.06608",
-        "published": "2026-07-06T21:39:04+00:00"
-      },
-      {
-        "id": "e2ac4ca52cbd31c3cf6267f56d3332f3",
-        "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-        "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
+        "id": "a7817a7ef3e6e24bdedfaeaf820dfdf0",
+        "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+        "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-        "published": "2026-07-06T21:13:37+00:00"
+        "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+        "published": "2026-07-07T21:03:07+00:00"
       },
       {
-        "id": "3009551f6a1a2be20b396afc68fcd3ea",
-        "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-        "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=48810533 Points: 19 # Comments: 5",
+        "id": "4b0bae235a577716e1b13677d0753acb",
+        "title": "Every new car sold in the European Union must include a driver monitoring camera",
+        "summary": "Article URL: https://allaboutcookies.org/eu-mandatory-distracted-driver-system Comments URL: https://news.ycombinator.com/item?id=48823557 Points: 292 # Comments: 348",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-        "published": "2026-07-06T21:09:23+00:00"
+        "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+        "published": "2026-07-07T20:50:46+00:00"
       },
       {
-        "id": "666311779933cd2de03a2a381f21b92d",
-        "title": "Taiganet.com, Home of the WS4000 Simulator",
-        "summary": "Article URL: https://www.taiganet.com/ Comments URL: https://news.ycombinator.com/item?id=48810501 Points: 8 # Comments: 1",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.taiganet.com/",
-        "published": "2026-07-06T21:06:24+00:00"
-      },
-      {
-        "id": "2f35c8785bef0c9e7c4d7216c0834f87",
-        "title": "Learning to code is still worthwhile",
-        "summary": "Article URL: https://stevekrouse.com/learn-to-code Comments URL: https://news.ycombinator.com/item?id=48810439 Points: 80 # Comments: 70",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://stevekrouse.com/learn-to-code",
-        "published": "2026-07-06T20:59:54+00:00"
-      },
-      {
-        "id": "da60fe71b0db3b42e6333b4b6589fdf0",
-        "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
-        "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+        "id": "3e6d5b99cda63289451400164bf1345d",
+        "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
+        "summary": "There's still a slew of questions about why some people develop alpha-gal syndrome.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
-        "published": "2026-07-06T20:52:42+00:00"
+        "url": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
+        "published": "2026-07-07T20:32:39+00:00"
+      },
+      {
+        "id": "616d09480c1614856b8fd2cf010d3f6b",
+        "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+        "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+        "published": "2026-07-07T20:31:58+00:00"
+      },
+      {
+        "id": "210320732e1c2796b390ce7ad4bb14b3",
+        "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
+        "summary": "Texas win at 5th Circuit left in place as attempts to overturn age law continue.",
+        "source": "Ars Technica",
+        "category": "tech",
+        "url": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
+        "published": "2026-07-07T20:18:24+00:00"
+      },
+      {
+        "id": "10c42043a58da792e47d35b410444d48",
+        "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+        "summary": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
+        "source": "Ars Technica",
+        "category": "tech",
+        "url": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+        "published": "2026-07-07T19:52:59+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "9c8aded8d2f4c8d173252ca09fd6bf20",
+        "title": "AI has taken over the stock market. The bond market is next",
+        "summary": "Judging credit risk of the AI boom is difficultÂ",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
+        "published": "2026-07-07T20:08:30+00:00"
+      },
+      {
+        "id": "05f389d85c8c7e75fb51118d9a09b0ef",
+        "title": "Europe’s economy is a mess. Its stock markets are a steal",
+        "summary": "International investors still aren’t interested",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/07/europes-economy-is-a-mess-its-stock-markets-are-a-steal",
+        "published": "2026-07-07T19:20:24+00:00"
+      },
+      {
+        "id": "b5818b106ae8ef07330b0856669c1b6b",
+        "title": "China’s semiconductor industry is racing to catch the West’s",
+        "summary": "But it is proving easier to design chips than to make them",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/07/07/chinas-semiconductor-industry-is-racing-to-catch-the-wests",
+        "published": "2026-07-07T16:18:19+00:00"
+      },
+      {
+        "id": "ac316641b8aa3ac52629855a3c785ed8",
+        "title": "Can cutting-edge semiconductors supercharge Japan?",
+        "summary": "Visions of a high-tech hub in Hokkaido hinge on a single government-backed firm",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/07/07/can-cutting-edge-semiconductors-supercharge-japan",
+        "published": "2026-07-07T02:56:22+00:00"
+      },
       {
         "id": "12806e5b1b02771d7d10de53b900c49b",
         "title": "If ludicrous Trump flattery can save NATO, bring it on",
@@ -406,42 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling",
         "published": "2026-07-05T17:22:02+00:00"
-      },
-      {
-        "id": "2c1e5fcb9ccede754a59ab3affbbd5eb",
-        "title": "What Indians are reading, and what that reveals about the self",
-        "summary": "English-language books offer a glimpse of India’s hopes and dreams",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/07/05/what-indians-are-reading-and-what-that-reveals-about-the-self",
-        "published": "2026-07-05T10:43:54+00:00"
-      },
-      {
-        "id": "4745de3faf9fd512fa9b1e0e97052941",
-        "title": "Is The Economist always wrong?",
-        "summary": "We used artificial intelligence to test the accuracy of our forecasts",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-        "published": "2026-07-02T14:22:37+00:00"
-      },
-      {
-        "id": "ec5613b88cc4624e0e4a9f4cfcdf8ff7",
-        "title": "Turkey and Israel should trade energy, not insults",
-        "summary": "Both have much to gain from being less belligerent",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/07/02/turkey-and-israel-should-trade-energy-not-insults",
-        "published": "2026-07-02T14:22:37+00:00"
-      },
-      {
-        "id": "eb119d69ea22b8ad36f316ddbf0b40bb",
-        "title": "Indonesia gives its best-known entrepreneur a decade in jail",
-        "summary": "The technology giant he built is being yanked around by the state",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/07/02/indonesia-gives-its-best-known-entrepreneur-a-decade-in-jail",
-        "published": "2026-07-02T14:22:37+00:00"
       }
     ]
   },
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5244.2900390625,
-        "prev_close": 5217.14990234375,
-        "change_pct": 0.52,
+        "price": 5259.81005859375,
+        "prev_close": 5244.2900390625,
+        "change_pct": 0.3,
         "direction": "up",
-        "price_fmt": "5,244.3",
-        "change_str": "+0.52%"
+        "price_fmt": "5,259.8",
+        "change_str": "+0.30%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7537.43017578125,
-        "prev_close": 7483.240234375,
-        "change_pct": 0.72,
-        "direction": "up",
-        "price_fmt": "7,537.4",
-        "change_str": "+0.72%"
+        "price": 7503.85009765625,
+        "prev_close": 7537.43017578125,
+        "change_pct": -0.45,
+        "direction": "down",
+        "price_fmt": "7,503.9",
+        "change_str": "-0.45%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23350.029296875,
-        "prev_close": 23055.029296875,
-        "change_pct": 1.28,
+        "price": 23616.3203125,
+        "prev_close": 23350.029296875,
+        "change_pct": 1.14,
         "direction": "up",
-        "price_fmt": "23,350",
-        "change_str": "+1.28%"
+        "price_fmt": "23,616",
+        "change_str": "+1.14%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 69744.0703125,
-        "prev_close": 68733.1484375,
-        "change_pct": 1.47,
-        "direction": "up",
-        "price_fmt": "69,744",
-        "change_str": "+1.47%"
+        "price": 69737.6875,
+        "prev_close": 69744.0703125,
+        "change_pct": -0.01,
+        "direction": "down",
+        "price_fmt": "69,738",
+        "change_str": "-0.01%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10651.76953125,
-        "prev_close": 10679.0,
-        "change_pct": -0.25,
-        "direction": "down",
-        "price_fmt": "10,652",
-        "change_str": "-0.25%"
+        "price": 10665.8798828125,
+        "prev_close": 10651.7998046875,
+        "change_pct": 0.13,
+        "direction": "up",
+        "price_fmt": "10,666",
+        "change_str": "+0.13%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8844.400390625,
-        "prev_close": 8724.5,
-        "change_pct": 1.37,
-        "direction": "up",
-        "price_fmt": "8,844.4",
-        "change_str": "+1.37%"
+        "price": 8831.0,
+        "prev_close": 8844.400390625,
+        "change_pct": -0.15,
+        "direction": "down",
+        "price_fmt": "8,831.0",
+        "change_str": "-0.15%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2919399738311768,
-        "prev_close": 1.291700005531311,
-        "change_pct": 0.02,
+        "price": 1.2928800582885742,
+        "prev_close": 1.2916799783706665,
+        "change_pct": 0.09,
         "direction": "up",
         "price_fmt": "1.29",
-        "change_str": "+0.02%"
+        "change_str": "+0.09%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4781999588012695,
-        "prev_close": 1.4770900011062622,
-        "change_pct": 0.08,
-        "direction": "up",
-        "price_fmt": "1.48",
-        "change_str": "+0.08%"
+        "price": 1.4743499755859375,
+        "prev_close": 1.4776999950408936,
+        "change_pct": -0.23,
+        "direction": "down",
+        "price_fmt": "1.47",
+        "change_str": "-0.23%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7293000221252441,
-        "prev_close": 1.7247200012207031,
-        "change_pct": 0.27,
+        "price": 1.7259900569915771,
+        "prev_close": 1.7239999771118164,
+        "change_pct": 0.12,
         "direction": "up",
         "price_fmt": "1.73",
-        "change_str": "+0.27%"
+        "change_str": "+0.12%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
         "price": 0.00791999977082014,
-        "prev_close": 0.008,
-        "change_pct": -1.0,
-        "direction": "down",
+        "prev_close": 0.0079,
+        "change_pct": 0.25,
+        "direction": "up",
         "price_fmt": "0.01",
-        "change_str": "-1.00%"
+        "change_str": "+0.25%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.18950000405311584,
-        "prev_close": 0.1899,
-        "change_pct": -0.21,
-        "direction": "down",
+        "price": 0.18979999423027039,
+        "prev_close": 0.1896,
+        "change_pct": 0.11,
+        "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "-0.21%"
+        "change_str": "+0.11%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 72.11000061035156,
-        "prev_close": 71.80000305175781,
-        "change_pct": 0.43,
+        "price": 76.19999694824219,
+        "prev_close": 71.98999786376953,
+        "change_pct": 5.85,
         "direction": "up",
-        "price_fmt": "72.11",
-        "change_str": "+0.43%"
+        "price_fmt": "76.20",
+        "change_str": "+5.85%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4178.0,
-        "prev_close": 4112.7001953125,
-        "change_pct": 1.59,
-        "direction": "up",
-        "price_fmt": "4,178.0",
-        "change_str": "+1.59%"
+        "price": 4111.2998046875,
+        "prev_close": 4155.10009765625,
+        "change_pct": -1.05,
+        "direction": "down",
+        "price_fmt": "4,111.3",
+        "change_str": "-1.05%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 62.54499816894531,
-        "prev_close": 60.643001556396484,
-        "change_pct": 3.14,
-        "direction": "up",
-        "price_fmt": "62.54",
-        "change_str": "+3.14%"
+        "price": 60.1349983215332,
+        "prev_close": 61.91999816894531,
+        "change_pct": -2.88,
+        "direction": "down",
+        "price_fmt": "60.13",
+        "change_str": "-2.88%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.253000020980835,
-        "prev_close": 3.196000099182129,
-        "change_pct": 1.78,
+        "price": 3.2720000743865967,
+        "prev_close": 3.244999885559082,
+        "change_pct": 0.83,
         "direction": "up",
-        "price_fmt": "3.25",
-        "change_str": "+1.78%"
+        "price_fmt": "3.27",
+        "change_str": "+0.83%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 64166.12890625,
-        "prev_close": 63547.8828125,
-        "change_pct": 0.97,
-        "direction": "up",
-        "price_fmt": "64,166",
-        "change_str": "+0.97%"
+        "price": 63522.01171875,
+        "prev_close": 63995.015625,
+        "change_pct": -0.74,
+        "direction": "down",
+        "price_fmt": "63,522",
+        "change_str": "-0.74%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1804.4000244140625,
-        "prev_close": 1783.0059814453125,
-        "change_pct": 1.2,
-        "direction": "up",
-        "price_fmt": "1,804.4",
-        "change_str": "+1.20%"
+        "price": 1775.5,
+        "prev_close": 1797.57373046875,
+        "change_pct": -1.23,
+        "direction": "down",
+        "price_fmt": "1,775.5",
+        "change_str": "-1.23%"
       }
     ]
   },
