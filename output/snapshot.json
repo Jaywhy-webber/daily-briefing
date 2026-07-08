@@ -2,375 +2,402 @@
   "news": {
     "singapore": [
       {
-        "id": "6f9e007714d2c3e4d7a707a57048baaa",
-        "title": "Commentary: AI will change warfare but people remain core to SAF",
-        "summary": "As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang.",
+        "id": "4914f4a59f03619659c29ab2ae183b73",
+        "title": "Pasir Ris lightning death prompts safety review among outdoor sports operators",
+        "summary": "Operators say official lightning warnings are a clear \"no-go\" signal, but conditions at sea can shift faster than forecasts allow.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926",
-        "published": "2026-07-07T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/lightning-pasir-ris-beach-safety-sports-6240441",
+        "published": "2026-07-08T22:00:00+00:00"
       },
       {
-        "id": "4106f2a2c4d08e0f33d9a4d5531ca3e9",
-        "title": "New blueprint for Greater Sentosa shifts focus from standalone attractions to novel experiences, say experts",
-        "summary": "Upcoming experiences like islet hopping and canopy dining are designed to encourage visitors to spend more time on the island.",
+        "id": "902f3668c9d39ca386b66d7601286a66",
+        "title": "More two-room flexi BTO flats have been built. Why are singles’ application rates still so high?",
+        "summary": "Property analysts say attractive prices have raised demand, while sociologists point to broader demographic changes.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/housing/more-two-room-flexi-bto-flats-have-been-built-why-are-singles-application-rates-still-so-high",
+        "published": "2026-07-08T21:00:00+00:00"
+      },
+      {
+        "id": "71d1c6bbacb53b9748ccc8df99e7f567",
+        "title": "Police searching for 44-year-old driver involved in hit-and-run in Punggol",
+        "summary": "The incident involved a car and a van at Block 122A Edgedale Plains.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/police-searching-for-driver-involved-in-hit-and-run-in-punggol",
+        "published": "2026-07-08T14:37:42+00:00"
+      },
+      {
+        "id": "df1ec94c3f0f71f015c4c56edee7c187",
+        "title": "Missing: 13-year-old girl last seen in Tampines",
+        "summary": "She was last seen near Tampines Bus Interchange wearing a purple T-shirt and black shorts.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/missing-13-year-old-girl-last-seen-in-tampines",
+        "published": "2026-07-08T14:29:24+00:00"
+      },
+      {
+        "id": "9b900d5c973b3086cece22eb4d90f1ed",
+        "title": "Man to be charged over fake bomb threats at government buildings, including Parliament House",
+        "summary": "The 40-year-old man allegedly sent the bomb threats on July 3 and 7.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/man-to-be-charged-over-fake-bomb-threats-at-government-buildings-including-parliament-house",
+        "published": "2026-07-08T14:13:43+00:00"
+      },
+      {
+        "id": "36f11736b3b9ad2a9166b6e7e6eac45c",
+        "title": "Man, 40, to be charged over false bomb threats targeting Parliament House and HTX",
+        "summary": "Police conducted thorough checks of both locations, including systematic sweeps of the buildings and surrounding areas, but did not find any \"items of security concern\".",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/sentosa-brani-tourism-attractions-experiences-6234931",
-        "published": "2026-07-07T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/bomb-threat-parliament-house-htx-building-man-charged-6241406",
+        "published": "2026-07-08T14:07:00+00:00"
       },
       {
-        "id": "46fee916e6b36699341f5a499a1ea7a2",
-        "title": "GP resource for pre-university students: How will biotechnology change human life?",
-        "summary": "This is a special Straits Times General Paper resource for pre-university students.",
+        "id": "ac2e3e0cec2606be01985a3a8e04675d",
+        "title": "MOH probing LC Nursing Home founder for possible non-disclosure of disciplinary actions during licensing",
+        "summary": "Chia Yang Pong was struck off the medical register in 2004 in a high-profile case.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/gp-resource-for-pre-university-students-how-will-biotechnology-change-human-life",
-        "published": "2026-07-07T20:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/health/moh-investigating-lc-nursing-home-founder-for-possible-non-disclosure-of-disciplinary-actions-at-the",
+        "published": "2026-07-08T11:35:00+00:00"
       },
       {
-        "id": "003e8db847f75d27b0b5554d8133b87e",
-        "title": "From command centres to the front lines: How Samsung’s trusted devices and defence-grade security support enterprise AI adoption",
-        "summary": "Samsung's secure Galaxy devices, Knox controls and partner solutions help firms turn AI governance into practice",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/samsung-devices-defence-grade-security-for-enterprise-ai-adoption",
-        "published": "2026-07-07T20:00:00+00:00"
-      },
-      {
-        "id": "90c37041f2c7116fa08eac07a27615fc",
-        "title": "MPs propose seamless air-sea transfers, training workers for future jobs during Parliament debate",
-        "summary": "24 MPs spoke up over a motion that focused on ways to improve Singapore’s role as a global transport hub.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/politics/mps-propose-seamless-air-sea-transfers-training-workers-for-future-jobs-in-parliament",
-        "published": "2026-07-07T14:51:12+00:00"
-      },
-      {
-        "id": "0d7b5c7ccc154b16e84950ec5c0497d0",
-        "title": "SGH, NHG Health warn of fake ads promoting health products",
-        "summary": "The individual in the videos is not an employee of either institution, both said.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/sgh-nhg-health-warn-of-fake-ads-promoting-health-products",
-        "published": "2026-07-07T13:25:00+00:00"
-      },
-      {
-        "id": "d6ac4f2e574394f8046bf32df9c4b5ec",
-        "title": "Workers' Party MPs warn against over-reliance on mega transport projects",
-        "summary": "During a debate on the future of transport, Workers' Party MPs questioned Singapore's port and airport expansion plans, the 2016 sale of Neptune Orient Lines and the pace of the country's autonomous vehicle rollout.",
+        "id": "3c65b1563c62f5f87284fbd05ffc89ef",
+        "title": "MOH investigating if LC Nursing Home CEO failed to disclose disciplinary actions during licence application",
+        "summary": "Chia Yang Pong, who is also the founder of LC Nursing Home in Siglap, was found guilty of professional misconduct by a Singapore Medical Council disciplinary committee and struck off the Register of Medical Practitioners in 2004.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/wp-warns-over-reliance-mega-transport-project-singapore-parliament-6238341",
-        "published": "2026-07-07T12:47:00+00:00"
-      },
-      {
-        "id": "55d589050840272906339967c23517ab",
-        "title": "Private-hire, taxi drivers to get more help to take up new jobs involving driverless vehicles",
-        "summary": "This aims to help them stay ahead of the growing adoption of autonomous vehicles here.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/politics/private-hire-taxi-drivers-to-get-more-help-to-take-up-new-jobs-involving-driverless-vehicles",
-        "published": "2026-07-07T12:46:21+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/lc-nursing-home-moh-investigating-ceo-disciplinary-action-struck-6240746",
+        "published": "2026-07-08T11:01:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "42c90798a55953c2f9cdd1c33d16294d",
-        "title": "‘SVU’ star Mariska Hargitay to be first female Emmys host in 15 years",
-        "summary": "“Law and Order: SVU” star Mariska Hargitay is set to be the first female host of the Emmys in 15 years. The Television Academy announced in a press release on Tuesday that Hargitay is hosting the Emmys, which will happen on Sep. 14. “Bringing important stories into the light has been the heartbeat of my…",
+        "id": "6658cdc96bd3df2f7dbba4317b30835e",
+        "title": "Lawmakers demand answers after fatal ICE shooting in Texas",
+        "summary": "Lawmakers on Capitol Hill are calling for an investigation after an Immigration and Customs Enforcement (ICE) officer fatally shot a Mexican immigrant in Houston on Tuesday. An ICE spokesperson said officers with the agency had tried to conduct a vehicle stop as part of a targeted operation. The driver, Lorenzo Salgado Araujo, did not follow…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/blogs/in-the-know/5957943-hargitay-first-female-emmys-host/",
-        "published": "2026-07-07T22:28:12+00:00"
+        "url": "https://thehill.com/homenews/house/5960024-ice-shooting-texas-lawmakers/",
+        "published": "2026-07-08T22:31:38+00:00"
       },
       {
-        "id": "5f3cadce63264be9da11e92ca9e2ebb2",
-        "title": "The Memo: Platner debacle inflames factional turmoil among Democrats",
-        "summary": "A credible allegation of rape against Graham Platner looks near-certain to doom his Senate campaign, even though the Maine Democrat calls the charge “categorically untrue.” The consensus in the political world is that Platner could withdraw from the race any moment. Meanwhile, the episode is ratcheting up tensions that are already burning hot within the…",
+        "id": "83ab6ca8b2db30a88caeaf3d91f262d8",
+        "title": "Republicans prepare $8 million ad campaign against possible Platner replacement",
+        "summary": "Republicans are preparing to launch an $8 million ad blitz against the candidate selected to replace Maine Senate Democratic nominee Graham Platner in the wake of sexual assault allegations. The Super PAC Pine Tree Results spent $2 million in May on YouTube and television ads bashing Platner and still has $8 million left to fight…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/5957988-rape-allegation-platner-senate-campaign/",
-        "published": "2026-07-07T22:24:39+00:00"
+        "url": "https://thehill.com/homenews/campaign/5959963-republicans-launch-ad-blitz-maine/",
+        "published": "2026-07-08T22:13:13+00:00"
       },
       {
-        "id": "3b52474093648fb1363aee1f83402166",
-        "title": "Collins calls on OMB to rescind parts of controversial proposed grant rule",
-        "summary": "Sen. Susan Collins (R-Maine) called on the Trump administration to withdraw some proposed changes to the federal grantmaking process, joining a growing chorus of opposition to a sweeping new proposal from the Office of Management and Budget (OMB). Collins on Monday sent a letter to OMB Director Russell Vought asking the agency to withdraw portions of…",
+        "id": "cae14ee308ef2272f6247c8103061123",
+        "title": "Iran ceasefire’s end drives up oil prices and uncertainty",
+        "summary": "The end of the U.S.-Iran ceasefire is driving oil prices higher and fueling uncertainty over future energy prices. On Tuesday and again Wednesday, the U.S. said it was striking Iran in retaliation for attacks on three commercial ships in the Strait of Hormuz. President Trump, speaking at the NATO summit in Turkey, declared that the ceasefire that ended…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/healthcare/5957967-susan-collins-opposes-proposed-omb-grant-rule/",
-        "published": "2026-07-07T22:22:30+00:00"
+        "url": "https://thehill.com/policy/energy-environment/5960020-iran-ceasefire-gas-prices-strait-of-hormuz/",
+        "published": "2026-07-08T22:05:17+00:00"
       },
       {
-        "id": "a9c291aa0123acd3b298529713b9f950",
-        "title": "Netanyahu attacks Mamdani for stance on Israel: ‘It’s absurd’",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu on Tuesday went after New York City Mayor Zohran Mamdani (D) for saying he couldn’t support Israel because the country “privileges” Jewish citizens over those of other religions. “He conveniently forgets that the only democracy in the Middle East is Israel. Twenty percent of our citizens are in fact Muslims.…",
+        "id": "7cb26ff56321f3f1589852bdcd0d5c04",
+        "title": "These products could be impacted if Trump ends trade with Spain",
+        "summary": "President Trump on Wednesday said the U.S. will cut off trade with Spain, a move that would impact billions of dollars in goods across a swath of industries if carried out. “Spain is a wasted cause. We don’t want to do any trade business with Spain anymore by the way,” Trump said alongside NATO Secretary-General…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/international/5957597-netanyahu-responds-mamdani-israel-criticism/",
-        "published": "2026-07-07T22:03:16+00:00"
+        "url": "https://thehill.com/business/5959993-us-embargo-spain-impact/",
+        "published": "2026-07-08T21:54:24+00:00"
       },
       {
-        "id": "c4bbb1b5c852de0454ba96a8ab1e299c",
-        "title": "Emanuel expected to light into Netanyahu in Tel Aviv speech",
-        "summary": "Former U.S. Ambassador to Japan Rahm Emanuel on Wednesday is expected to light into Israeli Prime Minister Benjamin Netanyahu in a speech held at Tel Aviv University. Emanuel is expected to say in a nearly finalized draft of the speech that the U.S.-Israeli relationship “cannot stand or survive as it has been.” “To maintain the…",
+        "id": "8d8aa58f0d7dccbcae564c9e6f291ace",
+        "title": "Platner, Democrats battles over his replacement",
+        "summary": "Maine Senate candidate Graham Platner’s staffers on Wednesday accused the Democratic party of excluding grassroot supporters from determining who would replace the embattled party nominee in the November general amid allegations of sexual assault. Platner’s campaign manager, Ben Chin, sent out a text blast alleging the Maine Democratic Party told staffers they’d “have no role…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/international/5957757-former-ambassador-rahm-emanuel-criticizes-israel/",
-        "published": "2026-07-07T21:58:56+00:00"
+        "url": "https://thehill.com/homenews/campaign/5959818-maine-senate-candidate-scandal/",
+        "published": "2026-07-08T21:36:06+00:00"
       },
       {
-        "id": "af742ad6f402e60d965f5fc00f890500",
-        "title": "Trump administration eyes offshore space launches",
-        "summary": "The Trump administration is considering allowing space launches and re-entry off U.S. coasts, according to a notice published Tuesday. The Bureau of Ocean Energy Management (BOEM) said in a notice Tuesday that it was considering allowing the use of the U.S. Outer Continental Shelf for offshore space activities. The Outer Continental Shelf refers to submerged lands that can be…",
+        "id": "9d8e9dd0b391c163858befc292a4414d",
+        "title": "Democratic infighting roils process to replace Platner in Maine Senate race",
+        "summary": "Maine Democrats are looking to quickly turn the page on Senate candidate Graham Platner’s imploding campaign and select a new nominee ahead of a looming Monday deadline, but escalating tension between his campaign and the state party is threatening Democrats’ hopes of salvaging a race critical to flipping the Senate this fall. Devon Murphy-Anderson, the…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/energy-environment/5957871-offshore-space-launches/",
-        "published": "2026-07-07T21:42:20+00:00"
+        "url": "https://thehill.com/homenews/campaign/5959902-maine-democrats-senate-race-graham-platner/",
+        "published": "2026-07-08T21:13:12+00:00"
       },
       {
-        "id": "eb53527090d1ba1ec900831205ced7b4",
-        "title": "Reigning champion Argentina escapes with remarkable World Cup victory over Egypt",
-        "summary": "Egypt was leading late, up 2-0. The Argentinians looked beaten. But they fought and fought and fought. Scoring one goal, then another to equalize. And, finally, a third to advance to the quarterfinal.",
+        "id": "0ac00676dbb867614ac50e073d6e1b27",
+        "title": "A new proposal for organ donation sparks concern",
+        "summary": "Should patients who choose euthanasia be able to die by having their vital organs removed for donation? The ethical concerns are substantial.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/07/nx-s1-5884872/2026-world-cup-fifa-argentina-egypt-round-of-16",
-        "published": "2026-07-07T18:49:12+00:00"
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
+        "published": "2026-07-08T21:00:19+00:00"
       },
       {
-        "id": "3b869e5ecd4b3d6eb92ee2fd142059cf",
-        "title": "International Olympic Committee lifts Russia suspension ahead of 2028 LA Games",
-        "summary": "The International Olympic Committee advised sports bodies to end a three-year program vetting Russians for neutral status ahead of qualifying events for the 2028 Los Angeles Olympics.",
+        "id": "2f7a99b17216c8d9520eb3758a197ebb",
+        "title": "Should you sign your kids up for Trump Accounts? Four things to consider",
+        "summary": "Families can still benefit even if their children aren't eligible for the free $1,000 contribution from the federal government.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games",
-        "published": "2026-07-07T17:43:12+00:00"
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5884855/trump-accounts-what-to-know",
+        "published": "2026-07-08T20:02:02+00:00"
       }
     ],
     "asia": [
       {
-        "id": "9efbed027b3d60993eafe96794eb85a8",
-        "title": "FCC denies US firm with Chinese links approval to provide telecoms services",
-        "summary": "The US Federal Communications Commission ⁠said on Tuesday it is adding California-based Digitalsystem Technology to a list of companies posing risks to US national security, citing links to Chinese telecoms firms and its ownership by a Chinese national. The FCC also said ‌it was denying the Los Angeles-based IT company permission to provide international telecommunications services, saying it could be exploited by Chinese threat actors. “There is significant risk that the government of China and",
+        "id": "91fb523bd904bf207f5b0641fcedc82b",
+        "title": "US says China gave only hours’ warning before Pacific submarine missile launch",
+        "summary": "Washington criticised China on Wednesday for providing only a few hours’ notice ahead of its launch of a submarine-fired ballistic missile into the Pacific, saying Beijing’s actions fell short of standards followed by other major nuclear powers. The US State Department said China failed to provide sufficient information ahead of Sunday’s test, which it said took place amid Beijing’s “rapid and opaque nuclear weapons build-up”. “We monitored China’s submarine-launched ballistic missile test on...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/tech/policy/article/3359782/fcc-denies-us-firm-chinese-links-approval-provide-telecoms-services?utm_source=rss_feed",
-        "published": "2026-07-07T22:41:33+00:00"
+        "url": "https://www.scmp.com/news/us/diplomacy/article/3359907/us-says-china-gave-only-hours-warning-pacific-submarine-missile-launch?utm_source=rss_feed",
+        "published": "2026-07-08T22:51:46+00:00"
       },
       {
-        "id": "2884bcdabd5aab6f9b86efda3ecf0ffd",
-        "title": "Wan calls for end to Isoc operations",
-        "summary": "Former House speaker Wan Muhamad Noor Matha has called for the dissolution of the Internal Security Operations Command (Isoc), saying its duties overlap with other state agencies and its performance does not justify its budget.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3282542/wan-calls-for-end-to-isoc-operations",
-        "published": "2026-07-07T22:25:00+00:00"
-      },
-      {
-        "id": "0278f3d530d0dc94f233b1777b58bd5e",
-        "title": "Brokerage: Virtual banks face growth, profitability tests",
-        "summary": "Kiatnakin Phatra Securities (KKPS), the brokerage arm of Kiatnakin Phatra Financial Group (KKP), expects the combined loan portfolio of Thailand's three virtual banks to reach 200 billion baht in 5-6 years.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/business/investment/3282677/brokerage-virtual-banks-face-growth-profitability-tests",
-        "published": "2026-07-07T22:14:00+00:00"
-      },
-      {
-        "id": "c24b22d7cd94351ed7e33714a36676d8",
-        "title": "Call to develop riverside complex",
-        "summary": "Tourism operators support using the land plot previously earmarked for an entertainment complex in Bangkok to attract foreign investors with the same concept excluding a casino, aiming to promote high-value tourism in line with a government pledge.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/property/3282622/call-to-develop-riverside-complex",
-        "published": "2026-07-07T22:03:00+00:00"
-      },
-      {
-        "id": "b48058d5c33aa18c22747b23a3616c6c",
-        "title": "How Hong Kong is fighting to redefine its future with an institutional moat, wealth surge",
-        "summary": "For decades, warnings of Hong Kong’s terminal decline have arrived in periodic waves. When Stephen Roach, the former chairman of Morgan Stanley Asia, ignited a firestorm with his February 2024 assertion that “Hong Kong is over”, he pointed to a toxic cocktail of domestic and external pressures. Roach, who doubled down on his “wake-up call” a year ago, argued that the city’s economic glory was being extinguished by a loss of political autonomy following 2020’s national security law, the spillover",
+        "id": "dc657900c44d0dd4e1bb829183ede907",
+        "title": "Trump’s tariff war pushes Brazil’s trade towards China as US share hits record low",
+        "summary": "The US share of Brazilian exports fell to its lowest level since 1997 in the first half of 2026, while China widened its lead as the country’s top trading partner, according to the American Chamber of Commerce for Brazil, whose report landed as Washington held public hearings on a proposed new round of tariffs against Brazilian goods. American buyers took 9.4 per cent of Brazilian exports between January and June, down from 12.1 per cent a year earlier and the smallest share in the chamber’s...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/business/banking-finance/article/3359698/how-hong-kong-fighting-redefine-its-future-institutional-moat-wealth-surge?utm_source=rss_feed",
-        "published": "2026-07-07T22:00:09+00:00"
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3359906/trumps-tariff-war-pushes-brazils-trade-towards-china-us-share-hits-record-low?utm_source=rss_feed",
+        "published": "2026-07-08T22:17:55+00:00"
       },
       {
-        "id": "bac3770654b7bd47ed0eaa0198867fcd",
-        "title": "Johor state polls: PAS’ bid to revive ties with UMNO has failed, says Bersatu chief Muhyiddin",
-        "summary": "Former Malaysian Prime Minister Muhyiddin Yassin tells CNA that his Bersatu party remains focused on making gains in the Johor polls despite its fractured ties with PAS under opposition coalition Perikatan Nasional.",
+        "id": "1e95409a36034ed61f24a29a0441557d",
+        "title": "Nato summit delivers unity and billions in defence deals, Rutte says",
+        "summary": "Nato Secretary General Mark Rutte defended US President Donald Trump’s criticism of the transatlantic security alliance, while saying this year’s summit showed “a huge sense of unity” and produced procurement plans worth tens of billions of dollars. During a press conference after the North Atlantic Council meeting of leaders at the Nato summit hosted by Turkey in Ankara on Wednesday, Rutte said this year’s gathering had resulted in more than US$50 billion in procurement deals as part of efforts",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/us/diplomacy/article/3359905/nato-summit-delivers-unity-and-billions-defence-deals-rutte-says?utm_source=rss_feed",
+        "published": "2026-07-08T22:08:00+00:00"
+      },
+      {
+        "id": "f93f13652d5d40ad731f05eeae8531c1",
+        "title": "US-China scientific decoupling: the hidden costs of geopolitical rivalry",
+        "summary": "As the United States marks the 250th anniversary of its founding, it confronts a new world order dominated by its relationship with China. In this wide-ranging series, we examine the pressure points and possibilities in those ties, from hard tech to soft power. Here, Dannie Peng looks at what is at stake amid the countries’ historic low in scientific collaboration. In late May, Zhang Ning, founder of TopEdit, a Maryland-based company that provides editing services for academic publications,...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/china/science/article/3359846/us-china-scientific-decoupling-hidden-costs-geopolitical-rivalry?utm_source=rss_feed",
+        "published": "2026-07-08T22:00:23+00:00"
+      },
+      {
+        "id": "6ceb700e206fdbea5ec5fac35359c444",
+        "title": "As inflation hits Indonesia, some businesses bite the bullet while others pass the buck",
+        "summary": "From a US$0.31 haircut to a US$0.67 meal, some Indonesian businesses have refused to pass rising costs on to consumers, providing small but meaningful relief to their communities. Others make the “hard choice” to raise prices.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/johor-state-polls-pas-bid-revive-ties-umno-has-failed-says-bersatu-chief-muhyiddin-6237971",
-        "published": "2026-07-07T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/asia/inflation-hits-indonesia-some-businesses-raise-prices-others-keep-costs-down-6237286",
+        "published": "2026-07-08T22:00:00+00:00"
       },
       {
-        "id": "df542464e0c4028d2ec3c0ed0d7f60eb",
-        "title": "3 tracks are shaping the Middle East’s post-Iran war order",
-        "summary": "The Iran battlefield might be quieter and diplomacy might have resumed, but the main contest has shifted to the architecture of the Middle East. The question is no longer whether Iran can be contained, the Strait of Hormuz can remain open or another round of escalation can be avoided. The larger issue is who will write the rules after the shock. Three tracks are taking shape. The first is led by the United States and built around the expansion of the Abraham Accords, the integration of Israel...",
-        "source": "South China Morning Post",
+        "id": "13c4c2fe0c2c8871a6c53483cbb8ca6a",
+        "title": "Commentary: Johor state polls bring PM Anwar’s national revenue-sharing dilemma into sharp focus",
+        "summary": "Elections in Johor are taking place against the backdrop of the increasingly loud demands by Malaysia’s richer states for larger slices of the national revenue pie, says CNA's Leslie Lopez.",
+        "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3359303/3-tracks-are-shaping-middle-easts-post-iran-war-order?utm_source=rss_feed",
-        "published": "2026-07-07T21:30:06+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/johor-election-state-malaysia-pm-anwar-revenue-6240946",
+        "published": "2026-07-08T22:00:00+00:00"
       },
       {
-        "id": "4b60998b9e662fd1aaef750f757f1779",
-        "title": "At UN, Cuba rallies support against ‘cruel’ and ‘ruthless’ US blockade",
-        "summary": "Cuban Foreign Minister Bruno Rodriguez denounced the “ruthless” US embargo against the communist island during a UN General Assembly debate on Tuesday that took place despite diplomatic pressure by Washington to prevent it. “The government of the United States is carrying out against Cuba a multi-dimensional, non-conventional warfare that has already lasted for almost seven decades now and has become ever more cruel and more ruthless during the last seven months,” Rodriguez told the body,...",
+        "id": "1e35ed4e8cf7b0e4317df6a2c1eb2bbf",
+        "title": "US hearing weighs higher tariffs over alleged forced labour, targeting China",
+        "summary": "China’s labour practices came under scrutiny on Wednesday during a US government hearing on a proposal to impose tariffs on goods linked to forced labour, with participants divided over whether higher tariffs would effectively improve workers’ rights. The Office of the United States Trade Representative (USTR) is holding a three-day public hearing from July 7 to 9 as part of its Section 301 investigation into the use of forced labour in international supply chains. The investigation and the...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/americas/article/3359781/un-cuba-rallies-support-against-cruel-and-ruthless-us-blockade?utm_source=rss_feed",
-        "published": "2026-07-07T21:20:21+00:00"
+        "url": "https://www.scmp.com/news/us/article/3359904/us-hearing-weighs-higher-tariffs-over-alleged-forced-labour-targeting-china?utm_source=rss_feed",
+        "published": "2026-07-08T21:50:01+00:00"
+      },
+      {
+        "id": "97ad2abd15d2bbb376607dd7aa28ff2d",
+        "title": "US launches new strikes on Iran after Trump vows to hit ‘hard’",
+        "summary": "The United States launched new strikes on Iran on Wednesday after US President Donald Trump vowed to hit “hard” following Iranian attacks on ships in the Strait of Hormuz. Trump, while ordering retaliation against Tehran, said he expected the latest military flare-up to end quickly and left the door open to more talks. US Central Command (CENTCOM) said the strikes were carried out to degrade the ability of Iranian forces “to threaten freedom of navigation” in the strait, through which a fifth of",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3359903/us-launches-new-strikes-iran-after-trump-vows-hit-hard?utm_source=rss_feed",
+        "published": "2026-07-08T21:42:54+00:00"
       }
     ],
     "others": [
       {
-        "id": "47a9c9afe54323a5876a5514a9349196",
-        "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-        "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T22:48:45+00:00"
-      },
-      {
-        "id": "06ddf27511c27ca86a43ad8ea883e78a",
-        "title": "Egypt were ‘cheated’ in World Cup loss to Argentina, coach Hassan says",
-        "summary": "'Perhaps they wanted to keep the world champions in the competition,' Hassan said after his team was knocked out.",
+        "id": "1a831f6e172bf77ce503736c6f69d9b3",
+        "title": "Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show",
+        "summary": "FIFA expects 'a couple of billion' to tune in to the 11-minute performance, the first at a World Cup.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/7/7/egypt-were-cheated-in-world-cup-loss-to-argentina-coach-hassan-says?traffic_source=rss",
-        "published": "2026-07-07T22:04:54+00:00"
+        "url": "https://www.aljazeera.com/sports/2026/7/8/justin-bieber-joins-madonna-shakira-bts-in-world-cup-final-halftime-show?traffic_source=rss",
+        "published": "2026-07-08T22:25:58+00:00"
       },
       {
-        "id": "ab168cfcf2a219166474792f791257ec",
-        "title": "US says strikes launched as explosions heard in southern Iran",
-        "summary": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
+        "id": "bbe6aeef501adc4ad84932bf900e8c65",
+        "title": "Family demands investigation after US man killed by ICE agent in Texas",
+        "summary": "Calls for answers after Lorenzo Salgado Araujo fatally shot during traffic stop in Houston in latest ICE killing.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
-        "published": "2026-07-07T21:21:16+00:00"
+        "url": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss",
+        "published": "2026-07-08T21:42:41+00:00"
       },
       {
-        "id": "1736c3906bd3795164a42627ba4ba9d1",
-        "title": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
-        "summary": "SpaceX joins Nasdaq-100 after IPO, bypassing traditional three-month trading rule for inclusion in the tech-heavy index.",
+        "id": "4ed637f7c068c0c1cd614d54103baa4f",
+        "title": "US launches more strikes on Iran with blasts reported in south of country",
+        "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-08T21:40:40+00:00"
+      },
+      {
+        "id": "806f35fa2e5e973dd4f536482ede1a14",
+        "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+        "summary": "President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/economy/2026/7/7/nasdaq-vs-dow-how-are-the-key-indices-different-as-spacex-joins-one?traffic_source=rss",
-        "published": "2026-07-07T20:50:34+00:00"
+        "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
+        "published": "2026-07-08T21:36:02+00:00"
       },
       {
-        "id": "eeb5362cfbbfdf532e9a9ee355c4d6eb",
-        "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-        "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
+        "id": "e91782cb06c912526dd33da37cf5f111",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T20:00:57+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-08T20:18:13+00:00"
       },
       {
-        "id": "99e5d6eabbd17c18e11295b4813e7d39",
-        "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-        "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T19:55:59+00:00"
-      },
-      {
-        "id": "d2e08d2f106d9e0f7686fbab3dbd3dfa",
-        "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
-        "summary": "Kyiv suffered heavy Russian strikes ahead of the NATO summit in Ankara. Experts say Russian President Vladimir Putin is trying to send a message.",
+        "id": "193cd6a02deb813cb32b5faade3bb0da",
+        "title": "Trump's support for Venezuela opposition head Machado wanes",
+        "summary": "Venezuelan opposition leader and Nobel Peace laureate María Corina Machado says she wants to return to her earthquake-ravaged homeland. Yet neither Venezuela's government nor the United States thinks that's a good idea.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-07-07T19:46:00+00:00"
+        "url": "https://www.dw.com/en/trump-s-support-for-venezuela-opposition-head-machado-wanes/a-77882047?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-07-08T19:25:00+00:00"
       },
       {
-        "id": "e7d9ee19275cddfd2b3c94c6ecaa6f1c",
-        "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-        "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
+        "id": "8117e7e8e279be2e76feda24144c9f49",
+        "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+        "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-07T18:56:19+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-08T17:18:14+00:00"
+      },
+      {
+        "id": "0faa01a32596c4b15973943948cf35fc",
+        "title": "Hungary public media reform begins with black screen apology",
+        "summary": "People tuning in to public service media in Hungary on Tuesday were greeted by a black screen and an apology. Peter Magyar has begun dismantling one of Viktor Orban's most potent tools of power.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/hungary-public-media-reform-begins-with-black-screen-apology/a-77880569?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-07-08T15:56:00+00:00"
       }
     ],
     "tech": [
       {
-        "id": "ee192159b143a084e20796e328286741",
-        "title": "Of course viewers are giving up on Netflix shows",
-        "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it returned earlier this year. There seems to be some confusion […]",
+        "id": "4142c1869c495e0b0162427f3be95306",
+        "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+        "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask Meta AI about the captured audio and images. However, the images […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
-        "published": "2026-07-07T21:58:39+00:00"
+        "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+        "published": "2026-07-08T22:37:25+00:00"
       },
       {
-        "id": "096cf29d3c4c579491480a14d90fc307",
-        "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
-        "summary": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Condé Nast, Hearst Magazines, People Inc, and Tastemade. As reported earlier by TechCrunch, the deal includes a mix of licensed past videos and new ongoing series that would have typically been published on YouTube or other […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
-        "published": "2026-07-07T21:37:19+00:00"
-      },
-      {
-        "id": "a7817a7ef3e6e24bdedfaeaf820dfdf0",
-        "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-        "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-        "published": "2026-07-07T21:03:07+00:00"
-      },
-      {
-        "id": "4b0bae235a577716e1b13677d0753acb",
-        "title": "Every new car sold in the European Union must include a driver monitoring camera",
-        "summary": "Article URL: https://allaboutcookies.org/eu-mandatory-distracted-driver-system Comments URL: https://news.ycombinator.com/item?id=48823557 Points: 292 # Comments: 348",
+        "id": "f09024f1b458cab00ebae293b403dbda",
+        "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+        "summary": "Article URL: https://opensourcebarware.com Comments URL: https://news.ycombinator.com/item?id=48837809 Points: 4 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-        "published": "2026-07-07T20:50:46+00:00"
+        "url": "https://opensourcebarware.com",
+        "published": "2026-07-08T21:43:07+00:00"
       },
       {
-        "id": "3e6d5b99cda63289451400164bf1345d",
-        "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
-        "summary": "There's still a slew of questions about why some people develop alpha-gal syndrome.",
+        "id": "7b99530465419e81811e0c530f214898",
+        "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
+        "summary": "AI cheating leads to \"a failed society,\" professor says.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
-        "published": "2026-07-07T20:32:39+00:00"
+        "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+        "published": "2026-07-08T21:42:44+00:00"
       },
       {
-        "id": "616d09480c1614856b8fd2cf010d3f6b",
-        "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-        "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI […]",
-        "source": "The Verge",
+        "id": "0b4463bf9afb46ba3f1f6fd142734973",
+        "title": "Separating signal from noise in coding evaluations",
+        "summary": "Article URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/ Comments URL: https://news.ycombinator.com/item?id=48837396 Points: 106 # Comments: 43",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-        "published": "2026-07-07T20:31:58+00:00"
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+        "published": "2026-07-08T21:03:51+00:00"
       },
       {
-        "id": "210320732e1c2796b390ce7ad4bb14b3",
-        "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
-        "summary": "Texas win at 5th Circuit left in place as attempts to overturn age law continue.",
-        "source": "Ars Technica",
+        "id": "31d5c1cdf8146cfbf1ff7af5cb5cd2f5",
+        "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+        "summary": "Article URL: https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html Comments URL: https://news.ycombinator.com/item?id=48837162 Points: 166 # Comments: 149",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/",
-        "published": "2026-07-07T20:18:24+00:00"
+        "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+        "published": "2026-07-08T20:41:33+00:00"
       },
       {
-        "id": "10c42043a58da792e47d35b410444d48",
-        "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
-        "summary": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
-        "source": "Ars Technica",
+        "id": "30fcbacc5d8d22d4558d6c36d93f5b6c",
+        "title": "Turning a pile of documents into a searchable useable knowledge base",
+        "summary": "Article URL: https://github.com/linuxrebel/DocuBrowser Comments URL: https://news.ycombinator.com/item?id=48837110 Points: 33 # Comments: 6",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
-        "published": "2026-07-07T19:52:59+00:00"
+        "url": "https://github.com/linuxrebel/DocuBrowser",
+        "published": "2026-07-08T20:37:29+00:00"
+      },
+      {
+        "id": "e1ccc6aee60172065f5faba4f4b4844b",
+        "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+        "summary": "Article URL: https://danluu.com/ai-coding/#llm-variance Comments URL: https://news.ycombinator.com/item?id=48836951 Points: 11 # Comments: 1",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://danluu.com/ai-coding/#llm-variance",
+        "published": "2026-07-08T20:21:45+00:00"
+      },
+      {
+        "id": "4d0184976abdb2da402bdccf71b6d81e",
+        "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+        "summary": "Article URL: https://github.com/animesh-94/Onboard-CLI Comments URL: https://news.ycombinator.com/item?id=48836813 Points: 15 # Comments: 2",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/animesh-94/Onboard-CLI",
+        "published": "2026-07-08T20:09:03+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "fee2af03f5062c2fd11380b54bbcb5ba",
+        "title": "Elon Musk and the age of the corporate leviathan",
+        "summary": "For the world’s largest companies, the normal rules of corporate governance no longer apply",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/07/08/elon-musk-and-the-age-of-the-corporate-leviathan",
+        "published": "2026-07-08T21:22:34+00:00"
+      },
+      {
+        "id": "f18dccccb1dd4da924f7fd1165f76a22",
+        "title": "Microsoft’s gaming strategy has misfired badly",
+        "summary": "A supply-chain crisis for Xbox couldn’t have come at a worse time",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/07/08/microsofts-gaming-strategy-has-misfired-badly",
+        "published": "2026-07-08T19:48:13+00:00"
+      },
+      {
+        "id": "3d540411ffe14770566057f18b1d7697",
+        "title": "Three ways the LNG market could crack before winter",
+        "summary": "War, weather and outages may still send gas prices soaring",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter",
+        "published": "2026-07-08T14:08:15+00:00"
+      },
       {
         "id": "9c8aded8d2f4c8d173252ca09fd6bf20",
         "title": "AI has taken over the stock market. The bond market is next",
@@ -415,33 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/international/2026/07/06/if-ludicrous-trump-flattery-can-save-nato-bring-it-on",
         "published": "2026-07-06T21:37:52+00:00"
-      },
-      {
-        "id": "9ea458002ebf63245e28693308e0f3df",
-        "title": "The World Bank has ditched its climate targets",
-        "summary": "The rise and fall of the institution’s love for green growth",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets",
-        "published": "2026-07-06T19:40:33+00:00"
-      },
-      {
-        "id": "01cec7e78dac7598c1fd6f3ea45453c9",
-        "title": "Beware the top-heavy economy",
-        "summary": "Supersize capital flows are reshaping business—and building risk",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/07/06/beware-the-top-heavy-economy",
-        "published": "2026-07-06T18:22:58+00:00"
-      },
-      {
-        "id": "a8aea83f82429f013f07228e7d740610",
-        "title": "Women’s progress at work appears to be stalling",
-        "summary": "After the “lean in” generation, are professional women leaning out?",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling",
-        "published": "2026-07-05T17:22:02+00:00"
       }
     ]
   },
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5259.81005859375,
-        "prev_close": 5244.2900390625,
-        "change_pct": 0.3,
+        "price": 5342.240234375,
+        "prev_close": 5259.81005859375,
+        "change_pct": 1.57,
         "direction": "up",
-        "price_fmt": "5,259.8",
-        "change_str": "+0.30%"
+        "price_fmt": "5,342.2",
+        "change_str": "+1.57%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7503.85009765625,
-        "prev_close": 7537.43017578125,
-        "change_pct": -0.45,
+        "price": 7482.7099609375,
+        "prev_close": 7503.85009765625,
+        "change_pct": -0.28,
         "direction": "down",
-        "price_fmt": "7,503.9",
-        "change_str": "-0.45%"
+        "price_fmt": "7,482.7",
+        "change_str": "-0.28%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23616.3203125,
-        "prev_close": 23350.029296875,
-        "change_pct": 1.14,
-        "direction": "up",
-        "price_fmt": "23,616",
-        "change_str": "+1.14%"
+        "price": 23496.890625,
+        "prev_close": 23616.3203125,
+        "change_pct": -0.51,
+        "direction": "down",
+        "price_fmt": "23,497",
+        "change_str": "-0.51%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 69737.6875,
-        "prev_close": 69744.0703125,
-        "change_pct": -0.01,
+        "price": 68256.9609375,
+        "prev_close": 69737.6875,
+        "change_pct": -2.12,
         "direction": "down",
-        "price_fmt": "69,738",
-        "change_str": "-0.01%"
+        "price_fmt": "68,257",
+        "change_str": "-2.12%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10665.8798828125,
-        "prev_close": 10651.7998046875,
-        "change_pct": 0.13,
-        "direction": "up",
-        "price_fmt": "10,666",
-        "change_str": "+0.13%"
+        "price": 10489.0400390625,
+        "prev_close": 10665.900390625,
+        "change_pct": -1.66,
+        "direction": "down",
+        "price_fmt": "10,489",
+        "change_str": "-1.66%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8831.0,
-        "prev_close": 8844.400390625,
-        "change_pct": -0.15,
+        "price": 8803.900390625,
+        "prev_close": 8831.0,
+        "change_pct": -0.31,
         "direction": "down",
-        "price_fmt": "8,831.0",
-        "change_str": "-0.15%"
+        "price_fmt": "8,803.9",
+        "change_str": "-0.31%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2928800582885742,
-        "prev_close": 1.2916799783706665,
-        "change_pct": 0.09,
+        "price": 1.2937099933624268,
+        "prev_close": 1.293619990348816,
+        "change_pct": 0.01,
         "direction": "up",
         "price_fmt": "1.29",
-        "change_str": "+0.09%"
+        "change_str": "+0.01%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4743499755859375,
-        "prev_close": 1.4776999950408936,
-        "change_pct": -0.23,
-        "direction": "down",
-        "price_fmt": "1.47",
-        "change_str": "-0.23%"
+        "price": 1.4767999649047852,
+        "prev_close": 1.474910020828247,
+        "change_pct": 0.13,
+        "direction": "up",
+        "price_fmt": "1.48",
+        "change_str": "+0.13%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7259900569915771,
-        "prev_close": 1.7239999771118164,
-        "change_pct": 0.12,
+        "price": 1.7323100566864014,
+        "prev_close": 1.7264800071716309,
+        "change_pct": 0.34,
         "direction": "up",
         "price_fmt": "1.73",
-        "change_str": "+0.12%"
+        "change_str": "+0.34%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.00791999977082014,
+        "price": 0.007910000160336494,
         "prev_close": 0.0079,
-        "change_pct": 0.25,
+        "change_pct": 0.13,
         "direction": "up",
         "price_fmt": "0.01",
-        "change_str": "+0.25%"
+        "change_str": "+0.13%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.18979999423027039,
+        "price": 0.18950000405311584,
         "prev_close": 0.1896,
-        "change_pct": 0.11,
-        "direction": "up",
+        "change_pct": -0.05,
+        "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "+0.11%"
+        "change_str": "-0.05%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 76.19999694824219,
-        "prev_close": 71.98999786376953,
-        "change_pct": 5.85,
+        "price": 78.94999694824219,
+        "prev_close": 74.16000366210938,
+        "change_pct": 6.46,
         "direction": "up",
-        "price_fmt": "76.20",
-        "change_str": "+5.85%"
+        "price_fmt": "78.95",
+        "change_str": "+6.46%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4111.2998046875,
-        "prev_close": 4155.10009765625,
-        "change_pct": -1.05,
+        "price": 4086.10009765625,
+        "prev_close": 4145.2998046875,
+        "change_pct": -1.43,
         "direction": "down",
-        "price_fmt": "4,111.3",
-        "change_str": "-1.05%"
+        "price_fmt": "4,086.1",
+        "change_str": "-1.43%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 60.1349983215332,
-        "prev_close": 61.91999816894531,
-        "change_pct": -2.88,
+        "price": 58.7599983215332,
+        "prev_close": 60.930999755859375,
+        "change_pct": -3.56,
         "direction": "down",
-        "price_fmt": "60.13",
-        "change_str": "-2.88%"
+        "price_fmt": "58.76",
+        "change_str": "-3.56%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.2720000743865967,
-        "prev_close": 3.244999885559082,
-        "change_pct": 0.83,
-        "direction": "up",
-        "price_fmt": "3.27",
-        "change_str": "+0.83%"
+        "price": 3.2190001010894775,
+        "prev_close": 3.265000104904175,
+        "change_pct": -1.41,
+        "direction": "down",
+        "price_fmt": "3.22",
+        "change_str": "-1.41%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 63522.01171875,
-        "prev_close": 63995.015625,
-        "change_pct": -0.74,
+        "price": 62221.421875,
+        "prev_close": 63297.39453125,
+        "change_pct": -1.7,
         "direction": "down",
-        "price_fmt": "63,522",
-        "change_str": "-0.74%"
+        "price_fmt": "62,221",
+        "change_str": "-1.70%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1775.5,
-        "prev_close": 1797.57373046875,
-        "change_pct": -1.23,
+        "price": 1737.8199462890625,
+        "prev_close": 1768.511474609375,
+        "change_pct": -1.74,
         "direction": "down",
-        "price_fmt": "1,775.5",
-        "change_str": "-1.23%"
+        "price_fmt": "1,737.8",
+        "change_str": "-1.74%"
       }
     ]
   },
