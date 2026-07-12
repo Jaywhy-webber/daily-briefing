@@ -2,375 +2,402 @@
   "news": {
     "singapore": [
       {
-        "id": "78b367aef88dbbb55d5c6b71abde040f",
-        "title": "When back pain turns out to be cancer – and something more",
-        "summary": "Those with Li-Fraumeni syndrome have a more than 90% chance of developing one or more types of cancer by 60.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/when-back-pain-turns-out-to-be-cancer-and-something-more",
-        "published": "2026-07-11T21:00:00+00:00"
-      },
-      {
-        "id": "596496a5421878b00fe647c07fc8b083",
-        "title": "14-year-old cyclist taken to hospital after accident with car in Jurong East",
-        "summary": "He appears to have been trapped under car; 48-year-old driver assisting with police investigations.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/14-year-old-cyclist-taken-to-hospital-after-getting-trapped-under-car-in-jurong-east-accident",
-        "published": "2026-07-11T14:00:00+00:00"
-      },
-      {
-        "id": "1f1fc246057ef4f4bf574ad2850169db",
-        "title": "From wiggly toys to wellness bags: Meet the children turning creativity into cash",
-        "summary": "Sixty young entrepreneurs are showcasing their micro-businesses over the weekend at HarbourFront Centre.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/community/from-wiggly-toys-to-wellness-bags-meet-the-children-turning-creativity-into-cash",
-        "published": "2026-07-11T12:42:08+00:00"
-      },
-      {
-        "id": "00d7acc90cc23906277c75a0ec8b3182",
-        "title": "About 15,000 Primary 5 pupils catch first National Education show",
-        "summary": "Students from 11 special education schools also joined the celebration.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/community/about-15000-p5-students-including-those-with-disabilities-catch-first-national-education-show",
-        "published": "2026-07-11T12:30:00+00:00"
-      },
-      {
-        "id": "773f44ca3b8891537ebeda701f81c1d6",
-        "title": "From pickleball court to rock-climbing wall: Spottiswoode estate renewal proposals ready for voting",
-        "summary": "This is part of Singapore's first participatory budgeting trial.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/from-pickleball-court-to-rock-climbing-wall-spottiswoode-estate-renewal-proposals-ready-for-voting",
-        "published": "2026-07-11T11:14:00+00:00"
-      },
-      {
-        "id": "5785aa63d4cb1e47bb804092df1d712d",
-        "title": "Two workers taken to hospital after fire breaks out in manhole in Tuas",
-        "summary": "They were carrying out replacement works on the sewer manhole cover when the fire occurred.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/two-workers-taken-to-hospital-after-fire-breaks-out-in-manhole-in-tuas",
-        "published": "2026-07-11T10:05:00+00:00"
-      },
-      {
-        "id": "0f9155586c1d18611d212a5a5672611f",
-        "title": "WhatsApp reserves high-profile usernames ahead of privacy feature rollout, Singapore leaders' names blocked",
-        "summary": "Checks found that usernames corresponding to the names of some Singapore political leaders, including @LawrenceWong and @KShanmugam could not be registered.",
+        "id": "f83cd441fa950a5e2494605ec32ff846",
+        "title": "Commentary: Should Western countries embrace air-con like Singapore?",
+        "summary": "Temperate cities do not need to copy Singapore’s dependence on air-conditioning, says climate scientist Winston Chow.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/whatsapp-reserve-username-public-figure-politician-6248011",
-        "published": "2026-07-11T09:49:30+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/europe-heatwave-air-con-debate-climate-change-6246381",
+        "published": "2026-07-12T22:00:00+00:00"
       },
       {
-        "id": "56f1e5932cd26c55e19116fc9bbad129",
-        "title": "Several flights from Singapore cancelled as Typhoon Bavi takes aim at Taiwan and China",
-        "summary": "Typhoon Bavi, described as one of the largest storms to hit Taiwan in more than 30 years, has already caused significant damage in parts of Asia.",
+        "id": "b29cc6479eb404c5fdbebfa5374b0e9a",
+        "title": "askST Jobs: Can a company enforce a non-compete clause after laying me off?",
+        "summary": "Not all such clauses are enforceable, particularly if they are unreasonable.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/jobs/askst-jobs-can-a-company-enforce-a-non-compete-on-me-after-laying-me-off",
+        "published": "2026-07-12T21:00:00+00:00"
+      },
+      {
+        "id": "af9728902a91c67421919f48b722e7ed",
+        "title": "Urine biopsy offers a more accurate way to detect bladder, kidney and prostate cancers",
+        "summary": "It provides patients with a less painful and invasive screening option.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/urine-biopsy-offers-a-more-accurate-way-to-detect-bladder-kidney-and-prostate-cancer",
+        "published": "2026-07-12T21:00:00+00:00"
+      },
+      {
+        "id": "d3bc78a7f55fc7b57dc492590c505502",
+        "title": "Two cancer patients, two eras of treatment",
+        "summary": "Medical progress has allowed myeloma patients to not just live longer but also live more normally, says the writer.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/two-cancer-patients-two-eras-of-treatment",
+        "published": "2026-07-12T21:00:00+00:00"
+      },
+      {
+        "id": "14c387e9dbb83cfeff8b2ea8a922a0ea",
+        "title": "Is there really a ‘three-seconds rule’ when it comes to dropped food?",
+        "summary": "",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/is-there-really-a-three-second-rule-when-it-comes-to-dropped-food",
+        "published": "2026-07-12T21:00:00+00:00"
+      },
+      {
+        "id": "0cbdb455f2a0942ae4b334fa5c584da6",
+        "title": "Singapore proposes mandatory notification when firms use personal data for AI training",
+        "summary": "Organisations should issue AI-specific notifications explaining that data will be used to develop generative AI models.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/tech/singapore-proposes-ai-specific-notices-for-personal-data-used-in-ai-training",
+        "published": "2026-07-12T21:00:00+00:00"
+      },
+      {
+        "id": "2d743394f7e158e6034bf934c805c2e6",
+        "title": "Inter-agency task force to unveil recommendations by end-2026 to support people with disabilities",
+        "summary": "Employment and job retention remain key priorities for people with disabilities and the task force will review how more support can be given.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/typhoon-bavi-singapore-flights-cancelled-taiwan-china-6247776",
-        "published": "2026-07-11T02:38:54+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/task-force-disability-employment-community-affordability-msf-6246356",
+        "published": "2026-07-12T10:23:06+00:00"
+      },
+      {
+        "id": "b39ebfdd683798677cc89f5ac45f0838",
+        "title": "‘The ground is not ready’: PWDs, caregivers raise concerns over finding jobs and staying employed",
+        "summary": "Caregivers are also worried about how people at work would interact with their loved ones.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/community/the-ground-is-not-ready-pwds-caregivers-raise-concerns-over-finding-jobs-and-staying-employed",
+        "published": "2026-07-12T10:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "785b1cec610e10b82393fb9bb34e952a",
-        "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
-        "summary": "Palestinians are mourning Mohammed al-Wahidi, a beloved aid worker in Gaza. He was killed by as Israeli airstrike while en route to a World Cup screening which he organized.",
+        "id": "b16012aa4a7299f1b786537cbe2547fe",
+        "title": "Preliminary findings reveal Graham died of “aortic dissection”: Medical examiner",
+        "summary": "Sen. Lindsey Graham (R-S.C.) died on Saturday of an aortic dissection due to arteriosclerotic cardiovascular disease, the office of the D.C. Chief Medical Examiner said Sunday. “The death certificate will be PENDING until all the toxicological and microscopic testing are finalized and at that point the death certificate will be updated to reflect the cause…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/senate/5964972-sen-lindsey-graham-death-cause/",
+        "published": "2026-07-12T22:00:06+00:00"
+      },
+      {
+        "id": "43ad7b31e9deabdb788c9d130012abad",
+        "title": "Ukraine’s prime minister steps down as country ‘is changing its political strategy’",
+        "summary": "Ukrainian Prime Minister Yulia Svyrydenko stepped down on Sunday, as Ukrainian President Volodymyr Zelensky reshapes his Cabinet amid Russia’s ongoing invasion of the eastern European country. In a lengthy statement on social media, Zelensky said he and Svyrydenko determined they need to implement “personnel changes” to “ensure the implementation of the updated political strategy.” Zelensky…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/5964901-yulia-svyrydenko-resigns-ukraine/",
+        "published": "2026-07-12T21:08:24+00:00"
+      },
+      {
+        "id": "51118c2a80a3beb53fe3cf2351dcd4c1",
+        "title": "Georgia's unique in the American Revolution told through its historical markers",
+        "summary": "NPR's Don Gonyea speaks with Andrew Iden, Executive Producer of Marked!: The Podcast, which examines Georgia's role in America's revolutionary period through the 2,000 roadside historical marker.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
-        "published": "2026-07-11T21:09:56+00:00"
+        "url": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers",
+        "published": "2026-07-12T21:08:15+00:00"
       },
       {
-        "id": "6ac81edb2fbbb055f4525012d88bc035",
-        "title": "This English professor has run with the bulls in Spain for two decades",
-        "summary": "When Bill Hillmann was 19 years old, he read Ernest Hemingway's The Sun Also Rises. That book inspired him to pursue two dreams: a career in literature and to run with the bulls in Pamplona, Spain.",
+        "id": "e343b9535ffd0c15bba00064e6faa5e7",
+        "title": "McConnell’s absence imperils Trump’s record defense budget",
+        "summary": "The ongoing absence of Sen. Mitch McConnell (R-Ky.) from Capitol Hill is throwing another wrench in President Trump’s uphill push for a massive $1.5 trillion defense spending package next year. McConnell, who has been in the hospital for more than three weeks, chairs the Senate Appropriations defense subcommittee, the panel that controls Pentagon spending. His…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/defense/5961915-mcconnell-absence-trump-defense-spending/",
+        "published": "2026-07-12T21:00:00+00:00"
+      },
+      {
+        "id": "c11435fed51572360b93355c349aec67",
+        "title": "Russia goes to Japan for tech in Ukraine war: Report",
+        "summary": "Russia has used Japan as a base for tech and spying in its war against Ukraine, according to a new report from The New York Times. According to the Times report, released Sunday, some Russian spies ended up in Japan after getting kicked out of Western countries following the beginning of the war, per officials.…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/technology/5964924-russia-japan-tech-spying-ukraine/",
+        "published": "2026-07-12T20:59:49+00:00"
+      },
+      {
+        "id": "df74688760ef33eb7b652fd795bff832",
+        "title": "Norman asks Trump for endorsement to replace Graham: Report",
+        "summary": "On Sunday, Rep. Ralph Norman (R-S.C.) spoke with President Trump regarding a potential endorsement in the special primary to replace the late South Carolina Sen. Lindsey Graham (R), according to a new report. The president told Norman, “Give me a week,” when asked about an endorsement, Bloomberg Government reported hours after Graham’s office announced his…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/5964890-trump-endorsement-ralph-norman/",
+        "published": "2026-07-12T20:38:14+00:00"
+      },
+      {
+        "id": "8ab83fc41cfeed88b781e0884ae0cf4c",
+        "title": "Graham’s Democratic reelection challenger calls for ‘setting partisanship aside’",
+        "summary": "Democrat Annie Andrews, who was running against Sen. Lindsey Graham (R-S.C.) in the South Carolina Senate race, called for “setting partisanship aside” after Graham’s death on Saturday. “My deepest condolences are with the family of Senator Lindsey Graham, his friends, his devoted staff, and all who are grieving this sudden and tremendous loss,” Andrews wrote…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/5964839-annie-andrews-condolences-graham/",
+        "published": "2026-07-12T20:26:22+00:00"
+      },
+      {
+        "id": "09952c7e8079330aae8d93090590d88c",
+        "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people, officials say",
+        "summary": "Footage shared online by first responders shows a huge blaze raging and plumes coming out of the front door of the pub in the northern part of the Thai capital.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/11/nx-s1-5887431/this-english-professor-has-run-with-the-bulls-in-spain-for-two-decades",
-        "published": "2026-07-11T21:08:27+00:00"
-      },
-      {
-        "id": "72f05c7c5cccee68bfd658a45fee4e13",
-        "title": "Crypto bill faces make-or-break moment ahead of August recess",
-        "summary": "A cryptocurrency regulation bill is facing a make-or-break moment as senators seek to resolve remaining policy disputes in the next four-week stretch, which experts warn is likely the last window to pass the legislation before the midterm elections. Bipartisan negotiations over the Clarity Act, which aims to provide a regulatory framework for the digital assets…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/technology/5963428-crypto-bill-clarity-act-make-or-break-congress/",
-        "published": "2026-07-11T21:00:00+00:00"
-      },
-      {
-        "id": "af990b4583117d7feb1ee720cdb7a0a5",
-        "title": "Sunday shows preview: US-Iran tensions flare; Democrats grapple with Platner fallout",
-        "summary": "President Trump’s trip to Turkey this week for the NATO alliance’s summit made big headlines over his comments about the state of U.S.-Iranian negotiations and security risks posed by the Iran war. The president told reporters on his way back from the summit on Wednesday that he was Iran’s “No. 1” target. Trump made the…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/5964166-trump-air-force-one-iran/",
-        "published": "2026-07-11T20:40:00+00:00"
-      },
-      {
-        "id": "cc152747129cefe5727e2f33deb68731",
-        "title": "Trump rips Haberman, says she’ll ‘pay the price’ over health reporting",
-        "summary": "President Trump slammed New York Times journalist Maggie Haberman after she questioned his physical and cognitive fitness during an appearance on MS Now, warning that she will “pay the price” when his multibillion-dollar lawsuit against the Times reaches court. In a lengthy Truth Social post on Saturday, Trump lashed out at Haberman after she questioned…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/5964144-trump-slams-maggie-haberman/",
-        "published": "2026-07-11T20:11:12+00:00"
-      },
-      {
-        "id": "bd06d1e593b410b0c252a1b64c0e1c8d",
-        "title": "Cost of Iran war grows, as Trump throws its end into question",
-        "summary": "The cost of America’s military operations against Iran is steadily growing, with continued escalations over the Strait of Hormuz this week as President Trump threatens to blow up negotiations and return to all-out war. The immediate cost of military actions in the Middle East will run the government tens of billions of dollars, but the…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/defense/5963663-iran-war-cost-rising/",
-        "published": "2026-07-11T20:00:00+00:00"
-      },
-      {
-        "id": "161d7b8aa623cb18ca264f55151b6989",
-        "title": "Reflecting Pool drained again as issues plague Trump-backed renovation",
-        "summary": "The Lincoln Memorial Reflecting Pool is being drained again for another round of repairs, marking another setback in President Trump’s multimillion-dollar renovation of the historic Washington, D.C. landmark. Trump had hoped to have the pool ready to be showcased by July 4, when the nation would celebrate its 250th anniversary, but the project quickly ran…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/5964100-reflecting-pool-drained-again-as-issues-plague-trump-backed-renovation/",
-        "published": "2026-07-11T19:15:04+00:00"
-      },
-      {
-        "id": "b09c445455594447f56fb22b684cc2f2",
-        "title": "Ro Khanna says he was detained by armed Israeli settlers in West Bank",
-        "summary": "Rep. Ro Khanna (D-Calif.) said on Saturday he was detained for over an hour in the West Bank earlier this week by Israeli settlers and that the detention continued with Israeli Defense Forces (IDF) soldiers arrived on the scene. “Israeli settlers, brandishing American made M4s, detained me & other Americans on my trip to Palestine,”…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/house/5964095-khanna-detained-israeli-settlers/",
-        "published": "2026-07-11T18:52:51+00:00"
+        "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+        "published": "2026-07-12T19:53:24+00:00"
       }
     ],
     "asia": [
       {
-        "id": "33b2747288a66323079fc3a6069e0c13",
-        "title": "Reading the Sino-US rivalry: how a quiet literary relationship has shaped views on China",
-        "summary": "As the United States marks the 250th anniversary of its founding, it confronts a new world order dominated by its relationship with China. In this wide-ranging series, we examine the pressure points and possibilities in those ties, from hard tech to soft power. Here, Khushboo Razdan looks at how books shape public perceptions and inspire lifelong connections between the US and China even as their geopolitical rivalry intensifies. Alexander Boyd was 14 when a book about China altered the course..",
+        "id": "8c321a0dfc65d1168fe24eb1e7edc63c",
+        "title": "Calls for Isoc reform mount",
+        "summary": "The Internal Security Operations Command (Isoc) remains necessary to tackle complex threats, but the agency must modernise, improve transparency and reduce spending, security experts say.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/special-reports/3285087/calls-for-isoc-reform-mount",
+        "published": "2026-07-12T22:18:00+00:00"
+      },
+      {
+        "id": "370a29e14a42d276d6a394dd9a80b8e4",
+        "title": "Wu Shicun on why Beijing will not rule out Scarborough Shoal construction",
+        "summary": "Wu Shicun is the founding president of China’s National Institute for South China Sea Studies and chairman of the Huayang Centre for Maritime Cooperation and Ocean Governance. In this interview, the first in a series about the South China Sea dispute, he discusses ways Beijing can respond to rival claimants. This interview first appeared in SCMP Plus. For other interviews in the Open Questions series, click here. With Manila intensifying its “transparency” campaign, how does China view the...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3360151/reading-sino-us-rivalry-how-quiet-literary-relationship-has-shaped-views-china?utm_source=rss_feed",
-        "published": "2026-07-11T22:00:14+00:00"
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3360243/wu-shicun-why-beijing-will-not-rule-out-scarborough-shoal-construction?utm_source=rss_feed",
+        "published": "2026-07-12T22:00:07+00:00"
       },
       {
-        "id": "0ac4307be2a07c7ad5089f158c87dc2b",
-        "title": "Trump’s crypto windfall showcases his ability to turn loyalty into power",
-        "summary": "Like many people outside the United States, I admire much of what it represents: open debate, strong institutions, energetic politics and the belief that public power should be restrained by rules. That is why watching the US today is so extraordinary. Consider US President Donald Trump’s meme coin. Nearly a million accounts that bought the $TRUMP coin have lost money, according to a report in The New York Times based on analysis of blockchain transactions. Their collective losses have been...",
+        "id": "bc4f2aed29dc8ac535116447b5e525b3",
+        "title": "Massive landfill fire in Indonesia prompts renewed calls to end open dumping",
+        "summary": "Landfill fires are a recurring problem, particularly during prolonged dry spells exacerbated by El Nino.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/asia/indonesia-landfill-fire-jatiwaringin-tangerang-open-dumping-6245831",
+        "published": "2026-07-12T22:00:00+00:00"
+      },
+      {
+        "id": "c43bc801f55e5fb3808db8f4e255dcb3",
+        "title": "At least 27 dead in Bangkok bar fire",
+        "summary": "Musicians at the venue described \"smoke from a circuit breaker near the stage followed by the power going out and an explosion\", says Thai Prime Minister Anutin Charnvirakul.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/asia/bangkok-bar-fire-27-killed-6249566",
+        "published": "2026-07-12T21:45:00+00:00"
+      },
+      {
+        "id": "b1afa85e18e2f60f664e04850d45c3ab",
+        "title": "Bangkok eatery fire killed at least 27",
+        "summary": "At least 27 people were killed when a fire erupted at an eatery in Chatuchak district, Bangkok, early Monday morning.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3285214/bangkok-eatery-fire-killed-at-least-27",
+        "published": "2026-07-12T21:40:00+00:00"
+      },
+      {
+        "id": "453fdca35868d2bc3d41b60b9669fbcc",
+        "title": "How Hong Kong can draw line under the 2019-20 protests and move forward",
+        "summary": "Hong Kong needs to give some serious and creative thought as to how best we, as a community, are going to draw a line under the events of the 2019-20 protest movement. That this was a serious and sad episode in our history cannot be denied or avoided. Thousands of well-meaning ordinary individuals joined public demonstrations, many for the first time in their lives. Whatever the flaws of the government’s extradition legislation and undoubted missteps in its political execution, and however...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3359796/trumps-crypto-windfall-showcases-his-ability-turn-loyalty-power?utm_source=rss_feed",
-        "published": "2026-07-11T21:30:07+00:00"
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359958/how-hong-kong-can-draw-line-under-2019-20-protests-and-move-forward?utm_source=rss_feed",
+        "published": "2026-07-12T21:30:05+00:00"
       },
       {
-        "id": "4685bc6f378c56560fc2699dc9b0f096",
-        "title": "Taylor Swift foot US$160,000 police bill for her wedding, New York mayor says",
-        "summary": "Taylor Swift shelled out six figures to cover the cost of NYPD officers and other city resources required to protect her massive Madison Square Garden wedding to Kansas City Chiefs player Travis Kelce earlier this month, New York Mayor Zohran Mamdani revealed. The Grammy winner “has paid already the cost of the permit that was lodged, which was over US$160,000 for that event and for the response to that event”, Mamdani said during a Friday press conference, after a reporter asked him whether...",
+        "id": "02a1cd31d2a2ce60fe3e1c3fb78b2a14",
+        "title": "Bloc eyes Myanmar impasse",
+        "summary": "Asean foreign ministers renewed pressure on Myanmar to advance the bloc's Five-Point Consensus (5PC), with the detention of political prisoners, including former leader Aung San Suu Kyi, remaining a concern during talks in Bangkok.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3284942/bloc-eyes-myanmar-impasse",
+        "published": "2026-07-12T21:11:00+00:00"
+      },
+      {
+        "id": "3d493e21c08b32f9764be75825aa6efe",
+        "title": "German man charged with kidnapping after supermarket hostage incident in Berlin",
+        "summary": "German authorities have issued an arrest warrant for a 29-year-old man who is accused of holding a woman hostage in a Berlin supermarket for more than 11 hours over the weekend. The man was charged on Sunday with kidnapping for ransom, in conjunction with attempted aggravated extortion and dangerous bodily harm. The man allegedly took the female supermarket employee hostage and threatened her inside a shop in Berlin’s southern Marienfelde neighbourhood on Friday evening shortly after 10pm local.",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3360252/taylor-swift-foot-us160000-police-bill-her-wedding-new-york-mayor-says?utm_source=rss_feed",
-        "published": "2026-07-11T20:04:00+00:00"
-      },
-      {
-        "id": "7e093b42e352130cb52cb9235f549442",
-        "title": "NATO | Towards a more European alliance",
-        "summary": "Faced with external security challenges and internal divisions, especially under a sceptical Donald Trump administration, European members are preparing to play a larger role in keeping the alliance united and functional",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/nato-towards-a-more-european-alliance/article71211462.ece",
-        "published": "2026-07-11T20:02:28+00:00"
-      },
-      {
-        "id": "6ede03123870cb5edf032f99a6edbe66",
-        "title": "Assassinations unleashed under Trump haunt Iran war endgame",
-        "summary": "Shortly before US President Donald Trump ended a ceasefire with Iran this week, Israeli officials presented his team with intelligence indicating Tehran was hatching new plots to kill him. It was not the first such warning. US law enforcement and intelligence agencies have tracked evidence for years of Iranian efforts to target the president, with signals only increasing since the start of the war. Their desire to target Trump and his top aides began six years ago, just outside Baghdad...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3360251/assassinations-unleashed-under-trump-haunt-iran-war-endgame?utm_source=rss_feed",
-        "published": "2026-07-11T19:38:14+00:00"
-      },
-      {
-        "id": "dfac6650ec41289377dee6556658ab9a",
-        "title": "PM Modi in New Zealand updates: India, New Zealand elevate ties to strategic partnership",
-        "summary": "An India-New Zealand joint action plan on sport was also firmed up; it provides for collaboration in high-performance sports, sports science, sports medicine and athlete development",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-new-zealand-visit-live-updates-on-july-11-2026/article71209319.ece",
-        "published": "2026-07-11T19:09:59+00:00"
-      },
-      {
-        "id": "9ed7bd7db53959a17bff81d34544edde",
-        "title": "U.S. delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal: official",
-        "summary": "Under a framework agreement reached on June 26, Israel will gradually withdraw from areas of southern Lebanon where it has deployed troops to fight Hezbollah, the Iran-backed Shia movement",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/us-delegation-in-lebanon-to-discuss-israel-pilot-zone-withdrawal-official/article71211532.ece",
-        "published": "2026-07-11T18:03:58+00:00"
-      },
-      {
-        "id": "aa8fb82f9f7686abd035c3a34415a330",
-        "title": "At least 88 terrorists killed in ongoing anti-terror operation in Pakistan’s Balochistan",
-        "summary": "The military, paramilitary Rangers and the Frontier Corps are participating in the ongoing operation, which has involved both ground and air offensives against the militants",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/at-least-88-terrorists-killed-in-ongoing-anti-terror-operation-in-pakistans-balochistan/article71211592.ece",
-        "published": "2026-07-11T18:02:57+00:00"
+        "url": "https://www.scmp.com/news/world/europe/article/3360302/german-man-charged-kidnapping-after-supermarket-hostage-incident-berlin?utm_source=rss_feed",
+        "published": "2026-07-12T20:44:17+00:00"
       }
     ],
     "others": [
       {
-        "id": "2e398d4c25e311ed9c9787a0b604071e",
-        "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-        "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T21:56:52+00:00"
-      },
-      {
-        "id": "0c2232d19dc38bc6b5523c7519be6052",
-        "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
-        "summary": "The case is the latest instance of the Trump administration seeking to unravel prosecutions against January 6 rioters.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
-        "published": "2026-07-11T21:53:40+00:00"
-      },
-      {
-        "id": "1c2dc1781f0ac73939ddf8d21546514b",
-        "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
-        "summary": "Live coverage and updates from our text commentary stream as Messi's Argentina face Switzerland in the quarterfinals.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
-        "published": "2026-07-11T21:31:40+00:00"
-      },
-      {
-        "id": "290c9525da918929e2b89b35f5c2c0bd",
-        "title": "UK police investigate murder of politician Ann Widdecombe",
-        "summary": "Politician Ann Widdecombe was found dead with serious injuries, with police confirming a murder investigation underway",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
-        "published": "2026-07-11T20:29:40+00:00"
-      },
-      {
-        "id": "24dbcbf000b637dd67fb76a05dd505e8",
-        "title": "Iran supreme leader calls for revenge for father's killing",
-        "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+        "id": "3bb2c0a6dcba30642480d31d88bdabf4",
+        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+        "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
         "source": "BBC World",
         "category": "others",
         "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T19:30:36+00:00"
+        "published": "2026-07-12T22:17:40+00:00"
       },
       {
-        "id": "9dffa3b233cfa0a2a53c1cecd56cdca8",
-        "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-        "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+        "id": "5f7e318ecd2114cdbc7075b8d474370d",
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T18:00:09+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T22:08:07+00:00"
       },
       {
-        "id": "9a2f9bb8f4592edf08faf7e45c1b8549",
-        "title": "China's second typhoon in a week makes landfall",
-        "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "id": "4ae61631a226666d3497cdfb5f3921ae",
+        "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+        "summary": "Progressive congressman accuses Israeli military of 'lying' after settlers held up his van in the occupied West Bank.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+        "published": "2026-07-12T21:59:36+00:00"
+      },
+      {
+        "id": "48d740e20a5d52a630792a3fedbad6bd",
+        "title": "Israel releases video of huge detonations in Lebanon",
+        "summary": "The Israeli military has released video showing huge explosions and detonations in villages in southern Lebanon.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
+        "published": "2026-07-12T21:50:28+00:00"
+      },
+      {
+        "id": "97cde0ea8acb2ca0ec53054938baad57",
+        "title": "Deadly Israeli strikes pound Gaza",
+        "summary": "Israel’s military has attacked several places across Gaza.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
+        "published": "2026-07-12T21:33:10+00:00"
+      },
+      {
+        "id": "78fd8653b4aef398f2efb15f9dcdef8a",
+        "title": "At least 27 killed in Bangkok bar fire",
+        "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-11T17:41:56+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T20:13:14+00:00"
       },
       {
-        "id": "32c25aca09055112f997033061d3f4f3",
-        "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
-        "summary": "Nearly 17,000 injured and thousands more listed as missing amid calls by president Delcy Rodríguez and UN for financial helpThe death toll in Venezuela’s devastating twin earthquakes has passed 4,300, the government said on Saturday.At least 4,333 people were killed and 16,740 injured in the back-to-back quakes on 24 June that flattened entire districts in the coastal state of La Guaira, the Venezuelan parliament chief, Jorge Rodríguez, wrote on Telegram. Thousands more people are listed as miss",
-        "source": "The Guardian",
+        "id": "d87a216b2b0dfbbd98bf8a4574bff78f",
+        "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+        "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+        "source": "BBC World",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-        "published": "2026-07-11T17:23:19+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-12T19:42:26+00:00"
+      },
+      {
+        "id": "7efa640d2751e0eafe52583e1cadc535",
+        "title": "Sinner beats Zverev to retain Wimbledon title",
+        "summary": "Jannik Sinner retained his Wimbledon title by beating Alexander Zverev in Sunday's men's final. The Italian claims his fifth Grand Slam crown and extends his dominance over the German to 10 straight victories.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/sinner-beats-zverev-to-retain-wimbledon-title/a-77926065?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-07-12T19:39:00+00:00"
       }
     ],
     "tech": [
       {
-        "id": "91e73d944fb0c75bbcf75d6f44a0a600",
-        "title": "RISCBoy is an open-source portable games console, designed from scratch",
-        "summary": "Article URL: https://github.com/Wren6991/RISCBoy Comments URL: https://news.ycombinator.com/item?id=48876245 Points: 3 # Comments: 0",
+        "id": "1810f649c2d70aec5250d314825b999f",
+        "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+        "summary": "Article URL: https://kode.diy Comments URL: https://news.ycombinator.com/item?id=48884992 Points: 7 # Comments: 2",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://github.com/Wren6991/RISCBoy",
-        "published": "2026-07-11T21:58:00+00:00"
+        "url": "https://kode.diy",
+        "published": "2026-07-12T21:27:29+00:00"
       },
       {
-        "id": "a570bdfc1021a22d81cedf6a503546f9",
-        "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-        "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching […]",
+        "id": "172abef7dddf7f7e5912b5c359a093cf",
+        "title": "Ask HN: What Are You Working On? (July 2026)",
+        "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=48884984 Points: 17 # Comments: 23",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://news.ycombinator.com/item?id=48884984",
+        "published": "2026-07-12T21:26:41+00:00"
+      },
+      {
+        "id": "06a60520f32801f6616f3ec20b679037",
+        "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+        "summary": "Article URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/ Comments URL: https://news.ycombinator.com/item?id=48884853 Points: 119 # Comments: 44",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+        "published": "2026-07-12T21:12:11+00:00"
+      },
+      {
+        "id": "7b4980ae63e42d8a1dd60a8cfd49d162",
+        "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+        "summary": "Article URL: https://www.adaptiverecall.com/ Comments URL: https://news.ycombinator.com/item?id=48884815 Points: 6 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.adaptiverecall.com/",
+        "published": "2026-07-12T21:08:20+00:00"
+      },
+      {
+        "id": "ec44d223fb03af3836570c93416be94e",
+        "title": "Show HN: Zen Mode – a global focus mode for macOS",
+        "summary": "Article URL: https://github.com/cabeen/zen-mode Comments URL: https://news.ycombinator.com/item?id=48884663 Points: 8 # Comments: 2",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/cabeen/zen-mode",
+        "published": "2026-07-12T20:52:04+00:00"
+      },
+      {
+        "id": "b2fc07805ea0de848e7066372536a2b6",
+        "title": "The State of MCP Security [pdf]",
+        "summary": "Article URL: https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf Comments URL: https://news.ycombinator.com/item?id=48884647 Points: 12 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+        "published": "2026-07-12T20:49:46+00:00"
+      },
+      {
+        "id": "1b73e5747ea989679053a4743a39c397",
+        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+        "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-        "published": "2026-07-11T20:57:42+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+        "published": "2026-07-12T20:10:19+00:00"
       },
       {
-        "id": "5c2058d626037fe8d12e89ae0cfc43ac",
-        "title": "I used to love Claude, but the latest models are slowly ruining it",
-        "summary": "Article URL: https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/ Comments URL: https://news.ycombinator.com/item?id=48875494 Points: 27 # Comments: 32",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
-        "published": "2026-07-11T20:21:25+00:00"
-      },
-      {
-        "id": "10c7a74404194a9574bc335e31e25dda",
-        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-        "summary": "Hello HN!I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.The goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It's still early, and I'd appreciate any feedback on",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://antjs.org",
-        "published": "2026-07-11T20:07:18+00:00"
-      },
-      {
-        "id": "e7d1ebfae4d6d5fa79c1e1b008c3c6c7",
-        "title": "The Chinese Voice Actor Forced to Prove He's Human",
-        "summary": "Article URL: https://www.sixthtone.com/news/1018753 Comments URL: https://news.ycombinator.com/item?id=48875153 Points: 44 # Comments: 7",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.sixthtone.com/news/1018753",
-        "published": "2026-07-11T19:46:00+00:00"
-      },
-      {
-        "id": "70aca6fd77a712b029e9af53b56e1b5c",
-        "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-        "summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline and Variety, he's now dropped his […]",
+        "id": "a07d1fee7e766991bcd1e34c33c6b0fb",
+        "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+        "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly prolific. When he's not literally dreaming up new viral music genres, he's also putting out records […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
-        "published": "2026-07-11T18:44:12+00:00"
-      },
-      {
-        "id": "05a9fa9427c3e0b61c28f648c19e317e",
-        "title": "How to hide from killer drones",
-        "summary": "https://archive.ph/xiCSq Comments URL: https://news.ycombinator.com/item?id=48874357 Points: 81 # Comments: 103",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-        "published": "2026-07-11T18:22:02+00:00"
-      },
-      {
-        "id": "b2701bd45ceeb3c0fdb6ecc7a2894591",
-        "title": "ZeroFS vs. Amazon S3 Files",
-        "summary": "Article URL: https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/ Comments URL: https://news.ycombinator.com/item?id=48874297 Points: 30 # Comments: 10",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-        "published": "2026-07-11T18:15:35+00:00"
+        "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+        "published": "2026-07-12T19:40:00+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "170334002028efbb0b1390a49e0c4f36",
+        "title": "An incomplete list of falling objects in India",
+        "summary": "Prosperity and infrastructure development have not come with improved safety",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/07/12/an-incomplete-list-of-falling-objects-in-india",
+        "published": "2026-07-12T18:21:20+00:00"
+      },
+      {
+        "id": "751f73218eee6d1200b8b8716fcd4fa3",
+        "title": "Storm clouds gather over America’s financial supremacy",
+        "summary": "Its payments firms may be the first casualties",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+        "published": "2026-07-12T17:05:30+00:00"
+      },
+      {
+        "id": "666a3a2b1238ff6bbc0c6c7babdcfcef",
+        "title": "How dementia is being defeated",
+        "summary": "Incidence among the elderly is falling fast",
+        "source": "Briefing",
+        "category": "economist",
+        "url": "https://www.economist.com/briefing/2026/07/09/how-dementia-is-being-defeated",
+        "published": "2026-07-09T13:03:07+00:00"
+      },
       {
         "id": "70c11dc45e74c73945e24e79d1151e39",
         "title": "Who is capable of evil?",
@@ -414,33 +441,6 @@
         "source": "Asia",
         "category": "economist",
         "url": "https://www.economist.com/asia/2026/07/09/how-south-korean-buddhists-are-trying-to-stay-relevant",
-        "published": "2026-07-09T13:03:07+00:00"
-      },
-      {
-        "id": "ff3176f6b2481477070663cb4323a88b",
-        "title": "Laos has big dreams of exporting energy",
-        "summary": "But its dams have flooded it with debt and other problems",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/07/09/laos-has-big-dreams-of-exporting-energy",
-        "published": "2026-07-09T13:03:07+00:00"
-      },
-      {
-        "id": "666a3a2b1238ff6bbc0c6c7babdcfcef",
-        "title": "How dementia is being defeated",
-        "summary": "Incidence among the elderly is falling fast",
-        "source": "Briefing",
-        "category": "economist",
-        "url": "https://www.economist.com/briefing/2026/07/09/how-dementia-is-being-defeated",
-        "published": "2026-07-09T13:03:07+00:00"
-      },
-      {
-        "id": "bb1d0761ab44422479b95917af0ece65",
-        "title": "The secret to good questions",
-        "summary": "Consideration, consistency and curveballs",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/07/09/the-secret-to-good-questions",
         "published": "2026-07-09T13:03:07+00:00"
       }
     ]
@@ -518,52 +518,52 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2913999557495117,
+        "price": 1.292889952659607,
         "prev_close": 1.2920000553131104,
-        "change_pct": -0.05,
-        "direction": "down",
+        "change_pct": 0.07,
+        "direction": "up",
         "price_fmt": "1.29",
-        "change_str": "-0.05%"
+        "change_str": "+0.07%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4733999967575073,
+        "price": 1.4729000329971313,
         "prev_close": 1.4769699573516846,
-        "change_pct": -0.24,
+        "change_pct": -0.28,
         "direction": "down",
         "price_fmt": "1.47",
-        "change_str": "-0.24%"
+        "change_str": "-0.28%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.729599952697754,
+        "price": 1.7292200326919556,
         "prev_close": 1.7311999797821045,
-        "change_pct": -0.09,
+        "change_pct": -0.11,
         "direction": "down",
         "price_fmt": "1.73",
-        "change_str": "-0.09%"
+        "change_str": "-0.11%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.007939999923110008,
+        "price": 0.007930000312626362,
         "prev_close": 0.0079,
-        "change_pct": 0.51,
+        "change_pct": 0.38,
         "direction": "up",
         "price_fmt": "0.01",
-        "change_str": "+0.51%"
+        "change_str": "+0.38%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19009999930858612,
+        "price": 0.19030000269412994,
         "prev_close": 0.1896,
-        "change_pct": 0.26,
+        "change_pct": 0.37,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "+0.26%"
+        "change_str": "+0.37%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 76.01000213623047,
-        "prev_close": 76.30000305175781,
-        "change_pct": -0.38,
-        "direction": "down",
-        "price_fmt": "76.01",
-        "change_str": "-0.38%"
+        "price": 78.55000305175781,
+        "prev_close": 76.01000213623047,
+        "change_pct": 3.34,
+        "direction": "up",
+        "price_fmt": "78.55",
+        "change_str": "+3.34%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4104.10009765625,
-        "prev_close": 4130.60009765625,
-        "change_pct": -0.64,
+        "price": 4091.699951171875,
+        "prev_close": 4104.10009765625,
+        "change_pct": -0.3,
         "direction": "down",
-        "price_fmt": "4,104.1",
-        "change_str": "-0.64%"
+        "price_fmt": "4,091.7",
+        "change_str": "-0.30%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 59.808998107910156,
-        "prev_close": 60.37799835205078,
-        "change_pct": -0.94,
+        "price": 59.095001220703125,
+        "prev_close": 59.808998107910156,
+        "change_pct": -1.19,
         "direction": "down",
-        "price_fmt": "59.81",
-        "change_str": "-0.94%"
+        "price_fmt": "59.10",
+        "change_str": "-1.19%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.940000057220459,
-        "prev_close": 3.01200008392334,
-        "change_pct": -2.39,
+        "price": 2.9230000972747803,
+        "prev_close": 2.940000057220459,
+        "change_pct": -0.58,
         "direction": "down",
-        "price_fmt": "2.94",
-        "change_str": "-2.39%"
+        "price_fmt": "2.92",
+        "change_str": "-0.58%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 64231.44140625,
-        "prev_close": 64127.140625,
-        "change_pct": 0.16,
-        "direction": "up",
-        "price_fmt": "64,231",
-        "change_str": "+0.16%"
+        "price": 63755.98046875,
+        "prev_close": 63802.02734375,
+        "change_pct": -0.07,
+        "direction": "down",
+        "price_fmt": "63,756",
+        "change_str": "-0.07%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1815.0,
-        "prev_close": 1795.6932373046875,
-        "change_pct": 1.08,
+        "price": 1801.06005859375,
+        "prev_close": 1788.099609375,
+        "change_pct": 0.72,
         "direction": "up",
-        "price_fmt": "1,815.0",
-        "change_str": "+1.08%"
+        "price_fmt": "1,801.1",
+        "change_str": "+0.72%"
       }
     ]
   },
