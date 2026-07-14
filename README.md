@@ -5,9 +5,11 @@ politics, global affairs, technology, financial markets, and The Economist —
 generated automatically each morning at 06:00 SGT via GitHub Actions and hosted
 as a static site.
 
-AI summaries are generated locally via **Ollama**. The dashboard works without
-Ollama (news feeds and markets still render); AI briefings are skipped gracefully
-when Ollama is unreachable.
+AI summaries are generated via **Ollama** (local) or **Groq** (hosted). The
+pipeline auto-selects a provider: if `GROQ_API_KEY` is set, it uses Groq;
+otherwise it falls back to a local Ollama server. The dashboard works
+without either (news feeds and markets still render); AI briefings are
+skipped gracefully when no provider is available.
 
 ## Architecture
 
@@ -17,7 +19,7 @@ pipeline/
 ├── sources.py          # RSS feed URLs + market ticker config
 ├── news_fetcher.py     # Ingests & deduplicates RSS feeds
 ├── market_fetcher.py   # Pulls live market data via Yahoo Finance API
-├── summariser.py       # Ollama — morning briefing + category digests
+├── summariser.py       # Ollama or Groq — morning briefing + category digests
 ├── template.html       # Jinja2 HTML template (self-contained, no build step)
 └── requirements.txt
 
@@ -49,8 +51,11 @@ cp .env.example .env
 # Edit .env if you want to point at a non-default Ollama instance:
 #   OLLAMA_URL=http://localhost:11434
 #   OLLAMA_MODEL=llama3.2
+# ...or use Groq instead (no local server needed):
+#   GROQ_API_KEY=your-key-here
+#   GROQ_MODEL=llama-3.3-70b-versatile
 
-# 5. Start Ollama (skip if you don't need AI summaries)
+# 5. Start Ollama (skip if using Groq, or if you don't need AI summaries)
 ollama serve
 ollama pull llama3.2
 
@@ -58,7 +63,7 @@ ollama pull llama3.2
 cd pipeline
 python run_pipeline.py
 
-# Run without AI summaries (no Ollama needed)
+# Run without AI summaries (no Ollama/Groq needed)
 python run_pipeline.py --skip-ai --debug
 
 # 7. Open the result
@@ -74,8 +79,11 @@ start ../output/index.html     # Windows
 2. Go to **Settings → Pages → Source** and set it to the `output/` folder on `main`
 3. The workflow runs daily at 22:00 UTC (06:00 SGT), commits `output/index.html`,
    and GitHub Pages auto-deploys it
-4. Note: AI summaries are skipped in CI (Ollama requires a running local server).
-   The dashboard still renders fully with news feeds and market data.
+4. AI summaries run in CI via **Groq**: add a `GROQ_API_KEY` repo secret
+   under **Settings → Secrets and variables → Actions**. Without it, AI
+   summaries are skipped in CI (Ollama requires a local server, which isn't
+   available on the runner) and the dashboard still renders fully with news
+   feeds and market data.
 
 ### Option B — Vercel
 
@@ -130,6 +138,7 @@ Market data is fetched directly from the Yahoo Finance chart API — no API key 
 | GitHub Pages | Unlimited | Static hosting |
 | Yahoo Finance API | Free | Unofficial — no key required |
 | Ollama | Free | Local inference — runs on your own hardware |
+| Groq | Free tier | Hosted inference — used automatically in CI when `GROQ_API_KEY` is set |
 
 ## CLI flags
 
@@ -137,6 +146,6 @@ Market data is fetched directly from the Yahoo Finance chart API — no API key 
 python run_pipeline.py --help
 
   --output-dir PATH   Where to write index.html (default: output)
-  --skip-ai           Skip Ollama AI calls — useful for testing feeds/markets
+  --skip-ai           Skip AI calls (Groq or Ollama) — useful for testing feeds/markets
   --debug             Verbose logging
 ```

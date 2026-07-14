@@ -1,5 +1,5 @@
 """
-summariser.py — Local AI summaries via Ollama.
+summariser.py — AI summaries via Ollama (local) or Groq (hosted).
 """
 
 import logging
@@ -11,6 +11,10 @@ logger = logging.getLogger(__name__)
 
 OLLAMA_URL   = os.getenv("OLLAMA_URL",   "http://localhost:11434")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.2")
+
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_MODEL   = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions"
 
 _LABEL_MAP = {
     "singapore": "Singapore local news",
@@ -30,7 +34,15 @@ def check_ollama() -> bool:
         return False
 
 
-def _chat(prompt: str, max_tokens: int = 300) -> str:
+def select_provider() -> str | None:
+    if GROQ_API_KEY:
+        return "groq"
+    if check_ollama():
+        return "ollama"
+    return None
+
+
+def _chat_ollama(prompt: str, max_tokens: int = 300) -> str:
     resp = requests.post(
         f"{OLLAMA_URL}/api/generate",
         json={
@@ -45,6 +57,28 @@ def _chat(prompt: str, max_tokens: int = 300) -> str:
     return resp.json()["response"].strip()
 
 
+def _chat_groq(prompt: str, max_tokens: int = 300) -> str:
+    resp = requests.post(
+        GROQ_URL,
+        headers={"Authorization": f"Bearer {GROQ_API_KEY}"},
+        json={
+            "model":       GROQ_MODEL,
+            "messages":    [{"role": "user", "content": prompt}],
+            "max_tokens":  max_tokens,
+            "temperature": 0.3,
+        },
+        timeout=300,
+    )
+    resp.raise_for_status()
+    return resp.json()["choices"][0]["message"]["content"].strip()
+
+
+def _chat(prompt: str, provider: str, max_tokens: int = 300) -> str:
+    if provider == "groq":
+        return _chat_groq(prompt, max_tokens)
+    return _chat_ollama(prompt, max_tokens)
+
+
 def _headlines_text(stories: list[dict]) -> str:
     lines = []
     for i, s in enumerate(stories, 1):
@@ -53,7 +87,7 @@ def _headlines_text(stories: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def generate_morning_briefing(news: dict[str, list[dict]]) -> str:
+def generate_morning_briefing(news: dict[str, list[dict]], provider: str) -> str:
     all_headlines = []
     for stories in news.values():
         all_headlines.extend(stories[:4])
@@ -70,13 +104,13 @@ def generate_morning_briefing(news: dict[str, list[dict]]) -> str:
     )
 
     try:
-        return _chat(prompt, max_tokens=300)
+        return _chat(prompt, provider, max_tokens=300)
     except Exception as exc:
         logger.error("Morning briefing failed: %s", exc)
         return ""
 
 
-def generate_category_digest(category: str, stories: list[dict]) -> str:
+def generate_category_digest(category: str, stories: list[dict], provider: str) -> str:
     if not stories:
         return ""
 
@@ -89,19 +123,19 @@ def generate_category_digest(category: str, stories: list[dict]) -> str:
     )
 
     try:
-        return _chat(prompt, max_tokens=200)
+        return _chat(prompt, provider, max_tokens=200)
     except Exception as exc:
         logger.warning("Digest failed for %s: %s", category, exc)
         return ""
 
 
-def generate_all_summaries(news: dict[str, list[dict]]) -> tuple[str, dict[str, str]]:
+def generate_all_summaries(news: dict[str, list[dict]], provider: str) -> tuple[str, dict[str, str]]:
     """Run briefing first (largest prompt), then all digests concurrently."""
-    briefing = generate_morning_briefing(news)
+    briefing = generate_morning_briefing(news, provider)
 
     with ThreadPoolExecutor(max_workers=len(news)) as executor:
         digest_futures = {
-            cat: executor.submit(generate_category_digest, cat, stories)
+            cat: executor.submit(generate_category_digest, cat, stories, provider)
             for cat, stories in news.items()
         }
     digests = {cat: f.result() for cat, f in digest_futures.items()}

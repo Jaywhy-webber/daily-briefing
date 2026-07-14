@@ -107,13 +107,18 @@ def main() -> int:
     digests: dict[str, str] = {}
 
     if not args.skip_ai:
-        from summariser import check_ollama, generate_all_summaries, OLLAMA_MODEL, OLLAMA_URL
-        if check_ollama():
-            logger.info("═══ Step 3/3 · Generating AI summaries (%s) ═══", OLLAMA_MODEL)
-            briefing, digests = generate_all_summaries(news)
+        from summariser import select_provider, generate_all_summaries, GROQ_MODEL, OLLAMA_MODEL, OLLAMA_URL
+        provider = select_provider()
+        if provider:
+            model_name = GROQ_MODEL if provider == "groq" else OLLAMA_MODEL
+            logger.info("═══ Step 3/3 · Generating AI summaries (%s / %s) ═══", provider, model_name)
+            briefing, digests = generate_all_summaries(news, provider)
             logger.info("Briefing + %d digests generated", len(digests))
         else:
-            logger.warning("Ollama not reachable at %s — skipping AI (run: ollama serve)", OLLAMA_URL)
+            logger.warning(
+                "No AI provider available (no GROQ_API_KEY, Ollama unreachable at %s) — skipping AI",
+                OLLAMA_URL,
+            )
     else:
         logger.info("═══ Step 3/3 · Skipping AI (--skip-ai) ═══")
 
