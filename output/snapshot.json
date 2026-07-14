@@ -2,132 +2,141 @@
   "news": {
     "singapore": [
       {
-        "id": "783be692ef9014a13fa8d514a3aa0def",
-        "title": "'On borrowed time': Gillman Barracks tenants hope to keep precinct alive until the end",
-        "summary": "The tenancies of businesses at Gillman Barracks will expire progressively by the second quarter of 2030 to make way for housing.",
+        "id": "43a90b1249a1e543827a90bfb2aefd33",
+        "title": "Redhill hornet attack: What are the dangers? What should I do if I get stung?",
+        "summary": "Avoid swatting at the insects, as this may provoke them and trigger a more aggressive response.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/askst-how-dangerous-is-a-hornets-attack-what-should-i-do-if-i-get-stung",
+        "published": "2026-07-14T04:50:00+00:00"
+      },
+      {
+        "id": "a9e25f23daa0d326ee2a99f41f4bb586",
+        "title": "Man made to retire without notice or payment wins S$26,350 in claims against employer",
+        "summary": "After asking about re-employment, the man was offered a six-month role at lower pay and given a non-negotiable one-week deadline to decide.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/gillman-barracks-hdb-tenants-arts-housing-6250661",
-        "published": "2026-07-13T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/employment-law-retirement-wrongful-dismissal-claims-tribunals-6252421",
+        "published": "2026-07-14T04:24:00+00:00"
       },
       {
-        "id": "f0a62033d7428f0e79c54808aaf2004e",
-        "title": "Commentary: AI has changed the way my students write and that worries me",
-        "summary": "The problem is when students begin to believe that having access to well-phrased answers is the same as developing genuine knowledge, says university lecturer Kennedy Albar.",
+        "id": "e59a5e5589bf4868917e2a09b5ebdeb2",
+        "title": "'Durians don't wait for you': Sellers in Singapore say prices have started to rise again",
+        "summary": "Weeks after a bumper harvest flooded the market with cheap durians, sellers say the oversupply has begun to ease as Johor's durian season winds down.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/chatgpt-ai-change-way-students-write-concerns-6237431",
-        "published": "2026-07-13T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/dining/durian-low-prices-oversupply-over-increase-6252276",
+        "published": "2026-07-14T04:19:52+00:00"
       },
       {
-        "id": "e70fc9f717e3caf75855089468530aee",
-        "title": "‘I repair things underwater’: He braves sharks, stingrays for a living",
-        "summary": "He never liked swimming, but diving has grown on him.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/i-repair-things-underwater-he-braves-sharks-stingrays-for-a-living",
-        "published": "2026-07-13T21:00:00+00:00"
-      },
-      {
-        "id": "62d71474f8fa8d7ff621bb116d22e1ee",
-        "title": "Construction firm founder donates $3 million to ST School Pocket Money Fund",
-        "summary": "Company founder Teo Hock Chwee has been a donor since 2011.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/construction-firm-founder-donates-3-million-to-st-school-pocket-money-fund",
-        "published": "2026-07-13T21:00:00+00:00"
-      },
-      {
-        "id": "fc0d1e91641d072d8d46716ded195990",
-        "title": "Criminal Investigation Department to get new director on July 20",
-        "summary": "SAC Julius Lim Wei-Yang will take over from DCP Zhang Weihan.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/criminal-investigation-department-to-get-new-director-from-july-20",
-        "published": "2026-07-13T15:55:00+00:00"
-      },
-      {
-        "id": "35ccfdd87c8819210f823903ac0ca19d",
-        "title": "CTE joyride: Driver whose car overturned in Stamford Road crash gets 4 months’ jail",
-        "summary": "Lee Jun En Gilviz and five others were involved in a major road traffic accident in October 2024.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/driver-who-sped-on-cte-and-overturned-car-in-stamford-road-crash-gets-4-months-jail",
-        "published": "2026-07-13T12:15:00+00:00"
-      },
-      {
-        "id": "c2d0c93dffaaeb3b0eef1c35f622590e",
-        "title": "Jail for repeat offender who pleaded guilty to another offence linked to love scam",
-        "summary": "She was also sentenced to an 18-month mandatory treatment order in 2019 for a similar case.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/jail-for-repeat-offender-who-pleaded-guilty-to-another-offence-linked-to-love-scam",
-        "published": "2026-07-13T11:14:21+00:00"
-      },
-      {
-        "id": "2e94d5113aa8474bba78e1aa8978e551",
-        "title": "AI-generated women are spreading disinformation about Singapore on TikTok",
-        "summary": "A CNA investigation has found about 500 TikTok videos pushing false or misleading claims about Singapore or Malaysia, drawing a total of more than 3 million views.",
+        "id": "6532c9baece9b87eb9ac124db2e5d69a",
+        "title": "Syndicate linked to S$51 million in scam losses sold chat accounts to criminals; financier jailed",
+        "summary": "The syndicate began with one SMS modem and expanded with multiple members, with the group shifting into an empty office space where it stored its 27 SMS modems and 24,000 SIM cards.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/tiktok-ai-women-disinformation-deepfake-presenters-6250271",
-        "published": "2026-07-13T10:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/scam-51-million-syndicate-chat-accounts-jail-6252516",
+        "published": "2026-07-14T04:11:00+00:00"
+      },
+      {
+        "id": "805c929e67a567dcace7a5e0ed41fe59",
+        "title": "$12.8 million Toto jackpot to be split between 2 winning tickets",
+        "summary": "The winning numbers were 14, 22, 32, 33, 36 and 46; while the additional number was 42.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/12-8-million-toto-jackpot-to-be-split-between-2-winning-tickets",
+        "published": "2026-07-14T02:00:00+00:00"
+      },
+      {
+        "id": "a0c73c318cbc4aa58f91bd7c01fbc9bb",
+        "title": "Beautiful Things singer Benson Boone to perform in Singapore on Nov 2",
+        "summary": "The American singer-songwriter will be staging his first full concert in Singapore at The Star Theatre on Nov 2, with tickets starting from S$128.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/entertainment/benson-boone-singapore-concert-2026-6250866",
+        "published": "2026-07-14T01:59:23+00:00"
+      },
+      {
+        "id": "652b6a5d46c5462dfa11f6053e3bf2f3",
+        "title": "SM Lee to attend Brunei sultan’s 80th birthday celebrations; Singapore leaders extend congratulations",
+        "summary": "",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/sm-lee-brunei-sultan-hassanal-bolkiah-birthday-6252216",
+        "published": "2026-07-14T00:56:09+00:00"
+      },
+      {
+        "id": "7799f8ac23e04ac6c5433041b473ff09",
+        "title": "Singapore's economy grew 5.7% in Q2, easing from 6.3% in previous quarter: Advance estimates",
+        "summary": "The manufacturing sector grew 12.2 per cent in the April to June period, compared with the same months a year ago.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/gdp-singapore-economy-growth-mti-6250876",
+        "published": "2026-07-14T00:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "963035d056ee64565109c081de7c18a1",
-        "title": "The Memo: Trump escalates on Iran, but critics don’t see a strategy",
-        "summary": "President Trump is ramping up hostilities with Iran again, but critics question whether renewed U.S. military action can change the fundamental shape of the conflict. If it fails to do so, Trump could end up even more deeply entangled in an issue that is unpopular with the American people as the clock ticks down to…",
-        "source": "The Hill",
+        "id": "4388e04b0f5123abef2743ee8fc4e223",
+        "title": "The star-studded World Cup semifinals kick off with France vs. Spain",
+        "summary": "The expanded World Cup allowed FIFA to introduce a new seeding system that placed the world's top teams in opposite corners of the knockout bracket. Now, the semifinals are both heavyweight matchups.",
+        "source": "NPR",
         "category": "us",
-        "url": "https://thehill.com/homenews/administration/5966549-trump-iran-strait-hormuz-military-action-scrutiny/",
-        "published": "2026-07-13T22:24:10+00:00"
+        "url": "https://www.npr.org/2026/07/14/nx-s1-5891860/2026-world-cup-fifa-spain-france-argentina-england-semifinals",
+        "published": "2026-07-14T05:00:00+00:00"
       },
       {
-        "id": "073f9dcc7f3e9f5a27f2bf100266d821",
-        "title": "Graham GOP challenger announces bid for special Senate primary",
-        "summary": "Mark Lynch, who lost to late Sen. Lindsey Graham (R-S.C.) in the GOP Senate primary last month, said Monday he will seek the nomination to replace the longtime South Carolina lawmaker on the ballot after the latter died on Saturday. “A lot of you have asked. Yes, it’s official,” Lynch wrote on social platform X.…",
+        "id": "2ca1530603e31b57f6586a86e95f6f8e",
+        "title": "DHS: ICE officer shot man in Maine after ‘fearing for public safety’",
+        "summary": "The Department of Homeland Security (DHS) said Monday the federal immigration officer who fatally shot a man in Maine did so out of fear for “public safety.” The department wrote on X that Immigration and Customs Enforcement (ICE) officers were conducting “targeted surveillance on the last known address” of an undocumented migrant in Biddeford, Maine,…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/5966540-mark-lynch-gop-senate-primary/",
-        "published": "2026-07-13T22:08:44+00:00"
+        "url": "https://thehill.com/homenews/state-watch/5966877-immigration-shooting-public-safety/",
+        "published": "2026-07-14T03:07:39+00:00"
       },
       {
-        "id": "22d55a7dc4f56ed9e9791fffb778cc9a",
-        "title": "Trump says US will ‘take out’ Iran’s Pickaxe Mountain nuclear facility",
-        "summary": "President Trump on Monday said the U.S. could soon attack Pickaxe Mountain in Iran as American forces launched a new round of strikes against the country. “Pickaxe is a possible target for a nice big fat shot right near the front door,” Trump said in an interview on “The Hugh ​Hewitt Show” Monday afternoon. “We’re…",
+        "id": "7854abe11709c6f072c28a64ac708018",
+        "title": "UAE says Iran hit two of its tankers, killing one crew member",
+        "summary": "The defense ministry of the United Arab Emirates (UAE) said Monday Iranian forces targeted a pair of its tankers in the Strait of Hormuz, killing one crew member. The UAE Ministry of Defence wrote on social platform X Iranian cruise missiles hit the country’s Mombasa and Al Bahiyah tankers, which were transiting the southern lane…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/defense/5966603-trump-threatens-pickaxe-mountain-iran/",
-        "published": "2026-07-13T22:06:40+00:00"
+        "url": "https://thehill.com/policy/international/5966855-uae-tankers-targeted-iranian-forces/",
+        "published": "2026-07-14T02:18:19+00:00"
       },
       {
-        "id": "24ae8479d03b7714bf96bb51178f1948",
-        "title": "Trump shrinks Bears Ears, Grand Staircase-Escalante national monuments in Utah",
-        "summary": "President Trump on Monday signed executive orders shrinking the size of the Bears Ears and Grand Staircase-Escalante national monuments in Utah. “We’re actually giving more than we did the first time back to the people of Utah,” Trump said in an Oval Office signing. The size of these national monuments has ping ponged back and…",
+        "id": "fd39bec5f9ef41e9a95c32854265d8ae",
+        "title": "Esper: Trump reimposing naval blockade on Iran ‘the right move’",
+        "summary": "Former Defense Secretary Mark Esper said Monday that President Trump made the “right move” in resuming the U.S. naval blockade of Iranian ports. “I agree with the president, I think it’s the right move to reinstate the blockade,” Esper, who ran the Pentagon during Trump’s first term, said on CNN’s “Erin Burnett OutFront.” Earlier Monday,…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/energy-environment/5966604-trump-shrinks-utah-monuments/",
-        "published": "2026-07-13T22:02:31+00:00"
+        "url": "https://thehill.com/policy/defense/5966832-esper-supports-trump-blockade/",
+        "published": "2026-07-14T01:35:02+00:00"
       },
       {
-        "id": "41269a88ee577efca0717c256b0dba68",
-        "title": "Appeals court revives lawsuits claiming link between acetaminophen, ADHD and autism",
-        "summary": "A federal appeals court on Monday revived hundreds of lawsuits where plaintiffs claimed to have evidence of a link between acetaminophen and neurodevelopmental disorders. The 2nd U.S. Circuit Court of ​Appeals said a lower court improperly threw out testimony from scientific experts that provided evidence of a link between the pain killer and pregnancy related…",
+        "id": "60b3760c8743c133e40a1857d0c8d3b6",
+        "title": "GOP Sen. Ron Johnson says he’s not sure McConnell photo with Chao is new",
+        "summary": "Republican Sen. Ron Johnson (Wisc.) on Monday cast doubt on the recency of a photo Sen. Mitch McConnell’s (R-Ky.) shared of himself in the hospital alongside his wife. “I’ve just heard from some other sources that was an older photo. So I really don’t know,” Johnson told host Eric Bolling on Real America’s Voice’s “Bolling!”…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/regulation/court-battles/5966527-acetaminophen-autism-adhd-lawsuit/",
-        "published": "2026-07-13T21:52:57+00:00"
+        "url": "https://thehill.com/homenews/senate/5966795-ron-johnson-mitch-mcconnell-photo/",
+        "published": "2026-07-14T00:55:29+00:00"
       },
       {
-        "id": "8cd9fe25513f021cdea7861d85efb0af",
-        "title": "US military launches strikes on Iran after Trump brings back naval blockade",
-        "summary": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump’s direction, mark the third consecutive day of U.S. attacks against Iran. “These…",
+        "id": "f3f05ed770b47c2d9f58d814ac8cced4",
+        "title": "Trump endorses multiple House GOP candidates",
+        "summary": "President Trump on Monday endorsed seven Republicans seeking election to the House for the first time, as the GOP clings to a narrow majority in the lower chamber ahead of the midterms. In a slew of posts on Truth Social, Trump threw his support behind John Cowan in Georgia’s 11th Congressional District, Anthony DiLorenzo in…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
-        "published": "2026-07-13T21:34:53+00:00"
+        "url": "https://thehill.com/homenews/campaign/5966766-trump-endorses-seven-republicans/",
+        "published": "2026-07-14T00:08:42+00:00"
+      },
+      {
+        "id": "e210d98cb6692e38c3021f1597dd7ac8",
+        "title": "Lettuce or salad greens may be culprit in Michigan cyclosporiasis outbreak, health officials say",
+        "summary": "A statewide outbreak of a parasitic illness that can cause “explosive” diarrhea may be linked to lettuce or salad greens, health officials say.",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/healthcare/5966787-cyclosporiasis-outbreak-parasite-lettuce/",
+        "published": "2026-07-14T00:03:22+00:00"
       },
       {
         "id": "535a51c3e7160940f579e4988b3a806c",
@@ -137,237 +146,228 @@
         "category": "us",
         "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
         "published": "2026-07-13T20:22:49+00:00"
-      },
-      {
-        "id": "dc87ac011b1360d93b92af8d9aa82cdb",
-        "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
-        "summary": "South Carolina's governor says he is appointing Darline Graham to finish the term of her late brother. Top Republicans, including President Trump, have coalesced around the pick.",
-        "source": "NPR",
-        "category": "us",
-        "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham",
-        "published": "2026-07-13T20:17:53+00:00"
       }
     ],
     "asia": [
       {
-        "id": "f507fdd38985928ab68ff04ce5026bda",
-        "title": "UK bans support for Iran’s IRGC and a linked group over antisemitic attacks in Britain",
-        "summary": "Britain banned support for Iran’s Islamic Revolutionary Guard Corps (IRGC) and a linked group on Monday following a series of antisemitic attacks, using new powers designed to stop the use of state-sponsored proxies. The government and intelligence agencies have become increasingly ‌concerned about foreign powers paying organised crime groups or low-level criminals for surveillance, sabotage or other activities on their behalf. The ban follows attacks on Jewish-linked sites in London, including.",
+        "id": "8ef5e5cd7b0b44a61fbd305d9cb69307",
+        "title": "U.S. to block citizens in Congo from immediate travel home, citing Ebola",
+        "summary": "Earlier on July 13, U.S. Secretary of Health and Human Services Robert F. Kennedy Jr. signed an order citing increased Ebola risks, including the spread of the virus to just hours outside of Congo’s capital, Kinshasa",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/us-to-blockcitizens-in-congo-from-immediate-travel-home-citing-ebola/article71219847.ece",
+        "published": "2026-07-14T05:32:54+00:00"
+      },
+      {
+        "id": "51e28818a45c80f5442ac1100004f9fb",
+        "title": "West Asia war LIVE: U.S. strikes Iran for third night as Trump says deal still 'possible'",
+        "summary": "“These strikes will continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians and commercial shipping in the Strait of Hormuz,” U.S. Central Command said",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-washington-strikes-tehran-donald-trump-peace-deal-strait-of-hormuz-live-updates-july-14-2026/article71219702.ece",
+        "published": "2026-07-14T05:30:30+00:00"
+      },
+      {
+        "id": "7bd4cb1a4dfa0a8d7a10c06b837d4fa7",
+        "title": "How people’s genes are revealing why some languages are so unique",
+        "summary": "A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and population movements reshaped much of the world",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
+        "published": "2026-07-14T05:17:31+00:00"
+      },
+      {
+        "id": "c42422ee61e0530ced4fb8a038cae111",
+        "title": "Philippine rice output risks 30% collapse as ‘super’ El Nino strengthens",
+        "summary": "In the fields of central Luzon, farmers who planted their rice in June are watching the sky with worry. Out over the Pacific, a familiar spectre is gathering strength – and with it, the threat of empty granaries and hungry households. The Philippines has a plan for this year’s “super” El Nino, on paper at least. But to the Filipinos out actually working the paddies, that plan is barely perceptible. “We don’t see anything visible, it’s all talk,” said Raul Montemayor, national manager of the...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/europe/article/3360439/uk-bans-support-irans-irgc-and-linked-group-over-antisemitic-attacks-britain?utm_source=rss_feed",
-        "published": "2026-07-13T22:34:43+00:00"
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3360471/philippine-rice-output-risks-30-collapse-super-el-nino-strengthens?utm_source=rss_feed",
+        "published": "2026-07-14T05:17:00+00:00"
       },
       {
-        "id": "b8a825e3cfc16783c887469546b8a172",
-        "title": "Exam fraud suspects arrested",
-        "summary": "Police have arrested three suspects wanted in connection with alleged fraud in a local recruitment examination, while a key government committee is set to review evidence on Wednesday that could pave the way for the revocation of appointments made through the disputed examination.",
-        "source": "Bangkok Post",
+        "id": "561dbd833058675ef64096d337021abf",
+        "title": "India-Australia ‘administrative arrangements’ for uranium supplies | Explained",
+        "summary": "The recent agreement paves the way for Australian uranium exports to India, allowing private sector collaboration under stringent IAEA oversight",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3285595/exam-fraud-suspects-arrested",
-        "published": "2026-07-13T22:16:00+00:00"
+        "url": "https://www.thehindu.com/news/national/india-australia-administrative-arrangements-for-uranium-supplies-explained/article71216378.ece",
+        "published": "2026-07-14T05:16:15+00:00"
       },
       {
-        "id": "b1236890ed2a5f7abef028ad38fc9533",
-        "title": "UK’s Burnham set to be PM after securing more Labour MPs’ support",
-        "summary": "Andy Burnham took another significant step on Monday towards becoming Britain’s next prime minister, netting additional Labour MPs’ nominations to give him an unassailable lead in the ruling party’s leadership contest. The veteran politician, who has served as Greater Manchester mayor for nearly a decade, is the only Labour member of parliament to publicly declare themselves a candidate to replace outgoing Prime Minister Keir Starmer. Starmer announced he was quitting last month, bowing to...",
+        "id": "1a7936d3e8e8effc251943e6890454df",
+        "title": "U.S. immigration agents involved in another fatal shooting",
+        "summary": "The shooting happened in Biddeford, a town of 22,000 people in the northern state of Maine, and is likely to fuel criticism of President Donald Trump’s deportation drive",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/us-immigration-agents-involved-in-another-fatal-shooting/article71219833.ece",
+        "published": "2026-07-14T05:10:45+00:00"
+      },
+      {
+        "id": "8b293ffe21e87edc12ca80d9cf77e9f9",
+        "title": "Viral photos of heavy-duty drones rescuing China’s flood victims spark debate",
+        "summary": "Photos and discussions about China’s recent use of heavy-duty drones to “airlift” villagers affected by flooding in Guangxi have gone viral but almost two decades ago, the disaster-prone country once relied on risky, low-tech means to fight natural calamities. China’s rapid tech advancement, represented by the development and deployment of drones, has helped it better handle emergencies, such as how first responders have been rescuing residents from widespread rainstorms and floods since...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/europe/article/3360438/uks-burnham-set-be-pm-after-securing-more-labour-mps-support?utm_source=rss_feed",
-        "published": "2026-07-13T22:08:32+00:00"
+        "url": "https://www.scmp.com/news/china/politics/article/3360449/viral-photos-heavy-duty-drones-rescuing-chinas-flood-victims-spark-debate?utm_source=rss_feed",
+        "published": "2026-07-14T05:04:23+00:00"
       },
       {
-        "id": "d7e862e9cfae3f2befc3869181f4b01b",
-        "title": "Will Manila and Hanoi’s maritime deal challenge Beijing in the South China Sea?",
-        "summary": "A decade after Beijing rejected the ruling by The Hague’s Permanent Court of Arbitration on its South China Sea claims, rival nations continue to manoeuvre for control. In the second of our series on the anniversary, Alyssa Chen explores how deepening maritime cooperation between the Philippines and Vietnam could affect China’s regional strategy. With Vietnamese President To Lam by his side in Manila late last month, Philippine President Ferdinand Marcos Jnr sent a clear message of...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3360363/will-manila-and-hanois-maritime-deal-challenge-beijing-south-china-sea?utm_source=rss_feed",
-        "published": "2026-07-13T22:00:08+00:00"
-      },
-      {
-        "id": "326f8f06197edfe9638756a49b91a1a4",
-        "title": "Singaporeans working across Causeway speak of trade-offs - after Malaysia minister suggests growing numbers",
-        "summary": "Expect a gradual trend in niche sectors and leadership roles, but not the general workforce, experts say.",
+        "id": "946c80b4e913abd862b53f2df810a3d0",
+        "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
+        "summary": "An investigation into the cause of the fire and whether the bar was following safety regulations is ongoing.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/singaporeans-work-malaysia-salary-nga-kor-ming-6240931",
-        "published": "2026-07-13T22:00:00+00:00"
-      },
-      {
-        "id": "58ba95bc5eb0ebe56162cccf5d5e3d78",
-        "title": "Airport checks tightened in 'Meena' heroin probe",
-        "summary": "Authorities have widened their investigation into a transnational drug network linked to Thai Airways flight attendant Meena Kondo and tightened airport screening of airline crews.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3285585/airport-checks-tightened-in-meena-heroin-probe",
-        "published": "2026-07-13T21:40:00+00:00"
-      },
-      {
-        "id": "d5142af621342bce057f9cfbef0f459e",
-        "title": "Police bring down online gambling ring",
-        "summary": "The Cyber Crime Investigation Bureau (CCIB) has dismantled a major online gambling network accused of processing billions of baht through a sophisticated money-laundering operation involving nominee bank accounts, shell companies, illegal payment gateways and cryptocurrency conversions.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3285600/police-bring-down-online-gambling-ring",
-        "published": "2026-07-13T21:37:00+00:00"
-      },
-      {
-        "id": "5d1c986f819012e5bff98e93143e5e3d",
-        "title": "Why China is seriously cultivating AI entertainment",
-        "summary": "China’s artificial intelligence ambitions tend to be depicted in the news as predominantly related to defence, large language models and semiconductors. But one emerging use case for AI revolves around a market projected to grow to US$441 billion by 2035: China’s entertainment market. Just last week, Chinese regulators announced policies encouraging cinemas to reinvent themselves with AI-powered experiences. Simultaneously, Chinese content creators have embraced AI to hasten content ideation,...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3359882/why-china-seriously-cultivating-ai-entertainment?utm_source=rss_feed",
-        "published": "2026-07-13T21:30:07+00:00"
+        "url": "https://www.channelnewsasia.com/asia/bangkok-bar-fire-death-toll-dozens-hospital-6252596",
+        "published": "2026-07-14T04:49:00+00:00"
       }
     ],
     "others": [
       {
-        "id": "b07e8055b21f1f58afe6cd41754255ce",
-        "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-        "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-        "source": "BBC World",
+        "id": "2fb9ccb8a6d9fb6d5c6aee7884da1fab",
+        "title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
+        "summary": "Satluj, based on the life of human rights activist Jaswant Singh Khalra, is still finding its audience despite the ban.",
+        "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T22:38:34+00:00"
+        "url": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
+        "published": "2026-07-14T05:33:01+00:00"
       },
       {
-        "id": "3ee428b96d1e8e516f0bb0ab8c1bdcd8",
-        "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-        "summary": "The US military later said it had started the third consecutive night of strikes on Iran.",
+        "id": "f19cc9b6736dc9f81efaeb515d503ed3",
+        "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira",
+        "summary": "US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
+        "published": "2026-07-14T05:15:40+00:00"
+      },
+      {
+        "id": "f99bfa93ea4fa952ee9ee85254082daa",
+        "title": "‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks",
+        "summary": "A US trade expert says the US, Mexico, and Canada need to hold trilateral talks to get a cross-border trade deal signed.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss",
+        "published": "2026-07-14T05:08:32+00:00"
+      },
+      {
+        "id": "6f3553deef51b87f712fbeea3d5225e3",
+        "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+        "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-14T05:00:03+00:00"
+      },
+      {
+        "id": "f4bd4691d3a020889a3c0e4cc67542d5",
+        "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+        "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
         "source": "BBC World",
         "category": "others",
         "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T22:36:24+00:00"
+        "published": "2026-07-14T04:50:48+00:00"
       },
       {
-        "id": "8e5fcaf90d38a2be8806052ab6c1818d",
-        "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
-        "summary": "South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator's term until early 2027.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
-        "published": "2026-07-13T22:33:08+00:00"
-      },
-      {
-        "id": "87bd16ffadf6f5af92bc8ec5f9222df0",
-        "title": "Nine deaths tied to Trump’s immigration enforcement operations in US",
-        "summary": "Fatal shooting in Biddeford, Maine, is latest in at least nine deaths linked to US president's immigration crackdown.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/7/13/nine-deaths-tied-to-trumps-immigration-enforcement-operations-in-us?traffic_source=rss",
-        "published": "2026-07-13T22:31:36+00:00"
-      },
-      {
-        "id": "70f630337ccb18a5d6250b8372c0d415",
-        "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
-        "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in HoustonClaudia Sheinbaum announced on Monday that Mexico would be filing criminal complaints in the US for the deaths of more than a dozen Mexican migrants in immigration detention and those killed in anti-migrant operations.The deaths include last week’s killing of Lorenzo Salgado Araujo in Houston, whom Sheinbaum said was “practically murdered”. Continue reading...",
-        "source": "The Guardian",
-        "category": "others",
-        "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
-        "published": "2026-07-13T22:06:01+00:00"
-      },
-      {
-        "id": "9e9ae9f615d9a2b429e2853d3950ad89",
-        "title": "Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit",
-        "summary": "A crowd of more than 100,000, an open-top bus parade and a royal reception welcomed back the Norwegian World Cup squad.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/7/13/haalands-norway-receive-heroes-welcome-in-oslo-after-world-cup-exit?traffic_source=rss",
-        "published": "2026-07-13T21:38:51+00:00"
-      },
-      {
-        "id": "8edc20881756909c907d922969d1215d",
-        "title": "Hungary parliament votes to remove president from office",
-        "summary": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+        "id": "e2a5e9dca5fc5f4aa27a891298cd8ee1",
+        "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+        "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T20:39:14+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-14T03:47:41+00:00"
       },
       {
-        "id": "a6b67e0b9450eef4009996b7d5e0723e",
-        "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-        "summary": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
+        "id": "c09ea37d55333b31d022d75901aacb11",
+        "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+        "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-13T20:15:00+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-14T02:26:45+00:00"
+      },
+      {
+        "id": "53c0f222732846077e6a59356d5675a1",
+        "title": "Colombian national killed by ICE agent during operation in Maine",
+        "summary": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-14T01:50:48+00:00"
       }
     ],
     "tech": [
       {
-        "id": "2591f141aaa46978afee1c026c64a510",
-        "title": "Microsoft tests Windows Search without all the ads and fluff",
-        "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with users and fix Windows. […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
-        "published": "2026-07-13T21:53:20+00:00"
-      },
-      {
-        "id": "1ccc883b837d02754528958046b4bc74",
-        "title": "OnePlus is reportedly bailing on the US",
-        "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors about the future of OnePlus. Android Headlines said […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-        "published": "2026-07-13T21:48:43+00:00"
-      },
-      {
-        "id": "05763dd7f29b16272e7050eec2a0a217",
-        "title": "A two-pack of DJI’s most capable wireless mics just got its first price cut",
-        "summary": "Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your videos, whether you’re the only one talking, or if you’re getting audio from multiple people. The DJI Mic 3 […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
-        "published": "2026-07-13T21:03:14+00:00"
-      },
-      {
-        "id": "6d14c5c96a86236a2a51921e2db95a1e",
-        "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-        "summary": "Article URL: https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7 Comments URL: https://news.ycombinator.com/item?id=48898814 Points: 0 # Comments: 0",
+        "id": "01078487bfc9fcd05f8aee319bfdde96",
+        "title": "YouTrackDB is a general-use object-oriented graph database",
+        "summary": "Article URL: https://github.com/JetBrains/youtrackdb Comments URL: https://news.ycombinator.com/item?id=48902026 Points: 35 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
-        "published": "2026-07-13T21:01:00+00:00"
+        "url": "https://github.com/JetBrains/youtrackdb",
+        "published": "2026-07-14T03:39:55+00:00"
       },
       {
-        "id": "02761709d0cdf4525e4e52047c216f0a",
-        "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
-        "summary": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and other potential hazards, and right now they're on sale for $109 ($50 off) at Amazon, Walmart, and B&H Photo. That […]",
-        "source": "The Verge",
+        "id": "56a8df2b1f029e2d96aa26e048869fda",
+        "title": "Our Amish Language",
+        "summary": "Article URL: https://www.thedial.world/articles/news/amish-pennsylvania-dutch Comments URL: https://news.ycombinator.com/item?id=48901645 Points: 19 # Comments: 2",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
-        "published": "2026-07-13T20:57:44+00:00"
+        "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+        "published": "2026-07-14T02:40:41+00:00"
       },
       {
-        "id": "bddda48ef86fbb4efc36e2eb4fd7f71a",
-        "title": "The Pixel colors might rule this year",
-        "summary": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus), vibrant green Moss (Pistachio), and Midnight (Obsidian) black. We've seen two sets of names for the […]",
-        "source": "The Verge",
+        "id": "c13c4e527ab0d44a9b1e7edd01078548",
+        "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+        "summary": "Article URL: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/ Comments URL: https://news.ycombinator.com/item?id=48901569 Points: 192 # Comments: 55",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
-        "published": "2026-07-13T20:52:27+00:00"
+        "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+        "published": "2026-07-14T02:27:20+00:00"
       },
       {
-        "id": "9e7ce892938b0b6ddbb941bd7d8e8ddb",
-        "title": "Apple’s public betas for iOS 27 and more are out now",
-        "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other betas available now […]",
-        "source": "The Verge",
+        "id": "e3742b1b2dd538d768b7b26fa0577257",
+        "title": "Fundamentals of Wireless Communication (2005)",
+        "summary": "Article URL: https://web.stanford.edu/~dntse/wireless_book.html Comments URL: https://news.ycombinator.com/item?id=48901454 Points: 89 # Comments: 3",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
-        "published": "2026-07-13T20:45:40+00:00"
+        "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+        "published": "2026-07-14T02:10:19+00:00"
       },
       {
-        "id": "fec755f6a0f6a0b2132dbc7fb4b1d69d",
-        "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
-        "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+        "id": "bec02f17ac73a0dfa66f8de9e5934f6d",
+        "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+        "summary": "Article URL: https://satellitemap.space/ Comments URL: https://news.ycombinator.com/item?id=48901356 Points: 48 # Comments: 9",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://satellitemap.space/",
+        "published": "2026-07-14T01:55:24+00:00"
+      },
+      {
+        "id": "324591f915e20e3b58a7fb3153549053",
+        "title": "What will be left for us to work on?",
+        "summary": "Article URL: https://www.normaltech.ai/p/what-will-be-left-for-us-to-work Comments URL: https://news.ycombinator.com/item?id=48901292 Points: 77 # Comments: 83",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+        "published": "2026-07-14T01:44:40+00:00"
+      },
+      {
+        "id": "9409aa0be83fbd1373323d1814663064",
+        "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+        "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
-        "published": "2026-07-13T20:41:26+00:00"
+        "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+        "published": "2026-07-14T01:17:14+00:00"
+      },
+      {
+        "id": "b9c67f92744deaa72bd77d51e91aeade",
+        "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+        "summary": "The man is said to be doing well in a Frankfurt hospital.",
+        "source": "Ars Technica",
+        "category": "tech",
+        "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+        "published": "2026-07-13T22:07:34+00:00"
       }
     ],
     "economist": [
@@ -426,21 +426,21 @@
         "published": "2026-07-12T17:05:30+00:00"
       },
       {
+        "id": "666a3a2b1238ff6bbc0c6c7babdcfcef",
+        "title": "How dementia is being defeated",
+        "summary": "Incidence among the elderly is falling fast",
+        "source": "Briefing",
+        "category": "economist",
+        "url": "https://www.economist.com/briefing/2026/07/09/how-dementia-is-being-defeated",
+        "published": "2026-07-09T13:03:07+00:00"
+      },
+      {
         "id": "70c11dc45e74c73945e24e79d1151e39",
         "title": "Who is capable of evil?",
         "summary": "Stop lowering the age of criminal responsibility",
         "source": "Leaders",
         "category": "economist",
         "url": "https://www.economist.com/leaders/2026/07/09/who-is-capable-of-evil",
-        "published": "2026-07-09T13:03:07+00:00"
-      },
-      {
-        "id": "5e41b82e515683998c0eefafa9185a31",
-        "title": "A no-brainer for protecting your brain",
-        "summary": "One simple vaccination may dramatically reduce the risk of dementia",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
         "published": "2026-07-09T13:03:07+00:00"
       }
     ]
@@ -451,12 +451,12 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5469.2900390625,
-        "prev_close": 5433.8798828125,
-        "change_pct": 0.65,
+        "price": 5495.60986328125,
+        "prev_close": 5470.33984375,
+        "change_pct": 0.46,
         "direction": "up",
-        "price_fmt": "5,469.3",
-        "change_str": "+0.65%"
+        "price_fmt": "5,495.6",
+        "change_str": "+0.46%"
       },
       {
         "symbol": "^GSPC",
@@ -473,29 +473,29 @@
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 24175.119140625,
-        "prev_close": 24030.1796875,
-        "change_pct": 0.6,
+        "price": 24271.970703125,
+        "prev_close": 24213.720703125,
+        "change_pct": 0.24,
         "direction": "up",
-        "price_fmt": "24,175",
-        "change_str": "+0.60%"
+        "price_fmt": "24,272",
+        "change_str": "+0.24%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 68557.7265625,
-        "prev_close": 67743.8515625,
-        "change_pct": 1.2,
+        "price": 67686.03125,
+        "prev_close": 67242.7265625,
+        "change_pct": 0.66,
         "direction": "up",
-        "price_fmt": "68,558",
-        "change_str": "+1.20%"
+        "price_fmt": "67,686",
+        "change_str": "+0.66%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10498.2900390625,
+        "price": 10498.2998046875,
         "prev_close": 10497.2998046875,
         "change_pct": 0.01,
         "direction": "up",
@@ -506,44 +506,44 @@
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8806.0,
-        "prev_close": 8762.5,
-        "change_pct": 0.5,
-        "direction": "up",
-        "price_fmt": "8,806.0",
-        "change_str": "+0.50%"
+        "price": 8799.400390625,
+        "prev_close": 8808.5,
+        "change_pct": -0.1,
+        "direction": "down",
+        "price_fmt": "8,799.4",
+        "change_str": "-0.10%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2941700220108032,
+        "price": 1.2929699420928955,
         "prev_close": 1.2925100326538086,
-        "change_pct": 0.13,
+        "change_pct": 0.04,
         "direction": "up",
         "price_fmt": "1.29",
-        "change_str": "+0.13%"
+        "change_str": "+0.04%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4733999967575073,
+        "price": 1.4731999635696411,
         "prev_close": 1.4738199710845947,
-        "change_pct": -0.03,
+        "change_pct": -0.04,
         "direction": "down",
         "price_fmt": "1.47",
-        "change_str": "-0.03%"
+        "change_str": "-0.04%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7267999649047852,
+        "price": 1.7281999588012695,
         "prev_close": 1.7284300327301025,
-        "change_pct": -0.09,
+        "change_pct": -0.01,
         "direction": "down",
         "price_fmt": "1.73",
-        "change_str": "-0.09%"
+        "change_str": "-0.01%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -558,12 +558,12 @@
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19040000438690186,
-        "prev_close": 0.1901,
-        "change_pct": 0.16,
+        "price": 0.19030000269412994,
+        "prev_close": 0.1903,
+        "change_pct": 0.0,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "+0.16%"
+        "change_str": "0.00%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 83.27999877929688,
-        "prev_close": 76.01000213623047,
-        "change_pct": 9.56,
+        "price": 84.48999786376953,
+        "prev_close": 83.30000305175781,
+        "change_pct": 1.43,
         "direction": "up",
-        "price_fmt": "83.28",
-        "change_str": "+9.56%"
+        "price_fmt": "84.49",
+        "change_str": "+1.43%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4010.199951171875,
-        "prev_close": 4104.10009765625,
-        "change_pct": -2.29,
-        "direction": "down",
-        "price_fmt": "4,010.2",
-        "change_str": "-2.29%"
+        "price": 4035.800048828125,
+        "prev_close": 3997.0,
+        "change_pct": 0.97,
+        "direction": "up",
+        "price_fmt": "4,035.8",
+        "change_str": "+0.97%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 58.0099983215332,
-        "prev_close": 59.808998107910156,
-        "change_pct": -3.01,
-        "direction": "down",
-        "price_fmt": "58.01",
-        "change_str": "-3.01%"
+        "price": 58.564998626708984,
+        "prev_close": 57.63399887084961,
+        "change_pct": 1.62,
+        "direction": "up",
+        "price_fmt": "58.56",
+        "change_str": "+1.62%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.8970000743865967,
-        "prev_close": 2.940000057220459,
-        "change_pct": -1.46,
+        "price": 2.880000114440918,
+        "prev_close": 2.8970000743865967,
+        "change_pct": -0.59,
         "direction": "down",
-        "price_fmt": "2.90",
-        "change_str": "-1.46%"
+        "price_fmt": "2.88",
+        "change_str": "-0.59%"
       }
     ],
     "crypto": [
@@ -617,26 +617,33 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 61993.1015625,
+        "price": 62661.890625,
         "prev_close": 63758.21875,
-        "change_pct": -2.77,
+        "change_pct": -1.72,
         "direction": "down",
-        "price_fmt": "61,993",
-        "change_str": "-2.77%"
+        "price_fmt": "62,662",
+        "change_str": "-1.72%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1761.97998046875,
+        "price": 1784.6400146484375,
         "prev_close": 1805.7880859375,
-        "change_pct": -2.43,
+        "change_pct": -1.17,
         "direction": "down",
-        "price_fmt": "1,762.0",
-        "change_str": "-2.43%"
+        "price_fmt": "1,784.6",
+        "change_str": "-1.17%"
       }
     ]
   },
-  "briefing": "",
-  "digests": {}
+  "briefing": "Global tensions escalated overnight as the UAE reported that Iranian forces targeted two of its tankers in the Strait of Hormuz, killing one crew member, while former US Defense Secretary Mark Esper expressed support for President Trump's decision to reimpose a naval blockade on Iranian ports. In Singapore, a local man was awarded S$26,350 in claims against his employer after being made to retire without notice or payment, highlighting the importance of fair employment practices. Meanwhile, the Singapore durian market is experiencing a price surge as the oversupply from Johor's durian season begins to ease, with sellers noting that prices have started to rise again.",
+  "digests": {
+    "singapore": "Singapore has seen a range of developments, including a warning about the dangers of hornet attacks and the importance of not provoking them, as well as a significant legal victory for a man who was made to retire without notice or payment, winning $26,350 in claims against his employer. The local economy grew 5.7% in Q2, driven by a 12.2% expansion in the manufacturing sector, although this represents a slight easing from the previous quarter's 6.3% growth. Additionally, a syndicate involved in scams has been dismantled, with a financier jailed, and various other events are taking place, including concerts and diplomatic celebrations.",
+    "us": "The US is involved in various international incidents, including a naval blockade of Iran, which former Defense Secretary Mark Esper supports, and a reported attack by Iran on UAE tankers in the Strait of Hormuz. Domestically, President Trump is endorsing House GOP candidates ahead of the midterms, while the Department of Health and Human Services has abandoned a threat to withhold Medicare and Medicaid funding over trans care. Additionally, a federal immigration officer fatally shot a man in Maine, citing fear for public safety, and health officials are investigating a parasitic illness outbreak in Michigan potentially linked to lettuce or salad greens.",
+    "asia": "The Asia-Pacific region is experiencing a range of challenges, including health risks from Ebola in Congo, which has prompted the US to restrict travel, and environmental disasters such as floods in China and a potential 30% collapse in Philippine rice output due to a \"super\" El Nino. Geopolitical tensions are also escalating, with the US striking Iran for the third night and India and Australia finalizing administrative arrangements for uranium supplies. Meanwhile, technological advancements are being leveraged to respond to emergencies, such as China's use of heavy-duty drones to rescue flood victims, while other incidents like a fatal music bar fire in Bangkok highlight ongoing safety concerns.",
+    "others": "Tensions between the US and Iran continue to escalate, with the US launching fresh strikes and threatening to attack a nuclear facility, while the UAE condemns Iran's attack on tankers. Meanwhile, human rights and freedom of expression are under scrutiny in India, where a film about a human rights activist has been blocked, and in the US, where links between government officials and disgraced financier Jeffrey Epstein are being uncovered. Global trade talks are also stalled, with a US trade expert warning that trilateral talks are needed to secure a cross-border trade deal between the US, Mexico, and Canada.",
+    "tech": "The technology and innovation headlines focus on advancements in database management, sustainable energy, and space exploration, with notable developments including the introduction of YouTrackDB, a method to recover up to 90% of lithium from used EV batteries, and SpaceX's upcoming 13th test flight of Starship. Additionally, there are discussions on the fundamentals of wireless communication and the potential impact of automation on future work. The headlines also touch on the intersection of technology and society, including the use of satellites and concerns about the role of humans in a rapidly changing technological landscape.",
+    "economist": "The Economist's analysis highlights disparities in social and economic spheres, including the scarcity of female breadwinners in America and inadequate infrastructure development in India, which has not kept pace with prosperity. Meanwhile, global power dynamics are shifting, with potential threats to America's financial supremacy and Red Bull's marketing dominance, as well as ongoing geopolitical tensions in Ukraine and Myanmar. Additionally, the publication touches on social and health issues, such as dementia incidence rates and the debate over the age of criminal responsibility."
+  }
 }
