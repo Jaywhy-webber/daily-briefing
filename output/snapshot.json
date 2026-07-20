@@ -2,375 +2,384 @@
   "news": {
     "singapore": [
       {
-        "id": "9956d33a7a9e9c8338d04df426d65520",
-        "title": "Commentary: Why Johor Bahru should roll out congestion pricing when RTS opens",
-        "summary": "If congestion pricing saves time, improves buses and funds better infrastructure, support will follow, says NUS’ Timothy Wong.",
+        "id": "21b523dd62bc6c3c26371ab37918477a",
+        "title": "From a four-member Malay dance group to a multiracial community spanning ages 7 to 73",
+        "summary": "These Singaporeans of different races are forging friendships through dance and community activities",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/community/from-a-four-member-malay-dance-group-to-a-multiracial-community-spanning-ages-7-to-73",
+        "published": "2026-07-20T21:00:00+00:00"
+      },
+      {
+        "id": "98f8f94c14f314a5d57fdbae35e5879f",
+        "title": "Metro to close Paragon, Causeway Point department stores when leases end in retail overhaul",
+        "summary": "Metro says it intends to progressively move away from the traditional large department store format following a \"strategic review\" of its retail operations.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/johor-bahru-congestion-pricing-traffic-rts-bus-6240016",
-        "published": "2026-07-19T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/metro-close-department-stores-paragon-causeway-point-lease-expire-6266141",
+        "published": "2026-07-20T16:02:00+00:00"
       },
       {
-        "id": "e783ef2247b22ab6eae8db420fb3a9ce",
-        "title": "Singapore Pools app can be used to bet from overseas, despite rules against it",
-        "summary": "CNA tested the app in the UK and Italy and placed bets successfully; other users report similar workarounds from countries such as Thailand, Malaysia and China.",
+        "id": "62b45f36278edeb1ca6099cf8043cb9c",
+        "title": "Faishal’s resignation could hasten Cabinet reshuffle, reaffirms PAP’s high standards: Analysts",
+        "summary": "The development could affect leadership succession, they added.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/politics/faishals-resignation-could-hasten-cabinet-reshuffle-reaffirms-paps-high-standards-analysts",
+        "published": "2026-07-20T13:50:00+00:00"
+      },
+      {
+        "id": "161acea5616c91b3f21ac1a1b64cd3d3",
+        "title": "No by-election after Faishal exit, PAP to strengthen Marine Parade-Braddell Heights team: Desmond Lee",
+        "summary": "The People’s Action Party chairman noted that no by-elections were called when MPs in Jurong GRC and Sengkang GRC vacated their seats previously.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/singapore-pools-app-gambling-bets-overseas-6246171",
-        "published": "2026-07-19T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/faishal-ibrahim-resigns-no-election-marine-parade-braddell-heights-6265851",
+        "published": "2026-07-20T12:40:00+00:00"
       },
       {
-        "id": "d6ac417e38149e5b9ff4c4e94aff5c36",
-        "title": "Woodlands Hospital pilot helps cut hospitalisations and A&E visits for nursing home residents",
-        "summary": "All three other nursing homes in Woodlands may also benefit soon.",
-        "source": "The Straits Times",
+        "id": "c36248100df587bb5e001f50b89087e4",
+        "title": "PM Wong congratulates new UK PM Andy Burnham",
+        "summary": "\"I am confident that we will continue to strengthen cooperation across a wide range of areas, including in innovation, science and technology, and defence,\" wrote Prime Minister Lawrence Wong in his congratulatory letter.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/nursing-home-residents-see-ae-visits-and-hospitalisations-cut-under-woodlands-hospitals-pilot",
-        "published": "2026-07-19T21:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/uk-andy-burnham-new-pm-singapore-lawrence-wong-congratulate-6265711",
+        "published": "2026-07-20T12:32:49+00:00"
       },
       {
-        "id": "ddc58cd36c1c1dc244a83ea3a7feb4c2",
-        "title": "Illegal tortoises offered for sale in Singapore on TikTok and Telegram",
-        "summary": "The National Parks Board says investigations are ongoing.",
+        "id": "42703d0f4d3d810e711fa13af6b3442e",
+        "title": "PM Wong congratulates Andy Burnham on his appointment as British PM",
+        "summary": "PM Wong also said he hoped to welcome Burnham to Singapore.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/environment/illegal-tortoises-offered-for-sale-in-singapore-on-tiktok-and-telegram",
-        "published": "2026-07-19T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/pm-wong-congratulates-andy-burnham-on-appointment-as-british-pm",
+        "published": "2026-07-20T12:20:00+00:00"
       },
       {
-        "id": "af848c5fc21343bcd3c4af7f3db7ae8e",
-        "title": "Donkey rides, speedboats and global deals: Inside her world as a ship charterer",
-        "summary": "Ship chartering is not what most people picture when they think of maritime. For Vale Tan, that is exactly what drew her in – and keeps her going.",
+        "id": "8f1e6836deba18dd26f0bb2397979510",
+        "title": "ST Explains: When must firms inform customers about using their personal data for AI training?",
+        "summary": "Singapore's new rules mandate that organisations inform consumers if they use personal data to train AI models.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/jobs/ship-charterer-maritime-industry-career-ministry-of-transport",
-        "published": "2026-07-19T20:00:00+00:00"
+        "url": "https://www.straitstimes.com/tech/stexplains-can-customers-say-no-to-the-use-of-their-personal-data-for-ai-training",
+        "published": "2026-07-20T12:19:40+00:00"
       },
       {
-        "id": "cb85ab4bebfb775158116223f16fe4b4",
-        "title": "About $274,000 lost in scams involving phone calls from numbers starting with the digit 3",
-        "summary": "At least 12 such cases have been reported since May.",
-        "source": "The Straits Times",
+        "id": "6530c2829efe7465ecdf8a2ab0b21fea",
+        "title": "PAP moved swiftly on Faishal case, but string of indiscretions could chip away at party's reputation: Analysts",
+        "summary": "With the Cabinet now short of two office holders, analysts say the case could speed up Prime Minister Lawrence Wong's plans for a reshuffle.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/about-274000-lost-in-scams-involving-phone-calls-from-numbers-starting-with-the-digit-3",
-        "published": "2026-07-19T13:25:00+00:00"
-      },
-      {
-        "id": "ee856ecf0ada5f397a7071fadde1cc4f",
-        "title": "Woman assisting police after teenage girl hurt at *Scape football event",
-        "summary": "The teenager was taken to hospital conscious.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/woman-assisting-police-investigations-for-hurting-teenage-girl-at-scape-football-event",
-        "published": "2026-07-19T08:50:00+00:00"
-      },
-      {
-        "id": "7dfcc57f558ec404a2634f5a410036e6",
-        "title": "13 people to be charged over fraudulent registration of SIM cards",
-        "summary": "They were offered cash rewards of $10 to $30 for each registered SIM card.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/13-people-to-be-charged-over-fraudulent-registration-of-sim-cards",
-        "published": "2026-07-19T08:30:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/faishal-ibrahim-pap-reputation-reshuffle-analysts-6265486",
+        "published": "2026-07-20T12:17:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "e17a958c4574ac3e5b2c80e4ec8869a6",
-        "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
-        "summary": "With President Trump in attendance, an all-superstar lineup that included Madonna, BTS, Justin Bieber and Burna Boy felt a little more political than it might have otherwise.",
+        "id": "61e7916bb133d1077d3e7afa301b6315",
+        "title": "Mullin: Feds ‘actively pursuing’ threat to World Cup fan fest",
+        "summary": "Department of Homeland Security (DHS) Secretary Markwayne Mullin on Monday said federal authorities are “actively pursuing” an investigation into a threat at a World Cup fan fest event. “It was an intimate threat that because of our federal partnership and our local partnership, being able to work together, we were able to stop it before…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/5979337-dhs-investigates-world-cup-threat/",
+        "published": "2026-07-20T21:59:31+00:00"
+      },
+      {
+        "id": "3e2736114ca4cb4d301d20001fcb499c",
+        "title": "Rising US death count in Iran war drives Trump toward escalation",
+        "summary": "Fears are growing that the deaths of three U.S. servicemembers over a 24-hour period this weekend could push President Trump toward further escalation, even as both sides leave diplomatic doors open. The servicemembers’ deaths bring the U.S. death toll in the Iran war to 17 since the conflict broke out in March. Since the U.S.…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/5979309-us-servicemembers-killed-iran/",
+        "published": "2026-07-20T21:34:05+00:00"
+      },
+      {
+        "id": "20de8b5a613c81d237b8e6e5ce19ff92",
+        "title": "Ossoff slams RFK Jr. for terminating FoodNet, drawing link to cyclospora outbreak",
+        "summary": "Sen. Jon Ossoff (D-Ga.) slammed Health and Human Services Secretary Robert F. Kennedy Jr. for ending the Center for Disease Control and Prevention’s (CDC) tracking of parasitic infections including cyclospora. The decision was made last year and suspended tracking managed by the CDC, U.S. Department of Agriculture and the Food and Drug Administration, in addition to…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/5979225-ossoff-slams-rfk-jr-for-terminating-foodnet-drawing-link-to-cyclospora-outbreak/",
+        "published": "2026-07-20T21:30:54+00:00"
+      },
+      {
+        "id": "ff8d18ea067e4f5b778d6de81d8b10f5",
+        "title": "Trump slaps additional 50 percent tariffs on Canada",
+        "summary": "President Trump slapped an additional 50 percent tariff on certain Canadian goods in response to what the administration said were “discriminatory” trade measures from Canada on Monday. A senior administration official told reporters on a Monday press call that the impacted products range from “wine to hockey sticks to cement.” The tariffs fall under Section…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/5979288-trump-imposes-canadian-tariffs/",
+        "published": "2026-07-20T21:27:21+00:00"
+      },
+      {
+        "id": "6aa858c23981e5dbfae2cdb9cab97548",
+        "title": "Man arrested after setting off explosive outside NY federal building",
+        "summary": "A man has been arrested after he set off an explosive at a federal building in New York City, the FBI said Monday. At a press conference, FBI New York Field Office Assistant Director James Barnacle said that Andrew Arrabaca was at 26 Federal Plaza’s employee entrance shortly prior to 9:00 a.m. EDT. While there,…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/national-security/5979252-man-arrested-nyc-federal-building/",
+        "published": "2026-07-20T21:13:46+00:00"
+      },
+      {
+        "id": "8733996d081edc210b5f439c5fc48fc7",
+        "title": "Pentagon confirms nearly 100 service members injured since Iran strikes resumed in July",
+        "summary": "The Pentagon confirmed on Monday that nearly 100 U.S. service members have sustained injuries since the U.S. military began launching continuous attacks against Iran earlier this month, with 96 percent of them having returned to duty. “They are determined to get back in the fight,” Pentagon chief spokesperson Sean Parnell said in a statement. “The vast…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/defense/5979242-pentagon-updates-service-member-casualties-iran/",
+        "published": "2026-07-20T21:05:13+00:00"
+      },
+      {
+        "id": "e14e132221cd433f6b28880130ca21b8",
+        "title": "10 things that wowed us at the 2026 World Cup",
+        "summary": "The United States, Mexico, and Canada co-hosted the nearly six-week tournament. NPR's team of journalists who covered the World Cup reflects on the experience.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
-        "published": "2026-07-19T21:29:52+00:00"
+        "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament",
+        "published": "2026-07-20T19:56:44+00:00"
       },
       {
-        "id": "248b465088e39e8c4346e8743016c23e",
-        "title": "State Department issues warning to Americans living and traveling abroad",
-        "summary": "On Saturday, the State Department issued a warning to Americans living and traveling abroad, urging them to remain cautious in the face of increased threats on U.S. diplomatic facilities. “Due to heightened tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation,” the State Department wrote in a statement…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/international/5977134-state-department-travel-warning/",
-        "published": "2026-07-19T21:29:21+00:00"
-      },
-      {
-        "id": "4c429b47ff5d9cf5ba2979c17582db41",
-        "title": "Epstein survivor on Blanche meeting: ‘We were gaslit’",
-        "summary": "A survivor of convicted sex offender Jeffrey Epstein on Saturday said she was “gaslit” during her meeting last week with acting Attorney General Todd Blanche. Jess Michaels told MS NOW’s Alex Witt about this recent meeting, along with other survivors, with Blanche. She said that Blanche repeatedly denied that anything in the Department of Justice’s…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/5977111-epstein-survivor-blanche-meeting/",
-        "published": "2026-07-19T21:15:47+00:00"
-      },
-      {
-        "id": "47a26c2f6e917a963ad2ff7dcc40ce1b",
-        "title": "High-profile Trump nominees pose test for outgoing Republicans",
-        "summary": "Several high-profile Trump administration nominees face committee votes in the coming weeks that will show whether outgoing GOP senators are willing to buck the administration — or at least exert some leverage. Centers for Disease Control and Prevention (CDC) director nominee Erica Schwartz and attorney general nominee Todd Blanche received a tepid reception at their…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/senate/5975550-blanche-schwartz-clayton-confirmation-battles/",
-        "published": "2026-07-19T21:00:00+00:00"
-      },
-      {
-        "id": "8f52513919096fae34afcb0efa2e915e",
-        "title": "Warner rails against Trump’s primetime speech: ‘This guy is not looking for a secure election’",
-        "summary": "Sen. Mark Warner (D-Va.) on Sunday said President Trump’s primetime speech shows that he’s not serious about securing elections, pointing to the recent firings of the remaining Democratic members at an independent election administration agency earlier this month. “There was something called the Elections Assistance Commission. Nobody knows about it, but it works with local…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/5977091-mark-warner-election-security/",
-        "published": "2026-07-19T20:46:26+00:00"
-      },
-      {
-        "id": "bfcb9ada6777fc5086584cec4ec499c5",
-        "title": "Energy secretary: US ‘will continue to assure flow of traffic’ through Strait of Hormuz amid reignited Iran war",
-        "summary": "Energy Secretary Chris Wright on Sunday said the U.S. “will continue to assure flow of traffic” through the Strait of Hormuz more than a week after hostilities between the U.S. and Iran resumed. “The president is always looking for the diplomatic off-ramp,” Wright told ABC News’s Jonathan Karl in an interview on “This Week.” “President…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/5977036-energy-secretary-iran-war-update/",
-        "published": "2026-07-19T20:28:49+00:00"
-      },
-      {
-        "id": "dfd5576c3e8fae6c046b687d411433c1",
-        "title": "US service member killed in Iraq during ‘controlled detonation’ of Iran drone: Centcom",
-        "summary": "A U.S. service member was killed in northern Iraq on Saturday during a “controlled detonation” of unexploded ordnance from a downed Iranian one-way attack drone, the U.S. Central Command (Centcom) said on Sunday. Another service member was injured and continues to receive medical treatment for a “minor” injury, according to Centcom. The announcement marks the…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/5977053-us-service-member-killed-iraq/",
-        "published": "2026-07-19T20:02:45+00:00"
-      },
-      {
-        "id": "8ae34d1880847e82ab44c72db686bb00",
-        "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
-        "summary": "On Monday, former Manchester Mayor Andy Burnham succeeds Keir Starmer as the United Kingdom's prime minister. Burnham's politics have been shaped by England's north-south class divide.",
+        "id": "160c122551ea765d798e519b2b07e0be",
+        "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
+        "summary": "Paramount's owners were hoping they'd be firmly in control of rival Warner Bros. Discovery by the end of this week. Monday's temporary restraining order puts that plan on hold.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
-        "published": "2026-07-19T16:00:00+00:00"
+        "url": "https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit",
+        "published": "2026-07-20T17:55:31+00:00"
       }
     ],
     "asia": [
       {
-        "id": "782c649e2325886f4719f9f185b6b76f",
-        "title": "China roadshow to boost FDI inflow",
-        "summary": "A government investment roadshow in China could help attract businesses from Chongqing and Sichuan, two major manufacturing hubs for high-tech industries, says CP Group Senior Vice-Chairman Suphachai Chearavanont.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3288454/china-roadshow-to-boost-fdi-inflow",
-        "published": "2026-07-19T22:21:00+00:00"
-      },
-      {
-        "id": "4918d89ba94d10a1160682702c984005",
-        "title": "US military reports another soldier killed in northern Iraq",
-        "summary": "The US military on Sunday reported the death of another US soldier, bringing the total US military death toll in the Iran war to 17. In a post on social media, US Central Command (CENTCOM) said a soldier was killed in northern Iraq on Saturday during a controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone. A second soldier sustained minor injuries and is continuing to receive medical treatment, it said. This came a day after the US military reported that two...",
+        "id": "a26008240ed1cf29e405c1b868cf7d8d",
+        "title": "US Justice Department investigating whether Harvard aid programmes are discriminatory",
+        "summary": "The US Justice Department said on Monday it launched an investigation reviewing whether some Harvard University financial aid programmes were discriminatory, marking the latest fight against the university by Donald Trump’s administration. “The Justice ‌Department’s Civil Rights Division announced today it is opening a compliance review into Harvard University to determine whether its China-based financial aid programmes and practices exclude American-citizen students,” the department said in a.",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3361130/us-military-reports-another-soldier-killed-northern-iraq?utm_source=rss_feed",
-        "published": "2026-07-19T22:07:58+00:00"
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3361270/us-justice-department-investigating-whether-harvard-aid-programmes-are-discriminatory?utm_source=rss_feed",
+        "published": "2026-07-20T22:31:45+00:00"
       },
       {
-        "id": "dad1a1f216a2c84ec1fb61ed17539714",
-        "title": "2.76m seek welfare eligibility review",
-        "summary": "About 2.76 million people who failed to qualify for the 2026 state welfare card scheme have appealed for a review of their eligibility, says the Finance Ministry.",
+        "id": "5df3744f1fc0b218574cc95e723cd3b5",
+        "title": "Restaurants call for more reforms to lower food prices",
+        "summary": "The Thai Restaurant Association is asking the government to connect raw material wholesalers with restaurants to lower ingredient costs, rather than providing subsidies for each dish.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3288434/276m-seek-welfare-eligibility-review",
-        "published": "2026-07-19T22:04:00+00:00"
+        "url": "https://www.bangkokpost.com/business/general/3289029/restaurants-call-for-more-reforms-to-lower-food-prices",
+        "published": "2026-07-20T22:17:00+00:00"
       },
       {
-        "id": "397ec36157d9bc352823b2a00c681719",
-        "title": "Inside India’s cybercrime investigations: How scammers exploit Telegram",
-        "summary": "From exam-paper leaks to investment scams, Telegram has repeatedly featured in India’s cybercrime cases. CNA speaks to investigators about why scammers favour the platform - and what Asia can learn from India’s response.",
+        "id": "11e622d188b500d0602b58c077eec6dd",
+        "title": "US seeks to limit key materials from China, others in defence supply chains",
+        "summary": "China is the world's biggest producer and refiner of rare earths, which are critical for high-tech products ranging from electric vehicles to missile guidance systems.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/inside-indias-cybercrime-investigations-how-scammers-exploit-telegram-6260666",
-        "published": "2026-07-19T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/world/us-china-rare-earths-defence-contractors-6266686",
+        "published": "2026-07-20T22:13:00+00:00"
       },
       {
-        "id": "c7c5d0bd4f6f48561331856430708044",
-        "title": "Hong Kong’s 5-year plan will shore up market with governance and vision",
-        "summary": "Hong Kong’s decision to introduce its first five-year plan has prompted familiar questions. Does this signal greater government intervention at the expense of the free market? Will it make Hong Kong’s development model more similar to that of the mainland? Could it overlap with the annual policy address and budget? And without detailed key performance indicators, might it become little more than a symbolic document? These concerns deserve a serious response. For Hong Kong, the purpose of a...",
+        "id": "17e7946e6dc2cc67de1f224af402e64a",
+        "title": "Brazil widens lead in China’s soybean market as US shipments fall despite Trump-Xi deal",
+        "summary": "China imported 12.08 million tonnes of Brazilian soybeans in June, up 13.7 per cent from a year earlier, while volumes from the United States fell 20.6 per cent to 1.27 million tonnes, far off the pace implied by the purchasing deal agreed by Presidents Donald Trump and Xi Jinping, according to figures released on Monday by China’s General Administration of Customs. Total arrivals of the oilseed reached 13.55 million tonnes, a record for the month, lifted by Brazilian supply and by the clearing.",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3360529/hong-kongs-5-year-plan-will-shore-market-governance-and-vision?utm_source=rss_feed",
-        "published": "2026-07-19T21:30:05+00:00"
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3361269/brazil-widens-lead-chinas-soybean-market-us-shipments-fall-despite-trump-xi-deal?utm_source=rss_feed",
+        "published": "2026-07-20T22:04:03+00:00"
       },
       {
-        "id": "b4705f16f81447baaa31843d10c67690",
-        "title": "BTS, Madonna and the Muppets light up Fifa World Cup half-time show",
-        "summary": "Musical headliners Madonna, Shakira, Justin Bieber, BTS and Coldplay were joined by Brazilian football icons and Ted Lasso actors in a spectacular first-ever Fifa World Cup final half-time show on Sunday. The star-packed, Super Bowl-style extravaganza – a first for football’s showpiece event – also featured a tribute to football icon Pele, and a rendition of “Seven Nation Army” led by Gustavo Dudamel and featuring musicians from the US, Venezuela and Iran. Sesame Street and The Muppets...",
-        "source": "South China Morning Post",
+        "id": "821f0ff519ac8aebaef692ea75d10d90",
+        "title": "Sihasak hails PM's 'historic' China visit",
+        "summary": "Foreign Affairs Minister Sihasak Phuangketkeow has described Prime Minister Anutin Charnvirakul's official visit to China as a historic success.",
+        "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.scmp.com/sport/football/article/3361129/bts-madonna-and-muppets-light-fifa-world-cup-half-time-show?utm_source=rss_feed",
-        "published": "2026-07-19T21:09:07+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3288984/sihasak-hails-pms-historic-china-visit",
+        "published": "2026-07-20T22:01:00+00:00"
       },
       {
-        "id": "3b80779f90df5e07a4f7e5ba9eedc1cc",
-        "title": "Israelis march to Gaza border demanding re-establishment of settlements",
-        "summary": "Thousands of Israelis, including settlers and right-wing activists, marched towards the border with Gaza on Sunday, calling on the government to re-establish Israeli settlements in the war-shattered Palestinian territory, an Agence France-Presse journalist reported. The demonstrators gathered near the border before walking in large numbers towards the fence overlooking northern Gaza, where Israeli security forces deployed to prevent participants from advancing further. Agence France-Presse...",
-        "source": "South China Morning Post",
+        "id": "0e425bf612d67bf610655f2d9ac73a34",
+        "title": "How a national security threat label has reignited Indonesia's LGBTQ debate",
+        "summary": "Indonesia last October classified the \"spread of LGBTQ culture\" as one of the country's non-military threats. A series of developments thrust the provision into the public eye this month, sparking a debate.",
+        "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3361128/israelis-march-gaza-border-demanding-re-establishment-settlements?utm_source=rss_feed",
-        "published": "2026-07-19T20:22:45+00:00"
+        "url": "https://www.channelnewsasia.com/asia/lgbtq-indonesia-defence-policy-national-security-threat-6255191",
+        "published": "2026-07-20T22:00:00+00:00"
       },
       {
-        "id": "8f010a5fda6590e370d21005f5bd2d1f",
-        "title": "Trump and Infantino set to face red-card protest at Fifa World Cup final",
-        "summary": "Football fans launched a unique protest against US President Donald Trump and Fifa chief Gianni Infantino at Sunday’s World Cup final. Red cards were handed out in New York and New Jersey to those on their way to the MetLife Stadium for the Spain versus Argentina clash. Protest organisers hope fans will hold up the red cards during the handing over of the trophy to demonstrate their anger at Trump and Infantino. The duo are set to give the winning captain the World Cup. The red cards featured a.",
+        "id": "f23732c5d93d13dea009fd92e9e9999f",
+        "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over cars, alcohol and cheese",
+        "summary": "US President Donald Trump on Monday imposed 50 per cent tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American cars, alcohol and dairy products. The move could unleash a new wave of economic chaos, with risks of higher inflation and further fraying of relations between two nations that had been closely woven together before Trump’s return to the White House. The administration official previewing the action said that Canada was one of the only nations..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/sport/football/article/3361127/trump-and-infantino-set-face-red-card-protest-fifa-world-cup-final?utm_source=rss_feed",
-        "published": "2026-07-19T18:43:40+00:00"
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3361268/trump-imposes-50-tariffs-canadian-goods-citing-disputes-over-cars-alcohol-and-cheese?utm_source=rss_feed",
+        "published": "2026-07-20T21:59:49+00:00"
+      },
+      {
+        "id": "8404dd831ce126c417ab005211fb90f2",
+        "title": "Trump order targets China-linked military mineral supply chains",
+        "summary": "US President Donald Trump on Monday signed an executive order aimed at reducing dependence on China for defence-related critical minerals, directing military contractors to shift away from Beijing-linked supply chains beginning in January 2027. Without naming China, Trump’s executive order stresses the need to maintain US military dominance “in an era of renewed great power competition”. “The United States must secure its supply chains against physical, cyber, and economic subversion,” it...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/us/politics/article/3361267/trump-order-targets-china-linked-military-mineral-supply-chains?utm_source=rss_feed",
+        "published": "2026-07-20T21:46:14+00:00"
       }
     ],
     "others": [
       {
-        "id": "e10ffe2dbb7c5a9371dbb51acae5e6f7",
-        "title": "Israeli ministers join march to Gaza to demand return of settlements",
-        "summary": "Hundreds gather near the border as coalition figures push to rebuild communities evacuated in 2005.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-        "published": "2026-07-19T20:55:11+00:00"
-      },
-      {
-        "id": "19a72a674e337c61823504114118d7e6",
-        "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
-        "summary": "Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss",
-        "published": "2026-07-19T20:22:38+00:00"
-      },
-      {
-        "id": "26fe878240817aecd297111f26a617bb",
-        "title": "What happened in the first half of the Spain vs Argentina World Cup final?",
-        "summary": "All the biggest talking points and statistics from the first 45 minutes of a goalless World Cup final in New Jersey.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
-        "published": "2026-07-19T20:19:26+00:00"
-      },
-      {
-        "id": "b5332d0cdb42dbde486f1d1d33ab4334",
-        "title": "US soldier killed and one injured after Iranian attack in Iraq",
-        "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-19T19:45:12+00:00"
-      },
-      {
-        "id": "e7d3e1eb01d04a3e811dfd491d17595c",
-        "title": "Dozens missing after passenger ferry sinks off coast of Guyana",
-        "summary": "Emergency response has rescued 67 people, including 15 children, from one of the country’s worst maritime disastersA ferry carrying 116 passengers and crew sank ⁠off the coast of Guyana in South America ⁠late Saturday, with 67 ⁠people, ​including 15 children, rescued so far, according to Guyana ⁠authorities.A massive search-and-rescue operation continues for dozens of missing passengers in what has been described by officials as one of the country’s worst maritime disasters. Continue reading...",
+        "id": "c5b20ddcb81f3e044216e8a51cb63c0a",
+        "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+        "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy productsDonald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goo",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-        "published": "2026-07-19T19:39:58+00:00"
+        "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+        "published": "2026-07-20T22:27:04+00:00"
       },
       {
-        "id": "475a3fece42393cd199a9a9068da9419",
-        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-        "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+        "id": "cf916deb12adc02f06b06d07a193eabb",
+        "title": "Trump imposes 50% tariff on Canadian imports",
+        "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-19T18:25:40+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-20T22:26:34+00:00"
       },
       {
-        "id": "01724d265a1b562f775e12697cb7ee48",
-        "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-        "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+        "id": "33aea0a346bcebfbaaaf1cfe068a6521",
+        "title": "Moroccan-born man dies while detained by police in Italy",
+        "summary": "A video showing the final moments of Moroccan-born Abderrahim Fakir as he was detained by police has sparked protests.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss",
+        "published": "2026-07-20T22:13:37+00:00"
+      },
+      {
+        "id": "8497226d2cccb9817e75ed8986a5750d",
+        "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
+        "summary": "Tens of thousands of fans greet La Roja as they travel down Madrid's historic avenues to Cibeles Square.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
+        "published": "2026-07-20T21:52:02+00:00"
+      },
+      {
+        "id": "d7e980e853f2de50c5914188a26ee495",
+        "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+        "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-19T18:18:05+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-20T21:30:19+00:00"
       },
       {
-        "id": "0185b58dafe5d4840bad6a070052c1e7",
-        "title": "Algeria seeks larger EU energy role amid regional tensions",
-        "summary": "Algeria and Germany agreed to deepen energy ties during President Abdelmadjid Tebboune's recent visit to Berlin. But Algiers is still grappling with tensions at home, over Western Sahara and instability in the Sahel.",
-        "source": "Deutsche Welle",
+        "id": "87b9629e305456ce00190a65c86ab682",
+        "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
+        "summary": "Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.",
+        "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-07-19T15:51:00+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
+        "published": "2026-07-20T21:19:41+00:00"
+      },
+      {
+        "id": "ecb9d3d784f551651f7f8ded6d2270cc",
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-20T21:09:31+00:00"
+      },
+      {
+        "id": "e9935ae98de95f576e14b98512c15910",
+        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+        "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-20T21:03:24+00:00"
       }
     ],
     "tech": [
       {
-        "id": "d7bfc2d8fcdded31cb01ffe9d8a923ca",
-        "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-        "summary": "Just why? ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ● ҉⃝ ⃝͢ ͞ ͘ ͞⃝̕ ͢ ̛ ⃝ ̸ ̡ ͢⃝̧ ͡ ͡ ̀ ̧ ̢⃝͜ ҉ ͞ ͞ ⃝͞ ͞ ͡⃝ ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊( ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥ What am I supposed to do with this? It's un-Googleable. Unpronounceable. It doesn't even render the same way on various platforms. It looks one way on YouTube Music. Another on Apple Music. And yet another on Bandcamp. Even the artist name ⣎⡇ꉺლ༽இ•̛)ྀ◞ […]",
+        "id": "357e07965bf524795bd16cab05f1c1e5",
+        "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+        "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-        "published": "2026-07-19T21:02:45+00:00"
+        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+        "published": "2026-07-20T22:19:12+00:00"
       },
       {
-        "id": "2b34974fc706e625730d6189b353e39a",
-        "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-        "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact […]",
+        "id": "469ed3a2b5f4f896586e9872ba6cae5e",
+        "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+        "summary": "Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by cracking down on the \"DJI front companies\" suspected of […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-        "published": "2026-07-19T19:26:06+00:00"
+        "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+        "published": "2026-07-20T22:16:14+00:00"
       },
       {
-        "id": "3dee880d1be84a6278a97a148122618a",
-        "title": "I hate that I don’t hate this song made with Suno",
-        "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that […]",
+        "id": "b7e70d94f0c5d1dd55eacdefe71f86ef",
+        "title": "The Odyssey turned me into an IMAX believer",
+        "summary": "After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scenes were beautifully crafted and tremendously acted, there was something a little bit off about the way they hit my eye. I spent days […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-        "published": "2026-07-19T17:35:54+00:00"
+        "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+        "published": "2026-07-20T21:47:37+00:00"
       },
       {
-        "id": "c17e30ffa54521971482e77e715c1c7b",
-        "title": "The FBI reportedly won’t investigate ICE anymore",
-        "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in the […]",
+        "id": "b9cde394b4e0f6c4ec553b7f74f4540a",
+        "title": "Donation Controversy",
+        "summary": "Article URL: https://mullvad.net/en/blog/donation-controversy Comments URL: https://news.ycombinator.com/item?id=48985249 Points: 11 # Comments: 4",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://mullvad.net/en/blog/donation-controversy",
+        "published": "2026-07-20T21:43:07+00:00"
+      },
+      {
+        "id": "53333ada84e14fda64cb661934394ef8",
+        "title": "My falling-out with the rationalist community",
+        "summary": "Article URL: https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist Comments URL: https://news.ycombinator.com/item?id=48985140 Points: 26 # Comments: 3",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist",
+        "published": "2026-07-20T21:30:56+00:00"
+      },
+      {
+        "id": "f3b345ed31c0a4ea86b5e409275880cd",
+        "title": "SpaceX in your index fund, explained",
+        "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-        "published": "2026-07-19T16:42:10+00:00"
+        "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+        "published": "2026-07-20T21:00:00+00:00"
       },
       {
-        "id": "6bbf9e89abca0e127dff2d58117bea56",
-        "title": "Orchid is a delightfully retro and approachable hipster synth",
-        "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspiring singer-songwriters or fooling around at home. But chord organs largely fell out of favor […]",
-        "source": "The Verge",
+        "id": "6e91df3ee723d0fd7e4fadd9e021c149",
+        "title": "The creepiest 'sales demo' of all time",
+        "summary": "Article URL: https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html Comments URL: https://news.ycombinator.com/item?id=48984555 Points: 30 # Comments: 7",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
-        "published": "2026-07-19T15:15:00+00:00"
+        "url": "https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html",
+        "published": "2026-07-20T20:36:37+00:00"
       },
       {
-        "id": "c3f17981d23f722314c30dcce1af2084",
-        "title": "Birdfy’s solar-powered smart feeder is down to one of its best prices",
-        "summary": "Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, which has dropped to $149.99 at Birdfy and is its second-best price to date. The bundle, which includes a […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
-        "published": "2026-07-19T15:00:00+00:00"
-      },
-      {
-        "id": "f0eb57880cbc69733d413c8030c91337",
-        "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
-        "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
+        "id": "1d718504edb006a2bb1f7a1c9607e833",
+        "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+        "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
-        "published": "2026-07-19T11:19:31+00:00"
-      },
-      {
-        "id": "8024d26e84e8a7c26bcb23d4ffb0c507",
-        "title": "Will AI fix prior authorization—or make it worse?",
-        "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-        "published": "2026-07-18T11:18:25+00:00"
+        "url": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+        "published": "2026-07-20T20:30:25+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "e4962d193ce34277b3285f3d08679920",
+        "title": "Don’t blame supermarkets for your expensive groceries",
+        "summary": "Saying greedy shops have caused rising food prices is populist slop",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/07/20/dont-blame-supermarkets-for-your-expensive-groceries",
+        "published": "2026-07-20T16:21:36+00:00"
+      },
       {
         "id": "71f934ab55429a99c5cdfb183087b70f",
         "title": "China’s mysterious new billionaires are conquering the world",
@@ -399,15 +408,6 @@
         "published": "2026-07-18T13:53:36+00:00"
       },
       {
-        "id": "cd02e92babf67145ee76f841de399185",
-        "title": "Israel’s future hangs in the balance",
-        "summary": "The country’s coming election may be its most important ever",
-        "source": "Briefing",
-        "category": "economist",
-        "url": "https://www.economist.com/briefing/2026/07/16/israels-future-hangs-in-the-balance",
-        "published": "2026-07-16T12:53:49+00:00"
-      },
-      {
         "id": "d77b7e22588a734a3ec27f97be7f897f",
         "title": "America should stop making it so hard to have fun",
         "summary": "Bureaucracy is nightlife’s toughest bouncer",
@@ -426,21 +426,21 @@
         "published": "2026-07-16T12:53:49+00:00"
       },
       {
-        "id": "263122bd5e2f3ed212ffe4fd3dfe4428",
-        "title": "A real but selective crackdown on Cambodia’s scam industry",
-        "summary": "Sanctions from America and pressure from China have forced a reckoning",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/07/16/a-real-but-selective-crackdown-on-cambodias-scam-industry",
-        "published": "2026-07-16T12:53:49+00:00"
-      },
-      {
         "id": "d0319dbaae8c5ad4fb9b4e047a41c595",
         "title": "How SK Hynix became the king of advanced memory chips",
         "summary": "Its advantages will not protect it if demand falters",
         "source": "Business",
         "category": "economist",
         "url": "https://www.economist.com/business/2026/07/16/how-sk-hynix-became-the-king-of-advanced-memory-chips",
+        "published": "2026-07-16T12:53:49+00:00"
+      },
+      {
+        "id": "c970f49bf768b923b8bc497d90d9d623",
+        "title": "How to sell a kettle",
+        "summary": "Brand positioning reaches boiling point",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/07/16/how-to-sell-a-kettle",
         "published": "2026-07-16T12:53:49+00:00"
       }
     ]
@@ -462,12 +462,12 @@
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7457.68994140625,
-        "prev_close": 7533.77001953125,
-        "change_pct": -1.01,
+        "price": 7443.27978515625,
+        "prev_close": 7457.68994140625,
+        "change_pct": -0.19,
         "direction": "down",
-        "price_fmt": "7,457.7",
-        "change_str": "-1.01%"
+        "price_fmt": "7,443.3",
+        "change_str": "-0.19%"
       },
       {
         "symbol": "^HSI",
@@ -495,12 +495,12 @@
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10600.400390625,
-        "prev_close": 10572.2001953125,
-        "change_pct": 0.27,
-        "direction": "up",
-        "price_fmt": "10,600",
-        "change_str": "+0.27%"
+        "price": 10524.759765625,
+        "prev_close": 10600.400390625,
+        "change_pct": -0.71,
+        "direction": "down",
+        "price_fmt": "10,525",
+        "change_str": "-0.71%"
       },
       {
         "symbol": "^AXJO",
@@ -518,32 +518,32 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2919000387191772,
-        "prev_close": 1.2900700569152832,
-        "change_pct": 0.14,
-        "direction": "up",
+        "price": 1.2909499406814575,
+        "prev_close": 1.2921199798583984,
+        "change_pct": -0.09,
+        "direction": "down",
         "price_fmt": "1.29",
-        "change_str": "+0.14%"
+        "change_str": "-0.09%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4764000177383423,
-        "prev_close": 1.4764100313186646,
-        "change_pct": -0.0,
+        "price": 1.4733999967575073,
+        "prev_close": 1.4765499830245972,
+        "change_pct": -0.21,
         "direction": "down",
-        "price_fmt": "1.48",
-        "change_str": "-0.00%"
+        "price_fmt": "1.47",
+        "change_str": "-0.21%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7354999780654907,
-        "prev_close": 1.7384999990463257,
-        "change_pct": -0.17,
+        "price": 1.7329599857330322,
+        "prev_close": 1.7372299432754517,
+        "change_pct": -0.25,
         "direction": "down",
-        "price_fmt": "1.74",
-        "change_str": "-0.17%"
+        "price_fmt": "1.73",
+        "change_str": "-0.25%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -558,12 +558,12 @@
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.1898999959230423,
-        "prev_close": 0.1899,
-        "change_pct": -0.0,
-        "direction": "down",
+        "price": 0.19030000269412994,
+        "prev_close": 0.1901,
+        "change_pct": 0.11,
+        "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "-0.00%"
+        "change_str": "+0.11%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 91.19999694824219,
+        "price": 89.06999969482422,
         "prev_close": 88.0999984741211,
-        "change_pct": 3.52,
+        "change_pct": 1.1,
         "direction": "up",
-        "price_fmt": "91.20",
-        "change_str": "+3.52%"
+        "price_fmt": "89.07",
+        "change_str": "+1.10%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 3998.89990234375,
+        "price": 4010.699951171875,
         "prev_close": 4012.699951171875,
-        "change_pct": -0.34,
+        "change_pct": -0.05,
         "direction": "down",
-        "price_fmt": "3,998.9",
-        "change_str": "-0.34%"
+        "price_fmt": "4,010.7",
+        "change_str": "-0.05%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 55.834999084472656,
+        "price": 56.5099983215332,
         "prev_close": 56.03799819946289,
-        "change_pct": -0.36,
-        "direction": "down",
-        "price_fmt": "55.83",
-        "change_str": "-0.36%"
+        "change_pct": 0.84,
+        "direction": "up",
+        "price_fmt": "56.51",
+        "change_str": "+0.84%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.880000114440918,
+        "price": 2.8399999141693115,
         "prev_close": 2.9110000133514404,
-        "change_pct": -1.06,
+        "change_pct": -2.44,
         "direction": "down",
-        "price_fmt": "2.88",
-        "change_str": "-1.06%"
+        "price_fmt": "2.84",
+        "change_str": "-2.44%"
       }
     ],
     "crypto": [
@@ -617,33 +617,33 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 64703.98828125,
-        "prev_close": 64796.6015625,
-        "change_pct": -0.14,
-        "direction": "down",
-        "price_fmt": "64,704",
-        "change_str": "-0.14%"
+        "price": 65096.23046875,
+        "prev_close": 64690.8046875,
+        "change_pct": 0.63,
+        "direction": "up",
+        "price_fmt": "65,096",
+        "change_str": "+0.63%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1870.5,
-        "prev_close": 1861.39208984375,
-        "change_pct": 0.49,
+        "price": 1893.8699951171875,
+        "prev_close": 1871.508544921875,
+        "change_pct": 1.19,
         "direction": "up",
-        "price_fmt": "1,870.5",
-        "change_str": "+0.49%"
+        "price_fmt": "1,893.9",
+        "change_str": "+1.19%"
       }
     ]
   },
-  "briefing": "Global tensions remain elevated, with the US State Department issuing a warning to Americans living and traveling abroad due to heightened threats on US diplomatic facilities, while the US military reported another soldier killed in northern Iraq, bringing the total US military death toll in the Iran war to 17. In Singapore, concerns have been raised over the Singapore Pools app being used to bet from overseas, despite rules against it, with users reportedly finding workarounds to place bets from countries such as Thailand, Malaysia, and China. The Straits Times Index remained stable, while the technology sector saw the release of the Kodak EC35, a dirt-cheap point-and-shoot film camera, and reports of scammers exploiting Telegram in India's cybercrime cases, highlighting the need for increased vigilance in the digital space.",
+  "briefing": "Global markets are bracing for potential escalation in trade tensions as President Trump imposes a 50% tariff on most Canadian goods, while the US death toll in the Iran war rises to 17, prompting fears of further conflict. In Singapore, Metro is set to close its Paragon and Causeway Point department stores as part of a retail overhaul, shifting away from traditional large department store formats. Meanwhile, the resignation of Faishal has sparked speculation about a potential Cabinet reshuffle, with analysts noting it reaffirms the PAP's high standards, and the Straits Times reports on Singaporeans from different racial backgrounds forging friendships through dance and community activities.",
   "digests": {
-    "singapore": "Transportation and infrastructure development are being explored in Singapore, with suggestions for congestion pricing in Johor Bahru and a successful pilot at Woodlands Hospital to reduce hospitalisations. Meanwhile, law enforcement is dealing with various scams and illegal activities, including phone scams involving numbers starting with the digit 3, fraudulent registration of SIM cards, and the sale of illegal tortoises on social media platforms. These issues highlight the need for continued vigilance and regulation in areas such as technology, wildlife trade, and financial transactions.",
-    "us": "The US government is navigating various international and domestic challenges, including heightened tensions in the Middle East, with the State Department warning Americans abroad to exercise caution and the Energy Secretary assuring the flow of traffic through the Strait of Hormuz. Meanwhile, President Trump's administration is facing scrutiny over its nominees and actions, with Senator Mark Warner criticizing Trump's approach to election security and a survivor of Jeffrey Epstein's abuse expressing frustration with a meeting with acting Attorney General Todd Blanche. The US is also dealing with the aftermath of a fatal incident in Iraq involving a downed Iranian drone, which resulted in the death of a US service member.",
-    "asia": "Economic development and investment are key themes in the region, with a Chinese roadshow aiming to attract businesses from major manufacturing hubs, while Hong Kong's new five-year plan seeks to shore up the market with governance and vision. In contrast, geopolitical tensions and conflict are evident in reports of a US soldier killed in northern Iraq and Israeli marches to the Gaza border demanding the re-establishment of settlements. Meanwhile, social welfare and cybercrime are also significant concerns, with millions seeking welfare eligibility reviews in Thailand and scammers exploiting Telegram in India.",
-    "others": "Tensions are escalating in the Middle East, with Israeli ministers marching to demand the return of settlements near Gaza, while the US reports another soldier killed in an Iranian attack in Iraq, and Russia launches a major ballistic missile attack on Ukrainian cities. Meanwhile, a ferry disaster off the coast of Guyana has resulted in dozens of people missing, with 67 rescued so far, including 15 children. Algeria is seeking to expand its energy role in the EU, particularly with Germany, amid regional tensions and instability in the Sahel and Western Sahara.",
-    "tech": "The intersection of technology and art is a recurring theme, with innovations such as unpronounceable glyph-based music projects and AI-generated songs pushing the boundaries of creativity. Meanwhile, advancements in fields like photography and music production are making high-quality equipment more accessible, as seen with the release of affordable film cameras like the Kodak EC35 and retro-style synthesizers like the Orchid. Additionally, the role of technology in monitoring and prevention is being explored in areas such as disease prevention and insurance-coverage decisions, with AI being piloted as a potential solution to streamline processes.",
-    "economist": "The Economist's analysis highlights the rising influence of China's new billionaires and India's resilience in the face of energy shocks, while also exploring the societal challenges faced by countries such as China, where gender antagonism is exacerbating demographic problems. The publication also examines the impact of bureaucracy on nightlife in America and the selective crackdown on Cambodia's scam industry, driven by sanctions and pressure from major powers. Additionally, the articles touch on the competitive dynamics in the tech industry, as seen in SK Hynix's dominance in advanced memory chips, and the high-stakes elections in Israel."
+    "singapore": "Singapore is witnessing a blend of community building and political developments, with locals from different racial backgrounds forging friendships through dance and community activities, while the ruling People's Action Party is navigating a potential Cabinet reshuffle following the resignation of a minister. The country's retail landscape is also undergoing changes, as seen in Metro's decision to close department stores and shift away from traditional large formats. Meanwhile, the government is strengthening regulations on personal data usage, mandating organisations to inform consumers if their data is used to train AI models, amidst other international and local political developments.",
+    "us": "The US government is addressing various security and diplomatic concerns, including an investigation into a threat at a World Cup fan fest event and a rising death toll in the Iran war, which may lead to further escalation. Additionally, the administration is imposing tariffs on Canadian goods and dealing with the aftermath of an explosive incident at a federal building in New York City. Meanwhile, the Pentagon has confirmed nearly 100 service members have been injured since the US resumed strikes against Iran, and a court ruling has temporarily halted the Paramount-Warner Bros merger.",
+    "asia": "The US is taking steps to reduce its dependence on China, with the Justice Department investigating Harvard University's financial aid programmes for potential discrimination against American citizens and President Trump signing an executive order to limit China's involvement in defence supply chains. Trade tensions are also escalating, with the US imposing tariffs on Canadian goods and China increasing its imports of Brazilian soybeans while reducing those from the US. Meanwhile, in Southeast Asia, Thailand is seeking to lower food prices through reforms and Indonesia is debating the classification of LGBTQ culture as a national security threat.",
+    "others": "Trade tensions between the US and Canada have escalated with the imposition of 50% tariffs on most Canadian goods, reportedly in response to Canada's retaliation against previous US tariffs. Meanwhile, in the Middle East, Yemen's Houthis have announced a maritime embargo on Saudi Arabia, while the US has launched fresh strikes on Iran, warning of retaliation for the deaths of American soldiers. Protests and unrest have also been reported in Italy, Albania, and elsewhere, sparked by incidents such as the death of a Moroccan-born man in Italian police custody and controversy over resort projects in Albania.",
+    "tech": "The technology and innovation landscape is witnessing significant developments, including a major copyright infringement lawsuit filed by Sony Music Entertainment against Udio's AI music generator, and the FCC's plans to retroactively ban disguised DJI gadgets. Meanwhile, the investment world is also seeing notable changes, such as the inclusion of SpaceX in index funds, which raises questions about the risks and implications of such a move. Additionally, the US Space Force is seeking to purchase up to $30 billion in rocket launches, highlighting the growing importance of space exploration and technology.",
+    "economist": "The Economist's analysis highlights the complexities of global business and economic trends, including the misattribution of rising food prices to supermarket greed and the emergence of mysterious Chinese billionaires. Meanwhile, the publication also explores regional challenges, such as India's efforts to navigate energy shocks and China's struggles with demographic problems, including gender antagonism. Additionally, the articles touch on issues of regulation and innovation, including the dominance of SK Hynix in advanced memory chips and the bureaucratic hurdles facing America's nightlife industry."
   }
 }
