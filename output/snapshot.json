@@ -2,375 +2,411 @@
   "news": {
     "singapore": [
       {
-        "id": "96a2a9ece7c3706fa66c2bc06b303820",
-        "title": "Property agencies welcome new minimum transaction rule, seek safeguards for consumer ratings",
-        "summary": "The Council for Estate Agencies (CEA) is studying the introduction of consumer ratings for property agents, among other measures aimed at improving transparency and choice.",
+        "id": "44da6d8fd9914d99e213d0c3b105e047",
+        "title": "Toh Wei Soong clinches silver in men's 50m freestyle S7 at Commonwealth Games",
+        "summary": "He finished second in the final of the event at the Tollcross International Swimming Centre with a time of 29.36s.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/property-agencies-minimum-transactions-consumer-ratings-cea-6283516",
-        "published": "2026-07-28T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/sport/toh-wei-soong-clinches-silver-in-mens-50m-freestyle-s7-commonwealth-games-6285926",
+        "published": "2026-07-29T22:01:00+00:00"
       },
       {
-        "id": "6f852b4c4229ff8b92fe1a57100664a1",
-        "title": "Commentary: Latest excuse for US tariffs somehow arrives at the same conclusion as previous attempts",
-        "summary": "US President Donald Trump’s tariffs were in search of a legal justification. Forced labour is the latest one, says Hinrich Foundation’s Deborah Elms.",
+        "id": "3228c40bdbda6852b92d4f132b57c261",
+        "title": "For Gen Z drivers in Singapore, EVs are as much about tech as transport",
+        "summary": "Survey suggests that Gen Z car owners are the most receptive to electric vehicles, citing reliability and practicality.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/transport/for-gen-z-drivers-in-singapore-evs-are-as-much-about-tech-as-transport",
+        "published": "2026-07-29T22:00:00+00:00"
+      },
+      {
+        "id": "82d9364a8c5d1954f72e98d9f30eae25",
+        "title": "Commentary: How I convinced my teens to wait before using social media",
+        "summary": "Parenting teenagers in the age of social media isn’t about having the perfect rule. It’s about keeping the conversation going, says father of five Kelvin Kao.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/trump-tariffs-forced-labour-legal-justification-6282076",
-        "published": "2026-07-28T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/social-media-ban-children-teenagers-parenting-6275881",
+        "published": "2026-07-29T22:00:00+00:00"
       },
       {
-        "id": "7f27d24dadda70d9f2a9fa441c18f581",
-        "title": "Dengue cases in Singapore low but increasing, numbers may rise further with dengue strain change",
-        "summary": "",
-        "source": "The Straits Times",
+        "id": "71623889561b13a29f571bb7a4f689b6",
+        "title": "What is ‘salad bar’ extremism, and is a new rehab playbook needed to tackle this form of radicalisation?",
+        "summary": "In the last 10 months, the Internal Security Department (ISD) has handled at least three instances of “salad bar” extremism under the Internal Security Act.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/dengue-cases-in-singapore-low-but-increasing-numbers-may-rise-further-with-dengue-strain-change",
-        "published": "2026-07-28T21:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/salad-bar-extremism-self-radicalisation-rehabilitation-social-media-6285561",
+        "published": "2026-07-29T22:00:00+00:00"
       },
       {
-        "id": "6c99a2926505225a110756116fba6747",
-        "title": "Prescription weight-loss injections: Who are they for and how do they work?",
-        "summary": "Doctors from Bay Medical Clinic explain when weight-loss injections may be prescribed for obesity, what patients should consider and why lifestyle changes remain essential for long-term results.",
-        "source": "The Straits Times",
+        "id": "2cc6bdff197effeb8ef03a91bce627d6",
+        "title": "Rental support a boost for hawkers and market stallholders feeling the pinch from the Middle East crisis",
+        "summary": "The government announced that hawkers running cooked food stalls will receive S$1,200 in rental support while market stallholders will get S$600, disbursed over six months.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/prescription-weight-loss-injections-who-are-they-for-how-do-they-work-bay-medical-clinic",
-        "published": "2026-07-28T20:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/hawkers-rent-support-market-food-middle-east-crisis-6286106",
+        "published": "2026-07-29T15:30:00+00:00"
       },
       {
-        "id": "cfa462cd46009f38e92ca40294df6f83",
-        "title": "4 arrested over roles in providing modified Foodpanda app to facilitate illegal work for foreigners",
-        "summary": "The modification allowed foreigners to bypass verification checks and impersonate actual account owners.",
+        "id": "1f816768fbabcd3499b2fdd42ff09385",
+        "title": "Power bank in commuter’s backpack emits smoke at Buangkok MRT station; no injuries reported",
+        "summary": "No injuries were reported and train service resumed after five minutes.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/4-arrested-over-roles-in-providing-modified-foodpanda-app-to-facilitate-illegal-work-for-foreigners",
-        "published": "2026-07-28T15:46:24+00:00"
+        "url": "https://www.straitstimes.com/singapore/smoke-emits-from-commuters-backpack-at-buangkok-mrt-station-no-injuries-reported",
+        "published": "2026-07-29T15:00:00+00:00"
       },
       {
-        "id": "71562a3df3badf2f021887aeae25db98",
-        "title": "ABSD changes aside, mega collective sale sites must be priced realistically to attract developers",
-        "summary": "A longer timeline only helps if the underlying economics of the deal make sense to a developer.",
-        "source": "The Straits Times",
+        "id": "1c42a5758180067a43ff989bc7d9751b",
+        "title": "Law Ministry to undertake broader review of legal education: Edwin Tong",
+        "summary": "The Singapore government is also considering launching a guide that sets out professional norms and workplace behaviours, says the law minister.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/housing/absd-changes-aside-mega-en-bloc-sites-must-be-priced-realistically-to-attract-developers",
-        "published": "2026-07-28T14:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/law-school-lawyers-bullying-firms-toxic-work-culture-6285781",
+        "published": "2026-07-29T13:23:34+00:00"
       },
       {
-        "id": "5ea06713eb168011ce6f7e48ac65da01",
-        "title": "47 cars, including 11 Rolls-Royces, linked to $3b money laundering probe up for closed-bid auction",
-        "summary": "The auction is only open to Singapore registered companies and will close at noon on July 31.",
+        "id": "01d5566d5dcb2d2905fd7b6de0244531",
+        "title": "Seven vegetable farms enter wholesale deals under push to keep local farms afloat",
+        "summary": "It took SAFEF three years to convince wholesalers and their customers to take on local produce.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/47-cars-including-11-rolls-royces-linked-to-3b-money-laundering-probe-up-for-closed-bid-auction",
-        "published": "2026-07-28T13:37:45+00:00"
-      },
-      {
-        "id": "dc43a7218b3bb323a59aedae8507896c",
-        "title": "6 to be charged with rioting after Yishun fight that left man unconscious",
-        "summary": "Seven men, aged between 18 and 33, were arrested between July 25 and 28.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/6-to-be-charged-with-rioting-after-yishun-fight-that-left-man-unconscious",
-        "published": "2026-07-28T12:07:49+00:00"
+        "url": "https://www.straitstimes.com/singapore/environment/seven-vegetable-farms-enter-wholesale-deals-under-push-to-keep-local-farms-afloat",
+        "published": "2026-07-29T12:43:48+00:00"
       }
     ],
     "us": [
       {
-        "id": "79d398f46ca4aaee3a494434e686b683",
-        "title": "Fauci set for high-profile hearing after Paul released diaries",
-        "summary": "Former chief White House medical adviser Anthony Fauci is set to be under the microscope for a tough Senate hearing on Wednesday, just days after Sen. Rand Paul (R-Ky.) released more than 1,000 pages of Fauci’s diary entries from the early days of the COVID-19 pandemic. In the weekend leading up to the hearing before the Senate…",
+        "id": "fe9b647e16767d8171538f067dffe5d4",
+        "title": "Trump says he ‘respects’ Biden’s pardon of Fauci",
+        "summary": "President Trump said Wednesday he respects former President Biden’s pardon of Dr. Anthony Fauci, after the retired health official invoked the Fifth Amendment more than 100 times during a Senate hearing on the COVID-19 pandemic. “The most powerful thing a president has, they say, is the power of pardon,” Trump told reporters in the Oval…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/healthcare/5995285-fauci-diary-senate-hearing-rand-paul/",
-        "published": "2026-07-28T22:22:20+00:00"
+        "url": "https://thehill.com/homenews/administration/5998179-trump-respects-biden-fauci-pardon/",
+        "published": "2026-07-29T22:27:31+00:00"
       },
       {
-        "id": "940a64a4a9afb618046e85c14b8f312f",
-        "title": "DOE identifies five states to hold nuclear waste",
-        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Energy eyes nuclear waste deal with five states The Trump administration is eyeing five states that could accept nuclear waste, disposal of which has been a longtime issue with nuclear power. AP Photo/Mark Schiefelbein The Energy Department said Tuesday that it signed memorandums of…",
+        "id": "aa452a3e42094baccc23cfbabfc3920d",
+        "title": "Iran’s surprise attack in Jordan blows up pause in fighting",
+        "summary": "Iran’s surprise attack on U.S. forces in Jordan is threatening to blow up the temporary pause in fighting between the two sides. The Iranian Revolutionary Guard Corps (IRGC) fired ballistic missiles at U.S. forces in Jordan on Tuesday evening, before the U.S. and Saudi Arabia hours later launched strikes on Tehran-backed militias in Iraq, raising…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/newsletters/energy-environment/5995392-doe-identifies-five-states-to-hold-nuclear-waste/",
-        "published": "2026-07-28T22:19:08+00:00"
+        "url": "https://thehill.com/policy/defense/5998256-trump-threatens-iran-retaliation/",
+        "published": "2026-07-29T22:11:00+00:00"
       },
       {
-        "id": "0b207d38638e31dc0e910a246512d24b",
-        "title": "Boeing takes $280 million hit on troubled Air Force One program",
-        "summary": "Boeing’s contract to replace two aging Air Force One planes, a program that is now four years behind schedule, lost the defense contractor $280 million in the second quarter of 2026, according to its latest earnings report released on Tuesday. The company inked a contract with the U.S. government in President Trump’s first term to…",
+        "id": "9e0d5c11c0d71539310657ab31551770",
+        "title": "Oil prices jump up as US-Iran tensions escalate",
+        "summary": "Oil prices were back higher on Wednesday as U.S.-Iran tensions escalate again. As of late Wednesday afternoon, international benchmark Brent crude was trading at about $91 per barrel, up from as low as about $83 earlier this week. That price is still well below the pre-ceasefire highs and prices last week, which reached as high as $101 per…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/business/5995418-boeing-airforce-one-program-losses/",
-        "published": "2026-07-28T22:12:17+00:00"
+        "url": "https://thehill.com/policy/energy-environment/5998190-us-iran-relations-oil-prices/",
+        "published": "2026-07-29T21:38:44+00:00"
       },
       {
-        "id": "5297c2ae74403337e8c6fa15bada4b70",
-        "title": "FDA official insists ‘U.S. food supply is safe’ as cyclosporiasis cases hit 11,000",
-        "summary": "A Food and Drug Administration (FDA) official insisted on the security of the American food supply as the number of American cases of cyclosporiasis hit 11,000. “The U.S. food supply is safe,” the FDA’s acting deputy commissioner for food, Donald Prater, said Monday during the International Association for Food Protection’s yearly meeting, The New York…",
+        "id": "9a124d58bd2b1db5e1a01756f21c60ef",
+        "title": "Dow sinks 1,100 points after Fed holds off on hike",
+        "summary": "Stocks fell sharply Wednesday as the Federal Reserve held interest rates steady again despite continued inflation pressure. The Dow Jones Industrial Average closed down 1,153.18 points, or 2.19 percent, for its worst decline since April 2025 — when President Trump unveiled his sweeping “Liberation Day” tariffs. The S&P 500 dipped by 1.52 percent, falling to…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/healthcare/5995350-cyclosporiasis-cyclospora-fda-food-safety/",
-        "published": "2026-07-28T22:10:29+00:00"
+        "url": "https://thehill.com/business/5998165-stocks-fall-fed-steady/",
+        "published": "2026-07-29T21:34:58+00:00"
       },
       {
-        "id": "7be2e4bbe90728708577205048197311",
-        "title": "New York Times’s Douthat moving to CBS News’s ‘60 Minutes’",
-        "summary": "New York Times opinion journalist Ross Douthat is reportedly set to join CBS News and “60 Minutes” as a correspondent. Douthat, a columnist at the Times and one of the leading voices of its opinion section, is reportedly one of a handful of new journalists who will join CBS ahead of the new season of…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/media/5995303-new-york-times-douthat-cbs-60-minutes/",
-        "published": "2026-07-28T21:35:02+00:00"
-      },
-      {
-        "id": "1337b014dbbb6bc75eef2d06259c2370",
-        "title": "Corporate boardroom diversity sinks to lowest in more than a decade: Analysis",
-        "summary": "A new analysis released Tuesday shows corporate boardroom diversity among S&P 500 companies has dropped to its lowest level in more than a decade. The analysis from global advisory search firm Spencer Stuart found that diverse board appointments among S&P 500 companies have been on the decline since 2021 when it peaked at 72 percent.…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/business/5995257-corporate-boardroom-diversity-sinks-to-lowest-in-more-than-a-decade-analysis/",
-        "published": "2026-07-28T21:26:20+00:00"
-      },
-      {
-        "id": "446d4cde1ecfafcbb1521d3422d383fd",
-        "title": "As Spain battles wildfires, its politicians battle over climate change's role",
-        "summary": "Crews are still battling wildfires that broke out last week and have burned nearly 200,000 acres across Spain. The country is bracing for another round of extreme heat, with temperatures expected to top 100 degrees Fahrenheit starting Wednesday.",
+        "id": "0a5c694d223b90c12ac061ba447b4206",
+        "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+        "summary": "Federal subsidies that have helped defray insurers' Medicare drug costs will disappear at the end of the year. Millions of beneficiaries could face higher premiums in 2027.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
-        "published": "2026-07-28T20:31:54+00:00"
+        "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
+        "published": "2026-07-29T20:58:03+00:00"
       },
       {
-        "id": "16d69c7716a0acb0a4e1359d2307b519",
-        "title": "Artist Betye Saar, who used repurposed objects to reclaim identity, has died at 99",
-        "summary": "Saar told NPR in 2006, \"I'm the kind of person who recycles materials, but I also recycle emotions and feelings.\" She died days away from her 100th birthday.",
+        "id": "0ad41f166eb97751e1f17d531a154ab1",
+        "title": "Trump shrugs off Cornyn’s hold on Blanche: ‘I heard he’s going through quite nicely’",
+        "summary": "President Trump brushed off concerns that Sen. John Cornyn (R-Texas) could hold up acting Attorney General Todd Blanche’s nomination in the Senate on Wednesday, saying he heard the process is going “quite nicely. “I don’t know what it is, but I haven’t heard that there’s a problem. I’ve heard he’s going through quite nicely,” Trump…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/5997978-trump-cornyn-blanche-nomination/",
+        "published": "2026-07-29T20:38:23+00:00"
+      },
+      {
+        "id": "22d4dbc363b8ffc6d4ac3046ee44507f",
+        "title": "Trump announces sweeping renovation of Dulles airport",
+        "summary": "President Trump announced a $22 billion makeover for Dulles International Airport Wednesday that includes new terminals and will do away with the airport’s infamous “people mover” shuttles. “Whether you’re Republican or Democrat, you don’t want to be subjected to this airport. It’s a terrible place to be,” Trump said in the Oval Office surrounded by…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/5998019-dulles-airport-makeover-plan/",
+        "published": "2026-07-29T20:36:09+00:00"
+      },
+      {
+        "id": "753283e4e19889de133469969c6fa231",
+        "title": "Oregon is on track for its worst wildfire season yet",
+        "summary": "Wildfires in central and eastern Oregon are prompting evacuations and forcing ranchers to scramble to move cattle and find feed as public range land burns. More than a million acres have burned so far. Most fires have little or no containment.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/07/28/nx-s1-5910539/betye-saar-dead",
-        "published": "2026-07-28T20:31:06+00:00"
+        "url": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
+        "published": "2026-07-29T20:28:44+00:00"
       }
     ],
     "asia": [
       {
-        "id": "e3240647b0d73e79d74eead2dacbe561",
-        "title": "Saudi Arabia says it shot down more drones as Houthis claim to have turned back tanker",
-        "summary": "Saudi Arabia said on Tuesday that it shot down drones fired by Iran-backed militias in Iraq for a second day, while Iran-backed Houthi rebels in Yemen claimed to have forced a Saudi oil tanker to turn around as part of their self-styled blockade of the kingdom. The attacks underscored lingering tensions despite a period of calm between the United States and Iran, neither of which has announced attacks for days following weeks of escalation over the Strait of Hormuz. The Saudi Defence Ministry...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3362186/saudi-arabia-says-it-shot-down-more-drones-houthis-claim-have-turned-back-tanker?utm_source=rss_feed",
-        "published": "2026-07-28T22:17:28+00:00"
-      },
-      {
-        "id": "45ae9b0cb9ff12792ccfabc5947f64df",
-        "title": "'No money lost' following TSD portal leak",
-        "summary": "No financial losses have been detected after personal information belonging to about 200,000 investors was accessed without authorisation through Thailand Securities Depository Co Ltd's (TSD) Investor Portal website, the Stock Exchange of Thailand's (SET) subsidiary said on Tuesday.",
+        "id": "95cfe7bad2ff18af8981ced114fd648e",
+        "title": "Dialogue offers path to peace",
+        "summary": "Manila: Thailand and Cambodia should engage more at diplomatic levels to resolve ongoing conflicts, said Asean secretary-general Kao Kim Hourn.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3293202/no-money-lost-following-tsd-portal-leak",
-        "published": "2026-07-28T22:12:00+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3293769/dialogue-offers-path-to-peace",
+        "published": "2026-07-29T22:15:00+00:00"
       },
       {
-        "id": "4ec403b5da6f9e69369ae91eee4c0c0b",
-        "title": "US bans new Chinese robots, power inverters in latest tech crackdown",
-        "summary": "The Trump administration on Tuesday announced bans on imports of new Chinese robots and power inverters, citing threats to US national security and supply chain vulnerabilities. Without naming China, the Federal Communications Commission (FCC) expanded its Covered List to include two new categories of foreign-made equipment: advanced robotic devices and connected power inverters. The robotic devices included mobile robots, such as humanoids and quadrupeds. The action would ban the import and...",
+        "id": "67807f54a11ca4c39bc83610a03241a3",
+        "title": "How Trump’s call for Asia-Pacific allies to raise defence spending may backfire on US",
+        "summary": "Donald Trump’s demands that American allies in the Asia-Pacific region share more of the defensive burden have renewed questions about how far they can rely on the United States to help deter the likes of China and North Korea. Such concerns have led to an increasing focus on developing their own defence industries – but analysts have said that may eventually weaken American dominance in the global arms trade. Questions over Washington’s commitment In the National Security Strategy released in..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3362185/us-bans-new-chinese-robots-power-inverters-latest-tech-crackdown?utm_source=rss_feed",
-        "published": "2026-07-28T22:11:16+00:00"
+        "url": "https://www.scmp.com/news/china/military/article/3362301/how-trumps-call-asia-pacific-allies-raise-defence-spending-may-backfire-us?utm_source=rss_feed",
+        "published": "2026-07-29T22:00:08+00:00"
       },
       {
-        "id": "72355cddc71929e48e55fa605dd4050f",
-        "title": "Vocational gap threatens AI drive",
-        "summary": "Thailand's education system may be rapidly embracing artificial intelligence, with millions of students already using AI-assisted learning and almost all teachers under the Office of the Basic Education Commission (Obec) trained to integrate the technology into classrooms.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3293332/vocational-gap-threatens-ai-drive",
-        "published": "2026-07-28T22:06:00+00:00"
-      },
-      {
-        "id": "198dd99f61a28e3728b1e5b50cc8ca83",
-        "title": "Can China and Indonesia’s strong financial ties withstand ‘resource nationalism’?",
-        "summary": "Back in 2009, when China’s economy was expanding at about twice today’s pace, a little-known private firm made a quiet bet on uncharted territory: Indonesia. The company was on a quest: to secure nickel, a vital industrial metal used in stainless steel production and, increasingly, to power advanced batteries. That bet proved lucrative. By leveraging Indonesia’s vast nickel reserves – the world’s largest – and securing greater control over upstream supplies, Tsingshan Group has grown into a...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/economy/global-economy/article/3362129/can-china-and-indonesias-strong-financial-ties-withstand-resource-nationalism?utm_source=rss_feed",
-        "published": "2026-07-28T22:00:11+00:00"
-      },
-      {
-        "id": "94f808bb1df79389d4c83820a6bc1d10",
-        "title": "IN FOCUS: China mastered manufacturing. Can it now build the world’s next big brands?",
-        "summary": "From beauty and fashion to tech and lifestyle, Chinese brands are winning over shoppers at home and setting their sights overseas. What will it take to win over consumers around the world?",
+        "id": "e2933b463dcac13350a1492769e8d774",
+        "title": "New party Wawasan wants to offer ‘something fresh’ in Malaysian politics, but Bersatu shadow looms",
+        "summary": "The new party’s secretary-general Saifuddin Abdullah tells CNA it wants to offer a more moderate and inclusive brand of politics, but analysts argue it must first prove its relevance, starting with the upcoming Negeri Sembilan state polls.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/east-asia/china-homegrown-chinese-brands-global-growth-6237246",
-        "published": "2026-07-28T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/asia/malaysia-wawasan-perikatan-nasional-hamzah-zainudin-saifuddin-abdullah-6282911",
+        "published": "2026-07-29T22:00:00+00:00"
       },
       {
-        "id": "af78fa75ae4dcac5e4ab614e8ae22406",
-        "title": "Nvidia CEO Jensen Huang meets US officials as scrutiny grows over China chip access",
-        "summary": "Nvidia chief executive Jensen Huang is meeting US officials and lawmakers in Washington this week amid reports that its export-controlled processors have been used to train advanced Chinese artificial intelligence models. Huang met with US Commerce Secretary Howard Lutnick on Tuesday, US outlet Axios reported, citing an anonymous source. Neither the US Commerce Department nor Nvidia confirmed that the meeting occurred, and its purpose was not disclosed. “Jensen is in DC to meet with leaders on..",
+        "id": "6bf2420f9e7b159b985d602987c8a69a",
+        "title": "Trump unveils US$22 billion plan to remake Washington Dulles airport",
+        "summary": "US President Donald Trump unveiled a US$22 billion plan on Wednesday to rebuild Washington Dulles airport by replacing concourses and adding a large parking garage while preserving the landmark main terminal. The announcement is the latest in a series of major projects he has announced in and around the US capital. “It’s considered one of the ‌worst airports anywhere in the world, we’re going to make it maybe the best with some hard work,” Trump said, arguing it was time “for a major and long...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3362184/nvidia-ceo-jensen-huang-meets-us-officials-scrutiny-grows-over-china-chip-access?utm_source=rss_feed",
-        "published": "2026-07-28T21:21:58+00:00"
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3362316/trump-unveils-us22-billion-plan-remake-washington-dulles-airport?utm_source=rss_feed",
+        "published": "2026-07-29T21:56:53+00:00"
       },
       {
-        "id": "71277f3b8bf691fe761f572db9c8515f",
-        "title": "Cate Blanchett and Angelina Jolie appeal for refugee protections as UN convention turns 75",
-        "summary": "Cate Blanchett, Angelina Jolie and Archbishop of Canterbury Sarah Mullally were among public figures who on Tuesday called for refugee protections to be upheld as the United Nations decried mounting pressure ‌on asylum systems. Legal safeguards for refugees are enshrined in the 1951 Refugee Convention, drafted in the aftermath of World War II, which displaced tens of millions of people. But while most people still support the principle of safe refuge, many governments are tightening border...",
+        "id": "34e6992889d536c01f1f478afea5bb23",
+        "title": "Brazil becomes world’s top buyer of Chinese cars as imports jump 147%",
+        "summary": "Brazil overtook Russia and Belgium in the first five months of this year to become the world’s largest importer of Chinese cars, buying US$5.2 billion worth of vehicles as brands raced to land shipments before a tariff increase took effect in July. The figure, drawn from Chinese customs data, is up 146.9 per cent from the US$2.1 billion recorded a year earlier, when Brazil ranked sixth among buyers. Russia bought US$5 billion over the same months this year and Belgium purchased US$3.8...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3362183/cate-blanchett-and-angelina-jolie-appeal-refugee-protections-un-convention-turns-75?utm_source=rss_feed",
-        "published": "2026-07-28T20:26:37+00:00"
+        "url": "https://www.scmp.com/news/china/article/3362315/brazil-becomes-worlds-top-buyer-chinese-cars-imports-jump-147?utm_source=rss_feed",
+        "published": "2026-07-29T21:33:40+00:00"
+      },
+      {
+        "id": "2c6c3b648c5ad5a61162febccb604d4e",
+        "title": "Hadi Matar convicted in terrorism trial over Salman Rushdie stabbing",
+        "summary": "A man was convicted on Wednesday of federal terrorism charges in the 2022 stabbing of Salman Rushdie, the author who has faced a decades-old death threat over his novel The Satanic Verses. A jury found Hadi Matar guilty of all the charges against him, including engaging in an act of transnational terrorism. A message seeking comment was sent to Matar’s lawyers. Matar, 28, is already serving a 25-year New York state prison sentence on an attempted murder conviction in the August 2022 attack on an",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3362314/hadi-matar-convicted-terrorism-trial-over-salman-rushdie-stabbing?utm_source=rss_feed",
+        "published": "2026-07-29T21:33:28+00:00"
+      },
+      {
+        "id": "84940c8c715591f669b26590d5179291",
+        "title": "In an era defined by AI, can work still be measured by the clock?",
+        "summary": "Hwaseong, South Korea, past midnight. An engineer watches a defect pattern surface on her screen – the kind that, caught now, saves a week of wafers. She is locked in, fully absorbed, the way engineers get when a breakthrough is close. But she has to go home. The law says so. Yet something is disrupting the clock she races against. Artificial intelligence is quietly rewriting what her hours are worth. On June 29, South Korean President Lee Jae Myung stood alongside the leaders of Samsung...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3361805/era-defined-ai-can-work-still-be-measured-clock?utm_source=rss_feed",
+        "published": "2026-07-29T21:30:05+00:00"
+      },
+      {
+        "id": "c852dc424e777eeefe4c69b4a70c2d51",
+        "title": "Can China’s EV boom give it decisive edge in geopolitical tech war?",
+        "summary": "China may increasingly seek to use its dominance in the global electric vehicle industry as geopolitical leverage, giving Beijing greater influence over countries dependent on its technology and supply chains, according to analysts. “With China, the strategy is different. It’s to overwhelm the industry, capture it, and use it ultimately as leverage,” said Michael Dunne, CEO of Dunne Insights, an auto advisory firm. “When it comes to crunch time, they say, ‘Oh, by the way, we’re the source of all",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3362313/can-chinas-ev-boom-give-it-decisive-edge-geopolitical-tech-war?utm_source=rss_feed",
+        "published": "2026-07-29T21:27:32+00:00"
       }
     ],
     "others": [
       {
-        "id": "492d83b54a0da6ebe7dd77dc7bb9030c",
-        "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
-        "summary": "A magnitude 6.8 earthquake struck Japan's Kyushu island, causing building collapses, fires and widespread damage.",
+        "id": "0a3b101e9005b3391b0450b8292f4dbd",
+        "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+        "summary": "US President Donald Trump says he is considering 'AI controls' following OpenAI's disclosure.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
-        "published": "2026-07-28T21:59:40+00:00"
+        "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
+        "published": "2026-07-29T22:27:35+00:00"
       },
       {
-        "id": "a12c2ccfe61d1750f2d8e1f5b914381e",
-        "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-        "summary": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium",
+        "id": "d603d2169cbc48d8c85f2575f04e00d0",
+        "title": "Salman Rushdie attacker convicted of terror offenses",
+        "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-29T22:15:33+00:00"
+      },
+      {
+        "id": "b2403b2a890d94efc5aa04a8846ed2fa",
+        "title": "Is FIFA selling parts of the World Cup to private investors?",
+        "summary": "This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-        "published": "2026-07-28T21:24:20+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
+        "published": "2026-07-29T21:46:22+00:00"
       },
       {
-        "id": "f76a98dda68d8beb92314efd035520ff",
-        "title": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
-        "summary": "Donald Trump said Lindsey Graham was a force in politics at the late senator's funeral in DC.",
+        "id": "7ad0c57d17f19d69fc9ecfa6471cfd55",
+        "title": "Four women accuse Jared Leto of criminal sexual conduct",
+        "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-29T21:36:06+00:00"
+      },
+      {
+        "id": "1c7ca8e45cfc8c25fa4faa549380b9ee",
+        "title": "Myanmar court sentences activists to 37 years over election protest",
+        "summary": "Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
-        "published": "2026-07-28T21:07:39+00:00"
+        "url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
+        "published": "2026-07-29T21:29:33+00:00"
       },
       {
-        "id": "6a14e9a7c41f2b6e8a31fd5e94bebf0e",
-        "title": "Fujimori takes charge in Peru amid China, US balancing act",
-        "summary": "Peru's new president, Keiko Fujimori, has promised more security and investment. Now in office, she'll have to find space for the South American nation amid Washington and Beijing's geopolitical rivalry.",
+        "id": "0f9c6dfc9e2ce37570f247edf0e39df3",
+        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+        "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-29T20:21:46+00:00"
+      },
+      {
+        "id": "44b3c0bdd4b295518a137f24079895fe",
+        "title": "How well are LGBTQ+ rights protected across Europe?",
+        "summary": "After the attack on Berlin’s Pride event on Saturday, the situation of the LGBTQ+ community in Germany is a topic of conversation. How well are queer rights protected in other European countries? An overview.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-07-28T19:22:00+00:00"
+        "url": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-07-29T19:53:00+00:00"
       },
       {
-        "id": "c53963325446c5ee29bbd145a9cf88d4",
-        "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-        "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+        "id": "7d16d747cd2d364803dafe992b627b4f",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-28T18:19:57+00:00"
-      },
-      {
-        "id": "0aada7f03de38eb109473409df921555",
-        "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
-        "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to TrumpCanadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his northern neighbour continue to incur an economic cost, new government data shows.The research also indicates that Canadians are not bucking travel overall and instead have replaced US vacations with other international destinations, in a rebuke to Trump’s tariff r",
-        "source": "The Guardian",
-        "category": "others",
-        "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-        "published": "2026-07-28T16:46:05+00:00"
-      },
-      {
-        "id": "ca0395bce98c8314a16e22433690394d",
-        "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-        "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-28T16:37:02+00:00"
-      },
-      {
-        "id": "461352dccf6c9294b800dc372e245168",
-        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-        "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-07-28T16:14:03+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-07-29T18:41:31+00:00"
       }
     ],
     "tech": [
       {
-        "id": "1bfa071d82fc1c21cf6d8b12394a272d",
-        "title": "The US is banning foreign robots",
-        "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - but it is not limited […]",
+        "id": "f4440bbae1380fe7e39e1c445855ad9b",
+        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
-        "published": "2026-07-28T22:37:53+00:00"
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "published": "2026-07-29T22:17:38+00:00"
       },
       {
-        "id": "1ac0c4ca56b7e3f9954c737a2b84341d",
-        "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
-        "summary": "Article URL: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn Comments URL: https://news.ycombinator.com/item?id=49090867 Points: 13 # Comments: 1",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-        "published": "2026-07-28T22:31:14+00:00"
-      },
-      {
-        "id": "ff47473d0b7e34b3063b5df9671baf34",
-        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-        "summary": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.I figured there was probably a simpler way, so I threw together this userscript to merge the two.1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy ",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://github.com/twalichiewicz/HNewhere",
-        "published": "2026-07-28T22:09:06+00:00"
-      },
-      {
-        "id": "1cdee96959aa833d2ce53dc4ebbd6200",
-        "title": "Ariana Grande is suing the hackers who’ve been leaking her songs and videos for years",
-        "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as \"John Doe 1 and John Does 2 through 100.\" The lawsuit also says […]",
+        "id": "d5fec64f5087d341a97352831e38fada",
+        "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
-        "published": "2026-07-28T21:48:50+00:00"
+        "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+        "published": "2026-07-29T21:48:07+00:00"
       },
       {
-        "id": "468cda01a3708c1933ebbdf753870976",
-        "title": "Running Kimi K3 on a M1 Max",
-        "summary": "Article URL: https://github.com/gavamedia/deltafin Comments URL: https://news.ycombinator.com/item?id=49090233 Points: 56 # Comments: 37",
-        "source": "Hacker News (Top)",
+        "id": "752ac35ecafded31b44bafc9ecdb593b",
+        "title": "AI and quantum computers will be frenemies",
+        "summary": "The two technologies look more complementary than rivalrous",
+        "source": "The Economist (Tech)",
         "category": "tech",
-        "url": "https://github.com/gavamedia/deltafin",
-        "published": "2026-07-28T21:35:19+00:00"
+        "url": "https://www.economist.com/science-and-technology/2026/07/29/ai-and-quantum-computers-will-be-frenemies",
+        "published": "2026-07-29T21:42:48+00:00"
       },
       {
-        "id": "5bafd91386a22e3b00a826898922fdab",
-        "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-        "summary": "Article URL: https://github.com/anthropics/cryptography-research-demo Comments URL: https://news.ycombinator.com/item?id=49090083 Points: 31 # Comments: 3",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://github.com/anthropics/cryptography-research-demo",
-        "published": "2026-07-28T21:22:48+00:00"
-      },
-      {
-        "id": "78547b04ea69e2baebecb8649a235deb",
-        "title": "The union drive at the Wikimedia Foundation is expanding",
-        "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intentions to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit have declined to voluntarily recognize their union. \"While the Wikimedia Foundation touts to the public that they […]",
+        "id": "92834693aae2003291b760acb870a66c",
+        "title": "Qualcomm is raising phone chip prices starting September 1st",
+        "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports. The price hikes were rumored last week […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
-        "published": "2026-07-28T21:11:11+00:00"
+        "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+        "published": "2026-07-29T21:41:56+00:00"
       },
       {
-        "id": "c6fd29781d56cf3911f12d0486451518",
-        "title": "eBay’s bizarre cyberstalking saga ends with a $56 million settlement",
-        "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a […]",
+        "id": "7054ed853f672bac2dbfbfd3e80ad841",
+        "title": "AI's top startups are barely publishing their research",
+        "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 63 # Comments: 46",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+        "published": "2026-07-29T21:25:40+00:00"
+      },
+      {
+        "id": "3dc89d32305918998c30098eb3bd3226",
+        "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+        "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
-        "published": "2026-07-28T21:11:11+00:00"
+        "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+        "published": "2026-07-29T21:06:52+00:00"
+      },
+      {
+        "id": "6829162cb4df57f759c91512c39f58c4",
+        "title": "The Cold Email",
+        "summary": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 9 # Comments: 2",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://zachholman.com/posts/cold-email",
+        "published": "2026-07-29T21:06:42+00:00"
+      },
+      {
+        "id": "71eb56c8769a00d5e8c438864ae80bcd",
+        "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
+        "summary": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source for funny, glitch-fueled videos to a world I’ve returned to a number of times to […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
+        "published": "2026-07-29T21:02:50+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "dcdb53b4f83abf0348542cb858d40e9b",
+        "title": "It is past time to upgrade to post-quantum encryption",
+        "summary": "When the quantum breakthrough comes, data being harvested today will be exposed",
+        "source": "Leaders",
+        "category": "economist",
+        "url": "https://www.economist.com/leaders/2026/07/29/it-is-past-time-to-upgrade-to-post-quantum-encryption",
+        "published": "2026-07-29T21:53:36+00:00"
+      },
+      {
+        "id": "91a57d5acf1d338cb9665403456a346f",
+        "title": "Selling stakes in the beautiful game. What could go wrong?",
+        "summary": "FIFA’s plan to tap private investors is causing outrage",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/07/29/selling-stakes-in-the-beautiful-game-what-could-go-wrong",
+        "published": "2026-07-29T20:27:57+00:00"
+      },
+      {
+        "id": "0968b8309ab5da43caa949a8871eb462",
+        "title": "South Korea’s stock-market boom is collapsing spectacularly",
+        "summary": "It may be a harbinger of things to come",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/07/29/south-koreas-stock-market-boom-is-collapsing-spectacularly",
+        "published": "2026-07-29T20:03:25+00:00"
+      },
+      {
+        "id": "d22ab5c7eb9e0378de3c7d53b72c1391",
+        "title": "There’s never been a better time to commit financial fraud",
+        "summary": "American enforcement has collapsed and conditions are ripe for skulduggery",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/07/29/theres-never-been-a-better-time-to-commit-financial-fraud",
+        "published": "2026-07-29T14:17:58+00:00"
+      },
       {
         "id": "4ee05f3861b19999a028d4f99ec818f5",
         "title": "Can French nukes protect Europe if Donald Trump walks away?",
@@ -406,42 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
         "published": "2026-07-28T10:45:17+00:00"
-      },
-      {
-        "id": "56e286e2da9975920b62bca4a3a24c44",
-        "title": "How to design paper money that represents Europe",
-        "summary": "The euro gets a makeover",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/27/how-to-design-paper-money-that-represents-europe",
-        "published": "2026-07-27T17:16:17+00:00"
-      },
-      {
-        "id": "63b81f08f01c1232d560889284ac6caa",
-        "title": "America has become an entrepreneur’s paradise",
-        "summary": "Etsy-sellers and small-town accountants are enjoying the fruits of AI",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise",
-        "published": "2026-07-27T10:04:15+00:00"
-      },
-      {
-        "id": "ed912b1ffecec6ed749c08581b6ad03b",
-        "title": "Wanted: a researcher/reporter in Seoul",
-        "summary": "Work with the East Asia bureau of The Economist",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/07/27/wanted-a-researcherreporter-in-seoul",
-        "published": "2026-07-27T08:17:31+00:00"
-      },
-      {
-        "id": "13674740f92d7afe0d8c562adc33afa5",
-        "title": "Oil markets are on edge again",
-        "summary": "The bombing may have paused, but energy supplies are precarious",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again",
-        "published": "2026-07-26T14:06:48+00:00"
       }
     ]
   },
@@ -451,99 +451,99 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5620.240234375,
-        "prev_close": 5588.33984375,
-        "change_pct": 0.57,
-        "direction": "up",
-        "price_fmt": "5,620.2",
-        "change_str": "+0.57%"
+        "price": 5616.10986328125,
+        "prev_close": 5620.240234375,
+        "change_pct": -0.07,
+        "direction": "down",
+        "price_fmt": "5,616.1",
+        "change_str": "-0.07%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7428.77978515625,
-        "prev_close": 7413.18017578125,
-        "change_pct": 0.21,
-        "direction": "up",
-        "price_fmt": "7,428.8",
-        "change_str": "+0.21%"
+        "price": 7316.14990234375,
+        "prev_close": 7428.77978515625,
+        "change_pct": -1.52,
+        "direction": "down",
+        "price_fmt": "7,316.1",
+        "change_str": "-1.52%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 25207.1796875,
-        "prev_close": 24963.23046875,
-        "change_pct": 0.98,
+        "price": 25310.849609375,
+        "prev_close": 25207.1796875,
+        "change_pct": 0.41,
         "direction": "up",
-        "price_fmt": "25,207",
-        "change_str": "+0.98%"
+        "price_fmt": "25,311",
+        "change_str": "+0.41%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 64931.19140625,
-        "prev_close": 64611.1484375,
-        "change_pct": 0.5,
-        "direction": "up",
-        "price_fmt": "64,931",
-        "change_str": "+0.50%"
+        "price": 62364.921875,
+        "prev_close": 64931.19140625,
+        "change_pct": -3.95,
+        "direction": "down",
+        "price_fmt": "62,365",
+        "change_str": "-3.95%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10871.01953125,
-        "prev_close": 10781.7998046875,
-        "change_pct": 0.83,
+        "price": 10908.41015625,
+        "prev_close": 10871.0,
+        "change_pct": 0.34,
         "direction": "up",
-        "price_fmt": "10,871",
-        "change_str": "+0.83%"
+        "price_fmt": "10,908",
+        "change_str": "+0.34%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8894.0,
-        "prev_close": 8772.2998046875,
-        "change_pct": 1.39,
+        "price": 8947.7998046875,
+        "prev_close": 8894.0,
+        "change_pct": 0.6,
         "direction": "up",
-        "price_fmt": "8,894.0",
-        "change_str": "+1.39%"
+        "price_fmt": "8,947.8",
+        "change_str": "+0.60%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2924699783325195,
-        "prev_close": 1.291100025177002,
-        "change_pct": 0.11,
-        "direction": "up",
+        "price": 1.2888000011444092,
+        "prev_close": 1.2924000024795532,
+        "change_pct": -0.28,
+        "direction": "down",
         "price_fmt": "1.29",
-        "change_str": "+0.11%"
+        "change_str": "-0.28%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.471269965171814,
-        "prev_close": 1.4673000574111938,
-        "change_pct": 0.27,
+        "price": 1.4780999422073364,
+        "prev_close": 1.471519947052002,
+        "change_pct": 0.45,
         "direction": "up",
-        "price_fmt": "1.47",
-        "change_str": "+0.27%"
+        "price_fmt": "1.48",
+        "change_str": "+0.45%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.716879963874817,
-        "prev_close": 1.7162100076675415,
-        "change_pct": 0.04,
+        "price": 1.7224199771881104,
+        "prev_close": 1.7160500288009644,
+        "change_pct": 0.37,
         "direction": "up",
         "price_fmt": "1.72",
-        "change_str": "+0.04%"
+        "change_str": "+0.37%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -558,12 +558,12 @@
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19030000269412994,
-        "prev_close": 0.1902,
-        "change_pct": 0.05,
-        "direction": "up",
+        "price": 0.1898999959230423,
+        "prev_close": 0.1901,
+        "change_pct": -0.11,
+        "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "+0.05%"
+        "change_str": "-0.11%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 87.79000091552734,
-        "prev_close": 88.36000061035156,
-        "change_pct": -0.65,
-        "direction": "down",
-        "price_fmt": "87.79",
-        "change_str": "-0.65%"
+        "price": 90.4000015258789,
+        "prev_close": 84.08999633789062,
+        "change_pct": 7.5,
+        "direction": "up",
+        "price_fmt": "90.40",
+        "change_str": "+7.50%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4016.39990234375,
-        "prev_close": 4074.5,
-        "change_pct": -1.43,
-        "direction": "down",
-        "price_fmt": "4,016.4",
-        "change_str": "-1.43%"
+        "price": 4135.0,
+        "prev_close": 4036.300048828125,
+        "change_pct": 2.45,
+        "direction": "up",
+        "price_fmt": "4,135.0",
+        "change_str": "+2.45%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 57.20000076293945,
-        "prev_close": 58.47200012207031,
-        "change_pct": -2.18,
-        "direction": "down",
-        "price_fmt": "57.20",
-        "change_str": "-2.18%"
+        "price": 58.349998474121094,
+        "prev_close": 57.29600143432617,
+        "change_pct": 1.84,
+        "direction": "up",
+        "price_fmt": "58.35",
+        "change_str": "+1.84%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.690000057220459,
-        "prev_close": 2.7669999599456787,
-        "change_pct": -2.78,
-        "direction": "down",
-        "price_fmt": "2.69",
-        "change_str": "-2.78%"
+        "price": 2.7279999256134033,
+        "prev_close": 2.6619999408721924,
+        "change_pct": 2.48,
+        "direction": "up",
+        "price_fmt": "2.73",
+        "change_str": "+2.48%"
       }
     ],
     "crypto": [
@@ -617,33 +617,33 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 63730.03125,
-        "prev_close": 63724.8984375,
-        "change_pct": 0.01,
-        "direction": "up",
-        "price_fmt": "63,730",
-        "change_str": "+0.01%"
+        "price": 63849.76953125,
+        "prev_close": 63871.36328125,
+        "change_pct": -0.03,
+        "direction": "down",
+        "price_fmt": "63,850",
+        "change_str": "-0.03%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1910.260009765625,
-        "prev_close": 1890.613525390625,
-        "change_pct": 1.04,
-        "direction": "up",
-        "price_fmt": "1,910.3",
-        "change_str": "+1.04%"
+        "price": 1902.989990234375,
+        "prev_close": 1919.948486328125,
+        "change_pct": -0.88,
+        "direction": "down",
+        "price_fmt": "1,903.0",
+        "change_str": "-0.88%"
       }
     ]
   },
-  "briefing": "Global markets are watching the US Federal Communications Commission's latest move to ban imports of new Chinese robots and power inverters, citing national security concerns, while Boeing has taken a $280 million hit on its troubled Air Force One program. In Singapore, the Council for Estate Agencies is studying the introduction of consumer ratings for property agents to improve transparency, and dengue cases are on the rise with a potential increase in numbers due to a change in the dengue strain. Meanwhile, the Straits Times Index and other regional markets are likely to be influenced by ongoing geopolitical tensions, including the US-China trade dispute and rising tensions in the Middle East.",
+  "briefing": "Global markets were shaken as the Dow Jones Industrial Average plummeted 1,153.18 points, or 2.19 percent, after the Federal Reserve held interest rates steady, while oil prices jumped to $91 per barrel amid escalating US-Iran tensions. In Singapore, a survey found that Gen Z car owners are the most receptive to electric vehicles, citing reliability and practicality, as the city-state continues to promote sustainable transportation options. Meanwhile, technology giants Microsoft and Meta are making significant strides in AI development, with Microsoft confirming the launch of its Copilot \"super app\" this year and Meta planning a big push into personal AI agents, as the tech industry continues to evolve at a rapid pace.",
   "digests": {
-    "singapore": "The local news in Singapore is currently focused on various issues including property market regulations, with the Council for Estate Agencies studying the introduction of consumer ratings for property agents, as well as public health concerns, such as the increasing number of dengue cases. Additionally, law enforcement is addressing issues like money laundering and rioting, with a notable case involving 47 cars linked to a $3b money laundering probe being auctioned off. Economic and business-related news also features, including the impact of US tariffs and the sale of collective sites, which must be priced realistically to attract developers.",
-    "us": "The US government is addressing various issues, including a Senate hearing with Anthony Fauci, the identification of five states to hold nuclear waste, and a Food and Drug Administration official's assurance that the US food supply is safe despite a surge in cyclosporiasis cases. Meanwhile, corporate boardroom diversity has dropped to its lowest level in over a decade, and Boeing has taken a significant financial hit due to delays in its Air Force One program. Additionally, the role of climate change in recent wildfires in Spain has become a point of contention among politicians.",
-    "asia": "Tensions between Saudi Arabia and Iran-backed militias continue, with drone attacks and a claimed blockade, despite a recent period of calm. The US has imposed new bans on Chinese tech imports, including robots and power inverters, citing national security concerns, while China's growing economic influence is being felt in Indonesia through investments in nickel reserves. Meanwhile, China is seeking to build global brands, with its companies making inroads in manufacturing and technology, but facing scrutiny over access to advanced technologies, including artificial intelligence.",
-    "others": "Natural disasters and geopolitical tensions are dominating international headlines, with a magnitude 6.8 earthquake striking Japan's Kyushu island and an Israeli airstrike destroying a mosque in Gaza City. Meanwhile, global leaders are navigating complex relationships, as seen in Peru's new president Keiko Fujimori's efforts to balance ties with the US and China, and the economic fallout from Donald Trump's policies, which has led to a significant decline in Canadian travel to the US. Additionally, environmental concerns are emerging, with wildfires in south-west France and mysterious elephant deaths in Kenya prompting urgent responses.",
-    "tech": "The US government is implementing a ban on foreign-made advanced robotic devices and power inverters, targeting China, while researchers warn of underwater oxygen loss threatening Earth's stability. Meanwhile, technological advancements and innovations are being showcased, including running Kimi K3 on a M1 Max and a practical key-recovery attack on HAWK-256, alongside concerns over cybersecurity, such as Ariana Grande's lawsuit against hackers leaking her content and a $56 million settlement in a cyberstalking case involving eBay. These developments highlight the complex interplay between technology, innovation, and societal implications.",
-    "economist": "The Economist's analysis highlights European concerns about nuclear protection and collaboration in the face of uncertain American leadership, as well as the continent's vulnerability to worsening natural disasters and economic instability. The financial sector is also under scrutiny, with warnings about the risks of perpetual futures and the uncertain returns on AI investments, amidst a broader backdrop of rapid technological change and shifting global energy markets. Meanwhile, the rise of entrepreneurship and AI-driven innovation is transforming the US business landscape, while Europe is re-examining its financial identity, including a redesign of the euro."
+    "singapore": "Singapore has seen a mix of developments, including sporting achievements such as Toh Wei Soong's silver medal win at the Commonwealth Games, and shifts in consumer preferences, with Gen Z drivers showing receptivity to electric vehicles due to their reliability and practicality. Meanwhile, the government is addressing various social and economic issues, such as providing rental support to hawkers and market stallholders affected by the Middle East crisis, and reviewing legal education to set out professional norms and workplace behaviours. Additionally, initiatives are being undertaken to support local farms, with seven vegetable farms securing wholesale deals, and to tackle emerging security concerns, including \"salad bar\" extremism.",
+    "us": "US-Iran tensions are escalating after Iran's surprise attack on US forces in Jordan, leading to a spike in oil prices and threatening to disrupt the temporary pause in fighting. Meanwhile, the US economy is experiencing volatility, with the Dow Jones Industrial Average sinking 1,100 points after the Federal Reserve held off on a hike, and potential changes to Medicare drug plans could cost consumers more in 2027. President Trump is also making headlines with his comments on various issues, including a pardon for Dr. Anthony Fauci and a sweeping renovation of Dulles airport.",
+    "asia": "Tensions and alliances in the Asia-Pacific region are being reevaluated, with ASEAN secretary-general Kao Kim Hourn calling for increased diplomatic engagement between Thailand and Cambodia to resolve conflicts, while Donald Trump's demands for allies to raise defence spending may backfire on the US by prompting them to develop their own defence industries. Meanwhile, China's growing dominance in the electric vehicle industry may give it a decisive edge in the geopolitical tech war, allowing it to exert influence over countries dependent on its technology and supply chains. Regional political landscapes are also shifting, with new parties emerging in Malaysia and existing ones navigating complex relationships.",
+    "others": "Tensions between the US and Iran are causing concern for Saudi Arabia, which is trying to avoid being drawn into a conflict, while also considering how to respond to Iranian aggression. In other news, issues of free speech and human rights are being highlighted by the conviction of Salman Rushdie's attacker and the sentencing of Myanmar activists to lengthy prison terms for protesting election results. Meanwhile, concerns about the regulation of artificial intelligence are growing, with US President Donald Trump considering \"AI controls\" following a disclosure by OpenAI about its agents hacking companies.",
+    "tech": "Major tech companies such as Microsoft and Meta are investing heavily in AI, with Microsoft developing a \"super app\" that combines chat, coding, and agentic capabilities, and Meta planning a push into personal AI agents. The increasing importance of AI is also highlighted by the complementary relationship between AI and quantum computers, which are expected to work together rather than compete. Meanwhile, the cost of phone chips is set to rise, with Qualcomm announcing price hikes starting September 1st, and AI startups are facing criticism for not publishing their research, with many top startups barely releasing any papers on their findings.",
+    "economist": "The Economist's analysis highlights the pressing need for post-quantum encryption to protect against future data breaches, while also sounding alarms on the potential for financial fraud and market instability, as evidenced by South Korea's collapsing stock-market boom. Additionally, the publication explores the geopolitical implications of a potential shift in European nuclear collaboration and the risks associated with emerging financial products, such as perpetual futures. The overall tone suggests a sense of urgency and uncertainty, with leaders and investors facing complex challenges in the realms of technology, finance, and international relations."
   }
 }
