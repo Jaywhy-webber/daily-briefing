@@ -2,375 +2,393 @@
   "news": {
     "singapore": [
       {
-        "id": "db6df4064fafa993e71a8cbf31eeed4a",
-        "title": "Marching towards inclusion: How S’pore’s first contingent of persons with disabilities train for NDP 2026",
-        "summary": "The historic 21-member contingent includes a visually impaired woman with her guide dog.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/community/marching-towards-inclusion-how-spores-first-people-with-disabilities-contingent-trains-for-ndp-2026",
-        "published": "2026-08-01T21:00:00+00:00"
-      },
-      {
-        "id": "490ad765bdaf8c845d3b7768c89e1a0c",
-        "title": "Hundreds of vape, Kpod addicts have sought help at IMH; some lost jobs due to addiction",
-        "summary": "The national rehabilitation programme comprises four individual and two group counselling sessions.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/imh-hundreds-of-vaping-kpod-addicts-came-to-us-for-help-some-lost-jobs-from-etomidate-addiction",
-        "published": "2026-08-01T21:00:00+00:00"
-      },
-      {
-        "id": "b6c984f8e9921cf0b7e6024545505e54",
-        "title": "‘Grateful to driver who reported me to police’: Ex-Kpod addict who vaped in private-hire car",
-        "summary": "The 25-year-old was so hooked on Kpods he spent $4,000 in two weeks to feed his habit.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/grateful-to-driver-who-reported-me-to-police-ex-kpod-addict-who-vaped-in-private-hire-car",
-        "published": "2026-08-01T21:00:00+00:00"
-      },
-      {
-        "id": "580705fd0f0b8ec99da045f07cac6b8e",
-        "title": "‘No let-up on war on vaping’, says HSA chief executive; youngest abuser was 10 years old",
-        "summary": "HSA CEO Raymond Chua said vaping and its supply networks will continue to evolve, just like scams and drugs.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/no-let-up-on-war-on-vaping-says-hsa-chief-executive-youngest-abuser-was-10-years-old",
-        "published": "2026-08-01T21:00:00+00:00"
-      },
-      {
-        "id": "6a50f80f9bf29a4f7bd32159672f1bcf",
-        "title": "A fall, a commuter’s panic, and the push to offer more than transit",
-        "summary": "Through frontline staff training and community partnerships, SMRT is working to reshape its network into places of care, culture, and connection.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/a-fall-a-commuters-panic-and-the-push-to-offer-more-than-transit",
-        "published": "2026-08-01T20:00:00+00:00"
-      },
-      {
-        "id": "efaf86894ecd0ab8165a4633bec64433",
-        "title": "‘I’m out of a deep hole’: 41-year-old mother on her two-year journey in building stability",
-        "summary": "With help from her family coach and the ComLink+ scheme, she found employment and enrolled her kid in pre-school.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/im-out-of-a-deep-hole-41-year-old-mother-on-her-two-year-journey-in-building-stability",
-        "published": "2026-08-01T20:00:00+00:00"
-      },
-      {
-        "id": "f214207e21246ff674c230627a607ef0",
-        "title": "Missing Singaporean woman found in Cambodia says she was not forced into scam activities",
-        "summary": "Aishah Siregar said in a video that she went to Cambodia to work as an English teacher.",
+        "id": "cfb159cb901885b81554ee4d2e45544b",
+        "title": "Faulty dry rising main forced firefighters to haul hose up 8 floors in fatal Clementi fire",
+        "summary": "SCDF said it is investigating the incident and that the town council is required to rectify the dry rising main to ensure it is in proper working condition.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/missing-singaporean-aishah-siregar-left-cambodia-willingly-not-scam-6292736",
-        "published": "2026-08-01T10:56:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/clementi-fire-faulty-riser-delay-6293766",
+        "published": "2026-08-02T22:31:05+00:00"
       },
       {
-        "id": "dac7d7dcb25376ad703a1e55e12a1a31",
-        "title": "More students can pursue mother tongue languages under expanded programme from 2027",
-        "summary": "The Ministry of Education will expand Tamil and Chinese language elective programmes and the Malay (Special Programme), giving more students opportunities to deepen their learning of mother tongue languages.",
+        "id": "c9b8ea2fbc5db1e9f7e51b6738fbd6a9",
+        "title": "Workers' Party to table motion calling for an 'economy of the future' for all Singaporeans",
+        "summary": "\"This is our attempt to answer the pressing questions of the day and to write our own economic playbook,\" said WP MP Kenneth Tiong.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/tamil-chinese-malay-mother-tongue-language-secondary-school-jc-moe-6292576",
-        "published": "2026-08-01T05:46:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/workers-party-table-motion-calling-economy-future-all-singaporeans-6292676",
+        "published": "2026-08-02T22:11:05+00:00"
+      },
+      {
+        "id": "e73f26b97a48b453bdf8b1b2ff0da943",
+        "title": "With department stores shutting, are anchor tenants a thing of the past for malls?",
+        "summary": "Metro, which is an anchor tenant at Paragon and Causeway Point, announced last month that it would close its last two stores.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/department-stores-anchor-tenants-metro-exit-shopping-malls-6280156",
+        "published": "2026-08-02T22:00:00+00:00"
+      },
+      {
+        "id": "efa40778d350db97075bd265b4487184",
+        "title": "Commentary: Forests vs flats? Singapore’s land development debate needs to move beyond that",
+        "summary": "Amid concerns about clearing Maju Forest for housing, suggestions that Singapore should only build on “brownfield sites” are reasonable. But they may also overlook a few things, says Lee Kuan Yew School of Public Policy’s Woo Jun Jie.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/commentary/commentary-forests-vs-flats-singapores-land-development-debate-needs-move-beyond-6292601",
+        "published": "2026-08-02T22:00:00+00:00"
+      },
+      {
+        "id": "b3121690c98572d416c2252d342bbce4",
+        "title": "When love meets the bill: The cost of loving a pet in Singapore",
+        "summary": "",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/when-love-meets-the-bill-the-cost-of-loving-a-pet-in-singapore",
+        "published": "2026-08-02T21:00:00+00:00"
+      },
+      {
+        "id": "2e671c94353cc4742594b4574444b59e",
+        "title": "Kidney patient’s son carries on legacy of donating to NKF",
+        "summary": "SUTL head Arthur Tay takes after his father in supporting NKF’s dialysis and sustainability efforts.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/kidney-patients-son-carries-on-legacy-donation-to-nkf",
+        "published": "2026-08-02T21:00:00+00:00"
+      },
+      {
+        "id": "f97903a1a91527d4d8e417dfee9d7ab2",
+        "title": "NKF pushes for more sustainable dialysis to reduce carbon footprint and ease staff’s back pain",
+        "summary": "Singapore's first Centralised Acid Concentrate Delivery System set up at NKF dialysis centre thanks to SUTL's $4m donation.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/nkf-pushes-for-more-sustainable-dialysis-to-reduce-carbon-footprint-and-ease-staffs-back-pain",
+        "published": "2026-08-02T21:00:00+00:00"
+      },
+      {
+        "id": "bdbcaed30001b42f0c38f9b1ae5647c0",
+        "title": "Why cancer in young adults is rising – and why their needs are different",
+        "summary": "A growing field dedicated to their unique medical and life-stage needs has emerged.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/why-cancer-in-young-adults-is-rising-and-why-their-needs-are-different",
+        "published": "2026-08-02T21:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "a5b0b092ccfec68159bdd12d47bb6537",
-        "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
-        "summary": "Vincent Pastore appeared in movies dating back to the 1980s and had roles in big movies including \"Goodfellas\" and \"Awakenings,\" both in 1990.",
+        "id": "1d08c4e966458887a867c8ca0bf2298f",
+        "title": "Chevron chief on Iran war impacting energy markets: ‘The situation remains somewhat fragile and uncertain’",
+        "summary": "Mike Wirth, Chevron chair and CEO, said the impact that the Iran war has had on energy markets has left things “somewhat fragile and uncertain.” Wirth told Fox News’s Maria Bartiromo on “Sunday Morning Futures” on Friday in an interview aired Sunday about risks to all the paths of transit for oil exports, specifically the…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/energy-environment/6004653-chevron-ceo-oil-market-risks/",
+        "published": "2026-08-02T22:06:48+00:00"
+      },
+      {
+        "id": "23333cd7798905dbff5386b857fabb5b",
+        "title": "Lankford says Senate GOP ‘will keep going’ if it can’t pass three legislative priorities before recess",
+        "summary": "GOP Sen. James Lankford (Okla.) is among the chorus of Republican senators arguing for the upper chamber to delay its planned recess starting at the end of this week if lawmakers cannot pass the party’s top priorities, including voter ID legislation. While appearing on “Fox News Sunday,” Lankford outlined the Senate Republican Conference’s three priorities…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/senate/6004692-gop-senators-delay-recess/",
+        "published": "2026-08-02T21:59:32+00:00"
+      },
+      {
+        "id": "6b5b12b2c9e8335ff7bafa5149d2fca5",
+        "title": "Sanders backs Troy Jackson in Maine Senate race: ‘Strong platform’",
+        "summary": "Sen. Bernie Sanders (I-Vt.) on Sunday backed new Maine Senate Democratic nominee Troy Jackson, and said he will officially endorse the former state Senate president if Jackson “asks” him. “You want a working-class voice in Washington, D.C., Troy is certainly that voice. I have seen his platform. It is a strong platform, standing up for…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6004642-sanders-backs-maine-jackson/",
+        "published": "2026-08-02T21:19:30+00:00"
+      },
+      {
+        "id": "ad629e53026454c6243843570500e3fe",
+        "title": "Carville rips Piker: ‘If he becomes a force in the Democratic Party, I’m out of here’",
+        "summary": "Democratic strategist James Carville on Sunday ripped into popular left-wing Twitch streamer Hasan Piker, saying that if he shapes himself into a force within the Democratic Party, “I’m out of here.” “To talk about the larger Democratic Party, post the election in Michigan going forward, I am not going to be in the same party…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6004598-carville-piker-democratic-party-split/",
+        "published": "2026-08-02T21:05:36+00:00"
+      },
+      {
+        "id": "c4fdd936bcb7f96d75c32951bb2506a8",
+        "title": "Senate GOP looks for ‘chorus’ of Republicans to fill void left by Graham",
+        "summary": "Sen. Lindsey Graham’s (R-S.C.) death has left a massive hole in the hawkish wing of the Senate GOP as President Trump navigates the wars in Iran and Ukraine. There’s broad agreement that no single lawmaker can fill the void left by the Senate stalwart, a rare figure who was close to the president while maintaining…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/senate/6002871-lindsey-graham-foreign-policy-senate-gop/",
+        "published": "2026-08-02T21:00:00+00:00"
+      },
+      {
+        "id": "fb96e63d2579d1ab1d0d2bbd3e29a092",
+        "title": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
+        "summary": "Rep. Max Miller (R-Ohio) on Sunday denied abuse allegations levied against him by his ex-wife and vowed to continue his reelection campaign. “I’ve been portrayed as an abusive husband, an abusive father and a violent man,” Miller said in a video he posted to social media. “Those allegations have damaged my reputation, caused enormous pain…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6004629-max-miller-denies-abuse-allegations/",
+        "published": "2026-08-02T20:55:46+00:00"
+      },
+      {
+        "id": "b84f0279ada56ac941ab882dad5e79aa",
+        "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+        "summary": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut down in 2021.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
-        "published": "2026-08-01T22:32:44+00:00"
+        "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+        "published": "2026-08-02T18:31:34+00:00"
       },
       {
-        "id": "9e4ebdc17676b181ac3bf638488a973a",
-        "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-        "summary": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth.",
+        "id": "eb31d4ae9e06f257ca41e689c1aa33b6",
+        "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+        "summary": "There are at least three fires in and around the city. Large parts of Spokane are under Level 3 evacuation orders, which read: \"Leave NOW! This may be your only notice.\"",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
-        "published": "2026-08-01T22:23:39+00:00"
-      },
-      {
-        "id": "e802bad755011157d996e6d29b830337",
-        "title": "Sunday shows preview: Hamas deal, Iran tensions test Trump administration",
-        "summary": "President Trump’s announcement of a “historic” deal reached with negotiators this week that includes disarming Hamas still faces hurdles, as skeptics wonder if it can move from paper to reality. The agreement is part of Trump’s 20-point plan to reach a ceasefire in the Gaza Strip and bring an end to the war between Israel…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/6003978-blanche-attorney-general-nomination-hurdles-sunday-preview/",
-        "published": "2026-08-01T22:01:22+00:00"
-      },
-      {
-        "id": "e2a851971d335f22ce20a0b1bbe2ac49",
-        "title": "Democrats fret in Michigan as progressives project confidence ahead of key primaries",
-        "summary": "Mainstream Democrats are fretting that progressive victories in two critical primary races in Michigan on Tuesday could jeopardize the party’s chances of clinching must-win congressional seats in November. Abdul El-Sayed and Will Lawrence, who are both backed by Sen. Bernie Sanders (I-Vt.) for their respective Senate and House primaries, are giving some center-left Democrats heartburn amid worries that their progressive…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6002980-michigan-democrats-senate-house-el-sayed-lawrence/",
-        "published": "2026-08-01T21:00:00+00:00"
-      },
-      {
-        "id": "7f02eccc326f7343a2c9400373453cc1",
-        "title": "These are the happiest cities in America in 2026",
-        "summary": "A new ranking reveals where Americans are happiest, and the top city may surprise you.",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/blogs/in-the-know/6003784-happiest-cities-in-america-ranked-2026/",
-        "published": "2026-08-01T20:27:46+00:00"
-      },
-      {
-        "id": "bc01ba4dba3a631fc9904cbf0a047603",
-        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-        "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems.",
-        "source": "NPR",
-        "category": "us",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-        "published": "2026-08-01T20:27:32+00:00"
-      },
-      {
-        "id": "3578d2ccd581d6110e5b140132447b42",
-        "title": "Customer service emerges as an early test of AI’s impact on jobs",
-        "summary": "The first signs of AI's impact on white-collar jobs are emerging in customer service.",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/technology/6003298-customer-service-test-for-ai-jobs/",
-        "published": "2026-08-01T20:20:52+00:00"
-      },
-      {
-        "id": "a133c306c04d70cf13a02ae6738ed88e",
-        "title": "CNN’s Jennings defends Olympian after DOJ tosses Reflecting Pool case: ‘He ought to sue’",
-        "summary": "Republican political commentator Scott Jennings said the Olympian David Hearn “ought to sue” the Trump administration for attempting to prosecute him in connection with damage found at the Lincoln Memorial Reflecting Pool. In an interview on CNN’s “The Source” with host Erica Hill, Jennings was asked if he had concerned the Department of Justice (DOJ)…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6003886-jennings-says-hearn-should-sue/",
-        "published": "2026-08-01T19:33:04+00:00"
+        "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+        "published": "2026-08-02T13:35:43+00:00"
       }
     ],
     "asia": [
       {
-        "id": "943bc77b06540148b6f59cf4c548c6c3",
-        "title": "From Mao to now: why China’s Communist Party is intent on control over the military",
-        "summary": "Having marked its 99th anniversary on August 1, the People’s Liberation Army is now just one year away from its centenary goals, with its evolution highlighting the past, present and future of China’s military strategy. In the third part of a series, Yuanyue Dang and William Zheng examine how Beijing leans on Mao-era doctrines and anti-corruption drives to guarantee absolute party control over the armed forces. In December 1929, then Communist revolutionary Mao Zedong led a pivotal meeting in...",
+        "id": "7e6583a763976487dbe67835c82066bf",
+        "title": "Trade deficit marks a sea change",
+        "summary": "Thailand's widening trade deficit may appear alarming at first glance, but a deeper analysis suggests it is more a sign of economic transformation than deterioration.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3295679/trade-deficit-marks-a-sea-change",
+        "published": "2026-08-02T22:23:00+00:00"
+      },
+      {
+        "id": "8b1404a40ea63373c46a426bdd51c1e5",
+        "title": "China's paper gold ban has muted effect",
+        "summary": "China's recent move to curb retail trading of paper gold is expected to have a limited short-term impact on global gold market liquidity, as robust physical demand, particularly from central banks, continues to provide strong long-term support for prices, says YLG Bullion & Futures.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3295629/chinas-paper-gold-ban-has-muted-effect",
+        "published": "2026-08-02T22:15:00+00:00"
+      },
+      {
+        "id": "bb18fc60d236da504f566dfe301f6b0b",
+        "title": "China’s military goal is to stand neck and neck with the US: ex-PLA colonel Zhou Bo",
+        "summary": "Zhou Bo is a retired senior colonel in the People’s Liberation Army, a senior fellow at Tsinghua University’s Centre for International Security and Strategy, and the author of the book Should the World Fear China? This interview first appeared in SCMP Plus. For other interviews in the Open Questions series, click here. The People’s Liberation Army (PLA) is approaching its 2027 centenary, a major benchmark set by Beijing to achieve military modernisation. What is that goal actually about? China..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/military/article/3362430/mao-now-why-chinas-communist-party-intent-control-over-military?utm_source=rss_feed",
-        "published": "2026-08-01T22:00:11+00:00"
+        "url": "https://www.scmp.com/news/china/military/article/3362704/chinas-military-goal-stand-neck-and-neck-us-ex-pla-colonel-zhou-bo?utm_source=rss_feed",
+        "published": "2026-08-02T22:00:11+00:00"
       },
       {
-        "id": "4837128a3645e8ba2c6d9ce5fa4f18ae",
-        "title": "‘Very scary’: Greenland's Southeast Asian migrants caught in Trump’s takeover push",
-        "summary": "As United States President Donald Trump seeks control of Greenland, the island’s growing Southeast Asian migrant community faces uncertainty. In part one of this series, CNA looks at how Filipino and Thai migrants are responding.",
+        "id": "990187a7b4c35164abf99ee9e1aed055",
+        "title": "‘I found my peace’: How Filipino and Thai migrants made Greenland home",
+        "summary": "Greenland's labour shortages have created an unlikely migration corridor from Southeast Asia. In part two of this series, CNA looks at how Filipinos and Thais have become the island's largest communities.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/world/trump-greenland-migrants-economy-thais-filipinos-6269986",
-        "published": "2026-08-01T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/world/greenland-southeast-asian-migrants-arctic-trump-6269836",
+        "published": "2026-08-02T22:00:00+00:00"
       },
       {
-        "id": "43908fb838ef2231a52c005b00a0b9e5",
-        "title": "‘I don’t want to miss out’: Why India’s youth are choosing debt over savings",
-        "summary": "Digital credit may be reshaping how young Indians spend, save and borrow, even as rising costs, social media and financial illiteracy also push more of them into debt and leave the country facing a growing challenge, CNA’s Insight finds.",
-        "source": "CNA Asia",
-        "category": "asia",
-        "url": "https://www.channelnewsasia.com/cna-insider/fomo-india-youth-bad-debt-loan-apps-borrowing-savings-6291491",
-        "published": "2026-08-01T22:00:00+00:00"
-      },
-      {
-        "id": "338aee18d59d0d7fa0a0e7b123848f9c",
-        "title": "Commentary: China is smarter about subsidies than everybody else",
-        "summary": "Beijing is stealing a march on its competitors by targeting strategic sectors, says Gillian Tett for the Financial Times.",
-        "source": "CNA Asia",
-        "category": "asia",
-        "url": "https://www.channelnewsasia.com/commentary/china-smarter-about-subsidies-strategic-sectors-economy-6290556",
-        "published": "2026-08-01T22:00:00+00:00"
-      },
-      {
-        "id": "1299728d6c0d266f705ca5bc78da404d",
-        "title": "Sadao crossing upgrades to drive growth",
-        "summary": "SONGKHLA: The Sadao Border Checkpoint is again set to handle more than six million travellers this year as authorities seek to expand cross-border trade and improve links with Malaysia, visiting senators said.",
+        "id": "9276abcc6e591980ae057f3268291f6f",
+        "title": "Questions swirl over BJT unity",
+        "summary": "Although Bhumjaithai (BJT) leaders insist the party remains united, a series of recent developments has fuelled speculation over whether Thailand's dominant coalition partner is facing more than routine political tensions.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3295270/sadao-crossing-upgrades-to-drive-growth",
-        "published": "2026-08-01T21:54:00+00:00"
+        "url": "https://www.bangkokpost.com/thailand/special-reports/3295564/questions-swirl-over-bjt-unity",
+        "published": "2026-08-02T22:00:00+00:00"
       },
       {
-        "id": "a535a73e0de97dc98d341a0b8de1712e",
-        "title": "Super El Niño to arrive in Thailand next year",
-        "summary": "Thailand is unlikely to escape the impact of a Super El Niño expected to hit the country in October and last through the early part of the 2027 rainy season, affecting crops, rice plantations and water consumption.",
+        "id": "2b6429a3d5261dc334fd8d870466979a",
+        "title": "Police under fire over missing case updates",
+        "summary": "Police in Chon Buri have apologised to the families of three Thai murder victims for failing to provide regular updates on the investigation, while insisting officers continued working on the case and remain committed to bringing those responsible to justice.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3295280/super-el-niño-to-arrive-in-thailand-next-year",
-        "published": "2026-08-01T21:37:00+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3295414/police-under-fire-over-missing-case-updates",
+        "published": "2026-08-02T21:39:00+00:00"
       },
       {
-        "id": "dcf41d5eba6e095ada7f0390ffab2045",
-        "title": "China’s next export is the world’s factory itself",
-        "summary": "China’s export boom is reaching its limits. The country’s next phase of growth will come not from shipping more goods abroad, but from exporting its factories, technologies and brands. China is running up against the limits of its old model. It is obvious as the economy looks increasingly K-shaped. Weak consumer confidence and a prolonged property slump continue to sap domestic demand, forcing manufacturers to rely ever more heavily on overseas markets. Exports have become the Chinese economy’s.",
+        "id": "7114e7007ac38529471bbb37a8428a28",
+        "title": "Legco-executive dialogue must deliver more than novelty for Hong Kong",
+        "summary": "Exploring new channels for connection is important for enhancing communication. That seems to be one of the major themes of the first “new style Legco dialogue” with Hong Kong Chief Executive John Lee Ka-chiu, held last week after lawmakers returned from their study trip to Beijing. Legislative Council members were clearly eager to share ideas with Lee, beginning with suggesting that the city’s 1823 public inquiry and complaint hotline be revamped and modelled after Beijing’s 12345 complaints...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3362151/chinas-next-export-worlds-factory-itself?utm_source=rss_feed",
-        "published": "2026-08-01T21:30:07+00:00"
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3362534/legco-executive-dialogue-must-deliver-more-novelty-hong-kong?utm_source=rss_feed",
+        "published": "2026-08-02T21:30:05+00:00"
       },
       {
-        "id": "aa6b4610953ee61496b0af85508455d2",
-        "title": "Anutin vows justice over murders",
-        "summary": "Prime Minister Anutin Charnvirakul has expressed condolences to the family of two Russian siblings killed in a high-profile murder case and apologised to Russian tourists and the Russian people over the incident.",
+        "id": "dea3b2b764b5a5e00edfbcf4c949d409",
+        "title": "Govt reviews power deals",
+        "summary": "The government is reviewing long-term power purchase agreements (PPAs) with private producers as part of efforts to lower electricity prices, Deputy Prime Minister Pakorn Nilprapunt said on Sunday.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3295070/anutin-vows-justice-over-murders",
-        "published": "2026-08-01T21:21:00+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3295384/govt-reviews-power-deals",
+        "published": "2026-08-02T21:21:00+00:00"
       }
     ],
     "others": [
       {
-        "id": "896baa4144a3a156545dc3f82da721a1",
-        "title": "Tourist plane crashes in Peru, killing 13",
-        "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-01T22:34:20+00:00"
-      },
-      {
-        "id": "a1696761f11047661c4adda06d75362f",
-        "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-        "summary": "Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.",
+        "id": "7b5b60302f17edd2cdea1c5183fa3a29",
+        "title": "Wildfires force mass evacuations across the Pacific Northwest",
+        "summary": "Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
-        "published": "2026-08-01T22:31:52+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
+        "published": "2026-08-02T21:47:18+00:00"
       },
       {
-        "id": "999d136bbcd2e078e51c5e33a7fba086",
-        "title": "Homemade bomb goes off outside upscale Moscow restaurant",
-        "summary": "Russian authorities said the blast occurred outside a restaurant on Kudrinskaya Square when a woman allegedly carrying explosives was stopped by a security guard.",
+        "id": "0d0911da994c6a8e9738e4c34e11a04d",
+        "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+        "summary": "Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
+        "published": "2026-08-02T21:18:03+00:00"
+      },
+      {
+        "id": "59b74637a80498ea6bd7091214849a77",
+        "title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings",
+        "summary": "UK Prime Minister Andy Burnham said his government will be \"relentless\" in tackling small boat crossings the Channel.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss",
+        "published": "2026-08-02T20:45:01+00:00"
+      },
+      {
+        "id": "7f82a1a497feaaace7a2b325aab9ca00",
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+        "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-02T20:36:37+00:00"
+      },
+      {
+        "id": "5ed31406fcfcd3ddeecd0dc13b68b877",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-02T15:50:59+00:00"
+      },
+      {
+        "id": "f2f64e7c21b9fa94eab9bed6ff1d9c27",
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-02T15:48:00+00:00"
+      },
+      {
+        "id": "adb0153e89b100bb5cf86deba151be96",
+        "title": "Small insects, big damage: The global ant trade is booming",
+        "summary": "Legal or not, the trade in African ants bound for Europe is booming. What do hobbyists find appealing about these insects, and what risks does the trade pose to ecosystems, including power outages?",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant/a-78205022?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-08-01T22:21:00+00:00"
+        "url": "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-08-02T14:30:00+00:00"
       },
       {
-        "id": "e75d40b0d059a18db8bc45088771e6fa",
-        "title": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
-        "summary": "Aircraft crashes into field after departing from the nearby city of Pisco, according to local authorities At least 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines, police reported on Saturday.Local authorities in Nazca confirmed that 11 tourists and two pilots died when the Cessna Grand Caravan crashed in Pueblo Viejo, approximately 4 miles (6km) from the city of Nazca and roughly 12km from the Nazca Lines site. Continue reading...",
+        "id": "ed022e592716ce51cf906b37e264b354",
+        "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+        "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibraltar from mainland Spain.Here was a chance for the 44-year-old Moroccan father of four to ",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-        "published": "2026-08-01T21:47:06+00:00"
-      },
-      {
-        "id": "25b792c93dec2d359f5d8be681a7bacb",
-        "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
-        "summary": "What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
-        "published": "2026-08-01T21:42:26+00:00"
-      },
-      {
-        "id": "80722b1009eda1396f0b53e2c056f65d",
-        "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
-        "summary": "Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
-        "published": "2026-08-01T21:15:50+00:00"
-      },
-      {
-        "id": "cee21a6bccaf48b035a6e995a2a5c38c",
-        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-        "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-01T20:09:27+00:00"
-      },
-      {
-        "id": "21e50791f9cd5acf9ff2f7ee28b77dde",
-        "title": "How does eastern Europe commemorate the Roma Holocaust?",
-        "summary": "In 2015, the EU designated August 2 as the European Roma Holocaust Memorial Day. In Germany, the day is marked with memorial services, educational activites and public addresses. And in eastern Europe?",
-        "source": "Deutsche Welle",
-        "category": "others",
-        "url": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-08-01T20:08:00+00:00"
+        "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+        "published": "2026-08-02T13:11:56+00:00"
       }
     ],
     "tech": [
       {
-        "id": "1e22cb133fa11c2b9a58f11f30930676",
-        "title": "From MIT: AI financial advice is surprisingly good",
-        "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 10 # Comments: 4",
+        "id": "0b478e905408d394487bd7a9edb59344",
+        "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+        "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/ Comments URL: https://news.ycombinator.com/item?id=49148987 Points: 7 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "published": "2026-08-01T22:25:12+00:00"
+        "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+        "published": "2026-08-02T22:16:34+00:00"
       },
       {
-        "id": "a75ea4b68029acc74ab7921ad7254f79",
-        "title": "Pixel 11 specs and price leak with no surprises",
-        "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB […]",
+        "id": "a8ff2c91d0658f6d96485c40526b89d4",
+        "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+        "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost entirely […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-        "published": "2026-08-01T21:31:24+00:00"
+        "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+        "published": "2026-08-02T21:53:15+00:00"
       },
       {
-        "id": "56ba30d2202919e7787f0789de12d3a5",
-        "title": "Seedance 2.5",
-        "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 44 # Comments: 12",
+        "id": "a1264f810c8af583b748de1e6a20fd75",
+        "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+        "summary": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 58 # Comments: 23",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-        "published": "2026-08-01T20:45:12+00:00"
+        "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+        "published": "2026-08-02T20:44:24+00:00"
       },
       {
-        "id": "5bbb2d810e3ee4f57acf4541d83954d8",
-        "title": "Diátaxis",
-        "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 83 # Comments: 10",
+        "id": "2569bf47a9ee5b875624369e6f627345",
+        "title": "Show HN: Make your Framework 12 sound like a creaky door",
+        "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (https://github.com/samhenrigold/LidAngleSensor) but for the Framework 12 on Linux, so you can make your hinge sound rusty Comments URL: https://news.ycombinator.com/item?id=49148048 Points: 21 # Comments: 2",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://diataxis.fr/",
-        "published": "2026-08-01T20:33:27+00:00"
+        "url": "https://github.com/ArcaEge/creakwork12",
+        "published": "2026-08-02T20:33:01+00:00"
       },
       {
-        "id": "a1edac7b4b6b220b9d379ab68651dd97",
-        "title": "The Silicon Valley Founder Meat Grinder",
-        "summary": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 168 # Comments: 101",
+        "id": "bd046da4f991b098faf55334c49c5b0c",
+        "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+        "summary": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 16 # Comments: 4",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-        "published": "2026-08-01T20:20:58+00:00"
+        "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+        "published": "2026-08-02T20:26:47+00:00"
       },
       {
-        "id": "14ded81f0f6700fdf81e13da097180f7",
-        "title": "Angela Nissel faces down grief with a laugh",
-        "summary": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. Of course, that sort of […]",
+        "id": "784180b10aaa035dbb86fc7ee99032a9",
+        "title": "Let the machines in",
+        "summary": "Article URL: https://blog.semenzin.com/let-the-machines-in/ Comments URL: https://news.ycombinator.com/item?id=49147890 Points: 18 # Comments: 7",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://blog.semenzin.com/let-the-machines-in/",
+        "published": "2026-08-02T20:17:16+00:00"
+      },
+      {
+        "id": "b018d89f3004caa849f0cf723cd2a317",
+        "title": "Adding Go's Defer to the TypeScript Compiler",
+        "summary": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler Comments URL: https://news.ycombinator.com/item?id=49147853 Points: 10 # Comments: 2",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+        "published": "2026-08-02T20:12:39+00:00"
+      },
+      {
+        "id": "a8cd45a4bae0dbfa08e2d1cc8218a93d",
+        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+        "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-        "published": "2026-08-01T20:15:00+00:00"
-      },
-      {
-        "id": "909af4b2ac9e5e54908a9636a17a14a6",
-        "title": "But can your calculator run Linux?",
-        "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 41 # Comments: 4",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-        "published": "2026-08-01T19:44:48+00:00"
-      },
-      {
-        "id": "62a1cf639b61874d4f8f60b7ad3d317e",
-        "title": "CISA Alert: Water Sector PLC Targeting",
-        "summary": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 36 # Comments: 20",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-        "published": "2026-08-01T18:50:17+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+        "published": "2026-08-02T19:36:08+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "37782f14884ce2a3f77ae341411ebc5d",
+        "title": "What will Kevin Warsh do if America’s economy breaks?",
+        "summary": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
+        "published": "2026-08-02T16:12:02+00:00"
+      },
+      {
+        "id": "f857d6b4d8d42ed5b32f125ff09e4d32",
+        "title": "India’s monsoon is getting weirder",
+        "summary": "Expect more extreme weather",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/08/02/indias-monsoon-is-getting-weirder",
+        "published": "2026-08-02T12:45:48+00:00"
+      },
       {
         "id": "17e6faf27529458ad543135726a946b7",
         "title": "The War Room newsletter: The most significant sieges in history",
@@ -379,6 +397,15 @@
         "category": "economist",
         "url": "https://www.economist.com/international/2026/07/31/the-war-room-newsletter-the-most-significant-sieges-in-history",
         "published": "2026-07-31T19:42:17+00:00"
+      },
+      {
+        "id": "5162c4c718495799ae6bb43f7bb647cf",
+        "title": "Oil prices remain highly flammable",
+        "summary": "As tensions flare in the Gulf, triple digits could return in a flash",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+        "published": "2026-07-30T13:02:21+00:00"
       },
       {
         "id": "6bf34bf3371b9b7113a5a9b5120def72",
@@ -408,39 +435,12 @@
         "published": "2026-07-30T13:02:21+00:00"
       },
       {
-        "id": "ca501cd0a66dde251596879a01def2cd",
-        "title": "The delights of deadlines",
-        "summary": "A friend to procrastinators, an enemy to prattlers, a necessity for managers",
-        "source": "Business",
+        "id": "492ea1651af42d44aee363c0edd47278",
+        "title": "Beerlao: probably the most important lager in the world",
+        "summary": "Its country’s economy depends on it",
+        "source": "Asia",
         "category": "economist",
-        "url": "https://www.economist.com/business/2026/07/30/the-delights-of-deadlines",
-        "published": "2026-07-30T13:02:21+00:00"
-      },
-      {
-        "id": "717f7be4eab2c01715c1b55206d8bb89",
-        "title": "Forget Airbus and Boeing. Embraer is soaring",
-        "summary": "Its boss has ambitious plans for the future",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/07/30/forget-airbus-and-boeing-embraer-is-soaring",
-        "published": "2026-07-30T13:02:21+00:00"
-      },
-      {
-        "id": "79a2c9f9ff58197252d771c10c27966f",
-        "title": "The battle for Hugo Boss",
-        "summary": "A British retail magnate tries to go upmarket",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/07/30/the-battle-for-hugo-boss",
-        "published": "2026-07-30T13:02:21+00:00"
-      },
-      {
-        "id": "5162c4c718495799ae6bb43f7bb647cf",
-        "title": "Oil prices remain highly flammable",
-        "summary": "As tensions flare in the Gulf, triple digits could return in a flash",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+        "url": "https://www.economist.com/asia/2026/07/30/beerlao-probably-the-most-important-lager-in-the-world",
         "published": "2026-07-30T13:02:21+00:00"
       }
     ]
@@ -518,42 +518,42 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2818000316619873,
+        "price": 1.2808599472045898,
         "prev_close": 1.282039999961853,
-        "change_pct": -0.02,
+        "change_pct": -0.09,
         "direction": "down",
         "price_fmt": "1.28",
-        "change_str": "-0.02%"
+        "change_str": "-0.09%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4766000509262085,
+        "price": 1.479200005531311,
         "prev_close": 1.4771000146865845,
-        "change_pct": -0.03,
-        "direction": "down",
+        "change_pct": 0.14,
+        "direction": "up",
         "price_fmt": "1.48",
-        "change_str": "-0.03%"
+        "change_str": "+0.14%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7272000312805176,
+        "price": 1.7281999588012695,
         "prev_close": 1.725659966468811,
-        "change_pct": 0.09,
+        "change_pct": 0.15,
         "direction": "up",
         "price_fmt": "1.73",
-        "change_str": "+0.09%"
+        "change_str": "+0.15%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008089999668300152,
+        "price": 0.008100000210106373,
         "prev_close": 0.008,
-        "change_pct": 1.12,
+        "change_pct": 1.25,
         "direction": "up",
         "price_fmt": "0.01",
-        "change_str": "+1.12%"
+        "change_str": "+1.25%"
       },
       {
         "symbol": "CNYSGD=X",
@@ -582,34 +582,34 @@
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4049.10009765625,
-        "prev_close": 4100.10009765625,
-        "change_pct": -1.24,
-        "direction": "down",
-        "price_fmt": "4,049.1",
-        "change_str": "-1.24%"
+        "price": 4121.2998046875,
+        "prev_close": 4049.10009765625,
+        "change_pct": 1.78,
+        "direction": "up",
+        "price_fmt": "4,121.3",
+        "change_str": "+1.78%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 57.590999603271484,
-        "prev_close": 58.814998626708984,
-        "change_pct": -2.08,
-        "direction": "down",
-        "price_fmt": "57.59",
-        "change_str": "-2.08%"
+        "price": 58.6349983215332,
+        "prev_close": 57.590999603271484,
+        "change_pct": 1.81,
+        "direction": "up",
+        "price_fmt": "58.63",
+        "change_str": "+1.81%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.746999979019165,
-        "prev_close": 2.757999897003174,
-        "change_pct": -0.4,
+        "price": 2.736999988555908,
+        "prev_close": 2.746999979019165,
+        "change_pct": -0.36,
         "direction": "down",
-        "price_fmt": "2.75",
-        "change_str": "-0.40%"
+        "price_fmt": "2.74",
+        "change_str": "-0.36%"
       }
     ],
     "crypto": [
@@ -617,33 +617,33 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 62786.859375,
-        "prev_close": 62813.74609375,
-        "change_pct": -0.04,
-        "direction": "down",
-        "price_fmt": "62,787",
-        "change_str": "-0.04%"
+        "price": 63442.890625,
+        "prev_close": 62763.3203125,
+        "change_pct": 1.08,
+        "direction": "up",
+        "price_fmt": "63,443",
+        "change_str": "+1.08%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1845.9100341796875,
-        "prev_close": 1860.345947265625,
-        "change_pct": -0.78,
-        "direction": "down",
-        "price_fmt": "1,845.9",
-        "change_str": "-0.78%"
+        "price": 1882.77001953125,
+        "prev_close": 1843.417724609375,
+        "change_pct": 2.13,
+        "direction": "up",
+        "price_fmt": "1,882.8",
+        "change_str": "+2.13%"
       }
     ]
   },
-  "briefing": "Global tensions remain high as the US and Israel navigate a fragile ceasefire in the Gaza Strip, with President Trump's administration facing hurdles in implementing a \"historic\" deal to disarm Hamas, while in Asia, China's Communist Party continues to assert control over the military ahead of the People's Liberation Army's centenary goals. In Singapore, a national rehabilitation programme is in place to tackle the growing issue of vape and Kpod addiction, with the Health Sciences Authority chief executive warning of an evolving threat. Meanwhile, in the tech world, AI is making strides in financial advice, with a study from MIT finding that AI-generated advice can be surprisingly good, especially when the right questions are asked.",
+  "briefing": "Global markets remain cautious as Chevron's CEO Mike Wirth notes the energy market situation is \"somewhat fragile and uncertain\" due to the Iran war, while oil prices are highly volatile and could potentially return to triple digits. In Singapore, the Workers' Party is set to table a motion calling for an 'economy of the future' for all Singaporeans, as the country grapples with issues such as the recent fatal Clementi fire and the decline of department stores as anchor tenants in malls. Meanwhile, China's military goal is to stand neck and neck with the US by 2027, according to a retired senior colonel in the People's Liberation Army, as the country continues to drive its military modernisation efforts.",
   "digests": {
-    "singapore": "Singapore is taking steps to promote inclusion, with the country's first contingent of persons with disabilities participating in the National Day Parade, while also tackling social issues such as vaping addiction, with hundreds seeking help and the authorities vowing to continue their crackdown. The city-state is also focusing on community development, with initiatives such as training frontline staff to provide care and support, and expanding programmes to help vulnerable individuals, including a scheme that has helped a single mother build stability. Additionally, education initiatives are being expanded, including mother tongue language programmes, to provide more opportunities for students to deepen their learning and cultural connections.",
-    "us": "US politics is being shaped by President Trump's recent announcements, including a \"historic\" deal with Hamas and a potential shift in support for Ukraine's missile defense systems, which is being walked back. Meanwhile, the Democratic party is experiencing internal divisions in Michigan, where progressive candidates backed by Bernie Sanders are posing a challenge to mainstream Democrats in key primary races. Additionally, the impact of AI on jobs is starting to emerge, particularly in customer service, while other news includes international incidents such as an avalanche in Pakistan and a Russian barrage in Kyiv.",
-    "asia": "China's Communist Party is reinforcing its control over the military through Mao-era doctrines and anti-corruption drives, while the country's economic growth is shifting from exporting goods to exporting its factories, technologies, and brands. In other regional news, Southeast Asian migrants in Greenland face uncertainty due to the US push for control, and India's youth are increasingly choosing debt over savings due to digital credit and financial illiteracy. Thailand, meanwhile, is preparing for a Super El Niño event that is expected to impact crops and water consumption, and is also upgrading its border checkpoints to drive growth and expand cross-border trade with Malaysia.",
-    "others": "A tourist plane crash in Peru has killed 13 people, including foreign tourists, while flying over the Nazca Lines archaeological site. Meanwhile, in Europe, the recent migrant influx into the Spanish enclave of Ceuta has strained relations between Spain and other EU states, as well as with Israel, prompting an emergency EU meeting to discuss the crisis. The Middle East is also seeing significant developments, including a US Senate race in Michigan where Abdul El-Sayed is facing opposition from AIPAC, and a homemade bomb explosion outside a Moscow restaurant.",
-    "tech": "Recent technology headlines highlight advancements in AI, with MIT research showing that AI financial advice can be surprisingly effective, and the release of Seedance 2.5, a tool for one-take creation and flexible referencing. Meanwhile, upcoming device releases, such as the Pixel 11, are generating interest, with leaked specs and prices indicating a $100 price hike. Cybersecurity concerns are also prominent, with a CISA alert warning of PLC targeting in the water sector, underscoring the need for vigilance in protecting critical infrastructure.",
-    "economist": "The Economist's analysis highlights the significance of strategic battles and technological advancements in shaping the future, as seen in the impact of sieges on civilisations and the potential of AI to transform the workforce. The publication also explores the evolving dynamics of global power, including China's challenges to America's defence lines in Asia and the rise of Embraer in the aviation industry. Additionally, the articles touch on the importance of adaptability and effective management in various fields, from editing AI-generated content to navigating the oil market's volatility."
+    "singapore": "Singapore is grappling with various issues, including infrastructure concerns such as faulty fire safety equipment and the need for sustainable land development, as highlighted by the debate over clearing Maju Forest for housing. The economy is also a key focus, with the Workers' Party pushing for an \"economy of the future\" and the retail sector facing challenges with the decline of anchor tenants in malls. Meanwhile, social and healthcare issues are also being addressed, including the rising incidence of cancer in young adults and efforts to improve dialysis sustainability and reduce carbon footprint.",
+    "us": "The US energy market remains uncertain due to the Iran war, with Chevron's CEO highlighting the risks to oil export transit paths. Meanwhile, in politics, Senate Republicans are pushing to delay recess to pass key legislative priorities, including voter ID legislation, while individual politicians such as Rep. Max Miller face personal scandals and allegations. Additionally, the Trump Organization is facing financial scrutiny, with Capital One citing money-laundering concerns for closing their accounts, amidst other national issues like wildfires in Spokane, Washington.",
+    "asia": "Thailand's economy is undergoing a transformation, as evidenced by its widening trade deficit, while China's efforts to curb paper gold trading are expected to have a limited impact on the global gold market. Meanwhile, China's military is working towards achieving modernisation by 2027, with the goal of standing on par with the US, and in Southeast Asia, migrants from the Philippines and Thailand are finding new homes in unlikely places like Greenland. Additionally, Thailand's government is reviewing power purchase agreements to lower electricity prices, amidst internal political tensions and public scrutiny of the police force's handling of investigations.",
+    "others": "Wildfires and conflicts are dominating international headlines, with mass evacuations in the Pacific Northwest and violence in Gaza resulting in significant loss of life. Meanwhile, migrant crossings and border disputes continue to pose challenges for governments, as seen in the UK's efforts to address Channel crossings and the situation in Ceuta, where thousands of Moroccans have entered the Spanish enclave. The global trade in insects, including African ants, is also raising concerns about ecosystem disruption and potential risks such as power outages.",
+    "tech": "The technology and innovation headlines highlight emerging trends in data privacy, with Californians' data deletion requests becoming enforceable and the EU mandating hardware-bound attestation for age verification. Meanwhile, advancements in software development are evident in projects such as adding Go's defer to the TypeScript compiler and sharing an X11 server across hosts with FamilyWild. Additionally, the intersection of technology and art is explored in articles about music and instrumental epics, including the use of AI in music creation and the CEO of Fender's comments on analog AI in bandmates.",
+    "economist": "The Economist's analysis highlights the potential risks to the global economy, including the impact of AI on stock prices and the volatility of oil prices, which could be exacerbated by geopolitical tensions in the Gulf. Meanwhile, the rise of AI is also expected to have a profound impact on the future of work, potentially enabling more people to become their own bosses, but also requiring humans to develop new skills, such as editing, to remain relevant. The analysis also touches on the shifting global balance of power, with China testing America's defence lines in Asia and India facing increasingly extreme weather patterns due to a changing monsoon season."
   }
 }
