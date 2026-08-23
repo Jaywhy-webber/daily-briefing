@@ -2,375 +2,402 @@
   "news": {
     "singapore": [
       {
-        "id": "00d7d407cf10178f12ef33400569f52c",
-        "title": "Accidents involving cyclists surge to 4-year high with over 770 cases in 2025 as road safety worsens",
-        "summary": "More than half of these accidents were due to failing to keep a proper lookout and cycling in a disorderly manner.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/accidents-involving-cyclists-surge-to-4-year-high-with-over-770-cases-in-2025-as-road-safety-worsens",
-        "published": "2026-08-22T21:00:00+00:00"
-      },
-      {
-        "id": "52ecc8589f3287c74ac1193bbab01be1",
-        "title": "NUS researchers find drug that turns off ‘master switch’ in aggressive breast cancer",
-        "summary": "The findings could lead to better, more personalised treatments for the aggressive cancer.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/nus-researchers-find-drug-that-turns-off-master-switch-in-aggressive-breast-cancer",
-        "published": "2026-08-22T21:00:00+00:00"
-      },
-      {
-        "id": "dc7a64b748d60d14df2b5059be85eead",
-        "title": "Work stress led woman to discover genetic condition that looks like heart attack",
-        "summary": "Hypertrophic cardiomyopathy is estimated to affect about one in every 500 people worldwide.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/work-stress-leads-woman-to-discover-genetic-condition-that-looks-like-heart-attack",
-        "published": "2026-08-22T21:00:00+00:00"
-      },
-      {
-        "id": "5258096160e607084c014c4d0231c13b",
-        "title": "As bicycle accidents hit 4-year high, cyclists call for more mutual respect from peers, road users",
-        "summary": "Accidents involving cyclists hit a four-year high in 2025 with 772 cases, including 17 that were fatal.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/as-bicycle-accidents-hit-4-year-high-cyclists-call-for-more-mutual-respect-from-peers-road-users",
-        "published": "2026-08-22T21:00:00+00:00"
-      },
-      {
-        "id": "0a9a1a9561cd25f89fb2fd5422f28342",
-        "title": "Task force finds Malay/Muslim youth value meaningful work, relationships, faith over job titles",
-        "summary": "Several initiatives will be rolled out in the coming months to address their concerns.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/taskforce-finds-malaymuslim-youth-value-meaningful-work-relationships-faith-over-job-titles",
-        "published": "2026-08-22T13:00:00+00:00"
-      },
-      {
-        "id": "8ebfe8cfd2bf1a39a594265a061021b0",
-        "title": "‘Being a player is my passion’: Keisuke Honda targets Singapore Premier League title with FC Jurong",
-        "summary": "Honda also said that his long-term goal remains to be the head coach of the Japan national team.",
+        "id": "96d61aaee359faaec5a7d052ce9b06b6",
+        "title": "Commentary: It’s time to ask ourselves exactly how important football is to Singapore",
+        "summary": "A genuine momentum has been generated for local football that was previously gasping for air, and more can be done, says former sports commentator Edwin Yeo.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/sport/keisuke-honda-singapore-premier-league-fc-jurong-6334741",
-        "published": "2026-08-22T09:31:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/lions-singapore-national-football-team-asian-championship-gavin-lee-6333761",
+        "published": "2026-08-23T22:00:00+00:00"
       },
       {
-        "id": "61c4b757bd8849ff3e0b9a0819856e56",
-        "title": "AVS to hold pet adoption drive in Singapore’s CBD for the first time",
-        "summary": "The event will be held at Guoco Tower Urban Park in Tanjong Pagar from 11am to 8pm on Aug 27 to 29.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/avs-to-hold-pet-adoption-drive-in-singapores-cbd-for-the-first-time",
-        "published": "2026-08-22T09:24:00+00:00"
-      },
-      {
-        "id": "7e81ada953c49b8baf85900d5f073888",
-        "title": "Pre-peak discount issue that affected 210,000 journeys a day on Aug 20 and 21 fixed: SimplyGo",
-        "summary": "The discount was not activated for SimplyGo EZ-Link and bank card transactions on both days because of a configuration error, the company said.",
+        "id": "d3d637aaf8070ad7e7a0329bd74ab0bc",
+        "title": "As generative AI ads flood Singapore market, experts say poorly made ones could backfire on brands, agencies",
+        "summary": "Creative agencies offering services focusing on AI content told CNA that demand for their services increased sharply in the past six months.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/simplygo-fixed-pre-peak-discount-issue-6334516",
-        "published": "2026-08-22T03:13:41+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/gen-ai-ads-singapore-marketing-backfire-6323236",
+        "published": "2026-08-23T22:00:00+00:00"
+      },
+      {
+        "id": "591ed05f89e7c458a77665cbccc6f427",
+        "title": "Dung beetles bring poo-sitive news about animals in Central Catchment Nature Reserve",
+        "summary": "The beetles' unusual diet can give clues about the elusive mammals and birds that roam the forests.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/environment/dung-beetles-bring-poo-sitive-news-about-animals-in-central-catchment-nature-reserve",
+        "published": "2026-08-23T21:00:00+00:00"
+      },
+      {
+        "id": "d658949b19a88cdcab875a7bf8ca9e99",
+        "title": "NDR2026 gives S’poreans reasons to be confident in the future despite external uncertainty: Analysts",
+        "summary": "The rally was an assessment of how Singapore will deal with geopolitical, technological risks on its own terms.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/politics/ndr2026-gives-sporeans-reasons-to-be-confident-in-the-future-despite-external-uncertainty-analysts",
+        "published": "2026-08-23T21:00:00+00:00"
+      },
+      {
+        "id": "2d9b8a89f12a094de749caf3916b4dde",
+        "title": "askST Jobs: I had to work during my annual leave to meet a deadline. Can I ask for time off in lieu?",
+        "summary": "Working during annual leave may warrant time off in lieu, but why the extra work was needed also matters.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/jobs/askst-jobs-i-had-to-work-during-my-annual-leave-to-meet-a-deadline-can-i-ask-for-time-off-in-lieu",
+        "published": "2026-08-23T21:00:00+00:00"
+      },
+      {
+        "id": "ffd5d12a20d4cfd0d43a5ce034eab22c",
+        "title": "Spot a horseshoe crab in Singapore? Researchers want to know",
+        "summary": "Scientists are hoping more information on the animal will bolster conservation efforts.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/spot-a-horseshoe-crab-in-singapore-researchers-want-to-know",
+        "published": "2026-08-23T21:00:00+00:00"
+      },
+      {
+        "id": "9bc4e4805f35610d17f55bc6a754f463",
+        "title": "NDR 2026: Businesses welcome government move to cover childcare leave costs, but manpower concerns remain",
+        "summary": "Some employers warn that replacing absent staff members remains difficult, especially for small firms.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/national-day-rally-2026-businesses-childcare-leave-6336011",
+        "published": "2026-08-23T16:46:05+00:00"
+      },
+      {
+        "id": "000408ed33b279d60d47424d0ae0418b",
+        "title": "NDR 2026: November BTO demand could rise with higher income ceiling; but resale market impact limited, say analysts",
+        "summary": "Two projects at Bedok and another at Toa Payoh are likely to be more popular in the November BTO exercise, say one analyst.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/income-ceiling-raised-bto-exercise-demand-hdb-ec-ndr-2026-6336231",
+        "published": "2026-08-23T15:51:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "5434b3c8fa098ebd6c057821f2bea047",
-        "title": "Rising data center backlash shakes up midterm races",
-        "summary": "As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities. Key swing state candidates are scrambling to endorse stricter data center policies and accusing their opponents of being too cozy with the industry, as Americans become increasingly hostile to the rapid…",
+        "id": "06b462d72ca54a1e2e1e561d8e38bbd5",
+        "title": "Donalds says he’s ‘working’ with Haitian leaders to stabilize government after end of TPS",
+        "summary": "Rep. Byron Donalds (R-Fla.), the GOP nominee for Florida governor, said Sunday he is “working” with leaders in Haiti to stabilize the country, after the temporary protected status (TPS) of more than 300,000 Haitians migrants in the U.S. expired. “I’ve actually had meetings with the transitional government and the ambassador for the transitional government,” Donalds…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
-        "published": "2026-08-22T21:00:00+00:00"
+        "url": "https://thehill.com/homenews/state-watch/6046053-donalds-haiti-stabilization-efforts/",
+        "published": "2026-08-23T21:47:38+00:00"
       },
       {
-        "id": "1a030564600ae323dec94f73f2023702",
-        "title": "Trump administration's 75-country visa ban was illegal, judge rules",
-        "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality.",
+        "id": "c1b95fae9a1dc9f309b7bccd03baa5ee",
+        "title": "Zeldin warns against banning data centers in US, citing China",
+        "summary": "Lee Zeldin, administrator of the Environmental Protection Agency (EPA), on Sunday warned against banning data centers, citing implications for the U.S. in the artificial intelligence race to outpace China. “There’s been a push from some states where they’re talking about a statewide moratorium and what I’ve found is that most of this country wants to make…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/energy-environment/6045971-zeldin-warns-against-data-center-bans/",
+        "published": "2026-08-23T21:26:14+00:00"
+      },
+      {
+        "id": "3c85ab45b9e30f6063e5a531a8b2ba94",
+        "title": "Pence: Stopping ballistic attacks in Ukraine will ‘take the last fighting tool out of Vladimir Putin’s hands’",
+        "summary": "Former Vice President Mike Pence and Ukrainian President Volodymyr Zelensky on Sunday stressed the importance of Ukraine having the capabilities to deter Russian ballistic missile strikes. During an interview on NewsNation’s “The Hill Sunday,” Pence said Russian forces have “shifted” to using high-arc ballistic missiles and cruise missiles to strike Ukraine. Those weapons require Patriot…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/6045983-pence-zelensky-ukraine-defense/",
+        "published": "2026-08-23T21:19:38+00:00"
+      },
+      {
+        "id": "f21f535c3e98fb674c77c4b04bd7cbbf",
+        "title": "Pressure mounts on Ethics Committee to speed up misconduct probes as midterms loom",
+        "summary": "Democrats and Republicans are pressing the House Ethics Committee to move more quickly on investigations involving allegations of sexual misconduct or domestic abuse, as a string of high-profile cases and the looming midterms have renewed scrutiny of the secretive panel’s process. Investigations into Reps. Jimmy Gomez (D-Calif.), Cory Mills (R-Fla.) and Max Miller (R-Ohio) —…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6044441-house-ethics-misconduct-investigations-midterms/",
+        "published": "2026-08-23T21:00:00+00:00"
+      },
+      {
+        "id": "b7d85773c42cd24d3cc6f3c809575896",
+        "title": "Oz: MMR vaccine ‘is not a lethal vaccine’",
+        "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), noted Sunday the measles, mumps and rubella (MMR) vaccine is not lethal, contradicting President Trump. “The MMR vaccine is not a lethal vaccine, and it is offered in other countries,” Oz told host Margaret Brennan on CBS News’s “Face the Nation.”…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/healthcare/6045961-oz-denies-mmr-lethality/",
+        "published": "2026-08-23T20:28:23+00:00"
+      },
+      {
+        "id": "ee475ab8c8199bf6c1f3e1be3f0cab6d",
+        "title": "Barrasso: Monday will be ‘D-Day for the economy in Iran’",
+        "summary": "On Sunday, Senate Majority Whip John Barrasso (R-Wyo.) said that Monday will be “D-Day” for the economy in Iran as the Trump administration and U.S. military vow to exert maximum financial and militaristic pressure on Tehran to end the war overseas. “Their economy is in shambles. And they’re still dangerous. So, the president’s right to…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/",
+        "published": "2026-08-23T20:23:35+00:00"
+      },
+      {
+        "id": "29b3a05eecaf8718d5634a01a11058bf",
+        "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+        "summary": "A round of storms impacted the region on Aug. 11",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
-        "published": "2026-08-22T20:53:19+00:00"
+        "url": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+        "published": "2026-08-23T16:55:37+00:00"
       },
       {
-        "id": "d80dd3832e603b9c6e48e51b44957d36",
-        "title": "US Postal Service issues rule to tighten requirements for mail-in voting despite courts looking to block",
-        "summary": "The United States Postal Service (USPS) announced Friday new eligibility guidelines for mail-in ballots, complying with President Trump’s March executive order restricting the practice — despite a federal court later striking it down. USPS’s 95-page unpublished report, slated for an official release on Aug. 26, detailed how it would distribute mail-in ballots for November’s midterms.…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6045248-usps-mail-in-voting-guidelines-tighten/",
-        "published": "2026-08-22T20:12:18+00:00"
-      },
-      {
-        "id": "3c4d8145c37ef41f3553d3705513dd72",
-        "title": "President Trump: White House ballroom construction ‘under budget,’ ‘ahead of schedule’",
-        "summary": "President Trump touted progress on the White House ballroom project on Saturday morning, a day after the Supreme Court temporarily permitted construction work to continue. “Tremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House!” the president wrote on Truth Social, alongside a photo of the…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6045262-trump-white-house-ballroom-update/",
-        "published": "2026-08-22T20:08:16+00:00"
-      },
-      {
-        "id": "92c2d5b4768097fee743f7f423893cda",
-        "title": "End the Biden inflation tax",
-        "summary": "A proposed reform to index capital gains for inflation and expand exemptions for home sales aims to increase housing supply and stimulate economic growth.",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts/",
-        "published": "2026-08-22T19:00:00+00:00"
-      },
-      {
-        "id": "9d15edebfe17944096a55a3f781031bc",
-        "title": "The end of marriage as we know it",
-        "summary": "Research from the University of Pennsylvania indicates that couples where the woman earns more are significantly more likely to separate, highlighting how shifting economic dynamics and persistent domestic imbalances are contributing to rising divorce rates.",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/opinion/finance/6043925-female-earnings-separation-risk/",
-        "published": "2026-08-22T18:00:00+00:00"
-      },
-      {
-        "id": "00c05d8b45379703ee5a2c87c98b86ea",
-        "title": "Trump bashes Greene, Massie after meeting with Tucker Carlson",
-        "summary": "President Trump hit back again on Friday evening at GOP criticism of his administration’s decision to lift certain tariffs on imported ground beef. The president expressed anger over a meeting between conservative podcaster Tucker Carlson and two Republicans that have critiqued this new policy, Rep. Thomas Massie (R-Ky.) and former Georgia Rep. Marjorie Taylor Greene…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6045142-trump-insults-republicans-over-beef/",
-        "published": "2026-08-22T17:33:26+00:00"
-      },
-      {
-        "id": "c7ccb53bd2d85c8554ce9c4cf073b718",
-        "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
-        "summary": "MLB catcher Jake Rogers probably didn't know if he was coming or going the last several weeks: he's been a Detroit Tiger, a Baltimore Oriole, a Boston Red Sox, and now he's a Chicago White Sox.",
+        "id": "8db2478fb4c675ac70a1d275be461b7c",
+        "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+        "summary": "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
-        "published": "2026-08-22T12:00:00+00:00"
+        "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
+        "published": "2026-08-23T16:15:30+00:00"
       }
     ],
     "asia": [
       {
-        "id": "04c429ec5a27bcff84a8647cbdbca54a",
-        "title": "How Pacific nations walk a tightrope between Western security and Chinese trade",
-        "summary": "On paper, Western countries are rushing to sign defence pacts in the South Pacific, ensuring their influence in a region long neglected as a geopolitical backwater. But on the water, the island nations are playing a very different game. Instead of taking sides, local leaders are leveraging the geopolitical tug of war between China and the West, winning security guarantees from the latter while Beijing builds infrastructure and deepens its economic footprint. In June, Vanuatu – an archipelago...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade?utm_source=rss_feed",
-        "published": "2026-08-22T22:00:10+00:00"
-      },
-      {
-        "id": "2b74bf44d751e732388d87c7c4620393",
-        "title": "‘This is our home’: The women fighting a company’s land claim on Indonesia’s Pari Island",
-        "summary": "Pari Island is at the centre of a decade-long land dispute which has seen local residents attempting to defend their community land rights against PT Bumi Pari Asri which says it owns about 90 per cent of the island via freehold certificates and right-to-build permits.",
+        "id": "b10c6177f1c6d7523021e0c2642c78c4",
+        "title": "As RTS Link nears opening, JB faces test of making its car-dependent centre more walkable",
+        "summary": "Transport experts say Johor Bahru’s city centre lacks a connected pedestrian network, while authorities explore solutions and exchange ideas with global firms including Zaha Hadid Architects.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/indonesia-pari-island-women-jakarta-environment-advocacy-6332926",
-        "published": "2026-08-22T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/asia/malaysia-johor-bahru-cbd-rts-link-urban-renewal-6332931",
+        "published": "2026-08-23T22:00:00+00:00"
       },
       {
-        "id": "bfe34368fab5d405558de12eb612ad10",
-        "title": "Commentary: Trump’s South Korea defence flip reminds Japan it has no Plan B",
-        "summary": "While alarming for Seoul, an abandonment of US guarantees could be disastrous for Tokyo, says Leo Lewis for The Financial Times.",
-        "source": "CNA Asia",
+        "id": "d6c6d5defdd4aeb1d6efbd5ad03e178e",
+        "title": "Army plays down attacks",
+        "summary": "A coordinated wave of 51 attacks across Narathiwat, Pattani and Yala may have been launched to discredit state officials and retaliate against a crackdown on illicit trade, Fourth Army Area commander Lt Gen Norathip Phoynok says.",
+        "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/commentary/trump-south-korea-japan-military-defence-6333256",
-        "published": "2026-08-22T22:00:00+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3306605/army-plays-down-attacks",
+        "published": "2026-08-23T21:31:00+00:00"
       },
       {
-        "id": "e71e920aa06bfc70f30df7057653432c",
-        "title": "Nvidia customers notified of AI-related price rises above 15%",
-        "summary": "Some of Nvidia’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15 per cent in many cases with memory chip costs soaring. The price rises will go into effect on systems shipped early next year and will impact systems including those with the flagship Vera Rubin and Grace Blackwell chips, according to people familiar with the process, who asked not to be identified commenting on communications that have not yet been.",
+        "id": "f8590a05972831abce6b6b665bab6096",
+        "title": "Hongkong Post should focus on public service, not profit",
+        "summary": "Two years after the Audit Commission called out Hongkong Post for its lack of profitability and other failings, the postmaster finally moved to fix a structural expense: staff costs. But the audit report probably wasn’t the main catalyst for change. Rather, it was the fact the government had to ask the Legislative Council for a HK$4.6 billion (US$510 million) bailout to keep Hongkong Post operating for the next three years that forced the postmaster to act. The crisis facing the city’s postal...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/tech/big-tech/article/3364945/nvidia-customers-notified-ai-related-price-rises-above-15?utm_source=rss_feed",
-        "published": "2026-08-22T21:54:25+00:00"
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364788/hongkong-post-should-focus-public-service-not-profit?utm_source=rss_feed",
+        "published": "2026-08-23T21:30:05+00:00"
       },
       {
-        "id": "d7489a4cca07bc57fbbfa14a3f0dc3f2",
-        "title": "Hong Kong must abandon superiority complex over mainland China",
-        "summary": "After many years in Hong Kong, with some sadness, I left the city for greener pastures, though my link with it remains an emotional one. When I moved my two dogs across the border to Shenzhen, I was told by agents, officials, even artificial intelligence, that the mainland bureaucracy would be rigid and unhelpful. My experience was the opposite. The young customs officers at Shenzhen Bay answered my phone calls, gave candid advice and treated my situation – a single parent relocating with a...",
+        "id": "9574b708868a4c71b556ae9aa3cebfbe",
+        "title": "Tens of thousands ordered to evacuate in Nevada as fire threatens Reno",
+        "summary": "Tens of ⁠thousands of people have been ⁠evacuated this weekend from the ⁠area of Reno, Nevada, and many others were under orders to leave on Sunday as a wildfire reached the outskirts of the state’s third-most-populous city. About 42,000 residents have been displaced or are under active evacuations with an additional 45,000 ‌in “be prepared to evacuate” status as the Hawk Fire threatened northern Reno, local officials said late on Sunday morning. Local television footage showed flames...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364326/hong-kong-must-abandon-superiority-complex-over-mainland-china?utm_source=rss_feed",
-        "published": "2026-08-22T21:30:07+00:00"
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3364995/tens-thousands-ordered-evacuate-nevada-fire-threatens-reno?utm_source=rss_feed",
+        "published": "2026-08-23T21:05:53+00:00"
       },
       {
-        "id": "99e93eb2604cb2cdc10814680574dc85",
-        "title": "Iran condemns US plans to announce new sanctions",
-        "summary": "Iran on Saturday denounced US plans to announce ⁠new sanctions that could put further strain on the Islamic Republic’s economy and have an impact on its most important trading partners including China. Iran on Saturday warned countries against taking part in the United States’ “economic war” against the Islamic Republic, saying they would be considered enemies. “We declare to all countries … do not join the economic war waged by the United States. Any country participating in the imposition of..",
-        "source": "South China Morning Post",
+        "id": "ba2a955eb98abfb5dfa9f148a6052940",
+        "title": "PM orders rapid cleanup across Nan",
+        "summary": "Damaged homes and infrastructure in Nan should be restored within four to five days so residents can return home, said Prime Minister Anutin Charnvirakul, ordering authorities to accelerate flood recovery operations.",
+        "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3364944/iran-condemns-us-plans-announce-new-sanctions?utm_source=rss_feed",
-        "published": "2026-08-22T21:21:14+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3306635/pm-orders-rapid-cleanup-across-nan",
+        "published": "2026-08-23T20:21:00+00:00"
       },
       {
-        "id": "fc5ae9acc9093fbdeeefc7c152dae743",
-        "title": "What are the U.S.’s latest allegations against India? | Explained",
-        "summary": "Why has the U.S. accused India of violating what it considers fair trade practices? How many countries have been named in the Great Transhipment Scam? What do these allegations mean for India? Can they impact India’s growth story?",
+        "id": "52560de31c39c4e8e98558a21370318c",
+        "title": "Syria FM meets Mossad chief in Jordan: sources",
+        "summary": "The talks, which restarted negotiations between Israel and Syria’s new authorities, came after the sides in January agreed to establish an intelligence-sharing mechanism as they edge towards a security agreement",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/business/what-are-the-uss-latest-allegations-against-india-explained/article71378950.ece",
-        "published": "2026-08-22T20:01:42+00:00"
+        "url": "https://www.thehindu.com/news/international/syria-fm-meets-mossad-chief-in-jordan-sources/article71382226.ece",
+        "published": "2026-08-23T20:18:51+00:00"
       },
       {
-        "id": "de1e0691bbb9cb90aebbc9a7cd2d5503",
-        "title": "What did Trump say about India’s voting system? | Explained",
-        "summary": "Why is the President pushing for stricter voter ID rules in the U.S.? How are elections conducted in the U.S. and how are they different from those in India? What is the SAVE America Act? What do Americans think about the requirement of a photo ID?",
-        "source": "The Hindu",
+        "id": "73dee0a9d399be41b3aee8f519c7cd49",
+        "title": "Former cricket captains appeal to Pakistan over jailed ex-PM Imran Khan’s healthcare",
+        "summary": "A group of 21 former international cricket captains, including India’s Sunil Gavaskar and Kapil Dev, signed a letter to Pakistan’s government on Sunday regarding the healthcare of jailed former prime minister Imran Khan. Khan has been in prison since 2023 and was sentenced late last year along with his wife to 17 years on corruption charges they both deny. The 73-year-old, who was also a former Pakistan cricket captain, was transferred back to jail on Friday hours after he was taken to hospital.",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/what-did-trump-say-about-indias-voting-system-explained/article71378943.ece",
-        "published": "2026-08-22T19:35:01+00:00"
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3364994/former-cricket-captains-appeal-pakistan-over-jailed-ex-pm-imran-khans-healthcare?utm_source=rss_feed",
+        "published": "2026-08-23T20:10:50+00:00"
+      },
+      {
+        "id": "f31fdd97dfab1bcbc0d79b54409535ca",
+        "title": "US envoy walks back his comments on Golan Heights that contradicted Trump’s position",
+        "summary": "The US special envoy to Syria and ambassador to Turkey on Sunday walked back his comments from two days ago that Israel “still” occupies the Golan Heights in violation of UN resolutions, remarks that went against US President Donald Trump’s position on the disputed territory. Israel captured the Golan Heights from Syria in the 1967 Middle East war and annexed it in 1981. The United Nations and most of the international community consider the territory occupied Syrian land and does not recognise.",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3364993/us-envoy-walks-back-his-comments-golan-heights-contradicted-trumps-position?utm_source=rss_feed",
+        "published": "2026-08-23T19:44:53+00:00"
       }
     ],
     "others": [
       {
-        "id": "9988b27063d8051f597ff92f4f09095a",
-        "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-        "summary": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.",
+        "id": "ad87b64afa896f8568ecf397c1c2eaf8",
+        "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
+        "summary": "Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-        "published": "2026-08-22T21:55:06+00:00"
+        "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
+        "published": "2026-08-23T21:45:05+00:00"
       },
       {
-        "id": "b327d5769814b7a591faca88c390799d",
-        "title": "Open-air cinema brings movie nights back to Khartoum",
-        "summary": "Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.",
+        "id": "2e4c0572fb6299a2dedac6f1db1d26ea",
+        "title": "Will Donald Trump’s new sanctions against Iran work?",
+        "summary": "The US president says he will impose 'crushing measures' on Tehran.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-        "published": "2026-08-22T21:27:22+00:00"
+        "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+        "published": "2026-08-23T21:34:53+00:00"
       },
       {
-        "id": "ed9b8c1a0b7fde2e993bb18437b76ee6",
-        "title": "Israeli army and settlers injure several Palestinians across West Bank",
-        "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
+        "id": "263187fed0b6b017d64840f0aa0c6a3a",
+        "title": "Serbia requests international assistance to battle wildfires",
+        "summary": "Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-        "published": "2026-08-22T21:02:29+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
+        "published": "2026-08-23T21:27:57+00:00"
       },
       {
-        "id": "fbb149024d7de568e11b51d8656d9218",
-        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "id": "b51607f86bc243a0d9b5df09dd368efe",
+        "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+        "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants the benefits of being a State, without being one!!!”",
+        "source": "The Guardian",
+        "category": "others",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+        "published": "2026-08-23T19:32:59+00:00"
+      },
+      {
+        "id": "b92b1b62043bf7946b8b3088c7f6f7c7",
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
         "source": "BBC World",
         "category": "others",
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-22T20:10:00+00:00"
+        "published": "2026-08-23T19:11:30+00:00"
       },
       {
-        "id": "9258c5999cc27b653d21db7301cb94dc",
-        "title": "Carney faces crucial test after walking away from Trump's deal",
-        "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "id": "f0fdff3e833ccb3d0aff088faa587ad4",
+        "title": "Guinea rubbish landfill collapse kills 30",
+        "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-22T20:02:46+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-23T18:17:37+00:00"
       },
       {
-        "id": "f8cd8edb043f8093943ca4081eb8bd4f",
-        "title": "US military newspaper editor voices censorship fears after being fired",
-        "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+        "id": "2b3aa3b5c4439220febf352ba3aacdad",
+        "title": "France links sharp rise in drownings to heatwaves",
+        "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-22T16:57:19+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-23T17:39:33+00:00"
       },
       {
-        "id": "51236785ae16e4e5033a9676ddceef50",
-        "title": "Kazakhstan's future after the elections: Russia, EU or China",
-        "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.",
+        "id": "ba93dc921ea7f948b359002ce2159aec",
+        "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
+        "summary": "Empty pumps, long waits: Attacks on oil refineries have left Russia increasingly short of fuel. Dissident Russian economists say growing anger about shortages among ordinary Russians could help end the Ukraine war.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-08-22T14:42:00+00:00"
-      },
-      {
-        "id": "183ce2240334f63379c23523a4bbc1a0",
-        "title": "Spain battles forest fire a short drive from flash flood",
-        "summary": "The blaze, near Valencia, forced more than 1,000 people from their homes. In nearby Catalonia, civil defense teams carried out 200 rescue operations after floods trapped residents in cars and homes.",
-        "source": "Deutsche Welle",
-        "category": "others",
-        "url": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-08-22T14:35:00+00:00"
+        "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-08-23T14:42:00+00:00"
       }
     ],
     "tech": [
       {
-        "id": "7c9ee76a0ed950a77aa999704af5fab3",
-        "title": "Fast and Hard Code",
-        "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 16 # Comments: 7",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-        "published": "2026-08-22T19:56:38+00:00"
-      },
-      {
-        "id": "5364ad177096c59161a5e55b9a468d88",
-        "title": "English ↔ Claudish Translator",
-        "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 21 # Comments: 16",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://programasweights.com/claudish",
-        "published": "2026-08-22T19:19:15+00:00"
-      },
-      {
-        "id": "bbbb445d7340d41263f965904b5c2c1f",
-        "title": "NetBSD and My Life (2005)",
-        "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 68 # Comments: 14",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "published": "2026-08-22T19:07:46+00:00"
-      },
-      {
-        "id": "b52458d9567ddfb291cdf0907d400f7f",
-        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-        "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 129 # Comments: 43",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-        "published": "2026-08-22T19:04:41+00:00"
-      },
-      {
-        "id": "76733d438cf3f211958302038a5e2167",
-        "title": "Why your local LLM feels dumber than it is",
-        "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 83 # Comments: 24",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "published": "2026-08-22T18:14:16+00:00"
-      },
-      {
-        "id": "ed0490c458c94098580b0cdbf4d1de8a",
-        "title": "Scrap",
-        "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 181 # Comments: 77",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://twitter.com/moxie/status/2091218652133732491",
-        "published": "2026-08-22T18:08:56+00:00"
-      },
-      {
-        "id": "5894bb79671a7f82ecf72e471d78deab",
-        "title": "Doodle generative compositions in your browser with Musical Spirograph",
-        "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to […]",
+        "id": "8200d77924250247abba3ce5e1b42ab7",
+        "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+        "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-        "published": "2026-08-22T17:00:00+00:00"
+        "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+        "published": "2026-08-23T15:00:00+00:00"
       },
       {
-        "id": "7f1241c6f6a68c0207fb862ff5ac84b9",
-        "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-        "summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been […]",
-        "source": "The Verge",
+        "id": "e855405c6e7f22c0c2acac5d97cc6ef1",
+        "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+        "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-        "published": "2026-08-22T15:00:00+00:00"
+        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+        "published": "2026-08-23T14:38:25+00:00"
+      },
+      {
+        "id": "454ce64b9b98f8ed9bda933abec10868",
+        "title": "Authoritarianism of Code",
+        "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+        "published": "2026-08-23T14:36:38+00:00"
+      },
+      {
+        "id": "8ec4ec5848e3bd63a69a8ab4a8b09371",
+        "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+        "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+        "source": "Ars Technica",
+        "category": "tech",
+        "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+        "published": "2026-08-23T14:30:16+00:00"
+      },
+      {
+        "id": "e033a084521f3a1af9ccae48671549a0",
+        "title": "What Is a Harness?",
+        "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://earendil.com/posts/what-is-a-harness/",
+        "published": "2026-08-23T14:24:21+00:00"
+      },
+      {
+        "id": "be56cb6530b599cd36d2706bcebde4f4",
+        "title": "Death to px, long live ch",
+        "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+        "published": "2026-08-23T13:56:27+00:00"
+      },
+      {
+        "id": "af1ba2ab6d431c67c3cc9ab23af025bd",
+        "title": "My favorite nonfiction books about cults, scams, and schemes",
+        "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+        "published": "2026-08-23T13:51:10+00:00"
+      },
+      {
+        "id": "42e07710eb2d47696eb563c8562d04be",
+        "title": "Malware infects Android-based automotive head unit firmware",
+        "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://securelist.com/android-head-unit-malware/121106/",
+        "published": "2026-08-23T13:05:38+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "c136de9d1a8f77dfb4c4d04e2a06dfe6",
+        "title": "China will struggle to make money from humanoid robots",
+        "summary": "It is ahead of rivals and training up thousands, but profits are a long way off",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots",
+        "published": "2026-08-23T13:52:45+00:00"
+      },
+      {
+        "id": "f31b01ecdef45b7a2fca092406f4b7d2",
+        "title": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
+        "summary": "Perhaps. But his effort to talk bond yields lower is likely to fail",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
+        "published": "2026-08-23T13:38:58+00:00"
+      },
+      {
+        "id": "4a54e640d19bacd095f32f22811d7a80",
+        "title": "Indian cities should embrace skyscrapers",
+        "summary": "Local rules prevent their construction. Hyderabad shows why that’s silly",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/08/23/indian-cities-should-embrace-skyscrapers",
+        "published": "2026-08-23T09:41:06+00:00"
+      },
       {
         "id": "e4abbd865a785e30c8b5468032e36a03",
         "title": "Tracking the cost of Donald Trump’s tariffs",
@@ -414,33 +441,6 @@
         "source": "Leaders",
         "category": "economist",
         "url": "https://www.economist.com/leaders/2026/08/20/israel-is-flirting-with-the-next-intifada",
-        "published": "2026-08-20T12:59:02+00:00"
-      },
-      {
-        "id": "7124b191cb6de89962b74040be7b4700",
-        "title": "Canada’s oil industry is booming. Can it last?",
-        "summary": "Looser regulations will help with pipelines—but may not boost production",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/08/20/canadas-oil-industry-is-booming-can-it-last",
-        "published": "2026-08-20T12:59:02+00:00"
-      },
-      {
-        "id": "fa39fab2b365b73f3437b4818f667415",
-        "title": "Can Reddit survive in the AI era?",
-        "summary": "It wants more cash for its data—and more of people’s time",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
-        "published": "2026-08-20T12:59:02+00:00"
-      },
-      {
-        "id": "c9d076c9babd2675178f1c9481aa5ac9",
-        "title": "How to measure returns on AI",
-        "summary": "From tokenmaxxing to something more normal",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/08/20/how-to-measure-returns-on-ai",
         "published": "2026-08-20T12:59:02+00:00"
       }
     ]
@@ -518,7 +518,7 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2692999839782715,
+        "price": 1.2693099975585938,
         "prev_close": 1.271440029144287,
         "change_pct": -0.17,
         "direction": "down",
@@ -528,22 +528,22 @@
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4819999933242798,
+        "price": 1.482200026512146,
         "prev_close": 1.48580002784729,
-        "change_pct": -0.26,
+        "change_pct": -0.24,
         "direction": "down",
         "price_fmt": "1.48",
-        "change_str": "-0.26%"
+        "change_str": "-0.24%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7305999994277954,
+        "price": 1.7299100160598755,
         "prev_close": 1.7342300415039062,
-        "change_pct": -0.21,
+        "change_pct": -0.25,
         "direction": "down",
         "price_fmt": "1.73",
-        "change_str": "-0.21%"
+        "change_str": "-0.25%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -558,12 +558,12 @@
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.188400000333786,
+        "price": 0.1882999986410141,
         "prev_close": 0.1885,
-        "change_pct": -0.05,
+        "change_pct": -0.11,
         "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "-0.05%"
+        "change_str": "-0.11%"
       }
     ],
     "commodities": [
@@ -572,44 +572,44 @@
         "label": "Brent Crude",
         "unit": "USD/bbl",
         "price": 94.38999938964844,
-        "prev_close": 93.77999877929688,
-        "change_pct": 0.65,
-        "direction": "up",
+        "prev_close": 94.38999938964844,
+        "change_pct": 0.0,
+        "direction": "flat",
         "price_fmt": "94.39",
-        "change_str": "+0.65%"
+        "change_str": "0.00%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4624.10009765625,
-        "prev_close": 4516.2998046875,
-        "change_pct": 2.39,
+        "price": 4680.60009765625,
+        "prev_close": 4624.10009765625,
+        "change_pct": 1.22,
         "direction": "up",
-        "price_fmt": "4,624.1",
-        "change_str": "+2.39%"
+        "price_fmt": "4,680.6",
+        "change_str": "+1.22%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 69.46600341796875,
-        "prev_close": 68.0260009765625,
-        "change_pct": 2.12,
+        "price": 69.52999877929688,
+        "prev_close": 69.46600341796875,
+        "change_pct": 0.09,
         "direction": "up",
-        "price_fmt": "69.47",
-        "change_str": "+2.12%"
+        "price_fmt": "69.53",
+        "change_str": "+0.09%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.7730000019073486,
-        "prev_close": 2.7330000400543213,
-        "change_pct": 1.46,
+        "price": 2.811000108718872,
+        "prev_close": 2.7730000019073486,
+        "change_pct": 1.37,
         "direction": "up",
-        "price_fmt": "2.77",
-        "change_str": "+1.46%"
+        "price_fmt": "2.81",
+        "change_str": "+1.37%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 77079.953125,
-        "prev_close": 78335.1875,
-        "change_pct": -1.6,
-        "direction": "down",
-        "price_fmt": "77,080",
-        "change_str": "-1.60%"
+        "price": 77740.84375,
+        "prev_close": 77083.4140625,
+        "change_pct": 0.85,
+        "direction": "up",
+        "price_fmt": "77,741",
+        "change_str": "+0.85%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2417.2900390625,
-        "prev_close": 2515.28173828125,
-        "change_pct": -3.9,
-        "direction": "down",
-        "price_fmt": "2,417.3",
-        "change_str": "-3.90%"
+        "price": 2465.300048828125,
+        "prev_close": 2424.251220703125,
+        "change_pct": 1.69,
+        "direction": "up",
+        "price_fmt": "2,465.3",
+        "change_str": "+1.69%"
       }
     ]
   },
