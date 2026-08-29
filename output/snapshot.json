@@ -2,375 +2,384 @@
   "news": {
     "singapore": [
       {
-        "id": "742a5e37c58f9950d26aec2de0cee7a9",
-        "title": "New 1,000-seat theatre in Tanglin to be ready by 2030",
-        "summary": "The theatre, at the site of the former Tanglin Shopping Centre, will support larger local and international productions and create opportunities for local artists and arts professionals.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/living/theatre-art-museum-tanglin-2030-6346616",
-        "published": "2026-08-28T04:40:57+00:00"
-      },
-      {
-        "id": "8c0d7bb811d9be83dd216c09b6d5d77a",
-        "title": "Dinosaur Odyssey, Japan's acclaimed live show with realistic dinosaurs, will land in Singapore in December",
-        "summary": "The production features 15 ultra-realistic dinosaurs that will move about the space and be within an arm's reach of audiences.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/living/dinosaur-odyssey-singapore-december-2026-resorts-world-sentosa-6346806",
-        "published": "2026-08-28T04:35:00+00:00"
-      },
-      {
-        "id": "893bfd81ade3bc15c265916c05a0fbf3",
-        "title": "Man who was teacher aide charged over sexual offences committed against pupil in school",
-        "summary": "The man, who cannot be named due to a gag order, is accused of committing the offences in March 2025 and February 2026.",
+        "id": "68e865f1b9c1d41c3d4a643509b0d159",
+        "title": "Singapore Zoo employee hospitalised after being bitten by Malayan tapir",
+        "summary": "Tapirs are generally shy and non-confrontational animals, and incidents like this are rare.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/man-who-was-teacher-aide-charged-over-sexual-offences-committed-against-pupil-in-school",
-        "published": "2026-08-28T04:23:58+00:00"
+        "url": "https://www.straitstimes.com/singapore/singapore-zoo-employee-hospitalised-after-being-bitten-by-malayan-tapir",
+        "published": "2026-08-29T03:00:28+00:00"
       },
       {
-        "id": "ddd5455c68ecd3aeee4a699c60b4fdfa",
-        "title": "Mediacorp bags 15 accolades at ContentAsia Awards in Bangkok",
-        "summary": "Of the 15 awards clinched by Mediacorp, eight were won by CNA.",
+        "id": "d2bb46be35e6e605baac6d8fc2835b1d",
+        "title": "Once excluded from PE, now a national athlete: Meet Singapore’s only female national wheelchair rugby player",
+        "summary": "Nur Sabrina Suhaimi needs a cane and brace to walk short distances because of a rare genetic neurological disorder that weakens her muscles over time. In a rugby wheelchair, she flies across the court, crashing into opponents in a sport once known as murderball.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/mediacorp-cna-15-wins-contentasia-awards-media-6346761",
-        "published": "2026-08-28T04:20:25+00:00"
+        "url": "https://www.channelnewsasia.com/women/singapore-female-wheelchair-rugby-national-athlete-6330156",
+        "published": "2026-08-28T23:10:03+00:00"
       },
       {
-        "id": "decc9b22b22561355f66e9eb81aad3f4",
-        "title": "SMRT's new AI-powered bus control centre flags sleepy drivers, harsh braking",
-        "summary": "More than 1,500 fatigue alerts have been flagged since last year.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/bus-sleepy-drivers-smrt-ai-braking-6344561",
-        "published": "2026-08-28T04:00:00+00:00"
-      },
-      {
-        "id": "b28ccfae3044f14132382813278e731f",
-        "title": "New AI-powered SMRT command centre aims to make bus services safer, more reliable and faster",
-        "summary": "",
+        "id": "2848ddc547942e7679bd5094f8b2395e",
+        "title": "Tests on new MRT backup train control system completed; findings to be evaluated",
+        "summary": "This is aligned with recommendations by the rail reliability taskforce to explore backup systems.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/new-ai-powered-smrt-command-centre-aims-to-make-bus-services-safer-more-reliable-and-faster",
-        "published": "2026-08-28T04:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/transport/tests-on-new-mrt-backup-train-control-system-completed-findings-to-be-evaluated",
+        "published": "2026-08-28T23:00:00+00:00"
       },
       {
-        "id": "c52b6370e2a92db2837e2ef06697e77b",
-        "title": "Living with an extra X chromosome: How one man cracked the code of his condition",
-        "summary": "After years of unexplained symptoms, Tim found the answer through his own research.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/living-with-an-extra-x-chromosome-how-one-man-cracked-the-code-of-his-condition",
-        "published": "2026-08-28T04:00:00+00:00"
-      },
-      {
-        "id": "92e92e5a1798f9144ddedb900e24ec98",
-        "title": "Mentally unsound man, 90, who killed wife given notional 5-year jail term",
-        "summary": "In coming to her decision, the High Court judge said she considered medical reports stating that Ridawi remains unfit to stand trial or plead guilty.",
+        "id": "86d19b3835fd3035da5985e96f3c08d6",
+        "title": "Why this Sentosa Cove house was wrapped in charred black timber",
+        "summary": "Architect Pan Yi Cheng used shou sugi ban, the Japanese technique of charring timber, to transform an ageing waterfront bungalow into a calmer, more cohesive home.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/mentally-unsound-man-killed-wife-notional-imprisonment-5-years-high-court-6346731",
-        "published": "2026-08-28T03:41:32+00:00"
+        "url": "https://www.channelnewsasia.com/obsessions/sentosa-cove-house-shou-sugi-ban-6341461",
+        "published": "2026-08-28T22:22:00+00:00"
+      },
+      {
+        "id": "1fce32614274be4a09675677b9bde4e1",
+        "title": "Will Meta's massive settlement in a landmark US suit spur it to implement age restriction measures worldwide?",
+        "summary": "Experts said it makes sense for Meta to roll out its restrictions elsewhere, and that the growing awareness of social media harms may pressure other platforms to do the same.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/facebook-instagram-teen-restrictions-social-media-lawsuit-6347956",
+        "published": "2026-08-28T22:14:00+00:00"
+      },
+      {
+        "id": "a013e485462c85c398766a2dab65336e",
+        "title": "GE2025 backup candidate Firdaus Daud to take on grassroots duties in Kembangan, Faishal Ibrahim's former ward",
+        "summary": "Mr Ahmad Firdaus Daud, who currently serves as second adviser in Punggol, is not new to grassroots work, says Speaker of Parliament Seah Kian Peng.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/faishal-ibrahim-kembangan-ward-firdaus-daud-6348226",
+        "published": "2026-08-28T15:53:34+00:00"
+      },
+      {
+        "id": "ea148d204d9e2c2fdbe218dc670a6be7",
+        "title": "Man to be charged over concealing 19cm knife in shoe at Changi Airport",
+        "summary": "The weapon was detected by an X-ray machine at the airport's T4 departure hall.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/man-to-be-charged-for-concealing-19cm-knife-in-shoe-at-changi-airport",
+        "published": "2026-08-28T14:35:38+00:00"
+      },
+      {
+        "id": "d8a047e60524be9f2907bbd0f31c524b",
+        "title": "Man to be charged after allegedly concealing knife in sock at Changi Airport",
+        "summary": "The knife, measuring 19.5cm-long with a 12cm blade, was detected after the man was instructed to remove his shoes before passing through the screening lane.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/knife-hidden-shoe-sock-changi-airport-security-screening-6348186",
+        "published": "2026-08-28T14:35:06+00:00"
       }
     ],
     "us": [
       {
-        "id": "348a15171102589316093e35335d0b9a",
-        "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
-        "summary": "A judge issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense's views on AI use. The government is expected to fight the ruling.",
+        "id": "baebd9389bf5fb7eec6dcdba04a9c1d5",
+        "title": "ICE plans to spend $2 million on dog-like robots for immigration enforcement",
+        "summary": "Immigration and Customs Enforcement (ICE) is planning to spend up to $2 million on robot “dogs” to assist its agents’ operations, according to a Department of Homeland Security (DHS) funding document. A funding document posted to DHS’s Acquisition Planning Forecast System on Thursday said the agency could spend between $1 million and $2 million on…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6058739-ice-robot-dogs-2-million-plans/",
+        "published": "2026-08-29T03:07:37+00:00"
+      },
+      {
+        "id": "ec32dcb01c9aa7f19e8e83b3898295f4",
+        "title": "Vance, Zeldin ask for EPA probe into East Palestine train derailment response",
+        "summary": "Two Trump administration officials are calling for an independent Environmental Protection Agency (EPA) investigation into the government’s response to the 2023 East Palestine, Ohio, train derailment — which caused toxic chemicals to spill into the town. In a joint Friday letter, Vice President JD Vance and EPA Administrator Lee Zeldin asked the EPA’s acting inspector…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/",
+        "published": "2026-08-29T02:23:33+00:00"
+      },
+      {
+        "id": "9c4c1a0b1e555aedcc33f665d6d076b1",
+        "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+        "summary": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country's untapped oil reserves, at cost.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
-        "published": "2026-08-28T04:25:08+00:00"
+        "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+        "published": "2026-08-29T02:07:55+00:00"
       },
       {
-        "id": "bc31327bd42b320d40ff627220c03af2",
-        "title": "Tech firms call for ‘collective action’ against AI-powered hacking",
-        "summary": "OpenAI leads the call among other technology firms for “collective action” against “AI-enabled cyber attacks.” “Today’s AI advances are already giving defenders new ways to fix weaknesses that have accumulated for years. If we act decisively, we can use the defenders’ window to make our digital world much more secure,” the company wrote in a…",
+        "id": "086ffb1da9e9e60e2292f009d3f0009f",
+        "title": "Canadian broadcaster reverses policy barring use of ‘terrorist attack’ label for 9/11",
+        "summary": "The Canadian Broadcasting Corporation’s (CBC) walked back its move Friday to advise its journalists not to refer directly to Al Qaeda’s Sept. 11, 2001, attack on the U.S. as an act of terrorism — guidance that garnered widespread criticism from political leaders. In an internal memo this week first reported by The Toronto Sun, CBC’s…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/technology/6056449-openai-tech-firms-cyberattacks-response/",
-        "published": "2026-08-28T03:42:28+00:00"
+        "url": "https://thehill.com/homenews/administration/6058676-canada-cbc-9-11-terrorism-guidance-backlash/",
+        "published": "2026-08-29T01:22:29+00:00"
       },
       {
-        "id": "6f494ad8ecd2699db677f2ad74f5822b",
-        "title": "Federal judge again issues temporary block on mail-in voting restrictions",
-        "summary": "A federal judge in Boston has again blocked the Trump administration from moving forward with new mail-in voting restrictions ahead of the November midterms for at least another two weeks. Judge Indira Talwani ruled Thursday night that a group of blue states and private voting rights groups were likely to succeed in their claims that…",
+        "id": "76eba6fd6cb0a55c779dae6689e316f0",
+        "title": "Hegseth blocks promotions of 4 Army officers with ties to sacked generals",
+        "summary": "Defense Secretary Pete Hegseth blocked promotions of four Army officers picked for promotion to one-star rank, some of whom have ties to top Army generals the Pentagon chief ousted earlier this year, The Hill has learned. Some of the officers pulled from the list have links to former Army Chief of Staff, Gen. Randy George, who…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/regulation/court-battles/6056457-judge-temporarily-blocks-trump-mail-restrictions/",
-        "published": "2026-08-28T03:19:01+00:00"
+        "url": "https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals/",
+        "published": "2026-08-29T01:12:28+00:00"
       },
       {
-        "id": "3e427f497417a9783e88168db9e31d8f",
-        "title": "Judge rules Pentagon’s supply chain risk designation for Anthropic was illegal",
-        "summary": "A federal judge in California ruled on Thursday the Pentagon’s blacklisting of the artificial intelligence firm Anthropic earlier this year was illegal, violating the First Amendment. In a ruling Thursday evening, Judge Rita Lin said the Trump administration retaliated against the Claude-maker for its “constitutionally protected activity,” and violated the Due Process clause of the…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/technology/6056436-judge-rules-pentagon-anthropic-blacklist-illegal/",
-        "published": "2026-08-28T03:03:39+00:00"
-      },
-      {
-        "id": "54ea04983f07fdee1fa5c7f42fe88ea7",
-        "title": "Grand jury: DeSantis admin ‘misappropriated’ tax dollars in Hope Florida scandal",
-        "summary": "A Florida grand jury found Gov. Ron DeSantis’s (R-Fla.) administration “misappropriated” a payment from a Medicaid settlement into the Hope Florida Foundation — an organization “championed” by first lady Casey DeSantis. The grand jury argued the $10 million transfer was “part of a sophisticated scheme to fund political activities,” according to a copy of the…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/state-watch/6056407-grand-jury-desantis-hope-florida-scandal/",
-        "published": "2026-08-28T02:11:22+00:00"
-      },
-      {
-        "id": "805f955c925ed4728eb47c9892dad6ac",
-        "title": "Centcom says Iranian sea mines cleared from Strait of Hormuz transit routes",
-        "summary": "The U.S. military said Thursday that it has cleared all Iranian sea mines along internationally recognized transit routes in the Strait of Hormuz. In a video posted to the social platform X Thursday evening, U.S. Central Command (Centcom) Commander Adm. Brad Cooper said that “the U.S. military has achieved a major milestone in the Strait…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/defense/6056395-centcom-us-clears-iranian-sea-mines/",
-        "published": "2026-08-28T01:40:21+00:00"
-      },
-      {
-        "id": "9a9de0f5c09476a1cdd3c24fe5240678",
-        "title": "Wisconsin politicians joke about Lake Michigan name change",
-        "summary": "Wisconsin politicians made jokes out of President Trump’s executive order aiming to rename Lake Ontario, jesting about the renaming of Lake Michigan, another Great Lake. On Thursday, the president put his signature on an executive order formally changing the name of Lake Ontario to “Lake America” amid U.S.-Canadian trade tensions. “We’re going to be changing…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/state-watch/6056355-wisconsin-politicians-mock-lake-michigan-ontario/",
-        "published": "2026-08-28T00:48:55+00:00"
-      },
-      {
-        "id": "ab53c4a62039cdf3fcb3c53d60821145",
-        "title": "The role of climate change in the Nepal floods",
-        "summary": "The deadly flash floods in Nepal are not a surprise to many scientists. Glacial melt is accelerating because of climate change, putting millions of people at risk.",
+        "id": "8ff65d6ceb8d698b4f084f6bf252f6ab",
+        "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
+        "summary": "His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York's governor said Park earned a \"second chance through rehabilitation.\"",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods",
-        "published": "2026-08-27T21:43:57+00:00"
+        "url": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
+        "published": "2026-08-29T00:06:04+00:00"
+      },
+      {
+        "id": "afc49ab426b8e2b783b72be694af9234",
+        "title": "RFK Jr. questions measles deaths in Pennsylvania",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story RFK Jr. seizes on Shapiro’s measles statements Top Trump administration health officials are seizing on vague information from Pennsylvania to openly question the circumstances of two deaths that state health authorities attributed to measles. Natasha Kaiser Pennsylvania Gov. Josh Shapiro (D)…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/newsletters/healthcare/6058655-rfk-jr-questions-measles-deaths-in-pennsylvania/",
+        "published": "2026-08-28T23:59:27+00:00"
+      },
+      {
+        "id": "67d14fd7a12233c1009103617333fd84",
+        "title": "Trump says he secured ‘majority US control’ of large slice of Venezuela’s oil reserves",
+        "summary": "President Trump said Friday evening that there will be “majority U.S. control” of a large swath of Venezuela’s oil reserves. “BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of Venezuela on, THE BIGGEST OIL DEAL IN WORLD HISTORY!” Trump wrote in a post on Truth Social. “At my…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6058643-trump-says-he-secured-majority-u-s-control-of-large-slice-of-venezuelas-oil-reserve/",
+        "published": "2026-08-28T23:43:39+00:00"
       }
     ],
     "asia": [
       {
-        "id": "263587c6143a0a9d350fa457abdbb5fb",
-        "title": "Waves of attacks in Thailand’s deep south leave villagers trapped in a cycle of fear",
-        "summary": "Security guard Ni-arfan Doloh was taking a routine photograph for his nightly report on Saturday when five masked men carrying rifles emerged from inside a government office in Thailand’s southern Narathiwat province. “I was shocked,” said Ni-arfan, 25, recalling how they led him and another guard behind the Chang Phueak subdistrict office, instructed them to sit with their hands behind their backs, and promised no harm would come to them. The masked men then set fire to the building, one of at.",
+        "id": "31f6531b826551e0058833c7e9f480d2",
+        "title": "Iranian leaders admit economic toll of war with US as trade drops 35%",
+        "summary": "Iranian leaders are acknowledging the economic toll of war with the United States, with the supreme leader calling on the government to address the hardship while the president reported foreign trade has shrunk 35 per cent due to the American sanctions and blockade. The warnings came even as other leaders threaten the US with military retaliation and declarations that the Iranian navy maintains control of the Strait of Hormuz, the strategic waterway giving Iran ‌leverage through its ability to..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3365551/waves-attacks-thailands-deep-south-leave-villagers-trapped-cycle-fear?utm_source=rss_feed",
-        "published": "2026-08-28T05:44:41+00:00"
+        "url": "https://www.scmp.com/news/world/middle-east/article/3365679/iranian-leaders-admit-economic-toll-war-us-trade-drops-35?utm_source=rss_feed",
+        "published": "2026-08-29T03:23:00+00:00"
       },
       {
-        "id": "24c19b4bd604ce2ed2cafa5005531735",
-        "title": "Iran’s supreme leader remains unseen 6 months after war began",
-        "summary": "Six months after the air strikes that began the war and propelled ⁠a badly wounded Mojtaba Khamenei into the role of Iran’s supreme leader, he remains entirely unseen and unheard by Iranians – a vacuum at the heart of his country’s leadership. Questions over his condition and role are growing increasingly fraught, with Iran facing critical decisions over a war that has set the Middle East aflame while trashing the country’s already fragile economy. Iranian officials and other senior sources in..",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3365550/irans-supreme-leader-remains-unseen-6-months-after-war-began?utm_source=rss_feed",
-        "published": "2026-08-28T05:43:39+00:00"
-      },
-      {
-        "id": "4a2d03e48816483935cedc931656f80a",
-        "title": "Bangladesh govt. positively weighs joining Mecca Pact; Opposition throws in support",
-        "summary": "The government said the interests of the country and its people would be given the highest priority in joining any defence agreement or alliance",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/bangladesh-govt-positively-weighs-joining-mecca-pact-opposition-throws-in-support/article71399207.ece",
-        "published": "2026-08-28T05:31:22+00:00"
-      },
-      {
-        "id": "7b5b4cef90f82f404a6f0a467f69819f",
-        "title": "Nepal flash floods LIVE: Nepal doesn't need foreign rescue help, Foreign Ministry says as death toll reaches 469",
-        "summary": "Nepali Army helicopter rescue teams are working to rescue around 100 people trapped inside a tunnel at a hydropower project",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-surges-nearly-1500-missing-fresh-flood-threat-glacier-collapse-live-updates-august-28-2026/article71398953.ece",
-        "published": "2026-08-28T05:28:14+00:00"
-      },
-      {
-        "id": "3a927af222ea57d7b074452b94e325cf",
-        "title": "Trump signs order renaming Lake Ontario as ‘Lake America’ in U.S.",
-        "summary": "Donald Trump has been floating the idea of the name change in recent days as the U.S. announced it was imposing 50% tariffs on $20 billion worth of Canadian goods over the weekend after talks between the countries broke down",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/trump-signs-order-renaming-lake-ontario-as-lake-america-in-us/article71397955.ece",
-        "published": "2026-08-28T05:22:25+00:00"
-      },
-      {
-        "id": "e5d386a4557885d42a0da3e10a908318",
-        "title": "X account blocked for several hours, rues organisation hosting Bhagwat's New York event",
-        "summary": "The X account of American Hindus for Engagement and Dialogue (AHEAD) Forum – @AheadForum1 remained \"unavailable\" to users and was restored after intervention from X",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/national/x-account-blocked-for-several-hours-rues-organisation-hosting-bhagwats-new-york-event/article71397896.ece",
-        "published": "2026-08-28T05:18:36+00:00"
-      },
-      {
-        "id": "ba481aa5c5e41ca78ce0b651eb5d1bdc",
-        "title": "Malaysia’s former HR minister charged with receiving over US$270,000 in bribes",
-        "summary": "M Saravanan is accused of receiving the money in 2022 to approve foreign worker quotas for an engineering firm.",
+        "id": "7f6494972bcc01f2c454a719e2805029",
+        "title": "Nepal needs help in technical areas, not search and rescue, foreign minister says",
+        "summary": "Foreign Minister Shisir Khanal said the country needs help in areas including the identification of dead bodies and DNA testing.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/malaysia-human-resources-minister-m-saravanan-charged-bribes-corruption-6346946",
-        "published": "2026-08-28T05:17:02+00:00"
+        "url": "https://www.channelnewsasia.com/asia/nepal-tibet-disaster-foreign-assistance-technical-areas-6349016",
+        "published": "2026-08-29T02:42:00+00:00"
       },
       {
-        "id": "f27fa783db0fb606e7c451aa3a2f1fbc",
-        "title": "Storm travel chaos as Typhoon Saudel makes double landfall in China",
-        "summary": "Typhoon Saudel made landfall in the eastern Chinese province of Zhejiang, disrupting flights and ferry services across major urban centres, including the industrial hub of Ningbo and the economic powerhouse of Shanghai. Ningbo Lishe International Airport suspended all flight operations from 11.30pm on Thursday. Even though services resumed at 11am on Friday, some 16 inbound and 28 outbound flights were cancelled for the day. In the Zhejiang city of Wenzhou, a base for private enterprise, 197...",
+        "id": "de2ba8bc53292ac54eec6d8fe8b1b608",
+        "title": "Nepal flash floods LIVE updates: Over 4,400 rescued as Nepal mobilises massive flood relief op., says PM Balen Shah",
+        "summary": "Rescuers were battling through mud even as the threat of new floods loomed, with emergency teams recovering 586 bodies so far -- and some of the dead swept downstream",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-missing-persons-fresh-flood-threat-glacier-collapse-live-updates-august-29-2026/article71403315.ece",
+        "published": "2026-08-29T02:39:32+00:00"
+      },
+      {
+        "id": "7d7b6f12b58866e1909ca509db7e2447",
+        "title": "Nepal needs help in technical areas, not search and rescue, Foreign Minister says",
+        "summary": "Earlier on Friday (August 28, 2026), Nepal’s ‌Foreign Ministry had said that Kathmandu could manage the ​rescue efforts on its own for now and declined foreign involvement",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/nepal-flash-flood-nepal-needs-help-in-technical-areas-not-search-and-rescue-foreign-minister-says/article71403371.ece",
+        "published": "2026-08-29T02:38:49+00:00"
+      },
+      {
+        "id": "38ce48f637a236bc5f3a80aab39ee427",
+        "title": "How the Philippines missed a Korean gambling racket worth US$3.8 billion",
+        "summary": "The Philippines spent years dismantling Chinese-linked gambling compounds in dramatic, headline-grabbing raids. But all the while, and with far less scrutiny, South Korean syndicates were building a parallel industry worth billions of US dollars – one that a spate of recent arrests suggests is still very much intact. The most recent involved a 29-year-old Korean woman named Kim Young-sun, who authorities allege ran a network of 23 illegal online betting websites out of offices in Pasay and...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china?utm_source=rss_feed",
-        "published": "2026-08-28T05:15:41+00:00"
+        "url": "https://www.scmp.com/week-asia/people/article/3365619/how-philippines-missed-korean-gambling-racket-worth-us38-billion?utm_source=rss_feed",
+        "published": "2026-08-29T02:30:12+00:00"
+      },
+      {
+        "id": "7d05807c8cd8a7604a3ce40f2805b497",
+        "title": "Nepal flash flood: Massive flood sweeps through Northern Nepal",
+        "summary": "The Hindu’s complete coverage of the Nepal flash floods",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/nepal-flash-flood-massive-flood-sweeps-through-northern-nepal/article71394951.ece",
+        "published": "2026-08-29T02:20:25+00:00"
+      },
+      {
+        "id": "9a136be51128a200417df490e6db7d69",
+        "title": "White House teleprompter operator fined, forfeits winnings for betting on Trump’s words",
+        "summary": "A former White House teleprompter operator accused of using inside knowledge to make bets on the prediction market Kalshi has been ordered to turn over more than US$100,000 in profits and pay a US$65,000 fine as part of a settlement with federal authorities. The settlement with the Commodity Futures Trading Commission, announced on Friday, also dealt Gabriel Perez a three-year trading ban. Perez was placed on unpaid leave from his job at the White House after reports emerged that he used his...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3365677/white-house-teleprompter-operator-fined-forfeits-winnings-betting-trumps-words?utm_source=rss_feed",
+        "published": "2026-08-29T02:19:44+00:00"
+      },
+      {
+        "id": "e5c020286d039a59c0a6d2157b332717",
+        "title": "China hospital joins nightclubs in offering marriage services to fight low wedding rates",
+        "summary": "Following temples and nightclubs, a Chinese bank and a hospital have recently begun offering marriage registration services, igniting discussions on the Chinese government’s commitment to promoting nuptials. In August, a branch of the Postal Savings Bank of China, located in the northern municipality of Tianjin, became the country’s first bank to provide marriage registration services. While online observers mocked the unusual pairing of finance and romance – joking that only nuptials at a...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3365659/china-hospital-joins-nightclubs-offering-marriage-services-fight-low-wedding-rates?utm_source=rss_feed",
+        "published": "2026-08-29T02:00:24+00:00"
       }
     ],
     "others": [
       {
-        "id": "d1c785264106e99877322de21a0b6f42",
-        "title": "Algeria residents mourn neighbours lost in wildfire aftermath",
-        "summary": "Residents of Algeria’s northeastern Jijel province are inspecting the aftermath of wildfires.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss",
-        "published": "2026-08-28T05:18:33+00:00"
-      },
-      {
-        "id": "7ff6ffdcb7041e8d4d92079c09a0545a",
-        "title": "DRC begins vaccinating front-line healthcare workers against Ebola",
-        "summary": "Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss",
-        "published": "2026-08-28T04:27:54+00:00"
-      },
-      {
-        "id": "6db9acf71fc09d075ab12f8de9190dea",
-        "title": "Nepal’s mudslide wiped out areas of eastern China, army helps search",
-        "summary": "China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss",
-        "published": "2026-08-28T04:20:27+00:00"
-      },
-      {
-        "id": "9f2a394e48bd11342c42ae6126129ea3",
-        "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
-        "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit o",
-        "source": "The Guardian",
-        "category": "others",
-        "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-        "published": "2026-08-28T04:00:48+00:00"
-      },
-      {
-        "id": "9f9842988497b7e93fc3d96b39aff04e",
-        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-        "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+        "id": "e6fba77b2ebaac10ab531453bec55c01",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-28T03:41:59+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-29T02:42:27+00:00"
       },
       {
-        "id": "684df13b277118dd9053e7fa103a7ee9",
-        "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-        "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+        "id": "ae0849bc4ea418e3ccfc48210f2819a2",
+        "title": "Guinea-Bissau votes on a stronger presidency: What’s at stake?",
+        "summary": "The proposed constitution would give the president more power and reshape parliament and elections.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
+        "published": "2026-08-29T02:38:27+00:00"
+      },
+      {
+        "id": "5c66207cc98c6d739e76f65606b371d4",
+        "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+        "summary": "US president says deal secures majority control of more than 65 billion barrels of proven oil reserves in Venezuela.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
+        "published": "2026-08-29T02:32:51+00:00"
+      },
+      {
+        "id": "49eb5753c1a5e574ffa25d61777e791b",
+        "title": "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
+        "summary": "Tuareg rebels have freed about 60 Malian soldiers in exchange for one of their own leaders, security sources said.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss",
+        "published": "2026-08-29T01:50:03+00:00"
+      },
+      {
+        "id": "c8f33bf82f5123ab02de28215434f46b",
+        "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+        "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-28T01:43:41+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-29T00:56:19+00:00"
       },
       {
-        "id": "95fa6f8af5cb5f98b719ff05f3a348ce",
-        "title": "Protesters set fire to migrant camp in Ceuta",
-        "summary": "The unrest comes one month after a mass influx of migrants from Morocco to the Spanish exclave in North Africa.",
-        "source": "Deutsche Welle",
+        "id": "238bdb425ab0f131d34df3df1045107c",
+        "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+        "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+        "source": "BBC World",
         "category": "others",
-        "url": "https://www.dw.com/en/protesters-set-fire-to-migrant-camp-in-ceuta/a-78538847?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-08-28T00:34:00+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-29T00:46:02+00:00"
       },
       {
-        "id": "f369448d3d9207ba01fccb89c14c74bd",
-        "title": "Trump signs executive order to rename Lake Ontario as Lake America",
-        "summary": "Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the moveUS politics live – latest updatesDonald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid his escalating trade war with Canada.The order directs federal agencies to adopt the name-change on US maps, documents and databases. But Trump has no authority to rename Canada’s portion of the lake, nor to compel Canada, int",
+        "id": "aa4e64bc71b289832493d58fe44715ef",
+        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+        "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-29T00:32:17+00:00"
+      },
+      {
+        "id": "990c95472ede81c487836a40ec238c2f",
+        "title": "Trump announces new US oil agreement with Venezuela",
+        "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reservesDonald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves.The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been brokered “through a partnership with ⁠private business” by his secretary of state, Marco Rubio, and defense",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-        "published": "2026-08-27T22:55:04+00:00"
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+        "published": "2026-08-28T23:34:36+00:00"
       }
     ],
     "tech": [
       {
-        "id": "f7b6595abbb7150206589fc9a2beb6e1",
-        "title": "Please stop flooding our projects with AI slop to furnish your CV",
-        "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 70 # Comments: 25",
+        "id": "8649f8bf3b7d3517b0e64cdd94844323",
+        "title": "TurboKV: Insanely fast Rust key-value store",
+        "summary": "Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 18 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-        "published": "2026-08-28T03:49:33+00:00"
+        "url": "https://github.com/kingroryg/turbokv",
+        "published": "2026-08-29T02:23:37+00:00"
       },
       {
-        "id": "bc174039e39e80c1e69837faf4e08c54",
-        "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-        "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=49474060 Points: 0 # Comments: 0",
+        "id": "596a7bfab1a8a0ff12c093557cc15eb7",
+        "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+        "summary": "Article URL: https://www.kumander.org/ Comments URL: https://news.ycombinator.com/item?id=49486176 Points: 15 # Comments: 1",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-        "published": "2026-08-28T03:35:15+00:00"
+        "url": "https://www.kumander.org/",
+        "published": "2026-08-29T01:48:15+00:00"
       },
       {
-        "id": "6e5ef496a7253d1088ff218ee3cee15b",
-        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-        "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red […]",
+        "id": "4767a14b7d8f433e558fbcec340e2bd3",
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Comments URL: https://news.ycombinator.com/item?id=49486172 Points: 133 # Comments: 45",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+        "published": "2026-08-29T01:47:53+00:00"
+      },
+      {
+        "id": "0d63899c9dac82e693548e537626502a",
+        "title": "StemDeck, a free, open-source and local AI stem separator",
+        "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 37 # Comments: 8",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "published": "2026-08-29T01:24:13+00:00"
+      },
+      {
+        "id": "dbe67074bcb266f3e8e760f3ce4cabd6",
+        "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+        "summary": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id=49485532 Points: 67 # Comments: 18",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+        "published": "2026-08-28T23:46:10+00:00"
+      },
+      {
+        "id": "e9897254d8c1319f56aeb934c4715f1f",
+        "title": "PPWR lands another blow to an precarious tabletop industry",
+        "summary": "Article URL: https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/ Comments URL: https://news.ycombinator.com/item?id=49485504 Points: 33 # Comments: 21",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+        "published": "2026-08-28T23:41:05+00:00"
+      },
+      {
+        "id": "0ef02f46d125bc3a166dde74e72f8b2f",
+        "title": "Google further buries search results under AI mode",
+        "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-        "published": "2026-08-28T03:14:06+00:00"
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "published": "2026-08-28T22:48:11+00:00"
       },
       {
-        "id": "13a967c80a6d2168d25b78b34fcddf0f",
-        "title": "Bootstrappable Builds: How and Why",
-        "summary": "Article URL: https://lwn.net/Articles/1088279/ Comments URL: https://news.ycombinator.com/item?id=49473868 Points: 18 # Comments: 3",
-        "source": "Hacker News (Top)",
+        "id": "1e7c3567d28e352b0d6876ba7ef0e38d",
+        "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+        "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+        "source": "Ars Technica",
         "category": "tech",
-        "url": "https://lwn.net/Articles/1088279/",
-        "published": "2026-08-28T03:02:42+00:00"
-      },
-      {
-        "id": "0e5f8b721a51308387df08aac345cd8e",
-        "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
-        "summary": "Article URL: https://github.com/IndexFlowing/IndexFlow-core Comments URL: https://news.ycombinator.com/item?id=49473767 Points: 10 # Comments: 4",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://github.com/IndexFlowing/IndexFlow-core",
-        "published": "2026-08-28T02:46:39+00:00"
-      },
-      {
-        "id": "1ec1c1e5c82e0e82cac57c4547cd112f",
-        "title": "USDA recalls 30k pounds of Argentine beef sold in Texas and Florida",
-        "summary": "Article URL: https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida Comments URL: https://news.ycombinator.com/item?id=49473536 Points: 68 # Comments: 31",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida",
-        "published": "2026-08-28T02:05:57+00:00"
-      },
-      {
-        "id": "dbcd2e1876dbfe44592a11fc3528b78f",
-        "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
-        "summary": "Article URL: https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html Comments URL: https://news.ycombinator.com/item?id=49473522 Points: 192 # Comments: 83",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-        "published": "2026-08-28T02:03:38+00:00"
-      },
-      {
-        "id": "942482a0aa8971f0d248562e04d3411b",
-        "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-        "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction videos, you've technically been able […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-        "published": "2026-08-28T01:05:18+00:00"
+        "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+        "published": "2026-08-28T22:14:52+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "cf6137bd56423ba9ad586071c69b26b2",
+        "title": "Kevin Warsh tries being a normal central banker",
+        "summary": "And markets like it",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+        "published": "2026-08-28T17:02:18+00:00"
+      },
       {
         "id": "82acdf7a8b166a142c5a9920638bf604",
         "title": "When obeying an American law means breaking a Chinese one",
@@ -433,15 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/asia/2026/08/27/australia-builds-a-pacific-alliance-system-to-keep-china-out",
         "published": "2026-08-27T14:02:18+00:00"
-      },
-      {
-        "id": "5ae6cbbc326657bac39771dc518342c3",
-        "title": "AI is changing religion and religions are trying to change AI",
-        "summary": "Will chatbots supplant the advice of imams and priests or help them spread the word?",
-        "source": "International",
-        "category": "economist",
-        "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
-        "published": "2026-08-27T14:02:18+00:00"
       }
     ]
   },
@@ -451,45 +451,45 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5692.5498046875,
-        "prev_close": 5684.1201171875,
-        "change_pct": 0.15,
-        "direction": "up",
-        "price_fmt": "5,692.5",
-        "change_str": "+0.15%"
+        "price": 5684.1201171875,
+        "prev_close": 5721.58984375,
+        "change_pct": -0.65,
+        "direction": "down",
+        "price_fmt": "5,684.1",
+        "change_str": "-0.65%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7730.990234375,
-        "prev_close": 7675.7001953125,
-        "change_pct": 0.72,
-        "direction": "up",
-        "price_fmt": "7,731.0",
-        "change_str": "+0.72%"
+        "price": 7711.759765625,
+        "prev_close": 7730.990234375,
+        "change_pct": -0.25,
+        "direction": "down",
+        "price_fmt": "7,711.8",
+        "change_str": "-0.25%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 25661.259765625,
-        "prev_close": 25565.740234375,
-        "change_pct": 0.37,
-        "direction": "up",
-        "price_fmt": "25,661",
-        "change_str": "+0.37%"
+        "price": 25565.740234375,
+        "prev_close": 25652.970703125,
+        "change_pct": -0.34,
+        "direction": "down",
+        "price_fmt": "25,566",
+        "change_str": "-0.34%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 66369.546875,
-        "prev_close": 66131.9765625,
-        "change_pct": 0.36,
-        "direction": "up",
-        "price_fmt": "66,370",
-        "change_str": "+0.36%"
+        "price": 66131.9765625,
+        "prev_close": 66262.15625,
+        "change_pct": -0.2,
+        "direction": "down",
+        "price_fmt": "66,132",
+        "change_str": "-0.20%"
       },
       {
         "symbol": "^FTSE",
@@ -506,64 +506,64 @@
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 9084.2001953125,
-        "prev_close": 9038.2001953125,
-        "change_pct": 0.51,
-        "direction": "up",
-        "price_fmt": "9,084.2",
-        "change_str": "+0.51%"
+        "price": 9038.2001953125,
+        "prev_close": 9127.7998046875,
+        "change_pct": -0.98,
+        "direction": "down",
+        "price_fmt": "9,038.2",
+        "change_str": "-0.98%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2709200382232666,
-        "prev_close": 1.2714099884033203,
-        "change_pct": -0.04,
-        "direction": "down",
+        "price": 1.2745000123977661,
+        "prev_close": 1.270799994468689,
+        "change_pct": 0.29,
+        "direction": "up",
         "price_fmt": "1.27",
-        "change_str": "-0.04%"
+        "change_str": "+0.29%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4795199632644653,
-        "prev_close": 1.4817700386047363,
-        "change_pct": -0.15,
+        "price": 1.4759999513626099,
+        "prev_close": 1.4809399843215942,
+        "change_pct": -0.33,
         "direction": "down",
         "price_fmt": "1.48",
-        "change_str": "-0.15%"
+        "change_str": "-0.33%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7265299558639526,
-        "prev_close": 1.7282999753952026,
-        "change_pct": -0.1,
+        "price": 1.7238999605178833,
+        "prev_close": 1.7277499437332153,
+        "change_pct": -0.22,
         "direction": "down",
-        "price_fmt": "1.73",
-        "change_str": "-0.10%"
+        "price_fmt": "1.72",
+        "change_str": "-0.22%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.00791999977082014,
+        "price": 0.007910000160336494,
         "prev_close": 0.0079,
-        "change_pct": 0.25,
+        "change_pct": 0.13,
         "direction": "up",
         "price_fmt": "0.01",
-        "change_str": "+0.25%"
+        "change_str": "+0.13%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.18860000371932983,
+        "price": 0.18880000710487366,
         "prev_close": 0.1885,
-        "change_pct": 0.05,
+        "change_pct": 0.16,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "+0.05%"
+        "change_str": "+0.16%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 88.1500015258789,
+        "price": 88.29000091552734,
         "prev_close": 89.69999694824219,
-        "change_pct": -1.73,
+        "change_pct": -1.57,
         "direction": "down",
-        "price_fmt": "88.15",
-        "change_str": "-1.73%"
+        "price_fmt": "88.29",
+        "change_str": "-1.57%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4627.7998046875,
+        "price": 4504.10009765625,
         "prev_close": 4609.7001953125,
-        "change_pct": 0.39,
-        "direction": "up",
-        "price_fmt": "4,627.8",
-        "change_str": "+0.39%"
+        "change_pct": -2.29,
+        "direction": "down",
+        "price_fmt": "4,504.1",
+        "change_str": "-2.29%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 69.48500061035156,
+        "price": 67.08999633789062,
         "prev_close": 69.42900085449219,
-        "change_pct": 0.08,
-        "direction": "up",
-        "price_fmt": "69.49",
-        "change_str": "+0.08%"
+        "change_pct": -3.37,
+        "direction": "down",
+        "price_fmt": "67.09",
+        "change_str": "-3.37%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.9170000553131104,
+        "price": 2.88100004196167,
         "prev_close": 2.9070000648498535,
-        "change_pct": 0.34,
-        "direction": "up",
-        "price_fmt": "2.92",
-        "change_str": "+0.34%"
+        "change_pct": -0.89,
+        "direction": "down",
+        "price_fmt": "2.88",
+        "change_str": "-0.89%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 79808.2734375,
-        "prev_close": 79027.421875,
-        "change_pct": 0.99,
-        "direction": "up",
-        "price_fmt": "79,808",
-        "change_str": "+0.99%"
+        "price": 77667.7890625,
+        "prev_close": 80257.5390625,
+        "change_pct": -3.23,
+        "direction": "down",
+        "price_fmt": "77,668",
+        "change_str": "-3.23%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2496.030029296875,
-        "prev_close": 2506.260986328125,
-        "change_pct": -0.41,
+        "price": 2440.5,
+        "prev_close": 2510.41015625,
+        "change_pct": -2.78,
         "direction": "down",
-        "price_fmt": "2,496.0",
-        "change_str": "-0.41%"
+        "price_fmt": "2,440.5",
+        "change_str": "-2.78%"
       }
     ]
   },
