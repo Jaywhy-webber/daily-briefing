@@ -2,375 +2,402 @@
   "news": {
     "singapore": [
       {
-        "id": "2a3200a3babf81c51bd3a2c5b5811c58",
-        "title": "Singapore air quality enters unhealthy range in central region; 24-hour PSI hits 101",
-        "summary": "Elsewhere, the 24-hour PSI was 87 in the west, 86 in the east, 76 in the north and 74 in the south as of 7am.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/haze-singapore-central-unhealthy-psi-101-6338721",
-        "published": "2026-09-03T23:23:00+00:00"
-      },
-      {
-        "id": "dac23be720872bce3113b27c1cb60ae2",
-        "title": "She once failed almost every subject and hated school – now she’s the teacher who fights for every student",
-        "summary": "Raja Shahridah Raja Suhaini grew up poor, could not read in Primary 1 and failed almost every subject. Now a Caring Teacher Award 2026 winner, she knocks on the doors of students who skip school – even when those doors are slammed in her face.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/women/raja-shahridah-beatty-secondary-teacher-6344196",
-        "published": "2026-09-03T23:21:53+00:00"
-      },
-      {
-        "id": "cf1bd3e7817ac65a0638114bb991af2f",
-        "title": "Haze in S’pore: PSI hits 101 in central region, with air quality in unhealthy range",
-        "summary": "Air quality is considered unhealthy when the PSI is in the range of 101 to 200.",
+        "id": "7ae79357801a938b624dc46d58a07e02",
+        "title": "PSI in western Singapore hits 102, joins central region in having unhealthy air",
+        "summary": "The PSI reading in the East was also unhealthy late on Sept 4 before dipping to 99 on Sept 5.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/psi-hits-101-in-central-singapore-with-air-quality-in-unhealthy-range",
-        "published": "2026-09-03T23:12:21+00:00"
+        "url": "https://www.straitstimes.com/singapore/psi-in-western-singapore-hits-102-joins-central-region-in-having-unhealthy-air",
+        "published": "2026-09-04T23:20:00+00:00"
       },
       {
-        "id": "40613940c567334165c2e75fbdf14185",
-        "title": "Commentary: Will Meta’s US settlement change how Singapore regulates social media?",
-        "summary": "A landmark US lawsuit has made clear that if left to their own devices, social media companies are unlikely to take drastic steps to protect young users, says NUS' Carol Soon.",
+        "id": "703b02c52343eb1eeaa3ddb25ef41ae8",
+        "title": "Smart pendant that can alert visually impaired commuters when bus arrives under development",
+        "summary": "Many visually impaired passengers prefer a hands-free solution.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/transport/smart-pendant-that-can-alert-visually-impaired-commuters-when-bus-arrives-under-development",
+        "published": "2026-09-04T23:00:00+00:00"
+      },
+      {
+        "id": "fa040da203cf5583d40f7c8faf73cf96",
+        "title": "Haze in Singapore: Air quality at unhealthy range in two regions",
+        "summary": "Air quality in the central and west regions were in the unhealthy range as of 7am.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/meta-us-settlement-social-media-harm-teen-6360056",
-        "published": "2026-09-03T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/haze-singapore-unhealthy-three-regions-6362856",
+        "published": "2026-09-04T22:54:00+00:00"
       },
       {
-        "id": "cbcbf7bffff7007bd74a10c0f36794c8",
-        "title": "'Singapore's perpetual karma is to be relevant': Tommy Koh looks back on 55 years in global diplomacy",
-        "summary": "Retiring after five decades at the Ministry of Foreign Affairs, Tommy Koh reflects on ASEAN's rise, Singapore's foreign policy and the state of the international order.",
+        "id": "e7624d92ab58d14787188cfaa6207c9c",
+        "title": "Inside Singapore’s secret intelligence agency: Three former SID leaders on threats, sacrifice and service",
+        "summary": "In candid interviews, former leaders of the Security and Intelligence Division pull back the curtain on a career in secrecy – busting myths about intelligence work and looking back on key moments in their jobs.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/tommy-koh-retire-mfa-asean-6360556",
-        "published": "2026-09-03T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/security-intelligence-division-secret-agency-sid-mindef-6362946",
+        "published": "2026-09-04T22:21:25+00:00"
       },
       {
-        "id": "460305afc2203ad499a1130ddf784d2e",
-        "title": "Joint operation by police, crypto exchanges stops scam victims from losing almost $9 million",
-        "summary": "Advanced blockchain analysis and timely information-sharing helped the police identify scam victims.",
+        "id": "6b5135ce09735283cc32b646efb53fa3",
+        "title": "Rethinking ageing: It’s not about just adding years to life, but adding life to years",
+        "summary": "Rather than merely managing longevity, we must steward it with wisdom.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/almost-9-million-in-scam-losses-foiled-by-police-and-crypto-exchanges",
-        "published": "2026-09-03T15:15:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/health/rethinking-ageing-its-not-about-just-adding-years-to-life-but-adding-life-to-years",
+        "published": "2026-09-04T21:00:00+00:00"
       },
       {
-        "id": "b0ee8fcefdf719b7339bf69b41d61f0c",
-        "title": "Fire breaks out in Bukit Panjang open grass patch, no injuries reported",
-        "summary": "The blaze involved vegetation measuring about 30m by 20m.",
+        "id": "e1b7323e74cd138dd63a75cf3766c6c5",
+        "title": "Investing in the future of health: Singapore’s growing longevity sector",
+        "summary": "Clinicians aim to delay age-related decline by using advanced diagnostics and other tools.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/fire-breaks-out-in-bukit-panjang-open-grass-patch-no-injuries-reported",
-        "published": "2026-09-03T14:35:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/health/inside-singapores-growing-longevity-market",
+        "published": "2026-09-04T21:00:00+00:00"
       },
       {
-        "id": "d80cc1dfdb0a20b66b758c64462b8a42",
-        "title": "SMRT completes inspection of tunnel doors after metal layer fell on track in 2025 incident",
-        "summary": "SMRT is working with LTA to carry out renewal works for these doors, particularly on older MRT lines.",
+        "id": "7cdb1e890ae8e55c1a38f087beed2ba1",
+        "title": "S’pore’s first bearer of bad news: Former SID directors share how intelligence agency shapes national policy",
+        "summary": "The Republic’s secretive intelligence agency is stepping into the spotlight to attract more diverse talent.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/smrt-completes-inspection-of-tunnel-doors-after-metal-layer-fell-on-track-in-2025-incident",
-        "published": "2026-09-03T12:47:51+00:00"
+        "url": "https://www.straitstimes.com/singapore/spores-first-bearer-of-bad-news-former-sid-directors-share-how-intelligence-agency-shapes-national",
+        "published": "2026-09-04T21:00:00+00:00"
+      },
+      {
+        "id": "34dd1d4b44bce6308563774777727f92",
+        "title": "‘She wanted to go home with me’: The S’pore seniors who keep their peers company",
+        "summary": "They are among a growing number of older Singaporeans who are spending their retirement supporting peers in need.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/she-wanted-to-go-home-with-me-the-spore-seniors-who-keep-their-peers-company",
+        "published": "2026-09-04T21:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "bba88fcf1e979a2a7059eacce1e87743",
-        "title": "Trump announces Telle as acting Army Secretary following Driscoll’s resignation",
-        "summary": "President Trump announced Thursday evening that Adam Telle, the current assistant secretary of the Army for Civil Works, will be the acting Army Secretary following this week’s resignation of Dan Driscoll. “He is a Great Patriot, who is respected by all,” the president wrote in a Truth Social post announcing Telle’s appointment. As assistant secretary…",
+        "id": "ee3776a69a0d9a1c760bd28b5f1c8335",
+        "title": "How are AI chatbots answering voting questions?",
+        "summary": "{beacon} Technology Technology The Big Story Nearly a third of AI chatbot replies to voting questions inaccurate, outdated: study Artificial intelligence chatbots are becoming a source for voters to ask questions about upcoming elections, but a new study determined nearly a third of AI-generated replies could be inaccurate or outdated. AP Photo/Matt Rourke, File…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/administration/6070592-trump-adam-telle-army-secretary-announcement/",
-        "published": "2026-09-03T23:10:01+00:00"
+        "url": "https://thehill.com/newsletters/technology/6072688-how-are-ai-chatbots-answering-voting-questions/",
+        "published": "2026-09-04T23:00:22+00:00"
       },
       {
-        "id": "2f5685e631f851553dd57a043dbdf7aa",
-        "title": "What to know about respiratory vaccine recommendations",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story What to know about respiratory vaccine recommendations Several medical groups have joined together to release 2026-2027 respiratory virus immunization recommendations, filling a void left by the relative silence from the Centers for Disease Control and Prevention. AP Photo/Juan Karita, File…",
+        "id": "a8c3a2ea0f42dfa5ef58c4584e3c746c",
+        "title": "Judge denies bail, orders jail time for ex-Kentucky Gov. Matt Bevin",
+        "summary": "A judge on Friday ordered former Kentucky Gov. Matt Bevin (R) to serve 60 days in jail without bond after he was arrested on an outstanding warrant in a child support case involving his estranged wife. “He has over and over again demonstrated a complete disregard and utter disrespect for this court,” Judge Angela Johnson…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/newsletters/healthcare/6070586-what-to-know-about-respiratory-vaccine-recommendations/",
-        "published": "2026-09-03T23:03:57+00:00"
+        "url": "https://thehill.com/homenews/state-watch/6072673-matt-bevin-sentenced-jail-contempt/",
+        "published": "2026-09-04T22:50:47+00:00"
       },
       {
-        "id": "a0f15cc97607c79309bd3f989759b080",
-        "title": "Vance ‘extremely skeptical’ of Iran wedding attack reports",
-        "summary": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} View Online Defense &National Security Defense &National Security The Big Story Vance ‘extremely skeptical’ of Iran wedding attack reports Vice President Vance said on Thursday that he is “extremely skeptical” of the reports that a U.S. missile struck a home in southern Iran where people…",
+        "id": "41102249af35321d300c46394d691d06",
+        "title": "Pennsylvania infant’s death confirmed to have been caused by measles",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Pennsylvania infant confirmed to have died from measles Following vocal skepticism from federal health officials, one of the two suspected measles deaths reported in Pennsylvania last month has been confirmed as being caused by the virus. Sean Rayford, Getty Images…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/newsletters/defense-national-security/6070569-vance-extremely-skeptical-of-iran-wedding-attack-reports/",
-        "published": "2026-09-03T22:52:45+00:00"
+        "url": "https://thehill.com/newsletters/healthcare/6072630-pennsylvania-infants-death-confirmed-to-have-been-caused-by-measles/",
+        "published": "2026-09-04T22:36:09+00:00"
       },
       {
-        "id": "0ebd30e8a8226300573dd4d1872d271e",
-        "title": "Pentagon sought to divert NIH funds for defense use, top House Appropriations Democrat says",
-        "summary": "The Pentagon is attempting to divert billions of dollars from the National Institutes of Health (NIH) to bolster the agency’s budget, according to the top Democrat on the House Appropriations Committee. Rep. Rosa DeLauro (D-Conn.) in a statement Thursday said Trump administration officials only recently disclosed to Congress that the Defense Department signed an interagency agreement…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
-        "published": "2026-09-03T22:48:08+00:00"
-      },
-      {
-        "id": "c8e2112e10b56bc094a7ed38f6076378",
-        "title": "Judge halts EPA effort to overturn California car rules",
-        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Judge halts EPA effort to overturn California car rules A federal judge late Wednesday temporarily blocked a Trump administration effort to overturn California’s clean car rules through Congress. J. David Ake, Getty Images Judge Beryl Howell, an appointee of former President Obama, blocked an Environmental Protection…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/newsletters/energy-environment/6070522-judge-halts-epa-effort-to-overturn-california-car-rules/",
-        "published": "2026-09-03T22:41:00+00:00"
-      },
-      {
-        "id": "503f3869b6968a2e1e9431c70e88e6ef",
-        "title": "Benchmark mortgage rate hits highest mark in more than a year",
-        "summary": "The 30-year mortgage rate reached its highest mark in more than a year Thursday, portending lower purchasing power for prospective homebuyers. The benchmark 30-year fixed mortgage rate is 6.71 percent this week, up from 6.66 percent a week ago, Freddie Mac reported Thursday. That is the highest point for the 30-year rate since the week…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/business/6070374-mortgage-rates-hit-yearly-high/",
-        "published": "2026-09-03T22:29:27+00:00"
-      },
-      {
-        "id": "aec4cd8e4e2c718b76791bf9fa74060a",
-        "title": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
-        "summary": "The billionaire investor is under two subpoenas from the House Oversight Committee. But in his lawsuit, Black says the panel doesn't have the authority to compel him to share nondisclosure agreements.",
+        "id": "e4e5aa74f1464bf8f810a9ba2ba15ebc",
+        "title": "The U.N. backs a new world map showing Africa in its true relative size",
+        "summary": "The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit",
-        "published": "2026-09-03T22:19:02+00:00"
+        "url": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
+        "published": "2026-09-04T22:26:35+00:00"
       },
       {
-        "id": "28de09b846ad17c61ee7e7cf11be67d7",
-        "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
-        "summary": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election.",
+        "id": "9fd16cc193a1fad22b030029d233db1f",
+        "title": "Paul Ryan: Current state of politics ‘fundamentally unserious’",
+        "summary": "Former House Speaker Paul Ryan (R-Wis.) blasted the current state of American politics, arguing that both parties have focused on embracing populism rather than serious efforts to rein in the national debt. “Our politics are just fundamentally unserious right now, and they used to be better,” Ryan said Thursday during an appearance on CNBC’s “Squawk…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6072553-paul-ryan-blasts-politics-unserious/",
+        "published": "2026-09-04T21:52:30+00:00"
+      },
+      {
+        "id": "b6a4bce5bfe818b6f43a1f147a704b6c",
+        "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
+        "summary": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department's policy prohibiting harassment. She resigned in April.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
-        "published": "2026-09-03T20:48:21+00:00"
+        "url": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
+        "published": "2026-09-04T21:47:19+00:00"
+      },
+      {
+        "id": "646fa698b2b1b04d3040401ba38624f2",
+        "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+        "summary": "The new effort appears to be another tactic in a broader Trump administration strategy to short-circuit immigrants' already limited due process options in order to speed deportations.",
+        "source": "NPR",
+        "category": "us",
+        "url": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
+        "published": "2026-09-04T21:11:56+00:00"
+      },
+      {
+        "id": "a9c490907fdbcf4644287ff879478ace",
+        "title": "US economy adds 162,000 jobs in August",
+        "summary": "Welcome to The Hill’s Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story August jobs report beats expectations The U.S. economy added 162,000 jobs in August, soaring past expectations and raising the prospect that the Federal Reserve could hike interest rates next month. AP Photo/Nam Y. Huh The unemployment…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/newsletters/business-economy/6072471-us-economy-adds-162000-jobs-in-august/",
+        "published": "2026-09-04T21:00:54+00:00"
       }
     ],
     "asia": [
       {
-        "id": "7979cd71869cd2760a3de25f159de12d",
-        "title": "Hong Kong poised to top New York, London in finance-hub ranking: GFCI creator",
-        "summary": "An Asian city will eventually overtake London and New York as the world’s leading financial centre, with Hong Kong well placed to compete for the top spot given its legal predictability and low tax burden, according to the creator of a closely watched ranking of financial hubs. “It’s going to happen because it’s so tight,” said Michael Mainelli, chairman of London-based think tank Z/Yen Group, in an interview with the South China Morning Post on Tuesday, referring to the narrowing gap between...",
+        "id": "8699048d30c81f09b426eaf35b39dd13",
+        "title": "Govt 'stalling' Senate poll probe, PP says",
+        "summary": "The main opposition People's Party has accused the government of deliberately delaying parliamentary scrutiny of the Election Commission's (EC) handling of alleged collusion in the 2024 Senate election.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/politics/3314133/govt-stalling-senate-poll-probe-pp-says",
+        "published": "2026-09-04T22:47:00+00:00"
+      },
+      {
+        "id": "32bb08e9de86e5f318ac5f5e03978d60",
+        "title": "CPN targets 10% more visitors to Central Park mall",
+        "summary": "SET-listed Central Pattana (CPN) aims to increase visitors to Central Park by 10% next year after it welcomed more than 25 million people in its first year.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3314198/cpn-targets-10-more-visitors-to-central-park-mall",
+        "published": "2026-09-04T22:32:00+00:00"
+      },
+      {
+        "id": "9dcb0f26566bf13f7bc1c0e8845fde89",
+        "title": "Summit stresses resilience challenge",
+        "summary": "Thailand's ambition to become a regional digital and industrial hub faces a broader resilience test, as reliable energy, decarbonisation and investment frameworks become increasingly important to future competitiveness.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3314278/summit-stresses-resilience-challenge",
+        "published": "2026-09-04T22:28:00+00:00"
+      },
+      {
+        "id": "27550528718a324a87673d90f9de5255",
+        "title": "Anutin urges diplomats to open new opportunities",
+        "summary": "Prime Minister Anutin Charnvirakul has urged diplomats to help open investment, technology and market opportunities as Thailand shifts towards future industries.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3314263/anutin-urges-diplomats-to-open-new-opportunities",
+        "published": "2026-09-04T22:10:00+00:00"
+      },
+      {
+        "id": "30265e37209cf74e0e3e458cfe23d7d0",
+        "title": "Talk is growing of a Tesla-SpaceX merger. Will geopolitics throw a spanner in the works?",
+        "summary": "One by one, Tesla Model Y Ls roll out of the company’s end-of-line inspection bays, gleaming in black, white and gold. They are a mix of left-hand and right-hand drive – one of many signs the electric vehicles (EVs) produced here are destined for ports around the world. The company touts a total assembly time of less than 40 seconds at its sprawling Gigafactory in Lingang, a coastal area on the far southeastern edge of Shanghai. From there, Tesla says, a finished car can reach the port and be...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/business/banking-finance/article/3366230/hong-kong-poised-top-new-york-london-finance-hub-ranking-gfci-creator?utm_source=rss_feed",
-        "published": "2026-09-03T23:00:08+00:00"
+        "url": "https://www.scmp.com/tech/tech-war/article/3366387/talk-growing-tesla-spacex-merger-will-geopolitics-throw-spanner-works?utm_source=rss_feed",
+        "published": "2026-09-04T22:00:07+00:00"
       },
       {
-        "id": "5fcb922661f15392268a95f5a9f358e0",
-        "title": "Trump takes mail-in ballot fight to US Supreme Court",
-        "summary": "President Donald Trump’s administration asked the Supreme Court on Thursday to let it enforce a new US Postal Service rule tightening the use of mail-in ballots, moving swiftly after a judge temporarily blocked the regulation ahead of November’s midterm elections. In an emergency request, the Justice Department asked the Supreme Court to lift Boston-based US District ‌Judge Indira Talwani’s order temporarily preventing the USPS from enforcing the new rule, which it adopted following an executive",
+        "id": "a91f28cec6dc401c0fb9ed3848d73867",
+        "title": "Data centres face curbs",
+        "summary": "Deputy Prime Minister Ekniti Nitithanprapas has given the new National Data Centre Policy Committee one month to draft nationwide rules covering power and water use, urban planning, and environmental safeguards. The rules are intended to protect the public without deterring investment.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3314103/data-centres-face-curbs",
+        "published": "2026-09-04T21:50:00+00:00"
+      },
+      {
+        "id": "90c9d36f1e7a9c0180c23ec013bdc549",
+        "title": "What Sputnik couldn’t do to American science, Beijing has",
+        "summary": "The US government owns 9.9 per cent of Intel, converted out of US Chips Act grants, alongside a golden share in US Steel, US$400 million in the rare earth mining firm MP Materials and stakes in roughly 30 firms worth US$26.7 billion. In 2025, Nvidia and AMD gave up 15 per cent of their China chip sale revenues in exchange for export licences. The country that spent four decades advising its allies against picking winners now runs a portfolio. The United States has not fully turned to state...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3366285/trump-takes-mail-ballot-fight-us-supreme-court?utm_source=rss_feed",
-        "published": "2026-09-03T22:43:26+00:00"
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3366099/what-sputnik-couldnt-do-american-science-beijing-has?utm_source=rss_feed",
+        "published": "2026-09-04T21:30:04+00:00"
       },
       {
-        "id": "533d4d72caa980d8f813ace06c99a487",
-        "title": "Parliament rejects air bill changes",
-        "summary": "The House of Representatives has rejected Senate amendments to the Clean Air Management Bill, voting instead to set up a joint committee to reconsider changes that MPs say would weaken pollution controls.",
-        "source": "Bangkok Post",
+        "id": "420a44652c236de9ba785d59c33a6b57",
+        "title": "Trump calls Iran conflict 'small potatoes', says he agrees with Vance that it's not 'war'",
+        "summary": "I call it a military conflict because it's small potatoes for us. It's not a big thing, said U.S. Vice-President J.D. Vance",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/politics/3313655/parliament-rejects-air-bill-changes",
-        "published": "2026-09-03T22:42:00+00:00"
-      },
-      {
-        "id": "bb0571a332ba1fa5c7888c34133154db",
-        "title": "Nectec steps up push for tech sovereignty",
-        "summary": "The National Electronics and Computer Technology Center (Nectec) has estimated its research generates an economic impact of more than 10 billion baht annually as the agency shifts its focus towards technological sovereignty and steps up investment in quantum technology, physical artificial intelligence (AI) and space communications.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3313585/nectec-steps-up-push-for-tech-sovereignty",
-        "published": "2026-09-03T22:35:00+00:00"
-      },
-      {
-        "id": "815bd07a8e83793114756e6462251bfb",
-        "title": "Phuket records a foreign arrival rebound in July",
-        "summary": "Phuket's foreign arrivals are rebounding as the impact of the Middle East conflict subsides, but the hospitality sector still faces challenges from tighter consumer spending and intensifying competition.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3313595/phuket-records-a-foreign-arrival-rebound-in-july",
-        "published": "2026-09-03T22:24:00+00:00"
-      },
-      {
-        "id": "5affd73b1575b67e29f10004b950cf23",
-        "title": "US urged to consider military strikes to stop China achieving AGI first",
-        "summary": "The United States should start preparing for scenarios where extreme measures must be taken to stop China from achieving artificial general intelligence (AGI), according to a former White House official, including state-backed espionage and military strikes on Chinese data centres. Jacob Stokes, deputy director of the Indo-Pacific Security Program at the Centre for a New American Security (CNAS), said at an online event on Thursday that various US agencies, including the Department of Defense...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first?utm_source=rss_feed",
-        "published": "2026-09-03T22:13:33+00:00"
-      },
-      {
-        "id": "ab5216ad8c0fd1d2d5880a81bc1b929c",
-        "title": "Data centres advise balance in regulations",
-        "summary": "Amid tighter scrutiny of data centres over fuel safety, zoning and environmental concerns, Thailand should close regulatory gaps without an overcorrection that could undermine investment, capitalising on the industry's expansion to build a higher-value domestic artificial intelligence (AI) supply chain, according to the Thailand Data Center Association (TDCA).",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3313725/data-centres-advise-balance-in-regulations",
-        "published": "2026-09-03T22:01:00+00:00"
-      },
-      {
-        "id": "d9709813b45fec8604ef630f8e865c7a",
-        "title": "As AI reaches rural India, health workers are putting it to the test",
-        "summary": "From screening for tuberculosis to monitoring newborns, AI is reaching rural India amid healthcare workforce shortages. But scaling it means fitting the technology into already stretched workers’ routines.",
-        "source": "CNA Asia",
-        "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/ai-reaches-rural-india-health-workers-are-putting-it-test-6356946",
-        "published": "2026-09-03T22:00:00+00:00"
+        "url": "https://www.thehindu.com/news/international/trump-calls-iran-conflict-small-potatoes-says-he-agrees-with-vance-that-its-not-war/article71429847.ece",
+        "published": "2026-09-04T21:14:40+00:00"
       }
     ],
     "others": [
       {
-        "id": "9ac7779fb5d98b76d5e65c06edc54d84",
-        "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
-        "summary": "Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
-        "published": "2026-09-03T23:23:26+00:00"
-      },
-      {
-        "id": "5740b60992c8503c748c5825db7f3178",
-        "title": "DR Congo joins countries pledging embassy move to Jerusalem",
-        "summary": "DR Congo has renewed its pledge to move its embassy in Israel from Tel Aviv to Jerusalem.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
-        "published": "2026-09-03T23:05:12+00:00"
-      },
-      {
-        "id": "8f09134d2d3362f38a4ee4f1c781d626",
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "id": "740465a7e780a4937b47ebc840acff97",
+        "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+        "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-03T22:31:23+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-04T23:07:23+00:00"
       },
       {
-        "id": "9053b56a27b275ef5a94e5f61517b6ac",
-        "title": "US investigating if missile hit Iran wedding, Vance says",
-        "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-03T22:19:59+00:00"
-      },
-      {
-        "id": "bef59d37f1b8f54fe7cd1d3f2d744f30",
-        "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
-        "summary": "Critics call the US multi-billion-dollar oil deal in Venezuela modern-day colonialism.",
+        "id": "b53fc3c0a455e29c8400b729ff1fccb9",
+        "title": "Mock Republican convention website redirects users to Epstein Files",
+        "summary": "Democratic lawmakers poke fun at prank website, while Republicans slam 'fake news' and redirect users to real one.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
-        "published": "2026-09-03T22:08:33+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
+        "published": "2026-09-04T22:51:06+00:00"
       },
       {
-        "id": "68cef8cb42a57e549d9b16d337e57396",
-        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-        "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+        "id": "dac70763e702be9d3e138b852ec1a848",
+        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+        "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-03T18:04:34+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-04T22:48:38+00:00"
       },
       {
-        "id": "6a3cc2a3a71a5c40aa36ef6d64b4bb44",
-        "title": "Trump's Iran strategy: Could this become a forever war?",
-        "summary": "The US has launched fresh attacks on military targets in Iran. It wants to prevent Tehran rebuilding its destroyed capabilities, but risks triggering a sustained downward spiral of reconstruction followed by new attacks.",
-        "source": "Deutsche Welle",
+        "id": "a5cf365acc1e6c90380f3be809d65786",
+        "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+        "summary": "Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.",
+        "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-09-03T17:46:00+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+        "published": "2026-09-04T21:58:47+00:00"
       },
       {
-        "id": "d60b1d5966118b14212b2093962f7e87",
-        "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
-        "summary": "Opposition leader says interim government lacking democratic mandate to negotiate on natural resources• The US and Venezuela: a century-old relationship drenched in oilThe Venezuelan opposition leader María Corina Machado has questioned Donald Trump’s oil deal with Venezuela’s interim government, saying the country’s natural resources do not belong to “an illegitimate regime”.In her first public comments since Trump announced what he called “the biggest oil deal in world history” with Venezuela ",
+        "id": "4eb4e861ed05140f28b11e657d87bf90",
+        "title": "Costa Rican president signals openness to domestic US military operations",
+        "summary": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+        "published": "2026-09-04T21:45:56+00:00"
+      },
+      {
+        "id": "6a4e5a97016b072395232b707c8206d4",
+        "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+        "summary": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islandsDonald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House.It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time. Continue reading...",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
-        "published": "2026-09-03T16:17:29+00:00"
+        "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+        "published": "2026-09-04T20:21:52+00:00"
+      },
+      {
+        "id": "5c7c387c7002213f4f9319ce77ee7947",
+        "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
+        "summary": "Maltese businessman Yorgen Fenech has been found not guilty of complicity to murder journalist Daphne Caruana Galizia. Almost nine years after the attack, the question of who ordered her death remains unanswered.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-09-04T19:31:00+00:00"
+      },
+      {
+        "id": "dae35d6b216b2a549dc3132c9ebf63c3",
+        "title": "Yemen: Fighting intensifies amid Houthi push in the west",
+        "summary": "Houthi forces are trying to secure high ground and solidify their control of the entry to the Red Sea in the southwest. The Iran-backed militia abandoned a shaky truce with the Saudi-backed government-in-exile in July.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/yemen-fighting-intensifies-amid-houthi-push-in-the-west/a-79039588?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-09-04T19:15:00+00:00"
       }
     ],
     "tech": [
       {
-        "id": "ca77112168e949e506b11d3e18e6878f",
-        "title": "Protecting Engineers' Skills in the AI Era",
-        "summary": "Article URL: https://spectrum.ieee.org/ai-engineer-skills Comments URL: https://news.ycombinator.com/item?id=49558302 Points: 9 # Comments: 4",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://spectrum.ieee.org/ai-engineer-skills",
-        "published": "2026-09-03T23:00:04+00:00"
-      },
-      {
-        "id": "9154c605792770278debece83f3ddc03",
-        "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
-        "summary": "Article URL: https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796 Comments URL: https://news.ycombinator.com/item?id=49558086 Points: 11 # Comments: 6",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-        "published": "2026-09-03T22:37:31+00:00"
-      },
-      {
-        "id": "9859e39740b6be2b334b2b53597bf720",
-        "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-        "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+        "id": "1a64735d4621807b0664103a97213562",
+        "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+        "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-        "published": "2026-09-03T22:13:50+00:00"
+        "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+        "published": "2026-09-04T22:49:17+00:00"
       },
       {
-        "id": "36c0322b74f58ccfbcc1b043387e1b29",
-        "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-        "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-        "published": "2026-09-03T22:00:00+00:00"
-      },
-      {
-        "id": "b84fccf2d211bc0b066f00f33ddd57bc",
-        "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-        "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 60 # Comments: 16",
+        "id": "58f9dc0e4401af4b02adfc431ecbd3f8",
+        "title": "Can guitar frets perform multiplication?",
+        "summary": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html Comments URL: https://news.ycombinator.com/item?id=49571047 Points: 3 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-        "published": "2026-09-03T21:20:34+00:00"
+        "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+        "published": "2026-09-04T22:40:30+00:00"
       },
       {
-        "id": "029870aee6f98d2dee9f421f4c9dea15",
-        "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-        "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+        "id": "2bd73cb17eee6f085a42bad2abcb6119",
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-        "published": "2026-09-03T21:10:59+00:00"
+        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "published": "2026-09-04T22:17:36+00:00"
       },
       {
-        "id": "6436ef622ffaa1b21350c83093b385ff",
-        "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-        "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49556922 Points: 0 # Comments: 0",
+        "id": "cd1b986328f424af21a9f3c99a4b59bd",
+        "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+        "summary": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 62 # Comments: 25",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://tasklet.ai/careers/customer-success-engineer",
-        "published": "2026-09-03T21:01:10+00:00"
+        "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+        "published": "2026-09-04T22:03:16+00:00"
       },
       {
-        "id": "e7da2d88f53aa023a48c86d118df0431",
-        "title": "Dungeons & Dragons is getting a ‘Ravenloft’ live-action Netflix series",
-        "summary": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. Netflix's Ravenloft series will reportedly center […]",
+        "id": "3bd25dd31083632c6092060a35f0cc86",
+        "title": "Actively exploited sandbox RCE in all Chromium versions",
+        "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 82 # Comments: 32",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+        "published": "2026-09-04T21:52:01+00:00"
+      },
+      {
+        "id": "85836edcf8e8c8295761f179688c7702",
+        "title": "Icons as a Service",
+        "summary": "Article URL: https://nravic.com/blog/images/ Comments URL: https://news.ycombinator.com/item?id=49570597 Points: 7 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://nravic.com/blog/images/",
+        "published": "2026-09-04T21:44:59+00:00"
+      },
+      {
+        "id": "c6370e2f17ad4bc7eab5b5051fc5e77c",
+        "title": "GPT-6 Astra on OpenRouter",
+        "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 62 # Comments: 26",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://openrouter.ai/openai/gpt-6-astra",
+        "published": "2026-09-04T21:39:19+00:00"
+      },
+      {
+        "id": "32a38e88c40dbfd81cc475a09ba93962",
+        "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+        "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-        "published": "2026-09-03T20:48:05+00:00"
+        "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+        "published": "2026-09-04T21:23:50+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "0d987776dfdbaa5e9182fceb7be1cfc0",
+        "title": "VW’s surprise job-slashing deal is a big win for its bosses",
+        "summary": "And a blow to Germany’s co-operative model of industrial relations",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/09/04/vws-surprise-job-slashing-deal-is-a-big-win-for-its-bosses",
+        "published": "2026-09-04T18:09:55+00:00"
+      },
+      {
+        "id": "0c1508f854986dfd5b9493591ca8c0fb",
+        "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+        "summary": "Initial effects of the technology on employment look positive",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "published": "2026-09-04T18:05:02+00:00"
+      },
+      {
+        "id": "8803f48dfc75b95da47ec385b9bd3cea",
+        "title": "How Oura’s rings found their way onto millions of fingers",
+        "summary": "Its business is booming as consumers look to take charge of their health",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/09/04/how-ouras-rings-found-their-way-onto-millions-of-fingers",
+        "published": "2026-09-04T17:21:12+00:00"
+      },
       {
         "id": "cbf85db3589539b8deb2990bbb420a7c",
         "title": "The moral panic over data centres is foolish",
@@ -390,57 +417,30 @@
         "published": "2026-09-03T13:09:26+00:00"
       },
       {
-        "id": "b880edd5ec0dd4b04ec03d068b9de930",
-        "title": "Social-media curbs for kids are not working in Asia",
-        "summary": "They are widely ignored, flouted and sidestepped",
-        "source": "Asia",
+        "id": "1bd66806fcfbf1e9e72f2e88fdd99ac9",
+        "title": "What the Bayeux tapestry teaches about surviving against the odds",
+        "summary": "A 950-year-old piece of linen yields lessons for modern viewers",
+        "source": "Leaders",
         "category": "economist",
-        "url": "https://www.economist.com/asia/2026/09/03/social-media-curbs-for-kids-are-not-working-in-asia",
+        "url": "https://www.economist.com/leaders/2026/09/03/what-the-bayeux-tapestry-teaches-about-surviving-against-the-odds",
         "published": "2026-09-03T13:08:54+00:00"
       },
       {
-        "id": "a89e445703d96ac897c20d9baa5639e6",
-        "title": "Japan’s mainstream political opposition is a shambles",
-        "summary": "The breakdown of a new alliance reflects deeper problems",
-        "source": "Asia",
+        "id": "e0b22f557728d4d4c54a6dc16ea53b40",
+        "title": "In many countries, the biggest barrier to prosperity is in the home",
+        "summary": "A less sexist world would be much richer",
+        "source": "Leaders",
         "category": "economist",
-        "url": "https://www.economist.com/asia/2026/09/03/japans-mainstream-political-opposition-is-a-shambles",
+        "url": "https://www.economist.com/leaders/2026/09/03/in-many-countries-the-biggest-barrier-to-prosperity-is-in-the-home",
         "published": "2026-09-03T13:08:54+00:00"
       },
       {
-        "id": "cd136fabfd34ce25fa177a7c068bb4df",
-        "title": "The Pacific Islands Forum fizzles as China flexes its muscles",
-        "summary": "Leaders stay away over debates about Taiwan’s presence",
-        "source": "Asia",
+        "id": "fdb00d69abbeff0573580743ef613628",
+        "title": "Yoweri Museveni’s decline is putting Uganda on a terrifying path",
+        "summary": "It faces the prospect of a worse despot or a messy power struggle",
+        "source": "Leaders",
         "category": "economist",
-        "url": "https://www.economist.com/asia/2026/09/03/the-pacific-islands-forum-fizzles-as-china-flexes-its-muscles",
-        "published": "2026-09-03T13:08:54+00:00"
-      },
-      {
-        "id": "e3624a5a19c7bdaf7ac0968b2a827802",
-        "title": "The glory of the corporate training video",
-        "summary": "Cartoons. Gold stars. Terrible acting. It’s all there",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/09/03/the-glory-of-the-corporate-training-video",
-        "published": "2026-09-03T13:08:54+00:00"
-      },
-      {
-        "id": "5dff85a470e2566227d01ed2aaa03ab8",
-        "title": "LIV Golf’s failure shows how not to invest in sport",
-        "summary": "It takes more than huge amounts of money to disrupt a game",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/09/03/liv-golfs-failure-shows-how-not-to-invest-in-sport",
-        "published": "2026-09-03T13:08:54+00:00"
-      },
-      {
-        "id": "a227c53910907cffe67e831d446588ef",
-        "title": "The IRS is going after America Inc’s overseas profits",
-        "summary": "Companies from Coca-Cola to Meta are in its sights",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/09/03/the-irs-is-going-after-america-incs-overseas-profits",
+        "url": "https://www.economist.com/leaders/2026/09/03/yoweri-musevenis-decline-is-putting-uganda-on-a-terrifying-path",
         "published": "2026-09-03T13:08:54+00:00"
       }
     ]
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5744.10986328125,
-        "prev_close": 5710.3701171875,
-        "change_pct": 0.59,
+        "price": 5747.7099609375,
+        "prev_close": 5744.10986328125,
+        "change_pct": 0.06,
         "direction": "up",
-        "price_fmt": "5,744.1",
-        "change_str": "+0.59%"
+        "price_fmt": "5,747.7",
+        "change_str": "+0.06%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7747.7099609375,
-        "prev_close": 7666.60009765625,
-        "change_pct": 1.06,
-        "direction": "up",
-        "price_fmt": "7,747.7",
-        "change_str": "+1.06%"
+        "price": 7718.60009765625,
+        "prev_close": 7747.7099609375,
+        "change_pct": -0.38,
+        "direction": "down",
+        "price_fmt": "7,718.6",
+        "change_str": "-0.38%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 25311.2109375,
-        "prev_close": 25329.73046875,
-        "change_pct": -0.07,
+        "price": 25213.310546875,
+        "prev_close": 25311.2109375,
+        "change_pct": -0.39,
         "direction": "down",
-        "price_fmt": "25,311",
-        "change_str": "-0.07%"
+        "price_fmt": "25,213",
+        "change_str": "-0.39%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 64325.640625,
-        "prev_close": 66215.34375,
-        "change_pct": -2.85,
+        "price": 64214.48046875,
+        "prev_close": 64325.640625,
+        "change_pct": -0.17,
         "direction": "down",
-        "price_fmt": "64,326",
-        "change_str": "-2.85%"
+        "price_fmt": "64,214",
+        "change_str": "-0.17%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10756.5,
-        "prev_close": 10789.2998046875,
-        "change_pct": -0.3,
-        "direction": "down",
-        "price_fmt": "10,756",
-        "change_str": "-0.30%"
+        "price": 10831.5,
+        "prev_close": 10756.5,
+        "change_pct": 0.7,
+        "direction": "up",
+        "price_fmt": "10,832",
+        "change_str": "+0.70%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8978.400390625,
-        "prev_close": 9066.7001953125,
-        "change_pct": -0.97,
-        "direction": "down",
-        "price_fmt": "8,978.4",
-        "change_str": "-0.97%"
+        "price": 9020.099609375,
+        "prev_close": 8978.400390625,
+        "change_pct": 0.46,
+        "direction": "up",
+        "price_fmt": "9,020.1",
+        "change_str": "+0.46%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2670300006866455,
-        "prev_close": 1.270900011062622,
-        "change_pct": -0.3,
+        "price": 1.2666000127792358,
+        "prev_close": 1.2667100429534912,
+        "change_pct": -0.01,
         "direction": "down",
         "price_fmt": "1.27",
-        "change_str": "-0.30%"
+        "change_str": "-0.01%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4729100465774536,
-        "prev_close": 1.4722000360488892,
-        "change_pct": 0.05,
-        "direction": "up",
+        "price": 1.470900058746338,
+        "prev_close": 1.4727400541305542,
+        "change_pct": -0.12,
+        "direction": "down",
         "price_fmt": "1.47",
-        "change_str": "+0.05%"
+        "change_str": "-0.12%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7133599519729614,
-        "prev_close": 1.713610053062439,
-        "change_pct": -0.01,
+        "price": 1.7115999460220337,
+        "prev_close": 1.7129000425338745,
+        "change_pct": -0.08,
         "direction": "down",
         "price_fmt": "1.71",
-        "change_str": "-0.01%"
+        "change_str": "-0.08%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008080000057816505,
+        "price": 0.008059999905526638,
         "prev_close": 0.0081,
-        "change_pct": -0.25,
+        "change_pct": -0.49,
         "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "-0.25%"
+        "change_str": "-0.49%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.18799999356269836,
+        "price": 0.18809999525547028,
         "prev_close": 0.188,
-        "change_pct": -0.0,
-        "direction": "down",
+        "change_pct": 0.05,
+        "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "-0.00%"
+        "change_str": "+0.05%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 95.93000030517578,
-        "prev_close": 95.62999725341797,
-        "change_pct": 0.31,
+        "price": 95.83000183105469,
+        "prev_close": 95.5199966430664,
+        "change_pct": 0.32,
         "direction": "up",
-        "price_fmt": "95.93",
-        "change_str": "+0.31%"
+        "price_fmt": "95.83",
+        "change_str": "+0.32%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4520.7998046875,
-        "prev_close": 4366.2998046875,
-        "change_pct": 3.54,
-        "direction": "up",
-        "price_fmt": "4,520.8",
-        "change_str": "+3.54%"
+        "price": 4477.2001953125,
+        "prev_close": 4491.7001953125,
+        "change_pct": -0.32,
+        "direction": "down",
+        "price_fmt": "4,477.2",
+        "change_str": "-0.32%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 67.56999969482422,
-        "prev_close": 64.7229995727539,
-        "change_pct": 4.4,
-        "direction": "up",
-        "price_fmt": "67.57",
-        "change_str": "+4.40%"
+        "price": 66.81999969482422,
+        "prev_close": 66.9729995727539,
+        "change_pct": -0.23,
+        "direction": "down",
+        "price_fmt": "66.82",
+        "change_str": "-0.23%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.924999952316284,
-        "prev_close": 2.9560000896453857,
-        "change_pct": -1.05,
-        "direction": "down",
-        "price_fmt": "2.92",
-        "change_str": "-1.05%"
+        "price": 2.938999891281128,
+        "prev_close": 2.9130001068115234,
+        "change_pct": 0.89,
+        "direction": "up",
+        "price_fmt": "2.94",
+        "change_str": "+0.89%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 81338.9765625,
-        "prev_close": 77300.4765625,
-        "change_pct": 5.22,
-        "direction": "up",
-        "price_fmt": "81,339",
-        "change_str": "+5.22%"
+        "price": 79695.140625,
+        "prev_close": 81271.7421875,
+        "change_pct": -1.94,
+        "direction": "down",
+        "price_fmt": "79,695",
+        "change_str": "-1.94%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2507.3701171875,
-        "prev_close": 2391.5009765625,
-        "change_pct": 4.85,
-        "direction": "up",
-        "price_fmt": "2,507.4",
-        "change_str": "+4.85%"
+        "price": 2453.02001953125,
+        "prev_close": 2508.020751953125,
+        "change_pct": -2.19,
+        "direction": "down",
+        "price_fmt": "2,453.0",
+        "change_str": "-2.19%"
       }
     ]
   },
