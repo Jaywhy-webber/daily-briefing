@@ -2,375 +2,393 @@
   "news": {
     "singapore": [
       {
-        "id": "60d7bd97e2bcb86875103e767759db53",
-        "title": "New Home Team driving circuit to be built on 16ha site to replace facility in Admiralty",
-        "summary": "MHA did not disclose the location of the new circuit.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/new-home-team-driving-circuit-to-be-built-on-16ha-site-and-replace-facility-in-admiralty",
-        "published": "2026-09-05T23:00:00+00:00"
-      },
-      {
-        "id": "66d15acea6023406cd89aa1552f310f9",
-        "title": "Still running: The many lives of Larry Peh",
-        "summary": "He twice won Singapore's highest design honour but also grappled with near bankruptcy and depression, and had brushes with death.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/still-running-the-many-lives-of-larry-peh",
-        "published": "2026-09-05T21:00:00+00:00"
-      },
-      {
-        "id": "1e9e3a2a6a1a30d487df59fb8d9bfef5",
-        "title": "Experts suggest social media page breaks, post limits, ‘minor mode’ master switch to protect teens",
-        "summary": "Suggestions follow Meta's $18b landmark settlement in the US, and China's 'Minor Mode' rollout.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/experts-suggest-social-media-page-breaks-post-limits-minor-mode-master-switch-to-protect-teens",
-        "published": "2026-09-05T21:00:00+00:00"
-      },
-      {
-        "id": "1015f24451abd360d9f7aed6b99a22c8",
-        "title": "EU landmark rules for ChatGPT give Singapore the blueprint to rein in AI harms: Experts",
-        "summary": "But the Singapore Government is unlikely to follow overseas measures to a tee and instead adopt measures that are commensurate with the risks in the country.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/eu-landmark-rules-for-chatgpt-give-singapore-the-blueprint-to-rein-in-ai-harms-experts",
-        "published": "2026-09-05T21:00:00+00:00"
-      },
-      {
-        "id": "2b280594c8db33ae6cc907e59fd1f1bb",
-        "title": "Singapore air quality improves to moderate range after unhealthy readings",
-        "summary": "Air quality in three regions of Singapore started the day in the unhealthy range on Saturday before improving throughout the day.",
+        "id": "aa32b64a80545e804bc169cd24aaac13",
+        "title": "As other Asian equity markets boom, Singapore sees value over volume in SGX's IPO rebound",
+        "summary": "The SGX is having a bumper crop of IPOs in the first half of the year and the trend is likely to continue if the market holds, analysts said.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/haze-singapore-air-quality-moderate-range-psi-6364811",
-        "published": "2026-09-05T14:46:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/singapore-sgx-ipo-hong-kong-malaysia-6359571",
+        "published": "2026-09-06T22:00:00+00:00"
       },
       {
-        "id": "717c89b5f9a35ca7b41592ea7c8ab50d",
-        "title": "One person taken to hospital after Simon Lane house fire",
-        "summary": "",
+        "id": "8aa8b5416db2e0f7ffd0d8806d37f594",
+        "title": "Interesting mooncakes to try in Singapore for Mid-Autumn Festival 2026",
+        "summary": "From tea-infused and snow skin mooncakes to traditional Teochew favourites, custard-filled creations and elaborate gift sets, here are some of the standout options available in Singapore this Mid-Autumn Festival.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/fire-simon-lane-one-person-hospital-6364706",
-        "published": "2026-09-05T13:42:34+00:00"
+        "url": "https://www.channelnewsasia.com/experiences/singapore-mooncakes-2026-6356531",
+        "published": "2026-09-06T21:37:00+00:00"
       },
       {
-        "id": "16f80010d0faa995394feeb690aa59da",
-        "title": "Racism has no place in Singapore; concerns about SIA-Air India deal ‘purely commercial’, says WP MP Kenneth Tiong",
-        "summary": "The Workers' Party MP was responding to comments by Senior Minister K Shanmugam on Saturday (Sep 5), in which he addressed racist online comments about the Nepal-Tibet disaster and SIA’s investment in Air India.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/racism-sia-air-india-deal-commercial-kenneth-tiong-shanmugam-6364671",
-        "published": "2026-09-05T13:15:00+00:00"
-      },
-      {
-        "id": "68c070b287f46f35a2d2235cb67475df",
-        "title": "Air quality across Singapore no longer within unhealthy range",
-        "summary": "The 24-hour PSI for the central region dipped to 98 at 9pm on Sept 5.",
+        "id": "c58992314cbbbbdff8cb8477ed92549c",
+        "title": "New health guidelines: Osteoporosis screening, earlier breast cancer scan recommended",
+        "summary": "The Health Ministry is reviewing the recommendations and whether to provide the relevant subsidies.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/air-quality-across-singapore-no-longer-within-unhealthy-range",
-        "published": "2026-09-05T13:10:16+00:00"
+        "url": "https://www.straitstimes.com/singapore/health/new-health-guidelines-osteoporosis-screening-recommended-breast-cancer-scans-to-start-earlier",
+        "published": "2026-09-06T21:00:00+00:00"
+      },
+      {
+        "id": "fcc1a979ed0936ae49db8e7d9e6fc606",
+        "title": "askST Jobs: Meetings and chats at the breakout area next to my desk can get quite ‘lively’. What can I do?",
+        "summary": "Shared spaces are for everyone, but consideration and clear ground rules can prevent friction.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/jobs/askst-jobs-meetings-and-chats-at-the-breakout-area-next-to-my-desk-can-get-quite-lively-what-can-i",
+        "published": "2026-09-06T21:00:00+00:00"
+      },
+      {
+        "id": "a142be85aedd788682917c2c7414296d",
+        "title": "Industrial spaces and homes under one roof? JTC explores idea with architects",
+        "summary": "If built, such projects could make better use of land and bring jobs closer to homes.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/industrial-spaces-and-homes-under-one-roof-jtc-explores-idea-with-architects",
+        "published": "2026-09-06T21:00:00+00:00"
+      },
+      {
+        "id": "546fa50300160c5efe8d428490ef3e4b",
+        "title": "Amid a ‘friendship recession’, some young Singaporeans are building bonds through shared interests",
+        "summary": "Friendship circles in Singapore are shrinking, with only 48 per cent of young people in 2025 saying they have more than three close friends, down from 56 per cent in 2013.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/amid-a-friendship-recession-some-young-singaporeans-are-building-bonds-through-shared-interests",
+        "published": "2026-09-06T20:00:00+00:00"
+      },
+      {
+        "id": "493a17c2a5c741cd7fa3d6d3101a2f5e",
+        "title": "Air quality across Singapore to be between high moderate and low unhealthy range in next 24 hours",
+        "summary": "Sept 4 marked the first time since 2023 that the PSI reading in Singapore reached the unhealthy range because of haze.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/air-quality-across-singapore-to-be-between-high-moderate-and-low-unhealthy-range-in-next-24-hours",
+        "published": "2026-09-06T11:51:00+00:00"
+      },
+      {
+        "id": "68ba33d0f0f675a4f1b219d1f4a687e5",
+        "title": "Singapore air quality remains in moderate range",
+        "summary": "As of 11pm on Sunday, the 24-hour PSI in Singapore was between 72 and 93, in the moderate range.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-sep-6-moderate-range-psi-6365571",
+        "published": "2026-09-06T11:26:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "6dd81ba0b72493d26278c19e9e48f879",
-        "title": "Trump admin ends $45M support for Namibia HIV program",
-        "summary": "The Trump administration announced it will be ending $45 million in support for Namibia’s HIV response program following two decades of annual payments. The U.S. will provide its final $45 million payment in the 2027 fiscal year as “this support will transition into a technical cooperation model,” according to a Friday joint statement from Namibia’s…",
+        "id": "fbcca0dbf4a97e655047158cca257bdf",
+        "title": "At least five dead, others hospitalized after plane overshoots Miami runway",
+        "summary": "At least five people are dead following an Amazon cargo plane crash at Miami International Airport (MIA), Miami-Dade County officials confirmed Sunday afternoon. The airplane overran the airport’s runway at around 2 p.m., according to airport officials. The fatal crash initially caused a complete ground stop at MIA, though two of its four runways are…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
-        "published": "2026-09-05T22:24:04+00:00"
+        "url": "https://thehill.com/policy/transportation/6074224-amazon-cargo-plane-overruns-mia-runway/",
+        "published": "2026-09-06T22:09:09+00:00"
       },
       {
-        "id": "a85a634df6bae489c097e031143e4109",
-        "title": "Trump’s MAGA Inc. super-PAC funnels $10 million into Texas Senate race",
-        "summary": "President Trump’s super-PAC MAGA Inc. gave $10 million in support of Texas Attorney General Ken Paxton’s (R) Senate campaign ahead of the 2026 midterm elections, according to Federal Election Commission (FEC) filings published Saturday. The $10 million payment, given to political media company, Del Ray Media, funded two attack ads against his Democratic opponent James…",
+        "id": "9015be7c22ad954db9d28bfad3f0e100",
+        "title": "Trump says White House helipad work is done after August project restart",
+        "summary": "President Trump on Sunday announced that the White House helipad — which was redone at his request last month — has been completed. Trump posted a photo on Truth Social of former President Eisenhower on the White House lawn before departing in an Air Force H-13J helicopter in July 1957, becoming the first U.S. president…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6073421-trump-maga-inc-paxton-donation-10-million/",
-        "published": "2026-09-05T21:43:31+00:00"
+        "url": "https://thehill.com/homenews/administration/6074141-trump-completes-white-house-helipad/",
+        "published": "2026-09-06T21:15:02+00:00"
       },
       {
-        "id": "b1399fd591c61e8a952bb5784a8d4b3d",
-        "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
-        "summary": "On the centennial of father's birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space.",
+        "id": "decf8f9e2f849a46bb5de2824ff1f6dc",
+        "title": "Top House Republican backs Max Miller: ‘I support anybody with an R by their name’",
+        "summary": "Rep. Lisa McClain (R-Mich.), the chair of the House Republican Conference, said Sunday she backs Rep. Max Miller (R-Ohio), despite two of his former partners accusing him of abuse. “Listen, divorces are ugly. And I’m glad I’m not … in his shoes right now,” McClain told host Margaret Brennan on CBS News’s “Face the Nation.”…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6074174-mcclain-backs-miller-abuse-allegations/",
+        "published": "2026-09-06T21:06:24+00:00"
+      },
+      {
+        "id": "15209f8e92c632537081c61d067309a5",
+        "title": "Trump administration expands mass deportations with noncriminals",
+        "summary": "A surge in immigration arrests is sweeping up immigrants with no criminal record whatsoever, including many who were already known by the government, as officers push to meet quotas set by the Trump administration. U.S. Immigration and Customs Enforcement (ICE) officers broke records for the second Trump administration with back-to-back months of arrests topping 50,000…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6072318-ice-arrests-surge-non-criminals/",
+        "published": "2026-09-06T21:00:00+00:00"
+      },
+      {
+        "id": "5eee83248ac919d593fa82cf7956d8fe",
+        "title": "GOP Sen. John Kennedy hedges on support for Hegseth",
+        "summary": "Sen. John Kennedy (R-La.) on Sunday dodged questions about Defense Secretary Pete Hegseth as other Republicans voice concerns over the Iran war and senior Defense staff turnover. NBC News’s Kristen Welker asked the senator on “Meet the Press” if he still had confidence in Hegseth. “Well, it’s not my place to have confidence in him,”…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/senate/6074062-john-kennedy-hegseth-pentagon-support-questions/",
+        "published": "2026-09-06T20:30:25+00:00"
+      },
+      {
+        "id": "c2f357f249ebda2a44b4223caa21e3cb",
+        "title": "Live updates: Airplane overruns Miami runway; Energy secretary downplays rising gas prices as US, Iran trade strikes",
+        "summary": "An Amazon cargo plane ran off a runway at Miami International Airport on Sunday and struck multiple vehicles. It burst into flames and forced the closure of all runways at the airport. Transportation Secretary Sean Duffy said on the social platform X that Miami travelers should expect significant delays or potential cancellations. The Federal Aviation…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
+        "published": "2026-09-06T20:23:28+00:00"
+      },
+      {
+        "id": "b3c7db1ed8bd9505e238931efaeed58e",
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "summary": "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
-        "published": "2026-09-05T21:01:10+00:00"
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+        "published": "2026-09-06T19:54:28+00:00"
       },
       {
-        "id": "d38c625b944187ac2ae1e8e1cdddb0c0",
-        "title": "Trump faces down beef backlash. Will import plan pay off?",
-        "summary": "President Trump is pushing ahead with his plan to import foreign beef as a way to reduce prices for Americans, despite the backlash from cattle farmers and Republicans whose states would be most be most affected. In an apparent effort to soften the blow, Trump signed executive orders Friday, including one that allows ranchers and…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6072701-trump-imports-foreign-beef/",
-        "published": "2026-09-05T21:00:00+00:00"
-      },
-      {
-        "id": "0c623f5221333f6cb51e536aeee94e45",
-        "title": "Sunday shows preview: Trump travels to Texas for RNC midterm convention; Administration downplays Iran war consequences",
-        "summary": "President Trump will head to the GOP’s convention in Dallas next week — an event aimed at galvanizing Republican voters to get out the vote ahead of the midterm elections this November. The president will headline the two-day convention, and Vice President JD Vance is also expected to address attendees. Ahead of the inaugural event,…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war/",
-        "published": "2026-09-05T20:44:16+00:00"
-      },
-      {
-        "id": "5943c5362f4c09c25528e98a4424c6fa",
-        "title": "Trump shakes up RNC midterm convention schedule, says he’ll speak on night one",
-        "summary": "President Trump is set to speak on Night 1 of the Republican National Committee’s (RNC) Midterm Convention in Dallas on Sept. 9. “The Greatest RALLY of them all,” Trump wrote in a Friday Truth Social post. “I’ll be speaking on night one, and hanging around for an earlier closing, and lots of music, on night…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6073371-trump-to-speak-night-one/",
-        "published": "2026-09-05T20:42:37+00:00"
-      },
-      {
-        "id": "b053401adc3d539d6f8e7f286cef1404",
-        "title": "Texas Republican: ‘I don’t have an ounce of sympathy for Lindsay Clancy’",
-        "summary": "Rep. Brandon Gill (R-Texas) said he has no sympathy for Lindsay Clancy after her murder trial ended in a mistrial, rejecting the defense’s argument that severe mental illness left her not criminally responsible for killing her three children. “I don’t have an ounce of sympathy for Lindsay Clancy,” Gill said Friday on Fox News’s “The…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/house/6073377-gill-rejects-clancy-defense/",
-        "published": "2026-09-05T20:27:18+00:00"
-      },
-      {
-        "id": "4d658f6110b84d3cc75824375a20ec7e",
-        "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-        "summary": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
+        "id": "ca0809d348af1b49039193f725d210ba",
+        "title": "German exit polls suggest far-right party has big lead in regional election",
+        "summary": "Exit polls show Germany's AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country's first state government since World War II.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-        "published": "2026-09-05T15:05:08+00:00"
+        "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+        "published": "2026-09-06T16:36:48+00:00"
       }
     ],
     "asia": [
       {
-        "id": "e99149fa5cb71bdb5b51a0a3402370c4",
-        "title": "U.S. envoys outlined ‘number of ideas’ on ending Ukraine war to Putin: Kremlin",
-        "summary": "“They did not only express their traditional interest in bringing the hostilities to a quick end, they put forward a number of ideas on possible routes to a settlement,” Kremlin aide Yuri Ushakov said.",
+        "id": "f752a0a39761f3473437bfd94b6b99d3",
+        "title": "Budget bill cut ahead of debate",
+        "summary": "The 2027 budget bill, worth 3.78 trillion baht, has been cut by 11.162 billion baht ahead of a three-day parliamentary debate on its second and third readings starting on Monday, with MPs set to challenge several major allocations.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/politics/3315033/budget-bill-cut-ahead-of-debate",
+        "published": "2026-09-06T22:35:00+00:00"
+      },
+      {
+        "id": "5b0b60ec205ae2239bc05bb19fef843c",
+        "title": "Battling the blues - Young at risk from city's fast pace, heavy traffic",
+        "summary": "In Bangkok's relentless traffic and fast-paced lifestyle, young people are facing mounting pressures that can lead to depression, self-harm and suicidal behaviour.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3315183/battling-the-blues-young-at-risk-from-citys-fast-pace-heavy-traffic",
+        "published": "2026-09-06T22:23:00+00:00"
+      },
+      {
+        "id": "5aad54ea801b69c689da963349c2ea6f",
+        "title": "U.S. envoys leave Kyiv after talks with Zelenskyy: Ukraine official",
+        "summary": "The envoys arrived in the Ukrainian capital by train, hoping to revive negotiations to end Europe's worst conflict since World War II, after a summer of escalation",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/us-envoys-outlined-number-of-ideas-on-ending-ukraine-war-to-putin-kremlin/article71433492.ece",
-        "published": "2026-09-05T22:43:42+00:00"
+        "url": "https://www.thehindu.com/news/international/us-envoys-hold-talks-with-zelensky-on-first-kyiv-visit/article71435478.ece",
+        "published": "2026-09-06T22:09:38+00:00"
       },
       {
-        "id": "ee5c4c5018deb57e8e0e66e62aa2ceb9",
-        "title": "Putin orders 72-hour pause in strikes on Kyiv as U.S. envoys visit Russia, Ukraine",
-        "summary": "The envoys’ trip comes as both sides escalate aerial attacks, some 4.5-years after the Kremlin invaded its neighbour",
+        "id": "1937867fdb898965726149941525427f",
+        "title": "Oil leak at data centre sparks concerns",
+        "summary": "Pollution officials are inspecting a Bangkok data centre after oil-contaminated waste entered drainage pipes, raising concerns that it could reach Rama IX Canal and affect nearby communities.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3315043/oil-leak-at-data-centre-sparks-concerns",
+        "published": "2026-09-06T22:01:00+00:00"
+      },
+      {
+        "id": "86c63950a310b75a7d8a30fa0c61d986",
+        "title": "Economist Lan Xiaohuan on the balancing act needed to boost China’s consumption",
+        "summary": "Lan Xiaohuan is a professor of economics at China Europe International Business School. His book, How China Works: An Introduction to China’s State-led Economic Development, has sold millions of copies in China and has been translated into multiple languages. Here, he discusses the economic realities behind China’s record trade surplus, the case for a stronger social safety net, and how public data infrastructure shapes the artificial intelligence race with the United States. This interview...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/economy/global-economy/article/3366326/economist-lan-xiaohuan-balancing-act-needed-boost-chinas-consumption?utm_source=rss_feed",
+        "published": "2026-09-06T22:00:09+00:00"
+      },
+      {
+        "id": "3deeedb52f6816db86b9879d44bd15e1",
+        "title": "Indonesia’s dual citizenship plan wins diaspora support, but is it enough to tempt them home?",
+        "summary": "President Prabowo Subianto has said the government is mulling offering limited dual citizenship to attract millions of strategically important diaspora talent who could make extraordinary contributions to the nation.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/asia/indonesia-diaspora-dual-citizenship-6347426",
+        "published": "2026-09-06T22:00:00+00:00"
+      },
+      {
+        "id": "aeb4f6f94fde1ba9dd8785c38979648d",
+        "title": "At least five dead after Amazon cargo plane barreled off runway at Miami airport",
+        "summary": "The aircraft overran the runway around 2 p.m. after arriving from San Juan, Puerto Rico. Five people were killed, three critically injured and two others hospitalised with less severe injuries, Miami-Dade County officials told a news conference.",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/russian-president-vladimir-putin-orders-72-hour-pause-in-strikes-on-kyiv/article71432032.ece",
-        "published": "2026-09-05T22:41:47+00:00"
+        "url": "https://www.thehindu.com/news/international/many-dead-after-amazon-cargo-plane-barreled-off-runway-at-miami-airport/article71436633.ece",
+        "published": "2026-09-06T21:59:02+00:00"
       },
       {
-        "id": "f4f6eb7f8e1b5683f8153e5bab790385",
-        "title": "UK’s Prince William to represent King Charles at funeral of Norway’s King Harald",
-        "summary": "Britain’s Prince William will attend the funeral of Norway’s late King Harald next week in place of his father King Charles, Buckingham Palace said on Saturday. The heir to the throne is set to represent his father at the funeral on September 9, having also attended the funeral of Pope Francis last year on behalf of the king. British monarchs do not attend funerals of other heads of state per protocol, usually sending another member of the royal family to represent them. Charles, 77, who is...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/europe/article/3366510/uks-prince-william-represent-king-charles-funeral-norways-king-harald?utm_source=rss_feed",
-        "published": "2026-09-05T22:41:41+00:00"
-      },
-      {
-        "id": "2e2afe27c6c34e1adc656b74d2dffbea",
-        "title": "PM seeks proof of exam fraud",
-        "summary": "Prime Minister Anutin Charnvirakul has challenged anyone with evidence implicating government members in the local government recruitment examination fraud scheme to submit it to the National Anti-Corruption Commission (NACC), insisting that anyone found guilty will face action regardless of rank.",
+        "id": "70ca830a8ec2c48cc3a0b0d12166c5d4",
+        "title": "Thai banks begin search for new growth opportunities",
+        "summary": "Amid Thailand's economic transition and deepening structural changes, the country's domestic systemically important banks are looking beyond traditional lending to find new growth engines, while helping businesses adapt to an economy reshaped by technology, investment and changing global supply chains.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3314639/pm-seeks-proof-of-exam-fraud",
-        "published": "2026-09-05T22:40:00+00:00"
-      },
-      {
-        "id": "72a9ac2ef236682f7664f4bc4d6aa093",
-        "title": "Professors urge quake safeguards",
-        "summary": "Thammasat University academics have called for greater resilience and better disaster response as earthquake and climate risks rise.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3314664/professors-urge-quake-safeguards",
-        "published": "2026-09-05T22:19:00+00:00"
-      },
-      {
-        "id": "4e876c7f768745f4b491324fca15046e",
-        "title": "New water treatment model helps 700 families after Kok metal scare",
-        "summary": "A science-based water treatment project is helping communities along Chiang Rai's Kok River cope with heavy-metal contamination.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3314784/new-water-treatment-model-helps-700-families-after-kok-metal-scare",
-        "published": "2026-09-05T22:12:00+00:00"
-      },
-      {
-        "id": "cdef5c5932a6491e6bc62d89dfe43960",
-        "title": "German rocket reaches space as Europe enters satellite launch race",
-        "summary": "German start-up Isar Aerospace on Saturday launched its first rocket into space from a site in Arctic Norway, bringing Europe closer to offering satellite flights from its own soil. The uncrewed Spectrum rocket was the first commercial flight to reach orbit from continental Europe, ‌where several nations have said they want a share of a growing market for space missions. “We’re in orbit! And just made European history,” Isar said in a post on social media. The event was a breakthrough for the...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/europe/article/3366509/german-rocket-reaches-space-europe-enters-satellite-launch-race?utm_source=rss_feed",
-        "published": "2026-09-05T22:06:47+00:00"
-      },
-      {
-        "id": "24757ba49588676146dda1d6a000ec0e",
-        "title": "US carrier visit highlights security ties",
-        "summary": "The arrival of the USS Abraham Lincoln aircraft carrier and more than 5,000 US personnel in Pattaya highlights both the strengthening of Thai-US security ties and complex geopolitical dynamics in the region, according to experts.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/special-reports/3314779/us-carrier-visit-highlights-security-ties",
-        "published": "2026-09-05T22:03:00+00:00"
+        "url": "https://www.bangkokpost.com/business/general/3315233/thai-banks-begin-search-for-new-growth-opportunities",
+        "published": "2026-09-06T21:50:00+00:00"
       }
     ],
     "others": [
       {
-        "id": "dfaec1e0eac2b786b907419acea59e68",
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+        "id": "78db86a719dd371651e405d802e8c203",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-05T22:44:07+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-06T23:02:45+00:00"
       },
       {
-        "id": "7d084df1e6ea2b675d584e5d019d89dd",
-        "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
-        "summary": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islandsDonald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House.It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time. Continue reading...",
+        "id": "8296258873980476e0cfe65e30a0a498",
+        "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+        "summary": "US envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv, seeking to revive efforts to end the war. But the latest diplomatic push seems to have produced no breakthrough.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-09-06T22:22:00+00:00"
+      },
+      {
+        "id": "6b7f63c73daea409be6af9d4a8705906",
+        "title": "Alcaraz breezes into last eight at US Open",
+        "summary": "Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
+        "published": "2026-09-06T21:46:08+00:00"
+      },
+      {
+        "id": "27072fe4b0511affe567e1e35294ed11",
+        "title": "At least five killed after Amazon cargo plane crash in Miami airport",
+        "summary": "Five people are injured, and the cause of the crash is being investigated, authorities say.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+        "published": "2026-09-06T21:11:01+00:00"
+      },
+      {
+        "id": "1855a72bf1d4b2ef8e667e38dc73eebb",
+        "title": "At least 10 killed in central Mexico fireworks blast during festival",
+        "summary": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+        "published": "2026-09-06T21:08:30+00:00"
+      },
+      {
+        "id": "8079279c1d5b452749a19d7823be93c0",
+        "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+        "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-06T20:52:12+00:00"
+      },
+      {
+        "id": "23a5d724bfe69016055445eb858c1928",
+        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+        "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-06T20:41:58+00:00"
+      },
+      {
+        "id": "db813205cb4d5ab007f6bfd627b4fb4c",
+        "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+        "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of stateA landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former British colonies, the Caribbean nation’s culture minister has said.The petition will be lodged with Charles, Jamaica’s head of state, on Monday. Continue reading...",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-        "published": "2026-09-05T22:19:40+00:00"
-      },
-      {
-        "id": "2246019e4aec44150dc4db1eba8ddd39",
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-05T21:39:02+00:00"
-      },
-      {
-        "id": "d0bb926a4463130b302094aae9ddcf0c",
-        "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-05T21:29:38+00:00"
-      },
-      {
-        "id": "d8a672452dd882879856b28c428957b3",
-        "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-        "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-        "published": "2026-09-05T21:23:06+00:00"
-      },
-      {
-        "id": "a384b948903327001cee59cabf444f50",
-        "title": "Building collapses after heavy rain in northern India",
-        "summary": "A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
-        "published": "2026-09-05T21:11:25+00:00"
-      },
-      {
-        "id": "9a3c70d9fb4c3fc3b50a5e85667ab4c9",
-        "title": "Prince William to attend King Harald's funeral in Norway",
-        "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-05T21:00:02+00:00"
-      },
-      {
-        "id": "91147b460c41082fface991dd9f60dc8",
-        "title": "Why is Argentina reigniting the Falklands dispute?",
-        "summary": "President Javier Milei says sovereignty over the islands remains a national objective.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
-        "published": "2026-09-05T20:14:55+00:00"
+        "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+        "published": "2026-09-06T17:05:11+00:00"
       }
     ],
     "tech": [
       {
-        "id": "b7f26ce84f04b301ab8ac6b5d6ecd7b5",
-        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 4 # Comments: 0",
+        "id": "32ba117efa660d5f7a139b645926acfe",
+        "title": "Political meddling at the Census Bureau damages the US statistical system",
+        "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system Comments URL: https://news.ycombinator.com/item?id=49591620 Points: 7 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://github.com/okf-memory/okf-agent-memory",
-        "published": "2026-09-05T22:15:52+00:00"
+        "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+        "published": "2026-09-06T22:36:07+00:00"
       },
       {
-        "id": "4ccb95059a46ca29d7c855304afb6840",
-        "title": "Falsehoods Programmers Believe About LANs",
-        "summary": "Article URL: https://dreamstation.systems/personal/lanfalsehoods.html Comments URL: https://news.ycombinator.com/item?id=49581179 Points: 23 # Comments: 15",
+        "id": "7e01cc6e76d181a06686384a89986dda",
+        "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+        "summary": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 33 # Comments: 17",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://dreamstation.systems/personal/lanfalsehoods.html",
-        "published": "2026-09-05T22:08:16+00:00"
+        "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+        "published": "2026-09-06T21:16:10+00:00"
       },
       {
-        "id": "00317cf0fd46df8d9098f709071bd670",
-        "title": "America's Two Largest School Districts Impose AI Moratoriums",
-        "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 27 # Comments: 16",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-        "published": "2026-09-05T21:43:22+00:00"
-      },
-      {
-        "id": "08a277237e9ed1997f2e2ee2a720f5a8",
-        "title": "The revolt of the reader",
-        "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 10 # Comments: 1",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "published": "2026-09-05T21:37:49+00:00"
-      },
-      {
-        "id": "39e9156f379957e421fac5273f70f522",
-        "title": "Explore the globe in field recordings",
-        "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real […]",
+        "id": "61b796f1d02a446f5cd24c2db0b3c08f",
+        "title": "An Amazon cargo plane crashed at Miami International Airport",
+        "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-        "published": "2026-09-05T21:31:34+00:00"
+        "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+        "published": "2026-09-06T20:56:38+00:00"
       },
       {
-        "id": "7b6e5c44466f58d14abb81ffa735fda3",
-        "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
-        "summary": "Article URL: https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf Comments URL: https://news.ycombinator.com/item?id=49580778 Points: 35 # Comments: 11",
+        "id": "5dd4d9571b367d973ef7960d4951ea1a",
+        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "summary": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 47 # Comments: 19",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-        "published": "2026-09-05T21:17:00+00:00"
+        "url": "https://github.com/marsbos/mador",
+        "published": "2026-09-06T20:45:13+00:00"
       },
       {
-        "id": "67593d6f9f4444d343c09a5764d6200b",
-        "title": "How AI is breaking the British state",
-        "summary": "Article URL: https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state Comments URL: https://news.ycombinator.com/item?id=49580687 Points: 13 # Comments: 8",
+        "id": "3f371f6bca61979458e28ee91f1b0681",
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 98 # Comments: 63",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-        "published": "2026-09-05T21:05:35+00:00"
+        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "published": "2026-09-06T20:32:38+00:00"
       },
       {
-        "id": "32dc104bb3785e0ecd08aae19d35db43",
-        "title": "iPhone Handoff will seamlessly share one number between two phones",
-        "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up […]",
+        "id": "f65085fb0f56fed941eacfb6fc716ed1",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "summary": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 25 # Comments: 3",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://arxiv.org/abs/2505.12540",
+        "published": "2026-09-06T20:31:20+00:00"
+      },
+      {
+        "id": "7da1a9f74320c6b741c47b040876367b",
+        "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+        "summary": "Article URL: https://github.com/FulltimeFeline/Sol Comments URL: https://news.ycombinator.com/item?id=49590524 Points: 8 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/FulltimeFeline/Sol",
+        "published": "2026-09-06T20:24:56+00:00"
+      },
+      {
+        "id": "c723c5db501a838771f4bb0ab52419b9",
+        "title": "Europe has its first commercial orbital rocket",
+        "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-        "published": "2026-09-05T20:53:58+00:00"
+        "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+        "published": "2026-09-06T19:04:22+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "1d8edcddd5b35bb2e248de37619fa7f2",
+        "title": "Inflation is back around the world—as is the fight against it",
+        "summary": "Central banks are raising interest rates again",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
+        "published": "2026-09-06T15:39:54+00:00"
+      },
+      {
+        "id": "667a6bf75ee5d35bc01e4189d479a9f0",
+        "title": "Why India baffles China",
+        "summary": "Chinese scholarship on India has grown in breadth but not depth",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/09/06/why-india-baffles-china",
+        "published": "2026-09-06T11:17:33+00:00"
+      },
       {
         "id": "0d987776dfdbaa5e9182fceb7be1cfc0",
         "title": "VW’s surprise job-slashing deal is a big win for its bosses",
@@ -423,24 +441,6 @@
         "source": "Leaders",
         "category": "economist",
         "url": "https://www.economist.com/leaders/2026/09/03/what-the-bayeux-tapestry-teaches-about-surviving-against-the-odds",
-        "published": "2026-09-03T13:08:54+00:00"
-      },
-      {
-        "id": "e0b22f557728d4d4c54a6dc16ea53b40",
-        "title": "In many countries, the biggest barrier to prosperity is in the home",
-        "summary": "A less sexist world would be much richer",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/09/03/in-many-countries-the-biggest-barrier-to-prosperity-is-in-the-home",
-        "published": "2026-09-03T13:08:54+00:00"
-      },
-      {
-        "id": "fdb00d69abbeff0573580743ef613628",
-        "title": "Yoweri Museveni’s decline is putting Uganda on a terrifying path",
-        "summary": "It faces the prospect of a worse despot or a messy power struggle",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/09/03/yoweri-musevenis-decline-is-putting-uganda-on-a-terrifying-path",
         "published": "2026-09-03T13:08:54+00:00"
       }
     ]
@@ -518,17 +518,17 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2666000127792358,
+        "price": 1.2668100595474243,
         "prev_close": 1.2667100429534912,
-        "change_pct": -0.01,
-        "direction": "down",
+        "change_pct": 0.01,
+        "direction": "up",
         "price_fmt": "1.27",
-        "change_str": "-0.01%"
+        "change_str": "+0.01%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.470900058746338,
+        "price": 1.4709999561309814,
         "prev_close": 1.4727400541305542,
         "change_pct": -0.12,
         "direction": "down",
@@ -538,28 +538,28 @@
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7115999460220337,
+        "price": 1.7116999626159668,
         "prev_close": 1.7129000425338745,
-        "change_pct": -0.08,
+        "change_pct": -0.07,
         "direction": "down",
         "price_fmt": "1.71",
-        "change_str": "-0.08%"
+        "change_str": "-0.07%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008059999905526638,
+        "price": 0.008070000447332859,
         "prev_close": 0.0081,
-        "change_pct": -0.49,
+        "change_pct": -0.37,
         "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "-0.49%"
+        "change_str": "-0.37%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.18809999525547028,
-        "prev_close": 0.188,
+        "price": 0.1881999969482422,
+        "prev_close": 0.1881,
         "change_pct": 0.05,
         "direction": "up",
         "price_fmt": "0.19",
@@ -572,44 +572,44 @@
         "label": "Brent Crude",
         "unit": "USD/bbl",
         "price": 96.27999877929688,
-        "prev_close": 95.5199966430664,
-        "change_pct": 0.8,
-        "direction": "up",
+        "prev_close": 96.27999877929688,
+        "change_pct": 0.0,
+        "direction": "flat",
         "price_fmt": "96.28",
-        "change_str": "+0.80%"
+        "change_str": "0.00%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4429.7998046875,
-        "prev_close": 4491.7001953125,
-        "change_pct": -1.38,
-        "direction": "down",
-        "price_fmt": "4,429.8",
-        "change_str": "-1.38%"
+        "price": 4476.60009765625,
+        "prev_close": 4429.7998046875,
+        "change_pct": 1.06,
+        "direction": "up",
+        "price_fmt": "4,476.6",
+        "change_str": "+1.06%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 66.0469970703125,
-        "prev_close": 66.9729995727539,
-        "change_pct": -1.38,
-        "direction": "down",
-        "price_fmt": "66.05",
-        "change_str": "-1.38%"
+        "price": 66.74800109863281,
+        "prev_close": 66.0469970703125,
+        "change_pct": 1.06,
+        "direction": "up",
+        "price_fmt": "66.75",
+        "change_str": "+1.06%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
         "price": 2.9749999046325684,
-        "prev_close": 2.9130001068115234,
-        "change_pct": 2.13,
-        "direction": "up",
+        "prev_close": 2.9749999046325684,
+        "change_pct": 0.0,
+        "direction": "flat",
         "price_fmt": "2.97",
-        "change_str": "+2.13%"
+        "change_str": "0.00%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 79779.390625,
-        "prev_close": 79671.96875,
-        "change_pct": 0.13,
+        "price": 80238.0234375,
+        "prev_close": 79823.8671875,
+        "change_pct": 0.52,
         "direction": "up",
-        "price_fmt": "79,779",
-        "change_str": "+0.13%"
+        "price_fmt": "80,238",
+        "change_str": "+0.52%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2479.6201171875,
-        "prev_close": 2456.078125,
-        "change_pct": 0.96,
+        "price": 2513.929931640625,
+        "prev_close": 2480.735595703125,
+        "change_pct": 1.34,
         "direction": "up",
-        "price_fmt": "2,479.6",
-        "change_str": "+0.96%"
+        "price_fmt": "2,513.9",
+        "change_str": "+1.34%"
       }
     ]
   },
