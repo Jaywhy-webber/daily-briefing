@@ -2,382 +2,436 @@
   "news": {
     "singapore": [
       {
-        "id": "c5ff11bdbccabb398fb68b791ee33ed8",
-        "title": "Her sister struggled with feeding breast milk on the go – so this 23-year-old invented a better way",
-        "summary": "Nicolette Wong discovered that parents often pieced together different products to store, warm and feed breast milk on the go. Her answer was Momigo, an all-in-one system that made her the Singapore winner of the James Dyson Award 2026.",
+        "id": "a1a5509d1b5d02b925fc5f46966bc7a8",
+        "title": "She failed arts and crafts in school. Now, she makes one-of-a-kind macrame bags while helping others",
+        "summary": "She once thought she was hopeless at crafts. In her 50s, Lu-lyn Chang found calm, creativity and a new purpose through macrame and Bound Designs.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/women/nicolette-wong-momigo-james-dyson-award-singapore-winner-6383636",
-        "published": "2026-09-15T23:12:08+00:00"
+        "url": "https://www.channelnewsasia.com/style-beauty/bound-designs-macrame-bags-6353516",
+        "published": "2026-09-16T23:10:00+00:00"
       },
       {
-        "id": "aff0dba2dafac7696c6f5f28978bbd82",
-        "title": "Haze in S’pore: Air quality improving; only central region remains in the unhealthy range",
-        "summary": "The 24-hour PSI in the central region still remains above 101.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/air-quality-in-singapore-improving-only-central-region-remains-in-the-unhealthy-range",
-        "published": "2026-09-15T22:17:38+00:00"
-      },
-      {
-        "id": "301fd9b6a32c4ece912858b5f5ce5024",
-        "title": "Internet connection for about 2,000 in Bishan, Thomson restored: NetLink Trust",
-        "summary": "It said the disruption was caused by damage to its fibre infrastructure by a third-party contractor.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/internet-connection-for-about-2000-in-bishan-thomson-restored-netlink-trust",
-        "published": "2026-09-15T22:07:29+00:00"
-      },
-      {
-        "id": "304ce72ead6d98dcd0f0017b1f5e47fc",
-        "title": "Commentary: Making room for helpers in small flats leads to uncomfortable questions",
-        "summary": "Singapore families caring for children and the elderly may have the strongest reason for hiring a helper, but also struggle the most with space, says writer Annie Tan.",
+        "id": "f0005ad3844bb7a08ac2bb0856bcde3a",
+        "title": "What does the team behind the Singapore F1 race do beyond the three-day race weekend?",
+        "summary": "The year-round operation covers everything from crowd safety and ticketing logistics to tracking global events that could impact the Singapore race.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/helper-maid-hdb-room-space-employer-6385961",
-        "published": "2026-09-15T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/f1-marina-bay-street-circuit-grand-prix-night-race-6383446",
+        "published": "2026-09-16T22:00:00+00:00"
       },
       {
-        "id": "136296af182e8c0e6b55f3344da58878",
-        "title": "CNA Explains: First properties seized in S$3b money laundering case go to auction this week. How will it work?",
-        "summary": "The properties for auction include a Grade A office with a guide price of S$11.5 million and a four-bedroom penthouse listed at a guide price of S$25.3 million.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/money-laundering-case-luxury-property-auction-explainer-6385451",
-        "published": "2026-09-15T22:00:00+00:00"
-      },
-      {
-        "id": "b2f43aaaf2532ddfc06235326c9ad58c",
-        "title": "Tower Transit looking to thank those who helped unresponsive bus driver in Hougang",
-        "summary": "The bus operator hailed \"the caring commuter culture\" coming to the rescue in Hougang.",
+        "id": "669b9a6cf37575f62cca902723522a41",
+        "title": "Instead of speculating if AI will end mankind, audit and govern the tech: Industry players",
+        "summary": "Their comments come amid a fever pitch conversation around AI regulation and calls for a slowdown in its development.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/tower-transit-looking-to-thank-those-who-helped-unresponsive-bus-driver-in-hougang",
-        "published": "2026-09-15T16:12:00+00:00"
+        "url": "https://www.straitstimes.com/tech/instead-of-speculating-if-ai-will-end-mankind-audit-and-govern-the-tech-industry-players",
+        "published": "2026-09-16T21:00:00+00:00"
       },
       {
-        "id": "3ddf6bb0f3ee062019df81b0a008d9c6",
-        "title": "MUIS says human resource management system hit by cybersecurity incident",
-        "summary": "MUIS said the incident does not affect the delivery of public-facing or government services.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/muis-human-resource-payroll-management-system-cyberattack-6386546",
-        "published": "2026-09-15T15:15:00+00:00"
-      },
-      {
-        "id": "76e5c9541dd26c09467e82a9e40b241d",
-        "title": "Mother and son set to be charged over theft at Changi Airport",
-        "summary": "The 16-year-old allegedly stole three pairs of sunglasses, among other items.",
+        "id": "de861c8099e73026e9ce25c7a3c2dce3",
+        "title": "Singapore medtech start-up Bioactivx launches synthetic skin substitute",
+        "summary": "Bioactiv Matrix does not require specialised storage, allowing it to be used in areas such as disaster zones.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/mother-and-son-set-to-be-charged-over-theft-at-changi-airport",
-        "published": "2026-09-15T14:53:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/health/singapore-medtech-start-up-launches-synthetic-skin-substitute",
+        "published": "2026-09-16T13:15:00+00:00"
+      },
+      {
+        "id": "32c556c0e6a014da66146e7953bc323b",
+        "title": "Lorry driver trapped after accident involving two vehicles in Loyang",
+        "summary": "The driver was freed by SCDF with hydraulic rescue equipment.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/lorry-driver-trapped-after-accident-involving-two-vehicles-in-loyang",
+        "published": "2026-09-16T13:04:00+00:00"
+      },
+      {
+        "id": "e6a969a64418088165d6f7263db7cf41",
+        "title": "Man allegedly threw rock at Police Cantonment Complex, set to be charged with vandalism",
+        "summary": "He allegedly threw a rock twice at the complex's main entrance glass door.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/man-allegedly-threw-rock-at-police-cantonment-complex-set-to-be-charged-with-vandalism",
+        "published": "2026-09-16T12:47:00+00:00"
+      },
+      {
+        "id": "f55fd64b267c1488b200b2eb56eb8a0d",
+        "title": "Singaporean suffers cardiac arrest after being run over by bus in Taiwan; resuscitated in hospital",
+        "summary": "The woman, who was trapped under the bus, was rescued with a lifting air bag and spinal board.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/singaporean-suffers-cardiac-arrest-after-being-run-over-by-bus-in-taiwan-resuscitated-in-hospital",
+        "published": "2026-09-16T11:50:00+00:00"
+      },
+      {
+        "id": "3a1f8cbe252f04792419768bdf0681ca",
+        "title": "16 years’ jail and caning for ex-PE teacher who sexually exploited student in hotels, school",
+        "summary": "When the girl, then 14, voiced doubts about their age gap, he assured her that age was not an issue.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/courts-crime/16-years-jail-and-caning-for-ex-pe-teacher-who-sexually-exploited-student-in-hotels-school",
+        "published": "2026-09-16T11:35:20+00:00"
       }
     ],
     "us": [
       {
-        "id": "5be231065b6db12578ca0e47e0f849e5",
-        "title": "Air Force Secretary confirms US deployed weapons in space",
-        "summary": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Air Force Secretary confirms US deployed weapons in space Air Force Secretary Troy Meink confirmed Monday that the U.S. military has deployed a weapon into space, marking the first time an American official has acknowledged that…",
+        "id": "07ca443d8353fa82d5509a19e63eeadb",
+        "title": "Travelers rated these airports highest for 2026. Is yours on the list?",
+        "summary": "Flying itself can be stressful, but passengers say some airports are doing a better job than others when it comes to the airport experience, according to a new study released Wednesday.",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/6091851-air-force-secretary-weapons-space-newsletter/",
-        "published": "2026-09-15T23:28:55+00:00"
+        "url": "https://thehill.com/homenews/6093413-travelers-rated-these-airports-highest-for-2026-is-yours-on-the-list/",
+        "published": "2026-09-16T23:33:55+00:00"
       },
       {
-        "id": "c917e16e9440f5ea30ed735971a822e6",
-        "title": "Rogers set to skip Michigan Senate debate over outlet’s ‘favoritism’ toward El-Sayed",
-        "summary": "Michigan Senate candidate Mike Rogers (R) will skip Tuesday night’s debate with opponent Abdul El-Sayed (D), citing the moderator’s alleged “favoritism” toward the Democrat. Alyssa Brouillet, the Rogers campaign’s communications director, said in a statement that Michiganders “deserve to see their candidates engage in a healthy, fair debate — not one compromised by media bias.” …",
+        "id": "b1f9ce2e34ca5847f49fdca2882d02eb",
+        "title": "Trump blames Fed board, not Warsh, for rate hikes",
+        "summary": "President Trump on Wednesday praised Federal Reserve Chair Kevin Warsh, blaming the board instead for the interest rate increase. “I’m relying on Kevin, but he’s got a very tough board,” Trump told reporters after landing in North Carolina. “He’s got a board that was put there by a lot of other people.” “I told Kevin,…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6091812-rogers-michigan-senate-debate-skip-favoritism/",
-        "published": "2026-09-15T22:59:36+00:00"
+        "url": "https://thehill.com/homenews/administration/6094303-trump-blames-fed-rate-hike/",
+        "published": "2026-09-16T23:11:22+00:00"
       },
       {
-        "id": "42808ff09e4c964e602f8cc71f8bfaee",
-        "title": "Fetterman attended retreat with Fox News executives in Montana",
-        "summary": "Sen. John Fetterman (D-Pa.), who has been known to buck his party, went to a retreat featuring key figures at Fox News in Montana, according to a new report. According to a Tuesday report from the Washington Examiner, the Pennsylvania senator went to a retreat alongside Fox News executives in Montana two months ago, being…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/state-watch/6091792-fetterman-fox-news-montana-retreat/",
-        "published": "2026-09-15T22:52:12+00:00"
-      },
-      {
-        "id": "7ca5e49db3aafb4191516c47890501bf",
-        "title": "Senate votes to advance bill to regulate college sports, athlete compensation",
-        "summary": "The Senate voted Tuesday to advance the Protect College Sport Act, which would create national rules for compensating college athletes, limit transfers and mid-season coaching moves and set a five-year window for athletic eligibility, among other reforms. It would protect the NCAA, college athletics’ governing body, from anti-trust lawsuits, establish caps on revenue sharing and…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/senate/6091791-senate-advances-protect-college-sport-act/",
-        "published": "2026-09-15T22:37:51+00:00"
-      },
-      {
-        "id": "39f106a5d865401b815c4bab97c83451",
-        "title": "Democratic defectors rescue Republicans — again",
-        "summary": "A pair of centrist Democrats crossed the aisle on Tuesday to help GOP leaders advance a number of bills, marking the second time this month that Democratic leaders have failed to unite their caucus against the Republicans’ messaging agenda. The defections frustrated their fellow Democrats and are sure to raise new questions about how leaders…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/house/6091761-democrats-defect-gop-rule-perez-golden/",
-        "published": "2026-09-15T22:36:53+00:00"
-      },
-      {
-        "id": "822b4ffd4e46960ad95c36bd909b4ef5",
-        "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
-        "summary": "Billions of dollars worth of gold is held in Turkish households outside the banking system. The government aims to convince citizens to put it into the mainstream financial system to help the economy.",
+        "id": "ba5b315e9eff03b07998c2d870b54a7d",
+        "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+        "summary": "No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
-        "published": "2026-09-15T22:26:14+00:00"
+        "url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
+        "published": "2026-09-16T23:07:40+00:00"
       },
       {
-        "id": "97998d7cf040f48a18a8d44812ee4f8b",
-        "title": "Benchmark bond yield reaches highest level in nearly 20 years",
-        "summary": "The yield on the 10-year U.S. Treasury bond reached its highest point since before the 2008 financial crisis on Tuesday, portending increased borrowing costs for millions of Americans. The 10-year Treasury bond yield peaked at 5.041 percent Tuesday morning, the note’s highest intraday mark since July 2007. The note closed at above 5 percent for…",
+        "id": "de0b7f8a57cef0283c356b0447ccff49",
+        "title": "8 House races shift in Democrats’ favor: Sabato’s Crystal Ball",
+        "summary": "Election handicapper Sabato’s Crystal Ball shifted eight House races in the direction of Democrats on Wednesday, underscoring seven weeks ahead of the November midterm elections that the number of competitive districts is growing. Two races shifted from “leans Republican” to toss-ups in the handicapper’s ratings. Those seats are an open seat for Iowa’s 2nd Congressional…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/business/6091487-us-treasury-yield-19-year-high/",
-        "published": "2026-09-15T22:19:44+00:00"
+        "url": "https://thehill.com/homenews/campaign/6094202-sabatos-crystal-ball-shifts-house/",
+        "published": "2026-09-16T23:06:29+00:00"
       },
       {
-        "id": "2b178c83a964c756cb06f4360f0612dd",
-        "title": "State of U.S. democracy reaches new low, report finds",
-        "summary": "A new global democracy report finds the U.S. at its lowest level of democratic performance in the 50 years it has been measured.",
+        "id": "d0017e403449f6e3c710d7ce76d7e87e",
+        "title": "House approves bill aimed at putting data center electricity costs on tech companies",
+        "summary": "The House on Tuesday passed a bill aimed at shielding Americans from increased electricity costs associated with data centers. The bill requires states to consider taking up standards that would force tech companies to shoulder the electricity cost increases associated with large data centers but doesn’t actually require them to regulate. The bipartisan Ratepayer Protection Act,…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/state-watch/6090232-house-passes-data-center-electricity-bill/",
+        "published": "2026-09-16T22:56:58+00:00"
+      },
+      {
+        "id": "66c000a785e03117751eccba201eeb14",
+        "title": "DHS’s ‘warning notice’ to ICE critic ‘likely’ violated First Amendment: Federal judge",
+        "summary": "A federal judge ruled late Tuesday that the Department of Homeland Security’s (DHS) may not send any more warning notices to the New York man who sent a critical email to Immigration and Customs Enforcement (ICE), saying the practice “likely” violated the First Amendment. U.S. District Judge Rudolph Contreras, appointed by former President Obama, placed…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/regulation/court-battles/6094062-dhs-warning-notice-ice-critic-block/",
+        "published": "2026-09-16T22:51:56+00:00"
+      },
+      {
+        "id": "00f59337f468fc9bfd1e6ce72017aff3",
+        "title": "Family of Texas woman who died while pregnant sues Paxton, doctors over denied abortion",
+        "summary": "The family of a Texas woman who died while pregnant filed a lawsuit Wednesday against Texas Attorney General Ken Paxton (R) after doctors denied her an abortion. Tierra Walker, 37, died from preeclampsia in 2024 after she suffered “seizures, blood clots, and one hypertensive crisis” while she was four months pregnant. She asked multiple times…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/state-watch/6094214-texas-woman-family-suing-paxton/",
+        "published": "2026-09-16T22:38:32+00:00"
+      },
+      {
+        "id": "5d339476834e76449016e44532eb0739",
+        "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
+        "summary": "The legislation was named for the late South Carolina Republican. It gives the president authority to impose tariffs on top importers of oil and natural gas from Russia, such as China and India.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
-        "published": "2026-09-15T18:57:42+00:00"
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+        "published": "2026-09-16T22:30:46+00:00"
       }
     ],
     "asia": [
       {
-        "id": "c541c600426fa5c970d74e373f96704e",
-        "title": "Carney sells Canada to global investors but says US ties still key",
-        "summary": "Prime Minister Mark Carney pitched Canada as an investment haven on Tuesday at a gathering of global financial elite but conceded ties with the US remained crucial despite an escalating trade war. Carney convened the Canada Investment Summit as part of his push to diversify an economy he insists had grown too reliant on an increasingly protectionist US. The guest list for the event in Toronto included representatives of Gulf sovereign wealth funds, European banks, the China Investment...",
+        "id": "0e9a13cd84f19f8993d0daee936672c1",
+        "title": "Health crisis grips Indonesians enduring haze: ‘my eyes sting, my head hurts’",
+        "summary": "Struggling to breathe through the acrid haze emanating from wildfires on Indonesia’s Borneo Island, residents said on Wednesday they feared for their health but had little to do but wait out the foul-smelling hazard. Indonesia, which shares Borneo with Malaysia and Brunei, is grappling with forest fires that have ravaged swathes of the island, partly caused by the El Nino climate phenomenon that has also affected other countries in Southeast Asia and beyond. In Pontianak, the capital of West...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3367648/carney-sells-canada-global-investors-says-us-ties-still-key?utm_source=rss_feed",
-        "published": "2026-09-15T23:47:40+00:00"
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367751/health-crisis-grips-indonesians-enduring-haze-my-eyes-sting-my-head-hurts?utm_source=rss_feed",
+        "published": "2026-09-16T23:30:05+00:00"
       },
       {
-        "id": "16705c94f01167444e5da10e28a1a78c",
-        "title": "US military says it destroyed 2 Iranian boats trying to steal sea drone",
-        "summary": "The US military said on Tuesday that it opened fire and destroyed two small Iranian boats this week that were trying to steal a drone ship in the waters off Iran, the latest back-and-forth fire in the stalemated war. Captain Tim Hawkins, US Central Command spokesman, said the Iranian boats “recently attempted to take possession of a US unmanned surface vessel” but failed after the military “forcefully responded”. Iranian state media reported on Monday that a pair of fishing boats came under...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3367647/us-military-says-it-destroyed-2-iranian-boats-trying-steal-sea-drone?utm_source=rss_feed",
-        "published": "2026-09-15T23:26:41+00:00"
-      },
-      {
-        "id": "c1e19b30839682791228e05dffbf63f6",
-        "title": "U.S. announces visa curbs targeting South Africa foreign nationals for ‘race-based discrimination’",
-        "summary": "U.S. Secretary of State Rubio said the South African government has not adequately addressed the previously laid out concerns",
+        "id": "118d654f049a2d413b8d82c56ae215e2",
+        "title": "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others",
+        "summary": "The Bill, which will now be sent U.S. President Donald Trump for his signature, could result in significant U.S. tariffs on India",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/us-announces-visa-curbs-targeting-south-africa-foreign-nationals-for-race-based-discrimination/article71470162.ece",
-        "published": "2026-09-15T23:08:47+00:00"
+        "url": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
+        "published": "2026-09-16T23:14:36+00:00"
       },
       {
-        "id": "cd51615948582c72e3028bcf5dd0e201",
-        "title": "U.S. acknowledgement of orbital arms ignores space conflict consequences: Russia",
-        "summary": "Foreign Ministry spokesperson said resolutions co-authored by Russia on ‌barring deployment of space-based weapons and transparency in using space would be presented to the ​U.N. General Assembly next month",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/us-acknowledgement-of-orbital-arms-ignores-space-conflict-consequences-russia/article71470157.ece",
-        "published": "2026-09-15T23:02:57+00:00"
-      },
-      {
-        "id": "30876c5b029ad799832e9c1e8c8e1d43",
-        "title": "Top Chinese official leads 87-member committee for Tung Chee-hwa state funeral",
-        "summary": "The first vice-chairman of the nation’s top political advisory body is overseeing an 87-member committee of political and business heavyweights to arrange the state funeral for Hong Kong’s first chief executive, Tung Chee-hwa. A vigil will be held from 3pm to 10pm on Saturday at the Hong Kong Funeral Home in North Point and a public memorial service will start at 9am on Sunday, according to an obituary placed by Tung’s family in the South China Morning Post on Tuesday. “In lieu of flowers,...",
+        "id": "38353d3f183dd166b0e48edde590db76",
+        "title": "US Congress passes bill targeting Russia’s leading energy buyers – China and India",
+        "summary": "The US Congress on Wednesday passed a bill to strengthen sanctions on Russia by targeting Moscow’s leading energy buyers – China and India – just days before Chinese President Xi Jinping is due to arrive in Washington for a bilateral summit with President Donald Trump. The US House of Representatives cleared the “Lindsey Graham Sanctioning Russia and Iran Act of 2026” by a 262-159 vote, making its way to the White House for Trump’s signature. The Senate passed the bill last month by an...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3367639/top-chinese-official-leads-87-member-committee-tung-chee-hwa-state-funeral?utm_source=rss_feed",
-        "published": "2026-09-15T23:00:18+00:00"
+        "url": "https://www.scmp.com/news/us/economy-trade-business/article/3367782/us-congress-passes-bill-targeting-russias-leading-energy-buyers-china-and-india?utm_source=rss_feed",
+        "published": "2026-09-16T22:50:16+00:00"
       },
       {
-        "id": "e70be7aa2741677c693055d53d279d2f",
-        "title": "Rob Reiner’s son Nick won’t face death penalty in trial for parents’ killing",
-        "summary": "The son of Hollywood icon Rob Reiner will not face the death penalty when he stands trial over the killings of his parents, Los Angeles County’s top prosecutor said on Tuesday. Nick Reiner, who turned 33 on Monday, was arrested in December 2025 after his parents’ bloodied bodies were discovered at their home in the affluent Brentwood neighbourhood of Los Angeles. He has pleaded not guilty to two counts of murder, with the special circumstance allegations of multiple murders and murder by means..",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3367646/rob-reiners-son-nick-wont-face-death-penalty-trial-parents-killing?utm_source=rss_feed",
-        "published": "2026-09-15T22:57:42+00:00"
-      },
-      {
-        "id": "996f844d50c94cb116c18f6ccdbc01c3",
-        "title": "Gold price may dip with Fed rate hike",
-        "summary": "Markets increasingly anticipate the Federal Reserve will hike US interest rates by 0.25% this week, potentially pressuring the global gold price to slide by as much as US$100 an ounce, say pundits.",
+        "id": "38da8fed4977eaff9bcf168d3157982c",
+        "title": "New gas suppliers sought as prices spike",
+        "summary": "Thailand is accelerating efforts to reduce its energy reliance on the Middle East as crude oil prices exceed US$100 per barrel and spot liquefied natural gas (LNG) prices have nearly doubled, driven by geopolitical turmoil and rising seasonal demand.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/business/investment/3320278/gold-price-may-dip-with-fed-rate-hike",
-        "published": "2026-09-15T22:40:00+00:00"
+        "url": "https://www.bangkokpost.com/business/general/3320865/new-gas-suppliers-sought-as-prices-spike",
+        "published": "2026-09-16T22:49:00+00:00"
       },
       {
-        "id": "44ebf28761b84cb80d4cd3c85103da32",
-        "title": "Ed Sheeran tour in trouble after 4 acts quit in support of Macklemore",
-        "summary": "Ed Sheeran’s tour of North and South America was plunged into chaos Tuesday when four of his supporting acts abruptly quit in solidarity with the rapper Macklemore, who was dropped for making pro-Palestinian comments on stage. Hours after Sheeran posted on social media about Macklemore’s ousting and attributed the decision to the tour’s promoters, Irish acts Aaron Rowe and Beoga, the Danish band Lukas Graham, and Finneas posted on social media that they were leaving the tour. Rowe and Lukas...",
+        "id": "4ef8952070ce054b338b27466886fc68",
+        "title": "King Charles responds to criticism from Princess Diana’s brother in rare move",
+        "summary": "Britain’s King Charles took the unusual step ⁠on Wednesday of ⁠responding to criticism by ⁠the brother of his late first wife Diana, saying via a spokesman that grief could impact reason, judgment and memory. The assertions, made in a soon-to-be published book, relate to the now-monarch’s ‌conduct in the days after Diana’s death in 1997. Diana was killed at the age of 36 when the car carrying her and her lover Dodi Fayed crashed in Paris as it sped away from chasing paparazzi photographers on...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/article/3367645/ed-sheeran-tour-trouble-after-4-acts-quit-support-macklemore?utm_source=rss_feed",
-        "published": "2026-09-15T22:32:15+00:00"
+        "url": "https://www.scmp.com/news/world/europe/article/3367780/king-charles-responds-criticism-princess-dianas-brother-rare-move?utm_source=rss_feed",
+        "published": "2026-09-16T22:46:13+00:00"
+      },
+      {
+        "id": "7676e77943823c98aad686ef4f93abdd",
+        "title": "Thai flight capacity posts slight recovery in September",
+        "summary": "Thailand's regional ranking for airline seats surged from third to second place this month, even as the country's largest low-cost carrier Thai AirAsia continued to slash flights, according to OAG, an aviation intelligence and analytics company.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3320995/thai-flight-capacity-posts-slight-recovery-in-september",
+        "published": "2026-09-16T22:41:00+00:00"
+      },
+      {
+        "id": "534cf2d1a8dec886d6983b50fbac2842",
+        "title": "Thailand warned of fiscal collapse",
+        "summary": "Thailand's fiscal system could face a severe crisis within a decade if the government does not urgently undertake reforms, warns a political scientist from Chulalongkorn University.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3320880/thailand-warned-of-fiscal-collapse",
+        "published": "2026-09-16T22:37:00+00:00"
+      },
+      {
+        "id": "37d05924079172eed7729209b0b1311a",
+        "title": "U.S. troops must prepare to fight around the moon: Trump's top military adviser",
+        "summary": "Separately, the head of the Space Force's Combat Forces Command said “our potential adversaries such as the PRC are actively pursuing activities in the system, in parts of space,” referring to the People's Republic of China.",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/us-troops-must-prepare-to-fight-around-the-moon-trumps-top-military-adviser/article71474351.ece",
+        "published": "2026-09-16T22:29:11+00:00"
       }
     ],
     "others": [
       {
-        "id": "b5b56601ac5d82fe6cee47fb4b4a5efb",
-        "title": "Argentina intensifies campaign against Falklands oil companies",
-        "summary": "Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.",
+        "id": "482bd9ca107eb6804d44fa6dd200ef48",
+        "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+        "summary": "The comments from a US CENTCOM spokesperson come amid continued tensions over shipping through the vital waterway.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
-        "published": "2026-09-15T23:03:52+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
+        "published": "2026-09-16T23:14:46+00:00"
       },
       {
-        "id": "00caf499e835cc2452baae4906dd60ce",
-        "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
-        "summary": "GOP Representative Thomas Massie has emerged as outspoken critic of war on Iran and overseas military interventions.",
+        "id": "73a5d88bbf3961da741dfe332f77c6d5",
+        "title": "‘People don’t have money’: Syrian fuel hikes deepen economic pain",
+        "summary": "Higher diesel and petrol prices are pushing up transport and food costs across an already impoverished Syria.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
-        "published": "2026-09-15T22:38:08+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain?traffic_source=rss",
+        "published": "2026-09-16T23:11:31+00:00"
       },
       {
-        "id": "08a652ae9a7d1583e6aefc142f04deee",
-        "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-        "summary": "The British musician said it was important to \"set out some facts\" after US rapper voiced support for Palestine.",
+        "id": "f2da8936b4fbcd4f4ef1ab2145a42d2b",
+        "title": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+        "summary": "The unanimous decision comes as prices have remained stubbornly high and despite Trump's demands for lower rates.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
-        "published": "2026-09-15T22:21:44+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years?traffic_source=rss",
+        "published": "2026-09-16T23:03:37+00:00"
       },
       {
-        "id": "9a1d1b7591085d7041f20693fb39d6f4",
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+        "id": "2dda0f46f95267089cecd124ed95be2d",
+        "title": "US interest rates raised for first time in three years",
+        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T21:07:13+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T22:16:51+00:00"
       },
       {
-        "id": "c9abfe4f61ea6b35534c39f0e0bc11a1",
-        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-        "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+        "id": "1b1101eee6de36ace996b51337a864e1",
+        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+        "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T20:34:12+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T19:59:57+00:00"
       },
       {
-        "id": "728a4e7f3312dce5d9866bbb040ab8f9",
-        "title": "Criticism of LGBTQ+ raids in Turkey is growing",
-        "summary": "Several raids and arrests of LGBTQ+ persons in Turkey have triggered sharp criticism from numerous Turkish organizations — and also from Brussels.",
+        "id": "21da960718399e62ffe525a25a49c3fb",
+        "title": "Photos show widespread damage at US sites from Iranian attacks",
+        "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T18:36:16+00:00"
+      },
+      {
+        "id": "1d52d4168cc3be9294e94cf6dd17462a",
+        "title": "UK: Village votes to 'secede' in asylum center plan protest",
+        "summary": "Residents of Piddington, a tiny, remote village in Oxfordshire in England, have staged a \"referendum\" on leaving the UK. They are objecting to plans to open an asylum reception center at a disused military base nearby.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/criticism-of-lgbtq-raids-in-turkey-is-growing/a-79284021?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-09-15T19:32:00+00:00"
+        "url": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-09-16T17:41:00+00:00"
       },
       {
-        "id": "09d7450fa43b9cf7a01c70ae1c6ccb8b",
-        "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-        "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidatesBrazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, as two rival judges lock horns on the eve of the presidential election with unpredictable consequences for Latin America’s largest democracy.The politically charged dispute exploded into public view on Tuesday as judges traded insults and accusations during a heate",
-        "source": "The Guardian",
-        "category": "others",
-        "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-        "published": "2026-09-15T19:14:00+00:00"
-      },
-      {
-        "id": "ceb1575be6ffa7c1e33566f331e39824",
-        "title": "South African president vows justice as more women's bodies found near Johannesburg",
-        "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
+        "id": "356ec4920dd7f98ee518cb5fde012f70",
+        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+        "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-15T18:01:51+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-16T17:16:47+00:00"
       }
     ],
     "tech": [
       {
-        "id": "19be7110b99a3c0237593b23a1a535a8",
-        "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
-        "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed […]",
+        "id": "34abeb00545468034e5b3766ced652a5",
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-        "published": "2026-09-15T23:34:25+00:00"
+        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+        "published": "2026-09-16T23:40:00+00:00"
       },
       {
-        "id": "e9ce3b4e87e224b0756a08381b17d09b",
-        "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-        "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+        "id": "753dfb39d0601bcaa2f6b350f7aeb350",
+        "title": "I wore Snap’s $2,200 smart glasses",
+        "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watching the tile snap down in […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+        "published": "2026-09-16T23:40:00+00:00"
+      },
+      {
+        "id": "8c4e211bf20649903a2613f96c5401f2",
+        "title": "OpenSpec – A lightweight and configurable AI spec framework",
+        "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 24 # Comments: 4",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://openspec.dev/",
+        "published": "2026-09-16T23:06:39+00:00"
+      },
+      {
+        "id": "922902d89bbcd5d42be95de98a4fb406",
+        "title": "Australia says it could follow Canada in forging deeper ties with EU",
+        "summary": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html Comments URL: https://news.ycombinator.com/item?id=49734171 Points: 52 # Comments: 9",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+        "published": "2026-09-16T22:56:48+00:00"
+      },
+      {
+        "id": "58383a8a1fa5ad0427b7f71353e1e2b9",
+        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-        "published": "2026-09-15T22:26:32+00:00"
+        "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "published": "2026-09-16T22:02:46+00:00"
       },
       {
-        "id": "aff62ca49659274a22013d1eac78a16d",
-        "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-        "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 97 # Comments: 23",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-        "published": "2026-09-15T21:07:47+00:00"
-      },
-      {
-        "id": "698c8ba82c3bc24c54f6d1d8c43bcbee",
-        "title": "Jean-Pierre Serre is 100 years old today",
-        "summary": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/ Comments URL: https://news.ycombinator.com/item?id=49718822 Points: 73 # Comments: 11",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-        "published": "2026-09-15T20:57:18+00:00"
-      },
-      {
-        "id": "bb698d58989b831b827de3311497a212",
-        "title": "Microsoft announces Windows and Surface event for October 7th",
-        "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-        "published": "2026-09-15T20:36:59+00:00"
-      },
-      {
-        "id": "990887c989b36e0dadcb10bc556d0fe4",
-        "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
-        "summary": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
+        "id": "89aece6fac763b0dfc8d4e69464a425e",
+        "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+        "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
-        "published": "2026-09-15T20:19:17+00:00"
+        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+        "published": "2026-09-16T21:42:09+00:00"
       },
       {
-        "id": "8fa407ecbb94255cecfce1bae844c398",
-        "title": "What if social media isn’t hurting kids?",
-        "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry of the social media backlash. Haidt […]",
-        "source": "The Verge",
+        "id": "17ac2408f76026f822bf30442bd8c406",
+        "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+        "summary": "Group plans to be largely out of commission for several weeks.",
+        "source": "Ars Technica",
         "category": "tech",
-        "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
-        "published": "2026-09-15T20:13:30+00:00"
+        "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+        "published": "2026-09-16T21:08:14+00:00"
       },
       {
-        "id": "7a9a0f09d776ff43095ce6c18c920ba2",
-        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-        "summary": "Article URL: https://codyho.dev/blog/gpu-driver/ Comments URL: https://news.ycombinator.com/item?id=49717638 Points: 110 # Comments: 58",
+        "id": "13a9d302cfaaf4e57920e76424769994",
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "summary": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 113 # Comments: 10",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://codyho.dev/blog/gpu-driver/",
-        "published": "2026-09-15T19:30:03+00:00"
+        "url": "https://arxiv.org/abs/2609.16338",
+        "published": "2026-09-16T20:59:24+00:00"
       }
     ],
     "economist": [
       {
-        "id": "128d5ba1490d28d428d03ffe4ee8e7f5",
-        "title": "Making AI safer is not impossible, but agreeing to do so may be",
-        "summary": "American labs and the American authorities are at odds, as are America and China",
+        "id": "c04829f9d9e0579bba2cfeadeb83d553",
+        "title": "There is too little money in British politics, not too much",
+        "summary": "Parties come to office hopelessly unprepared",
+        "source": "Leaders",
+        "category": "economist",
+        "url": "https://www.economist.com/leaders/2026/09/16/there-is-too-little-money-in-british-politics-not-too-much",
+        "published": "2026-09-16T20:23:28+00:00"
+      },
+      {
+        "id": "a365cd2170e39870f055babc218c644e",
+        "title": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
+        "summary": "The rich world is flirting with fiscal disaster",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
+        "published": "2026-09-16T18:22:11+00:00"
+      },
+      {
+        "id": "f194ad2101ee3cb8b3d0985027a4a760",
+        "title": "Olympiad Man has displaced Davos Man",
+        "summary": "How maths geeks became market gods",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/09/16/olympiad-man-has-displaced-davos-man",
+        "published": "2026-09-16T18:17:31+00:00"
+      },
+      {
+        "id": "fc5dc927120311d368a016d902a6cf79",
+        "title": "Nannying for the ultra-rich is a booming business",
+        "summary": "Wealthy parents are expecting (and paying) more than ever",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/09/16/nannying-for-the-ultra-rich-is-a-booming-business",
+        "published": "2026-09-16T13:54:41+00:00"
+      },
+      {
+        "id": "cb1abf4d2e0abdb5e316620375e37cdd",
+        "title": "Bartleby newsletter: Meetings are broccoli",
+        "summary": "Our columnist, Andrew Palmer, explains why work gatherings are disliked—but useful",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/09/16/bartleby-newsletter-meetings-are-broccoli",
+        "published": "2026-09-16T13:48:25+00:00"
+      },
+      {
+        "id": "65bc68be90ed3455766b7623b87ed398",
+        "title": "An electoral result that helps Japan’s defence buildup",
+        "summary": "The country’s south-western islands go conservative",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/09/16/an-electoral-result-that-helps-japans-defence-buildup",
+        "published": "2026-09-16T12:34:19+00:00"
+      },
+      {
+        "id": "a24eb06c3331cc0dad2b8191cca6f755",
+        "title": "Agreeing to make AI safer may be impossible",
+        "summary": "It is technically feasible, but American labs and the American authorities are at odds, as are America and China",
         "source": "International",
         "category": "economist",
-        "url": "https://www.economist.com/international/2026/09/15/making-ai-safer-is-not-impossible-but-agreeing-to-do-so-may-be",
+        "url": "https://www.economist.com/international/2026/09/15/agreeing-to-make-ai-safer-may-be-impossible",
         "published": "2026-09-15T21:09:57+00:00"
       },
       {
@@ -388,60 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world",
         "published": "2026-09-15T20:53:36+00:00"
-      },
-      {
-        "id": "2d7481e1716180cfac73e854c6c9589b",
-        "title": "What Africa’s biggest IPO can do for its stock markets",
-        "summary": "A new generation of investors is buying up African stocks",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
-        "published": "2026-09-15T20:44:13+00:00"
-      },
-      {
-        "id": "9d0362d6d647c55d1ac220d3384c53ea",
-        "title": "Scott Bessent should stop blaming the bond market",
-        "summary": "It is working just fine; his interventions, less so",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market",
-        "published": "2026-09-15T19:43:54+00:00"
-      },
-      {
-        "id": "8b3f5930410d14a45895270f9df4cf66",
-        "title": "China would face a “hellscape” in a war over Taiwan",
-        "summary": "New tech may give America an edge",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/09/15/china-would-face-a-hellscape-in-a-war-over-taiwan",
-        "published": "2026-09-15T18:27:13+00:00"
-      },
-      {
-        "id": "b2903b7190ed9adbd413bf07cb3a641e",
-        "title": "Should Anthropic press pause on a potential $2trn IPO?",
-        "summary": "Amid a safety freakout, it wants to slow down AI development",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/09/14/should-anthropic-press-pause-on-a-potential-2trn-ipo",
-        "published": "2026-09-14T04:47:47+00:00"
-      },
-      {
-        "id": "dd996f6ae2a3ab2dadf064c4304742d5",
-        "title": "How an oil-supply crisis could bring about an investment boom",
-        "summary": "A Gulf-war windfall has boosted balance-sheets and enriched shareholders. Next: expansion",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/09/13/how-an-oil-supply-crisis-could-bring-about-an-investment-boom",
-        "published": "2026-09-13T17:22:47+00:00"
-      },
-      {
-        "id": "ca0a8c960d69b9e94fb1b7282c09874f",
-        "title": "Why Indians are unhappy about 7.8% economic growth",
-        "summary": "A row over GDP numbers is really about how people feel",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/09/13/why-indians-are-unhappy-about-78-economic-growth",
-        "published": "2026-09-13T09:01:08+00:00"
       }
     ]
   },
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5718.02001953125,
-        "prev_close": 5695.93017578125,
-        "change_pct": 0.39,
-        "direction": "up",
-        "price_fmt": "5,718.0",
-        "change_str": "+0.39%"
+        "price": 5638.64013671875,
+        "prev_close": 5718.02001953125,
+        "change_pct": -1.39,
+        "direction": "down",
+        "price_fmt": "5,638.6",
+        "change_str": "-1.39%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7585.72998046875,
-        "prev_close": 7619.97998046875,
+        "price": 7551.81005859375,
+        "prev_close": 7585.72998046875,
         "change_pct": -0.45,
         "direction": "down",
-        "price_fmt": "7,585.7",
+        "price_fmt": "7,551.8",
         "change_str": "-0.45%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 24917.599609375,
-        "prev_close": 24805.630859375,
-        "change_pct": 0.45,
-        "direction": "up",
-        "price_fmt": "24,918",
-        "change_str": "+0.45%"
+        "price": 24667.240234375,
+        "prev_close": 24917.599609375,
+        "change_pct": -1.0,
+        "direction": "down",
+        "price_fmt": "24,667",
+        "change_str": "-1.00%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 63492.98828125,
-        "prev_close": 64011.33984375,
-        "change_pct": -0.81,
+        "price": 63484.1015625,
+        "prev_close": 63492.98828125,
+        "change_pct": -0.01,
         "direction": "down",
-        "price_fmt": "63,493",
-        "change_str": "-0.81%"
+        "price_fmt": "63,484",
+        "change_str": "-0.01%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10697.599609375,
-        "prev_close": 10650.400390625,
-        "change_pct": 0.44,
-        "direction": "up",
-        "price_fmt": "10,698",
-        "change_str": "+0.44%"
+        "price": 10658.099609375,
+        "prev_close": 10697.599609375,
+        "change_pct": -0.37,
+        "direction": "down",
+        "price_fmt": "10,658",
+        "change_str": "-0.37%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8749.900390625,
-        "prev_close": 8741.2001953125,
-        "change_pct": 0.1,
-        "direction": "up",
-        "price_fmt": "8,749.9",
-        "change_str": "+0.10%"
+        "price": 8672.5,
+        "prev_close": 8749.900390625,
+        "change_pct": -0.88,
+        "direction": "down",
+        "price_fmt": "8,672.5",
+        "change_str": "-0.88%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.273110032081604,
-        "prev_close": 1.2702699899673462,
-        "change_pct": 0.22,
+        "price": 1.2777800559997559,
+        "prev_close": 1.2731300592422485,
+        "change_pct": 0.37,
         "direction": "up",
-        "price_fmt": "1.27",
-        "change_str": "+0.22%"
+        "price_fmt": "1.28",
+        "change_str": "+0.37%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4685800075531006,
-        "prev_close": 1.4667199850082397,
-        "change_pct": 0.13,
-        "direction": "up",
+        "price": 1.4653600454330444,
+        "prev_close": 1.4687600135803223,
+        "change_pct": -0.23,
+        "direction": "down",
         "price_fmt": "1.47",
-        "change_str": "+0.13%"
+        "change_str": "-0.23%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7145800590515137,
-        "prev_close": 1.7143100500106812,
-        "change_pct": 0.02,
-        "direction": "up",
+        "price": 1.7093900442123413,
+        "prev_close": 1.7151000499725342,
+        "change_pct": -0.33,
+        "direction": "down",
         "price_fmt": "1.71",
-        "change_str": "+0.02%"
+        "change_str": "-0.33%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008150000125169754,
-        "prev_close": 0.0082,
-        "change_pct": -0.61,
-        "direction": "down",
+        "price": 0.008139999583363533,
+        "prev_close": 0.0081,
+        "change_pct": 0.49,
+        "direction": "up",
         "price_fmt": "0.01",
-        "change_str": "-0.61%"
+        "change_str": "+0.49%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.1890999972820282,
-        "prev_close": 0.189,
-        "change_pct": 0.05,
-        "direction": "up",
+        "price": 0.1898999959230423,
+        "prev_close": 0.19,
+        "change_pct": -0.05,
+        "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "+0.05%"
+        "change_str": "-0.05%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 108.45999908447266,
-        "prev_close": 105.68000030517578,
-        "change_pct": 2.63,
-        "direction": "up",
-        "price_fmt": "108.46",
-        "change_str": "+2.63%"
+        "price": 105.25,
+        "prev_close": 108.75,
+        "change_pct": -3.22,
+        "direction": "down",
+        "price_fmt": "105.25",
+        "change_str": "-3.22%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4325.2998046875,
-        "prev_close": 4351.89990234375,
-        "change_pct": -0.61,
+        "price": 4312.10009765625,
+        "prev_close": 4332.7998046875,
+        "change_pct": -0.48,
         "direction": "down",
-        "price_fmt": "4,325.3",
-        "change_str": "-0.61%"
+        "price_fmt": "4,312.1",
+        "change_str": "-0.48%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 64.2249984741211,
-        "prev_close": 63.51300048828125,
-        "change_pct": 1.12,
+        "price": 63.65999984741211,
+        "prev_close": 63.236000061035156,
+        "change_pct": 0.67,
         "direction": "up",
-        "price_fmt": "64.22",
-        "change_str": "+1.12%"
+        "price_fmt": "63.66",
+        "change_str": "+0.67%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.943000078201294,
-        "prev_close": 2.8959999084472656,
-        "change_pct": 1.62,
-        "direction": "up",
-        "price_fmt": "2.94",
-        "change_str": "+1.62%"
+        "price": 2.8910000324249268,
+        "prev_close": 2.9189999103546143,
+        "change_pct": -0.96,
+        "direction": "down",
+        "price_fmt": "2.89",
+        "change_str": "-0.96%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 75607.6171875,
-        "prev_close": 78163.3828125,
-        "change_pct": -3.27,
-        "direction": "down",
-        "price_fmt": "75,608",
-        "change_str": "-3.27%"
+        "price": 76159.6171875,
+        "prev_close": 75612.5078125,
+        "change_pct": 0.72,
+        "direction": "up",
+        "price_fmt": "76,160",
+        "change_str": "+0.72%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2399.0400390625,
-        "prev_close": 2514.406982421875,
-        "change_pct": -4.59,
-        "direction": "down",
-        "price_fmt": "2,399.0",
-        "change_str": "-4.59%"
+        "price": 2417.419921875,
+        "prev_close": 2399.0869140625,
+        "change_pct": 0.76,
+        "direction": "up",
+        "price_fmt": "2,417.4",
+        "change_str": "+0.76%"
       }
     ]
   },
