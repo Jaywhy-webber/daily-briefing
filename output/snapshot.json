@@ -2,375 +2,384 @@
   "news": {
     "singapore": [
       {
-        "id": "7dc1d329a39fe87c433dba4ccb640fe8",
-        "title": "Haze in S’pore: PSI readings in eastern, western regions hit unhealthy range, joining the central areas",
-        "summary": "Air quality in the central region has been in the unhealthy range since 1pm on Sept 19.",
+        "id": "90d47541e4ccef3d649ed53a4ff5a4b9",
+        "title": "ST Live: News as it happens",
+        "summary": "Follow the latest updates on ST.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/haze-in-spore-psi-readings-in-eastern-western-regions-hit-unhealthy-range-joining-the-central-areas",
-        "published": "2026-09-19T23:14:52+00:00"
+        "url": "https://www.straitstimes.com/singapore/st-live-news-as-it-happens1",
+        "published": "2026-09-20T23:38:32+00:00"
       },
       {
-        "id": "fc54acdacdaaa935044d80538c7aec82",
-        "title": "East and west Singapore join central region in recording unhealthy air quality amid haze",
-        "summary": "The 24-hour Pollutant Standards Index (PSI) hit 105 in the west and 102 in the east at 6am. The central region, which entered the unhealthy range a day earlier, recorded a reading of 123.",
+        "id": "630a9603877a1cb70a6da8a9d11fd527",
+        "title": "CNA Explains: Beyond the Air India stake, how have SIA's other investments fared?",
+        "summary": "One analyst says Singapore Airlines' track record of investments in other airlines has been \"pretty underwhelming\".",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/haze-singapore-unhealthy-psi-6396836",
-        "published": "2026-09-19T22:08:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/sia-air-india-investment-track-record-6391561",
+        "published": "2026-09-20T22:00:00+00:00"
       },
       {
-        "id": "f782d29f022f3987f30129d8ac4bc637",
-        "title": "How runaway AI agents could pose an existential threat to humanity",
-        "summary": "AI could multiply harm across bioterrorism, cyberwarfare, disinformation and advanced weaponry.",
+        "id": "d705223e199e5b55c4d53a3c776b53ea",
+        "title": "Doing more with less: A Singaporean surgeon’s lessons from a hospital between two Sudans",
+        "summary": "The 91-bed Ameth-Bek Hospital caters to a region about 15 times the size of Singapore.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/how-runaway-ai-agents-could-pose-an-existential-threat-to-humanity",
-        "published": "2026-09-19T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/doing-more-with-less-a-singaporean-surgeons-lessons-from-a-hospital-between-two-sudans",
+        "published": "2026-09-20T21:00:00+00:00"
       },
       {
-        "id": "1beaf832d6668eb8474b42ce1d124d39",
-        "title": "Singapore-UAE team wins autonomous car race in Italy on third attempt",
-        "summary": "Team Kinetiz members came from NTU, UAE tech firm K2 and autonomous systems specialist Alp Autonomy.",
+        "id": "013359933f444c271d7faa77e683bcfe",
+        "title": "Solar investments saved Singapore $123.8m in higher fossil fuel import costs: Report",
+        "summary": "Nearly all the savings came from avoided gas imports, the Centre for Research on Energy and Clean Air report found.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/singapore-uae-team-wins-autonomous-car-race-in-italy-on-third-attempt",
-        "published": "2026-09-19T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/environment/solar-investments-saved-singapore-123-8m-in-higher-fossil-fuel-import-costs-report",
+        "published": "2026-09-20T21:00:00+00:00"
       },
       {
-        "id": "f7f0fda09d209d9929407d2c6245b009",
-        "title": "Singapore’s foreign policy based on realism, but it’s not just a passive observer: Tommy Koh",
-        "summary": "With autonomy, S'pore can uphold its principles and act in its own interests amid complicated geopolitics, he said.",
+        "id": "54912fd4b27fffb425bd1712a60e65de",
+        "title": "When condo defects emerge years later, who pays?",
+        "summary": "Disputes can turn into a blame game or the developers may no longer exist.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/politics/singapores-foreign-policy-based-on-realism-but-its-not-just-a-passive-observer-tommy-koh",
-        "published": "2026-09-19T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/housing/when-condo-defects-emerge-years-later-who-pays",
+        "published": "2026-09-20T21:00:00+00:00"
       },
       {
-        "id": "7c14ed3bf2f25e910c8d8a3640491d3e",
-        "title": "To slow down or not? US tech leaders, politicians and researchers clash over need for AI regulations",
-        "summary": "The Straits Times examines the key polarising views.",
+        "id": "063efb7b5fe521cf3b118f61927dac63",
+        "title": "Yawning, food cravings, mood changes: These could be warning signs of a migraine",
+        "summary": "Many people dismiss recurring headaches, but recognising these early signs, which may appear hours before the pain, could help you get the right diagnosis and treatment, says Adjunct Associate Professor Jonathan Ong.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/to-slowdown-or-not-us-tech-leaders-politicians-researchers-clash-over-need-for-ai-regulations",
-        "published": "2026-09-19T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/health/yawning-food-cravings-mood-changes-warning-signs-migraine-pfizer",
+        "published": "2026-09-20T20:00:00+00:00"
       },
       {
-        "id": "46841aeb140489d850cb89db8d1223e0",
-        "title": "What are the emerging regulations to rein in AI harms?",
-        "summary": "",
+        "id": "58ab3a2c28ca046e8855270490ae55e7",
+        "title": "Phishing scams using S’pore police logo re-emerging, public warned",
+        "summary": "Victims were duped by fraudulent alerts that claimed their personal devices had been locked.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/what-are-the-emerging-regulations-to-rein-in-ai-harms",
-        "published": "2026-09-19T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/phishing-scams-using-spore-police-logo-re-emerging-public-warned",
+        "published": "2026-09-20T15:31:35+00:00"
       },
       {
-        "id": "46b9671d29c1dc21fead68c572eff236",
-        "title": "National Cancer Centre apologises after email addresses of over 460 recipients mistakenly exposed",
-        "summary": "The Personal Data Protection Commission said it is investigating the incident.",
+        "id": "16128bff688599716e1799a72a7ef983",
+        "title": "First auction of seized luxury bags from S$3b money laundering case closes, bringing in more than S$1.1m",
+        "summary": "A limited edition Louis Vuitton Yayoi Kusama pumpkin bag remained the most sought-after piece of the auction.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/national-cancer-centre-singapore-email-lapse-pdpa-6396601",
-        "published": "2026-09-19T14:16:01+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/money-laundering-auction-yayoi-kusama-pumpkin-6397716",
+        "published": "2026-09-20T14:07:19+00:00"
       }
     ],
     "us": [
       {
-        "id": "75657ef7817b758628d843a54311960b",
-        "title": "Newsom signs laws aimed at preventing election interference",
-        "summary": "California Gov. Gavin Newsom (D) on Saturday signed a legislation package aimed at safeguarding the state’s election process against potential interference in the upcoming midterm elections. The Democratic governor, who has repeatedly warned President Trump’s administration would attempt to meddle in these upcoming elections, signed 13 bills in Los Angeles. “Donald Trump won’t stop until…",
+        "id": "2c4252018b04ca663a2a2fef3ba15903",
+        "title": "Grassley urges Trump to place embargo on diesel exports amid high prices",
+        "summary": "Iowa Sen. Chuck Grassley (R) on Saturday pressed President Trump for an embargo on diesel exports amid high prices for the fuel. “why doesn’t Pres Trump put an embargo on diesel exports like presidents in the 70s put embargoes on ag[riculture] products bc [because] food prices were inflated,” Grassley wrote on social media Saturday night.…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/state-watch/6100050-newsom-signs-election-protection-bills/",
-        "published": "2026-09-19T22:29:57+00:00"
+        "url": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/",
+        "published": "2026-09-20T22:02:18+00:00"
       },
       {
-        "id": "d4dc3548160a928e1656083a73438b3a",
-        "title": "Patel says FBI has used AI to stop school shootings",
-        "summary": "FBI Director Kash Patel said Saturday the agency used AI to stop half a dozen school shootings and upped its use of the technology by 605 percent since he took the position. Appearing on Fox News’ “Saturday in America,” host Kayleigh McEnany asked Patel about a statement he made in March claiming the FBI had…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6100038-patel-fbi-ai-school-shootings/",
-        "published": "2026-09-19T22:09:01+00:00"
-      },
-      {
-        "id": "673f7d20d04138a4b6b87a474d38242d",
-        "title": "Trump administration begins construction on Texas’s Big Bend border wall",
-        "summary": "The Trump administration began construction on a portion of the U.S.-Mexico border wall cutting through southwest Texas’s Big Bend region despite local leaders’ pushback against the project. Customs and Border Protection (CBP) told the Associated Press Friday that installation of 30-foot panels was already underway along this portion southern border. The construction started earlier this…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6100003-trump-border-wall-big-bend-construction/",
-        "published": "2026-09-19T21:22:32+00:00"
-      },
-      {
-        "id": "b565d5c3e9ca7f0c4ef54fcc8a10cdfa",
-        "title": "Sunday Shows Preview: Trump bans 3 media outlets from White House; Parties make final cases as midterms approach",
-        "summary": "After President Trump announced this week he was banning Politico, CNN and MS NOW from accessing the White House, the three media outlets reported Saturday their journalists were denied access to the executive premises. White House Correspondents’ Association (WHCA) President Jacqui Heinrich called on the White House to “immediately” restore access to these journalists and…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/6100005-sunday-shows-trump-press-ban/",
-        "published": "2026-09-19T21:20:13+00:00"
-      },
-      {
-        "id": "920d4150b75d1750fbf1bc7e74bc2577",
-        "title": "Lawmakers see waste in DOGE’s ‘stupid’ $7B buyout costs",
-        "summary": "A new government report showing that the administration spent $7 billion paying staff not to work as it pushed its buyouts is sparking the latest round of scrutiny of President Trump’s DOGE era. A report from the Government Accountability Office (GAO) estimated the administration spent $6.7 billion on administrative leave after Department of Government Efficiency…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6098644-trump-doge-buyout-costs/",
-        "published": "2026-09-19T21:00:00+00:00"
-      },
-      {
-        "id": "9c46433a4aae0e50699bcdd30c819f6d",
-        "title": "Trump plans to form ‘AI Force,’ appoint ‘AI Czar’",
-        "summary": "President Trump announced plans Saturday to create an “AI Force” as well as appoint a “czar” to oversee the emerging technology’s development. In a lengthy Truth Social post, Trump called the concerns surrounding a lack of federal AI guardrails a “hoax,” adding he would not allow for the technology’s “decimation” as its U.S.-based industry leaders…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6099970-trump-proposes-ai-force-czar/",
-        "published": "2026-09-19T20:32:15+00:00"
-      },
-      {
-        "id": "4bf258b3df08f1be6575fc117eb7a7e7",
-        "title": "The new lines of southern Lebanon",
-        "summary": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
+        "id": "d12ef75fa74e957ee3514ffc09b8bc14",
+        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+        "summary": "The person shot is in serious but stable condition, Austin Mayor Kirk Watson said in a press conference.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
-        "published": "2026-09-19T19:00:24+00:00"
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+        "published": "2026-09-20T21:53:00+00:00"
       },
       {
-        "id": "32f20c1344fc70f1d3da9b0774f5cb4b",
-        "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-        "summary": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
+        "id": "ed512a6db322d31721b17c3adc294897",
+        "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+        "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-        "published": "2026-09-19T15:26:31+00:00"
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+        "published": "2026-09-20T21:39:24+00:00"
+      },
+      {
+        "id": "705c442ce461b575b262daa85aef3bf3",
+        "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
+        "summary": "Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for next week. Trump has dismissed AI’s existential threats as a “hoax” — a view that analysts say aligns with China’s general perspective. Intense competition for primacy and mutual distrust have…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
+        "published": "2026-09-20T21:00:00+00:00"
+      },
+      {
+        "id": "cb71ac5ab4a1f4ee7e952985e5461b16",
+        "title": "Zelensky to meet with Trump in New York this week",
+        "summary": "President Trump and Ukrainian President Volodymyr Zelensky are meeting in New York City this week, the Ukrainian leader said Sunday. “I just spoke with President Trump @POTUS. An important conversation, and we got through a lot. We agreed to meet in New York, and this meeting could change a lot. There is diplomatic momentum,” Zelensky…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/6100733-trump-zelensky-nyc-meeting/",
+        "published": "2026-09-20T20:48:30+00:00"
+      },
+      {
+        "id": "5897ca0ca24ce530ce50c3d92e6157ec",
+        "title": "DDHQ director says Mike Rogers’s time is ‘running out’",
+        "summary": "Scott Tranter, Decision Desk HQ’s (DDHQ) director of data science, on Sunday said that “time is running out” for Republican Michigan Senate candidate Mike Rogers to close the gap between him and Democratic opponent Abdul El-Sayed. DDHQ’s forecast shows El-Sayed with a 67 percent probability of winning in November, with Rogers holding a 33 percent…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6100643-michigan-senate-race-forecast/",
+        "published": "2026-09-20T20:17:17+00:00"
+      },
+      {
+        "id": "0402f0b417b990933a5a1c5057cddf5c",
+        "title": "Florida Republican calls interim Venezuelan president ‘necessary evil’",
+        "summary": "Rep. Maria Elvira Salazar (R-Fla.) on Sunday called Venezuela’s interim president Delcy Rodríguez a “necessary evil” until the Latin American country can have free and fair elections. Salazar defended President Trump’s decision to meet with Rodríguez in New York City, while Trump is present for the annual United Nations General Assembly. She told CBS News’s…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/",
+        "published": "2026-09-20T19:44:21+00:00"
+      },
+      {
+        "id": "6cd067eda910c05135a1ef7d667eddaf",
+        "title": "Hassett on Iran war: ‘The president had to act’",
+        "summary": "National Economic Council Director Kevin Hassett on Sunday defended President Trump’s handling of the Iran war and said the president “had to act” — suggesting that otherwise the outcome could have been dire. “The whole thing started because the Iranians told us we don’t have to talk to you anymore, because we’re two weeks from…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6100592-hassett-defends-trump-iran-war/",
+        "published": "2026-09-20T19:20:49+00:00"
       }
     ],
     "asia": [
       {
-        "id": "b3a475fb99b7ac15bab7b11dd6e94621",
-        "title": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with ballistic missile",
-        "summary": "The statement by the Saudi-led coalition fighting the Houthis came long after the dawn attempt, which the coalition said was intercepted",
+        "id": "0ea848d9d724537e5f6b525e2c850f61",
+        "title": "ICE agent shoots, wounds man in Austin",
+        "summary": "Austin Mayor Kirk Watson, a Democrat, said he wants the city’s police department to be involved in the investigation so it can provide ‘clear, third-party eyes’ in the process",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486051.ece",
-        "published": "2026-09-19T22:19:40+00:00"
+        "url": "https://www.thehindu.com/news/international/ice-agent-shoots-wounds-man-in-austin/article71489220.ece",
+        "published": "2026-09-20T23:33:18+00:00"
       },
       {
-        "id": "f6a28959f7e4a1030288fbe873cc44aa",
-        "title": "Five officers face probe after Chiang Mai gambling raids",
-        "summary": "Police are preparing to investigate five Chiang Mai officers for negligence after administrative officials raided two long-running gambling dens in the city centre and detained more than 100 people.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3322709/five-officers-face-probe-after-chiang-mai-gambling-raids",
-        "published": "2026-09-19T22:17:00+00:00"
-      },
-      {
-        "id": "ae6c8fb60c4ae690de5026d1f4eafaa8",
-        "title": "Akanat unveils solar scheme",
-        "summary": "Energy Minister Akanat Promphan has unveiled plans to reform Thailand's power structure by expanding household solar rooftop capacity to 10,000MW, allowing households to generate electricity for their own use and sell surplus power back to the grid.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3322654/akanat-unveils-solar-scheme",
-        "published": "2026-09-19T22:09:00+00:00"
-      },
-      {
-        "id": "f601a0f788c84d0234a106db0b1723ef",
-        "title": "DRT tightens watch on longest rail tunnel",
-        "summary": "The Department of Rail Transport (DRT) has stepped up inspections of the Den Chai–Chiang Rai–Chiang Khong line, now 70.6% complete, as work continues on Thailand's longest rail tunnel.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3322819/drt-tightens-watch-on-longest-rail-tunnel",
-        "published": "2026-09-19T22:06:00+00:00"
-      },
-      {
-        "id": "e9d95a1ea8e477298aa62227cb86001d",
-        "title": "Analysts tip a stronger hand for China ahead of Xi-Trump summit in Washington",
-        "summary": "When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good on their agreement to work towards “constructive strategic stability”. In the second part of a series, Fan Chen looks at Beijing’s stronger position going into the high-stakes visit. Beijing is poised to begin this week’s summit with Washington from a position of strength, bolstered by a flurry of recent diplomatic outreach. Chinese confidence could..",
+        "id": "ac16a68347d241ca00d8fe703e7eb787",
+        "title": "ICE agent shoots and wounds man in Austin, Texas, officials say",
+        "summary": "A US Immigration and Customs Enforcement (ICE) officer shot and wounded a man on Sunday afternoon in Austin, Texas, local authorities said, and anti-ICE protesters quickly gathered at the scene. The unidentified man was in a serious but stable condition at a hospital after being shot once in the torso on the capital city’s north side, Austin officials said at a news conference. The Department of Homeland Security, which oversees ICE, did not take part in the news conference and did not respond..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3368100/analysts-tip-stronger-hand-china-ahead-xi-trump-summit-washington?utm_source=rss_feed",
-        "published": "2026-09-19T22:00:08+00:00"
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3368181/ice-agent-shoots-and-wounds-man-austin-texas-officials-say?utm_source=rss_feed",
+        "published": "2026-09-20T23:28:16+00:00"
       },
       {
-        "id": "0c63b0905372d2ffb12672be2d2600ad",
-        "title": "Commentary: Regional haze casts a pall on ASEAN’s influence",
-        "summary": "ASEAN’s credibility will ultimately depend on whether it can translate regional commitments into practical results, says an ISEAS – Yusof Ishak Institute fellow.",
-        "source": "CNA Asia",
+        "id": "f5f07501c0f1b9482756ad55820533f0",
+        "title": "Barristers dismiss calls for solicitors to gain senior counsel status in Hong Kong",
+        "summary": "The professional body for Hong Kong barristers has dismissed as “premature and largely academic” calls by solicitors for legal changes so fellow lawyers can gain recognition as senior counsel and rights to represent clients in higher-level courts. The Law Society, the governing body for the city’s solicitors, is calling for the higher status for its members as lawmakers scrutinise the latest round of omnibus legislative updates in Hong Kong. But the Bar Association, the body for barristers,...",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/commentary/asean-haze-fire-indonesia-malaysia-6391951",
-        "published": "2026-09-19T22:00:00+00:00"
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3368150/barristers-dismiss-calls-solicitors-gain-senior-counsel-status-hong-kong?utm_source=rss_feed",
+        "published": "2026-09-20T23:00:13+00:00"
       },
       {
-        "id": "047b43d20f7c00b2d0ad549346a28d19",
-        "title": "‘I can only wait and hope’: Haze hits livelihoods in Sumatra as workers toil in unhealthy air",
-        "summary": "Wildfires in Indonesia have caused transboundary haze and disrupted livelihoods in Sumatra. In the first of a series, CNA speaks to locals about the toll on their incomes and health.",
-        "source": "CNA Asia",
+        "id": "078493cbbf7f4883013937e0b7e6837a",
+        "title": "For China’s hi-tech IPOs, it’s Hong Kong vs the mainland – but how much does it matter?",
+        "summary": "Competition between mainland China and Hong Kong for hi-tech initial public offerings presents emerging technology firms with a dual-track strategic choice rather than a zero-sum battle, according to an executive at a national cross-border innovation platform. “There is naturally a degree of competition,” Lu Peng, general manager of Beijing-based Zhongguancun International, said in an interview on Thursday, referring to how tech firms select their primary listing venue. “However, the two markets",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/indonesia-haze-wildfires-sumatra-livelihoods-workers-6379941",
-        "published": "2026-09-19T22:00:00+00:00"
+        "url": "https://www.scmp.com/business/banking-finance/article/3368029/chinas-hi-tech-ipos-its-hong-kong-vs-mainland-how-much-does-it-matter?utm_source=rss_feed",
+        "published": "2026-09-20T23:00:11+00:00"
       },
       {
-        "id": "6c10bd9738035327bf7eb0effb4dfd0d",
-        "title": "EC's shockwave upsets 'blue camp'",
-        "summary": "The Election Commission (EC)'s decision to refer the Senate vote-rigging case, which involves 77 suspects, to the Supreme Court has put 26 serving senators from the so-called \"blue camp\" -- politicians linked to the ruling Bhumjaithai (BJT) Party -- at the centre of a legal process that could shift the balance of power in the upper house.",
+        "id": "96c5434a0d753b39bcc1e7d04a939e19",
+        "title": "Nurturing Thailand's screen talent",
+        "summary": "Moving Thailand's film and series industry forward requires comprehensive support and improvements across the spectrum, including education, sufficient development time and funding, according to Nottapon Boonprakob, the renowned Thai film and series director and screenwriter.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/politics/3322674/ecs-shockwave-upsets-blue-camp",
-        "published": "2026-09-19T21:43:00+00:00"
+        "url": "https://www.bangkokpost.com/business/general/3323369/nurturing-thailands-screen-talent",
+        "published": "2026-09-20T22:58:00+00:00"
+      },
+      {
+        "id": "3c9acbdd32dddb6b5905349cbb7c88bc",
+        "title": "Thai brokerages could crater as new players compete",
+        "summary": "Thailand's brokerage industry could undergo major consolidation amid intensified competition, with the number of securities firms potentially falling by half to around 15, says Kitipong Urapeepatanapong, chairman of the Stock Exchange of Thailand.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3323299/thai-brokerages-could-crater-as-new-players-compete",
+        "published": "2026-09-20T22:52:00+00:00"
+      },
+      {
+        "id": "d359fa908b1a29b36c4d56c8a1769a61",
+        "title": "US tariff deal 'taking shape'",
+        "summary": "Thailand has secured its desired tariff rate it sought from the United States but one additional condition raised by Washington remains to be finalised, Prime Minister Anutin Charnvirakul said on Sunday.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3323029/us-tariff-deal-taking-shape",
+        "published": "2026-09-20T22:36:00+00:00"
+      },
+      {
+        "id": "c70f70eed5c59b3fa1d9d137e70c515b",
+        "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
+        "summary": "US President Donald Trump’s administration has prepared sanctions against the entire International Criminal Court (ICC) and plans to announce them soon, two sources familiar with the matter said, ‌a move that would step up its attack on the global tribunal that prosecutes war crimes and genocide worldwide. The Trump administration has made no secret of its disdain for the court and has worked to undermine it. US officials want the court to drop its arrest warrants against Israeli leaders as well",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3368180/trump-administration-prepares-sanctions-against-international-criminal-court-sources-say?utm_source=rss_feed",
+        "published": "2026-09-20T22:22:25+00:00"
       }
     ],
     "others": [
       {
-        "id": "364f57efac0f80cbcbb2645dea07e5c5",
-        "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-        "summary": "Turkish FM highlights Turkiye's readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.",
+        "id": "0d3808d87bf0013ce3c49f181b085897",
+        "title": "Polls close in Russian wartime election with ruling party set to dominate",
+        "summary": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
-        "published": "2026-09-19T23:18:34+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+        "published": "2026-09-20T22:54:00+00:00"
       },
       {
-        "id": "a4cdc12def62a6510159ba2a9aa9d716",
-        "title": "Cultural treasures are being destroyed by war, and people want justice",
-        "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T23:18:18+00:00"
-      },
-      {
-        "id": "479ddd2d511aab6931c419507553e811",
-        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-        "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T23:01:38+00:00"
-      },
-      {
-        "id": "27e36cff2d40f3459a3ed31bf76c3238",
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T23:00:27+00:00"
-      },
-      {
-        "id": "f102bd8d9e3759da93cb08fdf953a47e",
-        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-        "summary": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+        "id": "a7d1caf8748ccb7cd48c14b2d4d42880",
+        "title": "France to summon Iran envoy after language centre closure in Tehran",
+        "summary": "Iran accuses the French language centre of conducting 'illegal acts that violated diplomatic conventions'.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-        "published": "2026-09-19T22:03:05+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+        "published": "2026-09-20T22:06:22+00:00"
       },
       {
-        "id": "b596a78a554afb8f9a3c466ed3b4a9fc",
-        "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
-        "summary": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.",
+        "id": "0564e3bf94259d3b4d7297a48508de38",
+        "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+        "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-20T21:17:22+00:00"
+      },
+      {
+        "id": "5857c1ae13eed838c2ad32ea21bd4e61",
+        "title": "Qatar PM urges Gulf security framework with Iran",
+        "summary": "Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-        "published": "2026-09-19T20:47:20+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+        "published": "2026-09-20T21:00:15+00:00"
       },
       {
-        "id": "05e476feb6e0108b40f25819641f393f",
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "id": "ea389ce414b0934947b9750da465f7fb",
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T20:16:07+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-20T20:21:40+00:00"
       },
       {
-        "id": "42ac4216250189e494378229c90c9396",
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+        "id": "aad2f080fd9d00a6ad8a508fadea03d6",
+        "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+        "summary": "Jovenel Moïse, 53, was shot dead in July 2021 in a killing which sparked chaos in HaitiEighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Moïse, according to US officials.Moïse, 53, was shot dead on 7 July 2021 at his private residence by a hired group of about 20 military-trained Colombian mercenaries. His security detail did not intervene to protect him. Continue reading...",
+        "source": "The Guardian",
+        "category": "others",
+        "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+        "published": "2026-09-20T20:17:44+00:00"
+      },
+      {
+        "id": "001b887ef9e984a8e2af23c9578c50a6",
+        "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+        "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-19T19:13:49+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-20T19:04:11+00:00"
+      },
+      {
+        "id": "ed720045874cfc8885cb2f8fd61eaf87",
+        "title": "Trump says triumphal arch will be military complex with drones and snipers",
+        "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-20T16:36:43+00:00"
       }
     ],
     "tech": [
       {
-        "id": "c9fdee3b95861087abc0ddc3a6f2118f",
-        "title": "Mayday Mysteries",
-        "summary": "Article URL: http://www.maydaymystery.org/mayday/ Comments URL: https://news.ycombinator.com/item?id=49770362 Points: 17 # Comments: 3",
+        "id": "1a0c12dc2ebef1b5fa70da501e32d3b0",
+        "title": "What Happened to the Snowden Archive",
+        "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 42 # Comments: 4",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "http://www.maydaymystery.org/mayday/",
-        "published": "2026-09-19T21:43:09+00:00"
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "published": "2026-09-20T22:35:49+00:00"
       },
       {
-        "id": "9f61802d2b93fc95ec14ac83f5409079",
-        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-        "summary": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Points: 67 # Comments: 30",
+        "id": "0b49dd692185a48c154d90d3f8be5b2f",
+        "title": "Google's Open Agentic Orchestrator",
+        "summary": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 45 # Comments: 10",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-        "published": "2026-09-19T21:30:59+00:00"
+        "url": "https://agentexecutor.io",
+        "published": "2026-09-20T22:32:43+00:00"
       },
       {
-        "id": "e7cc94eae68d2d09ee72565a4d1f2b2f",
-        "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-        "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 19 # Comments: 9",
+        "id": "723a04775e6274b89b8cf78de19a98ed",
+        "title": "Bill to Ban Private Equity from Owning Medical Practices",
+        "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/ Comments URL: https://news.ycombinator.com/item?id=49780630 Points: 79 # Comments: 37",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
-        "published": "2026-09-19T21:25:29+00:00"
+        "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+        "published": "2026-09-20T22:13:46+00:00"
       },
       {
-        "id": "d8d8f55201bb64c88841c827f3e3fad5",
-        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-        "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]",
+        "id": "546f174489bc2f323fa220ddb7ece2ff",
+        "title": "Nobody pays for FOSS, we can force them to",
+        "summary": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Comments URL: https://news.ycombinator.com/item?id=49780064 Points: 92 # Comments: 61",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+        "published": "2026-09-20T21:04:32+00:00"
+      },
+      {
+        "id": "fd41777bbf349e9a92d28bc237a31c19",
+        "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+        "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 15 # Comments: 6",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+        "published": "2026-09-20T20:59:02+00:00"
+      },
+      {
+        "id": "66c7695d71c422fd7afc8f4912ba90cb",
+        "title": "No Dogs in Space is back to feed your need for obsessive music history",
+        "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-        "published": "2026-09-19T20:44:40+00:00"
+        "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+        "published": "2026-09-20T20:51:57+00:00"
       },
       {
-        "id": "9f47b8f6e9f3aa20e022e362f4d6712c",
-        "title": "English: A vs. An",
-        "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 95 # Comments: 103",
+        "id": "429f596aee162e3a28906383ab055045",
+        "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+        "summary": "Article URL: https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage Comments URL: https://news.ycombinator.com/item?id=49779432 Points: 114 # Comments: 44",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-        "published": "2026-09-19T20:41:26+00:00"
+        "url": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
+        "published": "2026-09-20T19:55:36+00:00"
       },
       {
-        "id": "b2dac4831f67d420dcd6477645cc0437",
-        "title": "Measure internet censorship. Contribute to the largest open dataset",
-        "summary": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 70 # Comments: 38",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://ooni.org/install",
-        "published": "2026-09-19T20:00:59+00:00"
-      },
-      {
-        "id": "24830cb9a0fac19da0c3c97f3f37452b",
-        "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-        "summary": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 46 # Comments: 6",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://eprint.iacr.org/2026/2039",
-        "published": "2026-09-19T19:23:23+00:00"
-      },
-      {
-        "id": "ee370769f594f442c16f74c042938273",
-        "title": "Trump treads further on free speech with new journalist bans",
-        "summary": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalation in the […]",
+        "id": "d895a47c928cafa7781ef7e57f183b84",
+        "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+        "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
-        "published": "2026-09-19T17:10:21+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "published": "2026-09-20T18:50:18+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "3ebfaf81085d33428dbdaee198a4e662",
+        "title": "House prices survived the last interest-rate rise. Will they this time?",
+        "summary": "Supports that shored up the housing market when borrowing costs last rose are gone",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+        "published": "2026-09-20T09:05:41+00:00"
+      },
       {
         "id": "0b4d36f85c98884b883e3f4a4f373bcb",
         "title": "Donald Trump drops demands to own Greenland, but the harm has been done",
@@ -399,6 +408,15 @@
         "published": "2026-09-17T12:45:01+00:00"
       },
       {
+        "id": "3e825ca8b2a13427044482aa84904452",
+        "title": "Russia has entered a new phase of total war",
+        "summary": "Ukrainians are feeling the pain",
+        "source": "Briefing",
+        "category": "economist",
+        "url": "https://www.economist.com/briefing/2026/09/17/russia-has-entered-a-new-phase-of-total-war",
+        "published": "2026-09-17T12:45:01+00:00"
+      },
+      {
         "id": "d05f1815ce6aef2f9cb092bf91dc71e7",
         "title": "Sleep like a pro",
         "summary": "One firm’s attempt to create a more rested workforce",
@@ -424,24 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/business/2026/09/17/alternatives-to-milk-are-losing-moomentum",
         "published": "2026-09-17T12:45:01+00:00"
-      },
-      {
-        "id": "3e825ca8b2a13427044482aa84904452",
-        "title": "Russia has entered a new phase of total war",
-        "summary": "Ukrainians are feeling the pain",
-        "source": "Briefing",
-        "category": "economist",
-        "url": "https://www.economist.com/briefing/2026/09/17/russia-has-entered-a-new-phase-of-total-war",
-        "published": "2026-09-17T12:45:01+00:00"
-      },
-      {
-        "id": "f4c34c314ff5fcc1d3930416bf1c8d57",
-        "title": "The GDP-per-person slowdown threatens global living standards",
-        "summary": "Brazil, China, Germany and Russia have recently joined an unfortunate club",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
-        "published": "2026-09-17T10:30:49+00:00"
       }
     ]
   },
@@ -518,27 +518,27 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2756999731063843,
+        "price": 1.2758100032806396,
         "prev_close": 1.2759100198745728,
-        "change_pct": -0.02,
+        "change_pct": -0.01,
         "direction": "down",
         "price_fmt": "1.28",
-        "change_str": "-0.02%"
+        "change_str": "-0.01%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.464900016784668,
+        "price": 1.4643700122833252,
         "prev_close": 1.4635000228881836,
-        "change_pct": 0.1,
+        "change_pct": 0.06,
         "direction": "up",
         "price_fmt": "1.46",
-        "change_str": "+0.10%"
+        "change_str": "+0.06%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.707800030708313,
+        "price": 1.7077699899673462,
         "prev_close": 1.703529953956604,
         "change_pct": 0.25,
         "direction": "up",
@@ -548,22 +548,22 @@
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008080000057816505,
+        "price": 0.008070000447332859,
         "prev_close": 0.0081,
-        "change_pct": -0.25,
+        "change_pct": -0.37,
         "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "-0.25%"
+        "change_str": "-0.37%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
         "price": 0.1898999959230423,
-        "prev_close": 0.1896,
-        "change_pct": 0.16,
-        "direction": "up",
+        "prev_close": 0.1899,
+        "change_pct": -0.0,
+        "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "+0.16%"
+        "change_str": "-0.00%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 103.87000274658203,
-        "prev_close": 104.81999969482422,
-        "change_pct": -0.91,
+        "price": 99.41000366210938,
+        "prev_close": 103.87000274658203,
+        "change_pct": -4.29,
         "direction": "down",
-        "price_fmt": "103.87",
-        "change_str": "-0.91%"
+        "price_fmt": "99.41",
+        "change_str": "-4.29%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4424.89990234375,
-        "prev_close": 4399.7001953125,
-        "change_pct": 0.57,
-        "direction": "up",
-        "price_fmt": "4,424.9",
-        "change_str": "+0.57%"
+        "price": 4414.10009765625,
+        "prev_close": 4424.89990234375,
+        "change_pct": -0.24,
+        "direction": "down",
+        "price_fmt": "4,414.1",
+        "change_str": "-0.24%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 66.55599975585938,
-        "prev_close": 65.47000122070312,
-        "change_pct": 1.66,
+        "price": 66.93000030517578,
+        "prev_close": 66.55599975585938,
+        "change_pct": 0.56,
         "direction": "up",
-        "price_fmt": "66.56",
-        "change_str": "+1.66%"
+        "price_fmt": "66.93",
+        "change_str": "+0.56%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.9119999408721924,
-        "prev_close": 2.9010000228881836,
-        "change_pct": 0.38,
-        "direction": "up",
-        "price_fmt": "2.91",
-        "change_str": "+0.38%"
+        "price": 2.88700008392334,
+        "prev_close": 2.9119999408721924,
+        "change_pct": -0.86,
+        "direction": "down",
+        "price_fmt": "2.89",
+        "change_str": "-0.86%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 81259.7265625,
-        "prev_close": 80901.4609375,
-        "change_pct": 0.44,
-        "direction": "up",
-        "price_fmt": "81,260",
-        "change_str": "+0.44%"
+        "price": 81233.2265625,
+        "prev_close": 81233.6796875,
+        "change_pct": -0.0,
+        "direction": "down",
+        "price_fmt": "81,233",
+        "change_str": "-0.00%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2634.72998046875,
-        "prev_close": 2611.34716796875,
-        "change_pct": 0.9,
+        "price": 2642.1298828125,
+        "prev_close": 2631.962646484375,
+        "change_pct": 0.39,
         "direction": "up",
-        "price_fmt": "2,634.7",
-        "change_str": "+0.90%"
+        "price_fmt": "2,642.1",
+        "change_str": "+0.39%"
       }
     ]
   },
