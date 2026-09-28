@@ -2,375 +2,393 @@
   "news": {
     "singapore": [
       {
-        "id": "0de4e7c6b301ebd2331bd3c6bc068455",
-        "title": "Decathlon’s Kiprun half-marathon shortened to 10km as haze worsens in Singapore",
-        "summary": "Distances for the 10km, 5km, and Kids Dash remain unchanged but the awards ceremony has been cancelled.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/decathlons-kiprun-half-marathon-shortened-to-10km-as-haze-worsens-in-singapore",
-        "published": "2026-09-26T23:40:40+00:00"
-      },
-      {
-        "id": "3bbdc0e00e2e0bdfb060d7db65a664b8",
-        "title": "Haze in S’pore: Air quality worsens as PSI hits unhealthy range in central, eastern and western regions",
-        "summary": "As at 7am, the 24-hour PSI stood at 128 in the central region, 115 in the east and 106 in the west.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-worsens-as-psi-hits-unhealthy-range-in-central-eastern-and-western-regions",
-        "published": "2026-09-26T23:16:54+00:00"
-      },
-      {
-        "id": "5df04a53d48f3d47e72eb6151fdc49b4",
-        "title": "Probe into self-styled wealth guru Jason Fong’s business widens",
-        "summary": "His ex-wife was detained by police at Woodlands Checkpoint for investigations.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/probe-into-self-styled-wealth-guru-jason-fongs-business-widens",
-        "published": "2026-09-26T21:00:00+00:00"
-      },
-      {
-        "id": "27031923ba8cb6f2ad1c1e2a77487e9f",
-        "title": "Singapore shifts cyber strategy after UNC3886 attacks, deploys AI security tools",
-        "summary": "One AI-powered tool that has been rolled out conducts automated penetration testing on about 2,000 government systems.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/singapore-shifts-cyber-strategy-after-unc3886-attacks-deploys-ai-security-tools",
-        "published": "2026-09-26T21:00:00+00:00"
-      },
-      {
-        "id": "f71a2923d17ed87979e597b28a5cbe4d",
-        "title": "Joint highest temperature for month recorded in Woodlands on Sept 26",
-        "summary": "NEA data showed that the temperature reached 35.8 deg C at Woodlands Avenue 9 Climate Station.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/joint-highest-temperature-for-month-recorded-in-woodlands-on-sept-26",
-        "published": "2026-09-26T13:30:35+00:00"
-      },
-      {
-        "id": "b9444a34987cde95ba6ba716c154902a",
-        "title": "Air quality in central region back in unhealthy range; 24-hour PSI reading at 115",
-        "summary": "Hourly PM2.5 readings were in the elevated band across Singapore as at 11pm.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/air-quality-in-central-region-back-in-unhealthy-range-24-hour-psi-reading-at-104",
-        "published": "2026-09-26T12:11:08+00:00"
-      },
-      {
-        "id": "d156d4dabef8ae6d984f9cc1b37e4e27",
-        "title": "Singapore air quality enters unhealthy range in three regions",
-        "summary": "PSI readings have dipped in and out of the unhealthy range over the past weeks.",
+        "id": "3799a1e1821cde07f24418847778db52",
+        "title": "She once interviewed boy bands – now she fights for migrant workers’ dignity and rights",
+        "summary": "Almost two decades of advocating for migrant workers in Singapore have changed how Stephanie Chok sees everyday life. From restaurant staff’s work passes to whether a domestic worker gets her day off, the HOME executive director says she is always alert to the inequalities migrant workers face.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-psi-unhealthy-range-6412536",
-        "published": "2026-09-26T12:06:00+00:00"
+        "url": "https://www.channelnewsasia.com/women/stephanie-chok-home-migrant-worker-rights-6398766",
+        "published": "2026-09-27T23:23:35+00:00"
       },
       {
-        "id": "c5f172369a93510be76ef37eacd27ff1",
-        "title": "Defending champion Shanti Pereira tops heats, advances to Asian Games 200m finals",
-        "summary": "Shanti Pereira clocked a time of 23.10s and was the top qualifier in the women's 200m heats.",
+        "id": "3a481ce36fed2e7e0ba351995d638563",
+        "title": "Haze in S’pore: Air quality returns to moderate levels",
+        "summary": "The PSI reading for the central region improved at midnight, moving from unhealthy back to moderate.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-returns-to-moderate-levels",
+        "published": "2026-09-27T22:34:20+00:00"
+      },
+      {
+        "id": "7770fb5571f81dc085486a62a191f193",
+        "title": "Commentary: Pressures of platform work in Singapore push drivers and riders to take risks",
+        "summary": "Platform workers operate in an environment shaped, in part, by the expectations of the people they serve, says SUSS’ Victor Seah.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/sport/shanti-pereira-asian-games-200m-6412571",
-        "published": "2026-09-26T11:06:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/food-delivery-platform-work-accident-driver-6413446",
+        "published": "2026-09-27T22:00:00+00:00"
+      },
+      {
+        "id": "8c2559c7f1acff10a2ec08a18a652c56",
+        "title": "'Put it all on the line': Why F&B founders risk sweat and savings on short-lease spaces",
+        "summary": "For budding F&B entrepreneurs, temporary spaces serve as a place to test their concepts and to learn the realities of running a business.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/food-beverage-restaurants-hawkers-incubator-temporary-short-lease-6410281",
+        "published": "2026-09-27T22:00:00+00:00"
+      },
+      {
+        "id": "33925794dc108dbfccb1b090bbc1f029",
+        "title": "Science Talk: Why a greener medication box matters to your health",
+        "summary": "Sustainability is not just an environmental issue but also a healthcare and financial one, and ultimately about patient care.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/why-a-greener-medication-box-matters-to-your-health",
+        "published": "2026-09-27T21:00:00+00:00"
+      },
+      {
+        "id": "183fcc12c647ed343eabde6299fead2a",
+        "title": "Simple handgrip test could help doctors detect early heart ageing in seniors",
+        "summary": "A study shows loss of muscle strength is linked to early heart decline in healthy seniors.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/simple-handgrip-test-could-help-doctors-detect-early-heart-ageing-in-seniors",
+        "published": "2026-09-27T21:00:00+00:00"
+      },
+      {
+        "id": "46279551051189433691aa4386e2961b",
+        "title": "From haze to heavy use: How often should you really be servicing your air-con?",
+        "summary": "",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/from-haze-to-heavy-use-how-often-should-you-service-air-con-sp-group",
+        "published": "2026-09-27T20:00:00+00:00"
+      },
+      {
+        "id": "8c0e441e7bb9366510ae4fc0e7cddc36",
+        "title": "How you age is more in your control than you think",
+        "summary": "",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/how-you-age-is-more-in-your-control-than-you-think-amway",
+        "published": "2026-09-27T20:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "7f5bdb9fc22af9a1ca6b04025efb11ac",
-        "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
-        "summary": "President Trump announced Saturday he approved new fuel economy standards that eliminate an electric vehicle (EV) mandate introduced under the Biden administration. The 2024 EV mandate aimed to facilitate the transition from gas-powered to EVs by setting new pollution standards for automakers’ vehicle fleets, which were intentionally difficult to meet without introducing new electric or…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
-        "published": "2026-09-26T22:52:15+00:00"
-      },
-      {
-        "id": "f1ef6d856f9330934ca5c5b314e4a902",
-        "title": "Former Kennedy Center employees claim officials halted repairs months prior to closure",
-        "summary": "Former Kennedy Center employees accused the iconic performing arts venue’s leadership in a letter to Congress of halting planned waterproofing repairs earlier this year. In the Thursday letter, David Seide, an attorney representing the whistleblowers, shared internal documents which he said challenged the Kennedy Center board’s claims that these leaks warranted the venue’s immediate closure. …",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/",
-        "published": "2026-09-26T22:37:20+00:00"
-      },
-      {
-        "id": "e0e7a9d14719049abf37e1b2212e7b64",
-        "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-        "summary": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
+        "id": "b78b582bdfffd20aac7a1e9285cecc70",
+        "title": "Scientists discover two new species of sea spiders along Canadian coastline",
+        "summary": "So far, scientists have identified more than 1,300 species of sea spiders.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
-        "published": "2026-09-26T21:13:54+00:00"
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
+        "published": "2026-09-27T22:31:16+00:00"
       },
       {
-        "id": "d73144d510707b852c7661351414741f",
-        "title": "Sunday shows preview: Trump rejects Iran deal after week of high-stakes meetings; GOP clammers to keep Congress",
-        "summary": "President Trump rejected a new seven-day proposal from Iran Saturday morning to reopen the Strait of Hormuz and halt military operations in the ongoing conflict between Tehran and the U.S. “They want to make a deal, and I think that’s fine,” the president told reporters at the White House. “I like making a deal, too, but…",
+        "id": "a04155b9d947c8164b48b1dd929f2024",
+        "title": "GOP rep believes Iran was involved in thwarted terrorist plan on US air base in the UK",
+        "summary": "Rep. Kat Cammack (R-Fla.) said Sunday the Iranian government was “clearly” involved in an alleged terror attack authorities in the United Kingdom thwarted earlier in the day. “The simple answer is that clearly Iran was involved, but of course that is going to be investigated and determined,” the congresswoman told Laura Ingle on “NewsNation Live.”…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/6113249-sunday-shows-trump-rejects-iran-proposal/",
-        "published": "2026-09-26T21:02:36+00:00"
+        "url": "https://thehill.com/homenews/house/6114136-uk-arrests-raf-fairford-terrorists/",
+        "published": "2026-09-27T21:46:21+00:00"
       },
       {
-        "id": "a26029d58440328afbea910073ceab17",
-        "title": "Election forecasters don’t see polling ‘sugar-high’ Democrats fear — for now",
-        "summary": "Pollsters and independent handicappers are increasingly convinced that Democrats aren’t experiencing an artificial “sugar-high” in polling but that multiple metrics are right now pointing to a good midterm environment for the party. The nonpartisan election handicapper Cook Political Report became the latest independent forecaster this week in predicting that Republicans looked poised to lose the…",
+        "id": "ea6c4801ef999e5cde6d324a0856d257",
+        "title": "Anthropic CEO Dario Amodei to have private White House dinner with Trump",
+        "summary": "President Trump and Anthropic CEO Dario Amodei will meet on Sunday evening at the White House after the artificial intelligence industry leader raised concerns about the technology’s risks. The two will meet for dinner at the president’s residence, two sources familiar with the dinner confirmed to The Hill. Trump in recent weeks has dismissed concerns…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6112624-election-forecasters-dont-see-polling-sugar-high-democrats-fear-for-now/",
-        "published": "2026-09-26T21:00:00+00:00"
+        "url": "https://thehill.com/policy/technology/6114077-trump-anthropic-ceo-meeting/",
+        "published": "2026-09-27T21:16:40+00:00"
       },
       {
-        "id": "843ba9c3b206e0498185bd957b54c112",
-        "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-        "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+        "id": "d53a0fb856fd493d157ae17f83b9bafb",
+        "title": "Dems vow to confront Israel on violence against Palestinians: ‘Out of control’",
+        "summary": "If they flip the House, Democrats say they’re ready to confront Israel on human rights. The issue has long challenged the party, pitting staunch Israel defenders against more liberal lawmakers critical of Israel’s treatment of Palestinians. Democratic leaders have taken pains to avoid legislation that might highlight those divisions. But heading into the midterms, when…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6112471-democrats-to-confront-netanyahu-israel-west-bank/",
+        "published": "2026-09-27T21:00:00+00:00"
+      },
+      {
+        "id": "666ee853712c021c962c9cd94d69a5b2",
+        "title": "Manchin: ‘If character means anything, you can’t vote for Ken Paxton’",
+        "summary": "Former Sen. Joe Manchin (I-W.Va.) on Sunday took aim at Texas Attorney General Ken Paxton, the Republican candidate in the Lone Star State’s Senate race, deriding his “character.” During an interview with NewsNation’s Chris Stirewalt on “The Hill Sunday,” Manchin was asked about Texas’s Democratic Senate candidate, state Rep. James Talarico. “I don’t know that…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6114094-manchin-slams-paxton-character/",
+        "published": "2026-09-27T20:33:49+00:00"
+      },
+      {
+        "id": "3ac86adb8574daece2e18c19a05db633",
+        "title": "GOP rep: Americans feel ‘fatigue’ in diesel prices increasing",
+        "summary": "Rep. Rick Crawford (R-Ark.) said Sunday that Americans are “fatigued” about rising diesel prices amid the Iran war. “I think there is some fatigue in that the American people see diesel prices increasing,” Crawford told host Chris Stirewalt on NewsNation’s “The Hill Sunday.” “And why that matters as much as gasoline — if not more…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6113992-crawford-diesel-prices-iran-war/",
+        "published": "2026-09-27T20:03:10+00:00"
+      },
+      {
+        "id": "396697a292119f1ae8b4d3faab588ad0",
+        "title": "Bill Gates says global AI cooperation is ‘more difficult’ than nuclear talks",
+        "summary": "Microsoft co-founder Bill Gates said global cooperation on artificial intelligence (AI) will be “more difficult” than talks on nuclear proliferation during the Cold War. “Meet the Press” host Kristen Welker asked Gates in an interview that aired on NBC News Sunday about the cooperation between the U.S. and the former Soviet Union on limiting the…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/technology/6113698-bill-gates-ai-nuclear-comparison/",
+        "published": "2026-09-27T19:48:35+00:00"
+      },
+      {
+        "id": "e6c3da178ee446beec68efb93c465ed6",
+        "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+        "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
-        "published": "2026-09-26T20:08:28+00:00"
-      },
-      {
-        "id": "b2318f2f5939aceb382bc91fc97e940f",
-        "title": "Live updates: Trump returns to White House after Texas-Tennessee game; Iran’s proposal to reopen Strait of Hormuz rejected",
-        "summary": "President Trump left Knoxville for the White House Saturday afternoon after attending the University of Texas vs. University of Tennessee football game — an appearance coming ahead of senators’ last chance to pass the Protect College Sports Act before recessing into a lame-duck period. Trump flew to Knoxville Saturday morning to watch the Texas Longhorns,…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/",
-        "published": "2026-09-26T19:33:51+00:00"
-      },
-      {
-        "id": "aacb7d5d0114df6ddf580737656f275a",
-        "title": "Colleges must help America keep the promise it makes to its military",
-        "summary": "As the U.S. military reaches record recruitment numbers, higher education institutions must improve their support systems to fulfill the promise of opportunity for service members and veterans.",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/opinion/education/6112413-higher-education-veteran-support-gap/",
-        "published": "2026-09-26T18:00:00+00:00"
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+        "published": "2026-09-27T13:01:27+00:00"
       }
     ],
     "asia": [
       {
-        "id": "bf5dceead19a7b8cbb0efae539cf7a8f",
-        "title": "After EU-Philippines trade breakthrough, is Asean-wide deal next?",
-        "summary": "After a decade of start-stop negotiations, the European Union and the Philippines have found their way to a “substantial agreement” on free trade – one that analysts say could pave the way for Brussels to lock in an Asean-wide pact. The breakthrough, announced on Tuesday, capped talks that began in 2016 and stalled a year later, only to resume again in 2024. “I am proud to say we have delivered a substantial agreement that reflects the ambition both sides brought to the table,” EU trade chief...",
+        "id": "c6ec6f76f280845e332e3557fef5427b",
+        "title": "Italy attracts wealthy Chinese property buyers with food, fashion – and flat tax",
+        "summary": "Italy is becoming a magnet for wealthy property investors thanks to its high quality of life and flat tax regime, and interest is also on the rise among mainland Chinese and Hong Kong buyers, according to property agents. Rome introduced a flat tax regime nine years ago to attract high-net-worth individuals, with foreign residents allowed to make a flat annual tax payment of €300,000 (US$342,000) on all their overseas income under the scheme’s latest rules. The tax incentive has become a draw...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/week-asia/economics/article/3368826/after-eu-philippines-trade-breakthrough-asean-wide-deal-next?utm_source=rss_feed",
-        "published": "2026-09-27T00:00:09+00:00"
+        "url": "https://www.scmp.com/business/article/3368963/italy-attracts-wealthy-chinese-property-buyers-food-fashion-and-flat-tax?utm_source=rss_feed",
+        "published": "2026-09-28T00:00:21+00:00"
       },
       {
-        "id": "45e2710de27cc47c821f540ebafd7ed0",
-        "title": "Why Xi Jinping skipped the UN after his Trump summit",
-        "summary": "Han Zheng, China’s vice-president, called on “major countries” to respect the sovereignty and security of Middle Eastern nations and bring about a two-state solution for the “Palestinian question” on Saturday at the UN General Assembly (UNGA) in an implicit dig at the US and Israel. This came as some analysts questioned why Chinese President Xi Jinping opted not to address the global body given his three-day summit in Washington with US President Donald Trump this week – despite the short...",
+        "id": "bef2fac79ad436e13ed8e198ed23cbf3",
+        "title": "Indonesia’s 3% deficit cap: guardrail or growth barrier?",
+        "summary": "Indonesia is considering lifting a statutory cap on government spending that has been in place for more than two decades, as President Prabowo Subianto pushes for faster economic growth. Supporters argue that greater room to borrow and spend would let Southeast Asia’s largest economy invest its way towards Prabowo’s target of 8 per cent annual growth by 2029. Economists counter that weakening the rule could push up borrowing costs and dent investor confidence. At issue is the mandatory ceiling..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3368923/why-xi-jinping-skipped-un-after-his-trump-summit?utm_source=rss_feed",
-        "published": "2026-09-26T23:04:55+00:00"
+        "url": "https://www.scmp.com/week-asia/politics/article/3368827/indonesias-3-deficit-cap-guardrail-or-growth-barrier?utm_source=rss_feed",
+        "published": "2026-09-28T00:00:18+00:00"
       },
       {
-        "id": "dd899a9db61656a0655c490bbc384a5d",
-        "title": "Powerful storm pummels northeast US with rain and high winds",
-        "summary": "Heavy rain and strong winds battered the northeastern US on Saturday as an unusually powerful autumn storm intensified, forcing the cancellation of hundreds of flights and leaving tens of thousands of people without power. New York, Boston and Philadelphia were all in the firing line of the “nor'easter” – so labelled for its northeasterly winds – as authorities warned of potential major flooding and road closures. “This storm is expected to bring major coastal flooding to the mid-Atlantic coast.",
+        "id": "1dcd1a39193c41f7a7e9fc4997ca2234",
+        "title": "Venezuelans rally to demand opposition leader’s safe return and presidential elections",
+        "summary": "Supporters of Venezuelan opposition leader Maria Corina Machado took to the country’s streets on Sunday to demand her safe return and presidential elections that could lead to a democratic transition in Venezuela. The government has been widely accused of stealing elections, jailing dissidents and stifling freedom of speech. In Caracas, hundreds of activists in sky blue shirts – the colour of Machado’s Vente Venezuela party – rode motorcycles and drove through the city’s main avenues, honking...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3368922/powerful-storm-pummels-northeast-us-rain-and-high-winds?utm_source=rss_feed",
-        "published": "2026-09-26T22:17:40+00:00"
+        "url": "https://www.scmp.com/news/world/americas/article/3368985/venezuelans-rally-demand-opposition-leaders-safe-return-and-presidential-elections?utm_source=rss_feed",
+        "published": "2026-09-27T23:45:37+00:00"
       },
       {
-        "id": "b7271ebb9c0503b35b13e10654a0d758",
-        "title": "Amid many thorny issues with China, Trump pushes to rename AI as superintelligence",
-        "summary": "US President Donald Trump is pushing for a rebrand of artificial intelligence (AI) — and looking to get the world’s other AI superpower, China, on board. All US government documents, and “hopefully the world’s”, will use the term “superintelligence”, or SI, to refer to the fast-evolving technology, Trump said at the United Nations General Assembly on Tuesday. The same day, the US State Department ordered US diplomats to use SI instead of AI in all communications moving forward, the Associated...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3368921/amid-many-thorny-issues-china-trump-pushes-rename-ai-superintelligence?utm_source=rss_feed",
-        "published": "2026-09-26T22:15:40+00:00"
-      },
-      {
-        "id": "5f77bea7d8f2d9bb9b8681d01d340e0a",
-        "title": "Helicopter crash near Canadian city of Montreal leaves 4 dead, police say",
-        "summary": "The spokesperson said the helicopter seems to have been a private aircraft",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/helicopter-crash-near-canadian-city-of-montreal-death-toll/article71514203.ece",
-        "published": "2026-09-26T22:07:14+00:00"
-      },
-      {
-        "id": "98567eaefecb94ef7573e4b9ef7915fc",
-        "title": "Claims China’s BeiDou satellite was refuelled in orbit could change space race",
-        "summary": "Chinese researchers appear to have revealed a previously unknown satellite-to-satellite refuelling operation in high Earth orbit, putting the country at the forefront of a technology that could reshape the space race. In a paper undergoing peer review for the Journal of Deep Space Exploration, the team said China had “successfully provided room-temperature propellant refuelling for a high-orbit BeiDou satellite for the first time”. The researchers from the state-funded Deep Space Exploration...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/science/article/3368579/claims-chinas-beidou-satellite-was-refuelled-orbit-could-change-space-race?utm_source=rss_feed",
-        "published": "2026-09-26T22:00:13+00:00"
-      },
-      {
-        "id": "2aac3b20ee962c8e8e0ef74c19109aa2",
-        "title": "Scams, illegal businesses pose new setback for Johor’s Forest City revival",
-        "summary": "Forest City is courting investors and trying to shed its “ghost town” label, but recent controversies are testing efforts to revive the development and its property market.",
-        "source": "CNA Asia",
-        "category": "asia",
-        "url": "https://www.channelnewsasia.com/asia/scams-illegal-businesses-pose-new-setback-johors-forest-city-revival-6408931",
-        "published": "2026-09-26T22:00:00+00:00"
-      },
-      {
-        "id": "48c02a90cf6df5916511cdca1e8a93fd",
-        "title": "Govt defends solar sector as China supplies 99.3% of imports",
-        "summary": "The government has defended the domestic solar industry after figures showed China supplied 99.3% of solar-panel imports in the first seven months of 2026.",
+        "id": "7f82a6e31f99657462086435f1d1daa4",
+        "title": "Costly efforts cushion against energy prices",
+        "summary": "State agencies are either implementing or considering a range of financial and fiscal measures to cushion consumers and businesses from global oil price volatility, according to energy permanent secretary Prasert Sinsukprasert.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3326790/govt-defends-solar-sector-as-china-supplies-993-of-imports",
-        "published": "2026-09-26T21:39:00+00:00"
+        "url": "https://www.bangkokpost.com/business/general/3327360/costly-efforts-cushion-against-energy-prices",
+        "published": "2026-09-27T23:01:00+00:00"
+      },
+      {
+        "id": "434d49e5b13c2c5262b214f4d9c74489",
+        "title": "The sky's the limit",
+        "summary": "Low-cost carriers have become a critical part of Thailand's aviation expansion over the past two decades since the first low-cost operator, Thai AirAsia, was established 23 years ago, giving travellers more options for affordable air travel.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3327365/the-skys-the-limit",
+        "published": "2026-09-27T22:52:00+00:00"
+      },
+      {
+        "id": "700f18735fde6d89bc79fbfd31ba3a7c",
+        "title": "South Korea demands apology from Ukraine over North Korean prisoners of war disclosure",
+        "summary": "South Korea accused Kyiv of disclosing the transfer of two North Korean prisoners of war and then falsely denying that the two sides had agreed to keep the move confidential.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/east-asia/north-korea-prisoners-war-ukraine-transfer-disclosure-6414156",
+        "published": "2026-09-27T22:48:00+00:00"
+      },
+      {
+        "id": "dd5439042e4336e9e02367d18fc804de",
+        "title": "French far-right to form first Senate parliamentary group, early results show",
+        "summary": "Marine Le Pen’s far-right National Rally made significant gains in elections to the French Senate on Sunday, securing a parliamentary group in the upper house for the first time, French media reported on the basis of near-final election results. In a post on social media, Le Pen spoke of a “historic victory” and a “major milestone” even before the full results were available. “The results have exceeded all our expectations; the breakthrough is comprehensive, confirming the growing popularity of.",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/europe/article/3368984/french-far-right-form-first-senate-parliamentary-group?utm_source=rss_feed",
+        "published": "2026-09-27T22:45:22+00:00"
+      },
+      {
+        "id": "3ef8e918ccf03074b6e29c480d552026",
+        "title": "3 people killed, 4 injured in shooting at Detroit strip club, police say",
+        "summary": "“A fight occurred, an altercation occurred, and as a result individuals decided to settle it with gun violence,” he said.",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/people-killed-injured-in-shooting-at-detroit-strip-club-police-say/article71517417.ece",
+        "published": "2026-09-27T22:44:39+00:00"
       }
     ],
     "others": [
       {
-        "id": "d6722103641918009a85c3e107baaef5",
-        "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-        "summary": "Two women reportedly injured after building collapse in Athens' historic Plaka district.",
+        "id": "47d09f4f9a494a44c59e7e482a8d90ac",
+        "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
+        "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New YorkSlinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91.Francisco, who got his breakthrough in calypso music with his 1956 hit song Jean and Dinah, died peacefully surrounded by his family in New York on Sunday, his family said in a statement. Continue reading...",
+        "source": "The Guardian",
+        "category": "others",
+        "url": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
+        "published": "2026-09-27T23:24:10+00:00"
+      },
+      {
+        "id": "d32cc97005accbf69a72d4029f4585fd",
+        "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
+        "summary": "Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven abuse victims in French town of Lourdes.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
-        "published": "2026-09-26T23:26:31+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
+        "published": "2026-09-27T23:14:15+00:00"
       },
       {
-        "id": "6cb89ccee9feaeb4d2de4f82f45c02db",
-        "title": "Powerful storm brings flooding, power outages to northeastern United States",
-        "summary": "Authorities warn residents that extreme conditions in the region could pose risks.",
+        "id": "e084599fe292f5af249c4f2e1fb2111e",
+        "title": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
+        "summary": "Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
-        "published": "2026-09-26T22:51:57+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
+        "published": "2026-09-27T23:09:48+00:00"
       },
       {
-        "id": "c98b6109e634a6d59eb88da87cb2c410",
-        "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
-        "summary": "Four people were killed and four wounded near the capital of Kingstown on the islands, known as a tourism destination.",
+        "id": "cc4dab5406f1080a2b3a0ccdb6f174b8",
+        "title": "Powerful storm floods US Northeast, causes power outages",
+        "summary": "The nor'easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
-        "published": "2026-09-26T22:38:01+00:00"
+        "url": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
+        "published": "2026-09-27T22:51:29+00:00"
       },
       {
-        "id": "d065eec2e61c2ca941177873ae8c6beb",
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+        "id": "4a01cb52014b2794afa376db0e83fec3",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T22:15:59+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27T21:16:31+00:00"
       },
       {
-        "id": "f47b5ad79d8756fe0cbe390e683a8306",
-        "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-        "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+        "id": "ca246424c0cb3d1c20635a9d444f1748",
+        "title": "Embattled Serbian president resigns, paving way for early elections",
+        "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T22:04:26+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27T20:04:21+00:00"
       },
       {
-        "id": "25986353adf4d8d76c4fe10d2ef57d84",
-        "title": "Republic of Ireland to wear black armbands for Israel game",
-        "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T19:59:00+00:00"
-      },
-      {
-        "id": "97fdf2fdf2922421daef019f685e34f6",
-        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-        "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-26T19:48:06+00:00"
-      },
-      {
-        "id": "96edddcc46bc55288dab11245de68a0d",
-        "title": "Backlash over data centers tests Europe's AI ambitions",
-        "summary": "Massive data centers needed to run AI are triggering protests across Europe. Their operators counter that they boost digital sovereignty and energy independence.",
+        "id": "0c37655b8fac7299fb76813e71671bab",
+        "title": "Avalanche in Nepal leaves 2 dead, several missing",
+        "summary": "An avalanche has struck the Himlung Himal base camp in Nepal after days of severe weather. Two guides are confirmed dead and at least 14 people remain missing in the remote region.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-09-26T18:08:00+00:00"
+        "url": "https://www.dw.com/en/avalanche-in-nepal-leaves-2-dead-several-missing/a-79450101?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-09-27T17:47:00+00:00"
+      },
+      {
+        "id": "109208022e10e21de230544d54bb0e16",
+        "title": "Two bodies found after avalanche hits Himalayan climbing group",
+        "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27T17:05:26+00:00"
       }
     ],
     "tech": [
       {
-        "id": "ee6d5c74f0daf1f20e865d9a239b391c",
-        "title": "Claude Deleted 48k Files",
-        "summary": "Article URL: https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r= Comments URL: https://news.ycombinator.com/item?id=49861717 Points: 7 # Comments: 1",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=",
-        "published": "2026-09-26T23:42:06+00:00"
-      },
-      {
-        "id": "a945bf6361a49dd7bb51f7f2162da897",
-        "title": "Apple hit with $5.7 billion in damages over haptic patents",
-        "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a […]",
+        "id": "011f6e6792fb79f29d0aff62635823fa",
+        "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "summary": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-        "published": "2026-09-26T21:30:01+00:00"
+        "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "published": "2026-09-27T21:59:57+00:00"
       },
       {
-        "id": "01684ee12664ceb0b5efcbee993301bd",
-        "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-        "summary": "Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/ Comments URL: https://news.ycombinator.com/item?id=49860074 Points: 38 # Comments: 5",
+        "id": "142f2587d6dd277a7f879bc485bc4905",
+        "title": "Lunar Terminator Paradox",
+        "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html Comments URL: https://news.ycombinator.com/item?id=49870837 Points: 37 # Comments: 23",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-        "published": "2026-09-26T20:08:50+00:00"
+        "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+        "published": "2026-09-27T21:06:17+00:00"
       },
       {
-        "id": "dc67caadf9a4d29424f79a334cfd4563",
-        "title": "Decap is the man behind the drums behind your favorite song",
-        "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score […]",
+        "id": "d4c4806b9f3860fd7ad8f9c329ae6f34",
+        "title": "Engram is a sampler that turns broken AI hallucinations into music",
+        "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-        "published": "2026-09-26T19:30:00+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "published": "2026-09-27T20:46:36+00:00"
       },
       {
-        "id": "b6e8303a0f2840a40d0626ae83b57188",
-        "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-        "summary": "Article URL: https://tml.stanford.edu/homebody/ Comments URL: https://news.ycombinator.com/item?id=49859299 Points: 5 # Comments: 0",
+        "id": "43e55e65450a9f435fb5992c5af05b41",
+        "title": "My Recent Woodworking Projects",
+        "summary": "Article URL: https://notoriousbfg.com/recent-woodworking-projects/ Comments URL: https://news.ycombinator.com/item?id=49870541 Points: 15 # Comments: 4",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://tml.stanford.edu/homebody/",
-        "published": "2026-09-26T18:42:10+00:00"
+        "url": "https://notoriousbfg.com/recent-woodworking-projects/",
+        "published": "2026-09-27T20:33:55+00:00"
       },
       {
-        "id": "3b4912714c3bd3d3697f14cc70d0b926",
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "summary": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112 Points: 128 # Comments: 34",
+        "id": "4aa7b325d0cfb6ee0229fffacd60d08b",
+        "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
+        "summary": "Article URL: https://code.garage44.eu/jeroen/cartopolis Comments URL: https://news.ycombinator.com/item?id=49870394 Points: 9 # Comments: 0",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "published": "2026-09-26T18:22:41+00:00"
+        "url": "https://code.garage44.eu/jeroen/cartopolis",
+        "published": "2026-09-27T20:14:53+00:00"
       },
       {
-        "id": "cd0ce045a005a85069e659668b15889c",
-        "title": "Japan moves to tighten rules for foreigners",
-        "summary": "Article URL: https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt Comments URL: https://news.ycombinator.com/item?id=49858810 Points: 106 # Comments: 265",
+        "id": "2fdf95117927ffe3b7a5e81f180927fa",
+        "title": "When did Google get so weird?",
+        "summary": "Article URL: https://sancho.bearblog.dev/google-weird/ Comments URL: https://news.ycombinator.com/item?id=49870367 Points: 615 # Comments: 333",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-        "published": "2026-09-26T17:43:11+00:00"
+        "url": "https://sancho.bearblog.dev/google-weird/",
+        "published": "2026-09-27T20:12:54+00:00"
       },
       {
-        "id": "d1ddb03292885e752c48f717379ca4db",
-        "title": "Kids turned the comment section of an NPR podcast into a group chat",
-        "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids […]",
-        "source": "The Verge",
+        "id": "ab6506481560a0c36ee38b006e2b3905",
+        "title": "Self-Hosting on the Dark Web",
+        "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/ Comments URL: https://news.ycombinator.com/item?id=49870295 Points: 24 # Comments: 10",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-        "published": "2026-09-26T17:32:35+00:00"
+        "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+        "published": "2026-09-27T20:03:36+00:00"
+      },
+      {
+        "id": "257abbb5a15c6c1b5e32bd760a5bc5cc",
+        "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+        "summary": "Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11 Comments URL: https://news.ycombinator.com/item?id=49870070 Points: 63 # Comments: 24",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+        "published": "2026-09-27T19:37:05+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "917499d0703fa76bc81a83c36ff6db9a",
+        "title": "Will Donald Trump get to meet Kim Jong Un again?",
+        "summary": "North Korea wants America to drop demands for disarmament",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/09/27/will-donald-trump-get-to-meet-kim-jong-un-again",
+        "published": "2026-09-27T13:40:42+00:00"
+      },
+      {
+        "id": "223afdc716ed10c9e9edc3d14491c86e",
+        "title": "European industry is doing better than you may think",
+        "summary": "The firms most exposed to China are suffering. But many are adapting",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think",
+        "published": "2026-09-27T11:22:22+00:00"
+      },
       {
         "id": "478beb4dc3f42725686400ff7aabfccb",
         "title": "America and China’s leaders indulge in pageantry as crises mount",
@@ -388,15 +406,6 @@
         "category": "economist",
         "url": "https://www.economist.com/international/2026/09/25/the-war-room-newsletter-the-soviet-unions-greatest-war-reporter",
         "published": "2026-09-25T15:41:04+00:00"
-      },
-      {
-        "id": "0599b228ad41b6898e06df08b33bfc52",
-        "title": "Brazil’s next president will either be a vengeful nepo-baby or a doddering leftie",
-        "summary": "Latin America’s biggest country is headed for more polarisation and stagnation, or worse",
-        "source": "Briefing",
-        "category": "economist",
-        "url": "https://www.economist.com/briefing/2026/09/24/brazils-next-president-will-either-be-a-vengeful-nepo-baby-or-a-doddering-leftie",
-        "published": "2026-09-24T13:22:28+00:00"
       },
       {
         "id": "add9f0adfde7ca8bdbf5406d604eadb3",
@@ -426,21 +435,12 @@
         "published": "2026-09-24T13:22:28+00:00"
       },
       {
-        "id": "3e253f6abbc517386b293adb68cca45f",
-        "title": "The greatest advance in consulting since the quadrant",
-        "summary": "An exclusive extract from a new book",
-        "source": "Business",
+        "id": "0599b228ad41b6898e06df08b33bfc52",
+        "title": "Brazil’s next president will either be a vengeful nepo-baby or a doddering leftie",
+        "summary": "Latin America’s biggest country is headed for more polarisation and stagnation, or worse",
+        "source": "Briefing",
         "category": "economist",
-        "url": "https://www.economist.com/business/2026/09/24/the-greatest-advance-in-consulting-since-the-quadrant",
-        "published": "2026-09-24T13:22:28+00:00"
-      },
-      {
-        "id": "c012629ba20199aabd6c7de7db03bc21",
-        "title": "Tanker rates are on the crest of a wave",
-        "summary": "The squeeze in the Gulf has sent the cost of moving crude soaring",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/09/24/tanker-rates-are-on-the-crest-of-a-wave",
+        "url": "https://www.economist.com/briefing/2026/09/24/brazils-next-president-will-either-be-a-vengeful-nepo-baby-or-a-doddering-leftie",
         "published": "2026-09-24T13:22:28+00:00"
       }
     ]
@@ -518,27 +518,27 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2771999835968018,
+        "price": 1.2786200046539307,
         "prev_close": 1.2797499895095825,
-        "change_pct": -0.2,
+        "change_pct": -0.09,
         "direction": "down",
         "price_fmt": "1.28",
-        "change_str": "-0.20%"
+        "change_str": "-0.09%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4549000263214111,
+        "price": 1.455299973487854,
         "prev_close": 1.455649971961975,
-        "change_pct": -0.05,
+        "change_pct": -0.02,
         "direction": "down",
-        "price_fmt": "1.45",
-        "change_str": "-0.05%"
+        "price_fmt": "1.46",
+        "change_str": "-0.02%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.6917999982833862,
+        "price": 1.6917799711227417,
         "prev_close": 1.6900700330734253,
         "change_pct": 0.1,
         "direction": "up",
@@ -548,22 +548,22 @@
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008080000057816505,
-        "prev_close": 0.008,
-        "change_pct": 1.0,
-        "direction": "up",
+        "price": 0.008070000447332859,
+        "prev_close": 0.0081,
+        "change_pct": -0.37,
+        "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "+1.00%"
+        "change_str": "-0.37%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.18970000743865967,
-        "prev_close": 0.1899,
-        "change_pct": -0.11,
-        "direction": "down",
+        "price": 0.1899999976158142,
+        "prev_close": 0.1897,
+        "change_pct": 0.16,
+        "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "-0.11%"
+        "change_str": "+0.16%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 104.31999969482422,
-        "prev_close": 106.5999984741211,
-        "change_pct": -2.14,
+        "price": 98.5999984741211,
+        "prev_close": 104.31999969482422,
+        "change_pct": -5.48,
         "direction": "down",
-        "price_fmt": "104.32",
-        "change_str": "-2.14%"
+        "price_fmt": "98.60",
+        "change_str": "-5.48%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4321.2001953125,
-        "prev_close": 4298.0,
-        "change_pct": 0.54,
-        "direction": "up",
-        "price_fmt": "4,321.2",
-        "change_str": "+0.54%"
+        "price": 4295.7998046875,
+        "prev_close": 4321.2001953125,
+        "change_pct": -0.59,
+        "direction": "down",
+        "price_fmt": "4,295.8",
+        "change_str": "-0.59%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 64.24500274658203,
-        "prev_close": 63.457000732421875,
-        "change_pct": 1.24,
-        "direction": "up",
-        "price_fmt": "64.25",
-        "change_str": "+1.24%"
+        "price": 64.19000244140625,
+        "prev_close": 64.24500274658203,
+        "change_pct": -0.09,
+        "direction": "down",
+        "price_fmt": "64.19",
+        "change_str": "-0.09%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.196000099182129,
-        "prev_close": 3.296999931335449,
-        "change_pct": -3.06,
+        "price": 3.115999937057495,
+        "prev_close": 3.196000099182129,
+        "change_pct": -2.5,
         "direction": "down",
-        "price_fmt": "3.20",
-        "change_str": "-3.06%"
+        "price_fmt": "3.12",
+        "change_str": "-2.50%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 84372.203125,
-        "prev_close": 84034.921875,
-        "change_pct": 0.4,
+        "price": 84533.6328125,
+        "prev_close": 84406.453125,
+        "change_pct": 0.15,
         "direction": "up",
-        "price_fmt": "84,372",
-        "change_str": "+0.40%"
+        "price_fmt": "84,534",
+        "change_str": "+0.15%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2694.3701171875,
-        "prev_close": 2690.4755859375,
-        "change_pct": 0.14,
-        "direction": "up",
-        "price_fmt": "2,694.4",
-        "change_str": "+0.14%"
+        "price": 2689.659912109375,
+        "prev_close": 2695.213134765625,
+        "change_pct": -0.21,
+        "direction": "down",
+        "price_fmt": "2,689.7",
+        "change_str": "-0.21%"
       }
     ]
   },
