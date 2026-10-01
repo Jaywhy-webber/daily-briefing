@@ -2,375 +2,384 @@
   "news": {
     "singapore": [
       {
-        "id": "2eb5a392b533c876b48743ecdd3cdb4a",
-        "title": "I used to judge women for hiding their age – until my own age was used against me",
-        "summary": "In her 20s, the writer thought keeping your age private was silly. Now, she understands why some women choose to do so: Revealing your age can give people a reason to judge your work, appearance and relevance before they know you.",
+        "id": "26f7ed08c31ae1d74c8cdb8aeb29a4ef",
+        "title": "Shoppers can get cheaper chicken and eggs at FairPrice supermarkets until Dec 31",
+        "summary": "Customers can get a tray of 30 eggs for $4.95 and a 1kg of frozen chicken for $2.50.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/shoppers-can-get-cheaper-chicken-and-eggs-at-fairprice-supermarkets-until-dec-31",
+        "published": "2026-10-01T00:23:52+00:00"
+      },
+      {
+        "id": "90d847c94950c8e78fb1a1a88f41b4a0",
+        "title": "From counters to experiences: How Singapore malls are reinventing beauty shopping",
+        "summary": "From skin analysis and personalised consultations to fragrance layering and hands-on masterclasses, Singapore malls are turning beauty shopping into something consumers can experience, not simply browse.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/women/women-hide-age-judgement-6384921",
-        "published": "2026-09-29T23:34:01+00:00"
+        "url": "https://www.channelnewsasia.com/style-beauty/beauty-shopping-singapore-malls-6409861",
+        "published": "2026-09-30T23:59:47+00:00"
       },
       {
-        "id": "50fef6a3ba13030aafdc55dec9d1429a",
-        "title": "Haze in S’pore: Air quality improves slightly but PSI in most areas still in unhealthy range",
-        "summary": "Only the northern region is back in the moderate range.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-improved-slightly-but-psi-in-most-areas-still-in-unhealthy-range",
-        "published": "2026-09-29T22:15:38+00:00"
-      },
-      {
-        "id": "f631a91eae1b8d0635f6a6cc1eae1d8f",
-        "title": "From serial collectors to reluctant recyclers: How Singapore’s beverage container return scheme is shifting habits",
-        "summary": "As the transition period for the Beverage Container Return Scheme draws to a close, how has the scheme changed consumer behaviour, and will this translate into better recycling habits in the long run?",
+        "id": "5469cc6d7c991e446f1693d3bcf961df",
+        "title": "Retailers race to label or remove unmarked stock as beverage container return scheme’s transition period ends",
+        "summary": "Despite offering steep discounts and having a six-month lead time, some retailers say they have struggled to offload non-compliant products in time.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-changing-recycling-habits-6418401",
-        "published": "2026-09-29T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/bcrs-transition-supermarkets-coffee-shops-clear-stock-6420961",
+        "published": "2026-09-30T22:00:00+00:00"
       },
       {
-        "id": "4c53d5eec852cefb871070f56ec72cc2",
-        "title": "Prosecutors close case against Hyflux founder Olivia Lum after 54 days of trial",
-        "summary": "The defence will indicate whether or not to submit a “no case to answer” on Oct 21.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/prosecutors-close-case-against-hyflux-founder-olivia-lum-after-54-days-of-trial",
-        "published": "2026-09-29T21:00:00+00:00"
-      },
-      {
-        "id": "8d822c58caade149f71cb48295e2029f",
-        "title": "Uniform, but unique: The stories and styles of Singapore school attire",
-        "summary": "ST examined over 100 secondary school uniforms to see how threads become symbols of identity.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/uniform-but-unique-the-stories-and-styles-of-singapore-school-attire",
-        "published": "2026-09-29T21:00:00+00:00"
-      },
-      {
-        "id": "62eb836f1137e4c8cc22298687441c0a",
-        "title": "Up to $0 down payment for a new BYD: The scheme helping Grab drivers own a car",
-        "summary": "BYD by JC and GXS Bank collaborate to ease Grab drivers' costs of going electric or hybrid.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/phv-drivers-electric-hybrid-vehicles-zero-down-payment-grab-gxs-bank-byd-by-jc",
-        "published": "2026-09-29T20:00:00+00:00"
-      },
-      {
-        "id": "dbd21601e238e9f0a09e290a502ec407",
-        "title": "Popular homegrown patisserie LUNA to close on Dec 31 due to rising costs",
-        "summary": "LUNA is famed for its intricate cakes and tarts.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/popular-homegrown-patisserie-luna-to-close-on-dec-31-due-to-rising-costs",
-        "published": "2026-09-29T14:25:00+00:00"
-      },
-      {
-        "id": "a69e0963383faa0a6983326a6c0be3ee",
-        "title": "Goh Jin Hian testifies in false trading trial, says he believed market-making services 'completely legal'",
-        "summary": "\"I was very sensitive to anything wrong being done because of the reputation of the individuals in the board and even to my own reputation,\" Dr Goh Jin Hian said as he took the stand.",
+        "id": "82d0c7861bfbb56669c36d2a9aaa7a91",
+        "title": "What’s really inside meats with ‘no nitrite added’? Here’s what Talking Point tests found",
+        "summary": "Bacon, ham and sausages may be marketed as “nitrite-free” or “no nitrite added”, but the labels can get complicated. Talking Point tests nine of these products and gets dietary advice.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/goh-jin-hian-market-maker-false-trading-trial-6418416",
-        "published": "2026-09-29T13:20:00+00:00"
+        "url": "https://www.channelnewsasia.com/cna-insider/nitrite-free-no-nitrates-added-processed-meats-singapore-tests-6420726",
+        "published": "2026-09-30T22:00:00+00:00"
+      },
+      {
+        "id": "e679c2442069b5505dad2d03cd343cf5",
+        "title": "Haze in S’pore: Air quality returns to moderate levels in all regions",
+        "summary": "The PSI peaked at 164 on Sept 29.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-returns-to-moderate-levels-in-all-regions",
+        "published": "2026-09-30T15:15:00+00:00"
+      },
+      {
+        "id": "1917bfff33888068e9e81733a08bfdca",
+        "title": "Nearly 100,000 Bee Cheng Hiang customers' email addresses exposed in first AI-related data breach in Singapore",
+        "summary": "The incident was caused by a human error in developing the email distribution code with an AI tool, the Personal Data Protection Commission said.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/bee-cheng-hiang-data-breach-ai-pdpc-emails-6421711",
+        "published": "2026-09-30T14:45:00+00:00"
+      },
+      {
+        "id": "dbab86ba24f5645bb3e644f408834cb4",
+        "title": "Govt intervention to address disruption, uncertainty must follow basic economic principles: PM Wong",
+        "summary": "Singapore must be prepared for more churn and disruption as the pace of change accelerates, he said.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/politics/govt-intervention-to-address-disruption-uncertainty-must-follow-basic-economic-principles-pm-wong",
+        "published": "2026-09-30T14:00:00+00:00"
+      },
+      {
+        "id": "2c4e6b8785f4628b480f95bd182c94a9",
+        "title": "Jail for two S’porean men who laundered money for Malaysian criminal syndicate",
+        "summary": "Low Zhi Wei and Dillon Jang Wei Hong were sentenced to 72 months and 79 months’ jail respectively.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/courts-crime/jail-for-two-sporean-men-who-laundered-money-for-malaysian-criminal-syndicate",
+        "published": "2026-09-30T13:15:19+00:00"
       }
     ],
     "us": [
       {
-        "id": "6a26f544bc509ed09c6824672671f3eb",
-        "title": "Eric Cantor named new president of pharma trade group",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Eric Cantor named new president of pharma trade group PhRMA, the leading lobbying and trade organization for the U.S. pharmaceutical industry, announced Tuesday that former Republican House Majority Leader Eric Cantor will be taking over as its president. © Greg…",
+        "id": "e2642b69ae2db44c5954903fdd8cb1d4",
+        "title": "Trump says ‘only a Hispanic could survive’ fall from White House ballroom",
+        "summary": "President Trump said during a Hispanic Heritage Month event Wednesday that only Hispanics could survive a fall from the site of the White House ballroom. The president made the remark in the East Room after inviting the event’s attendees to step onto the floor of the new ballroom outside. “There’s a tunnel going to what…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/6119349-eric-cantor-phrma-president-newsletter/",
-        "published": "2026-09-30T00:39:01+00:00"
+        "url": "https://thehill.com/homenews/administration/6121943-trump-white-house-ballroom-hispanic-heritage-month/",
+        "published": "2026-09-30T23:15:24+00:00"
       },
       {
-        "id": "f4dc952ce85c95b20aac8229488d93b3",
-        "title": "Senate blocks Democratic effort to force report on West Bank violence",
-        "summary": "Republican senators blocked a Democratic attempt to bring up a resolution that would force the Trump administration to report on violence and human rights violations occurring in the West Bank. The measure would have required the State Department to report on violence against US citizens by Israel in the West Bank, or stop aid to…",
+        "id": "83929e3760fe1353a600774dc0478973",
+        "title": "Supreme Court allows execution of Christa Pike to go forward",
+        "summary": "The Supreme Court on Wednesday ruled that Tennessee can put Christa Pike to death, lifting an eleventh-hour appeals court ruling that had paused the execution. The court’s decision clears the way for the state’s first execution of a woman in more than 200 years. It came over the dissent of the three liberal justices. Pike,…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/senate/6119354-senate-blocks-west-bank-resolution/",
-        "published": "2026-09-30T00:37:21+00:00"
+        "url": "https://thehill.com/regulation/court-battles/6121917-supreme-court-crista-pike-execution-tennessee/",
+        "published": "2026-09-30T23:09:22+00:00"
       },
       {
-        "id": "2088ff848c3071de934d9f23930ae226",
-        "title": "3 takeaways from the MAHA Summit",
-        "summary": "Trump administration officials mingled with insurers, corporate executives and wellness influencers at the second Make America Healthy Again Summit. They discussed issues ranging from affordability, the U.S. food supply and the food pyramid, and the use of AI in healthcare. Along with many other mainstream outlets, The Hill was not granted press credentials to attend…",
+        "id": "ad305eba311916805d04135d1857ba78",
+        "title": "Democratic Women’s Caucus blasts Trump over Title IX rollback after Cornell rape allegations",
+        "summary": "The Democratic Women’s Caucus (DWC) criticized the Trump administration over its rollback of Title IX protections and expressed support for Jane Doe, who accused seven men of raping her over several hours at the Chi Phi fraternity house at Cornell University. The caucus chair, Rep. Teresa Leger Fernández (D-N.M.), along with the vice chairs, Reps.…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/healthcare/6119302-maha-summit-corporate-takeaways/",
-        "published": "2026-09-29T23:40:05+00:00"
+        "url": "https://thehill.com/homenews/house/6121915-dwc-criticizes-trump-titleix/",
+        "published": "2026-09-30T23:02:49+00:00"
       },
       {
-        "id": "b86e7c0eb2b0074876f6ba73f17dedb1",
-        "title": "EPA to ‘reconsider’ air quality rules as Texas faces diesel price ‘disaster’",
-        "summary": "The Environmental Protection Agency (EPA) announced Tuesday it would “reconsider” air-quality regulations amid Texas’s diesel price “disaster.” The letter sent by EPA Administrator Lee Zeldin to Texas Gov. Greg Abbott (R) responded to concern from officials in the Lone Star State that rules from the Biden and Obama administrations are causing “significant economic harm.” “Texas…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/energy-environment/6119251-epa-reconsiders-texas-air-regulations/",
-        "published": "2026-09-29T23:08:45+00:00"
-      },
-      {
-        "id": "fd283f5b83f6c0c3f1d83870e8d91655",
-        "title": "Treasury confirms plan to auto-enroll millions of children in Trump accounts",
-        "summary": "The Treasury Department will automatically enroll millions of children in Trump Accounts under new rules released Tuesday, eliminating the need for parents to sign up for the investment program. The auto enrollment will create accounts for more than 60 million additional children under the age of 18, according to department guidance. The move is intended…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6119209-treasury-auto-enrolls-trump-accounts/",
-        "published": "2026-09-29T22:52:19+00:00"
-      },
-      {
-        "id": "028f96e1645a112df12f9d424a7d87c4",
-        "title": "Staten Island judge rules against Mamdani, NYC on taxing second homes",
-        "summary": "A Staten Island Judge on Tuesday ruled against New York City Mayor Zohran Mamdani’s (D) pied-à-terre tax on second homes, arguing the city mishandled the tax’s rollout. Judge Wayne Ozzi, a Democrat on the state’s Supreme Court, wrote in his ruling that Mamdani’s Department of Finance (DOF) violated the plaintiffs’s — a group of NYC…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/regulation/court-battles/6119135-judge-blocks-nyc-pied-a-terre-tax/",
-        "published": "2026-09-29T22:21:44+00:00"
-      },
-      {
-        "id": "d3d7d8041cf5cfb30e3da015cc6338da",
-        "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
-        "summary": "The Supreme Court allowed the Trump administration to resume deportations of migrants to countries that are not identified in their removal orders. It also plans to hear full arguments on the case.",
+        "id": "a862e2f05b7adb25268c53b8c95a3536",
+        "title": "Swiss glaciers suffer another year of record ice loss",
+        "summary": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
-        "published": "2026-09-29T19:19:37+00:00"
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+        "published": "2026-09-30T23:00:00+00:00"
       },
       {
-        "id": "3c8d8649dbeb381dcc7fce07924bf0a1",
-        "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
-        "summary": "Lindsay Clancy's lawyer is arguing that there wasn't enough evidence to prove she killed her three children. It's a striking turn after a lengthy trial that focused more on her mental state than on whether she took their lives.",
+        "id": "50c97aa0a73f42e2af930ed811ea06cd",
+        "title": "Mamdani gets federal security clearance after 9 months as NYC mayor",
+        "summary": "New York City Mayor Zohran Mamdani (D) received federal security clearance Wednesday, nine months after he entered office. “I have my security clearance now,” Mamdani told reporters at a Wednesday press conference. With the new clearance, he is able to review classified documents. Before he was issued the credentials, Mamdani was relying on New York…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/state-watch/6121860-mamdani-gets-federal-security-clearance/",
+        "published": "2026-09-30T22:35:48+00:00"
+      },
+      {
+        "id": "05ee76e3a7cd44c0024e6a4bf0848b56",
+        "title": "7 takeaways from Hegseth’s address to officers: Warfare’s future, faith and a new base",
+        "summary": "Defense Secretary Pete Hegseth made a flurry of announcements during a wide-ranging speech to active-duty officers Wednesday. At the beginning of the address, the Pentagon chief stuck to his bread and butter: culture-war grievances, stripping the “woke” out of the Department of Defense (DOD), bashing the news media for its coverage of the Iran war,…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/defense/6121765-pete-hegseth-takeaways-command-warfare-base/",
+        "published": "2026-09-30T22:27:37+00:00"
+      },
+      {
+        "id": "f15bc9f7472c5ed30cc870c5f45b778b",
+        "title": "Hegseth announces 5 new non-Ivy League partnerships",
+        "summary": "Defense Secretary Pete Hegseth announced new Pentagon partnerships with five non-Ivy League colleges and universities Wednesday amid his ongoing efforts to distance the military from America’s most prestigious higher education institutions. “We’re partnering with a new crop of premier higher ed institutions, including Louisiana State University [LSU], Liberty University, Tuskegee University, Mississippi State University and…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/defense/6121743-hegseth-pentagon-partners-non-ivy-colleges/",
+        "published": "2026-09-30T22:22:29+00:00"
+      },
+      {
+        "id": "f8c3282064dbb2dfe9c6c33587c690e2",
+        "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
+        "summary": "Secretary of Defense Pete Hegseth told hundreds of junior military officers and enlisted leaders on Wednesday that the Trump administration has achieved a cultural shift in the military.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
-        "published": "2026-09-29T18:00:50+00:00"
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
+        "published": "2026-09-30T21:51:20+00:00"
       }
     ],
     "asia": [
       {
-        "id": "4f6004b2bdecebdb6c932f35bb959d80",
-        "title": "Cheap and illegal: mainland Chinese post social media adverts for services in Hong Kong",
-        "summary": "Hong Kong’s crackdown on visitors abusing visas to illegally offer tour guide, photography and other services has failed to deter adverts for such unlicensed work on mainland Chinese social media ahead of the National Day “golden week” break, the South China Morning Post has found. A search of RedNote by the SCMP turned up accounts listing themselves as Shenzhen-based photographers offering their services in Hong Kong. Many of them also asked clients to reimburse their travel expenses between...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3369247/cheap-and-illegal-mainlanders-post-social-media-adverts-services-hong-kong?utm_source=rss_feed",
-        "published": "2026-09-30T00:35:54+00:00"
-      },
-      {
-        "id": "0613d4b23b68af3501a4e81724aca287",
-        "title": "Gaza on stage: concert activism meets Malaysia, Singapore red lines",
-        "summary": "American rapper Macklemore lost his spot on British pop star Ed Sheeran’s US tour after speaking up for Palestinians, but in Malaysia it was Sheeran’s music which ended up being pulled from the airwaves. In neighbouring Singapore, British band Massive Attack faced a different kind of fallout, barred from returning after members displayed a Palestinian flag during a July concert. The contrasting cases highlight the competing pressures on foreign artists in Southeast Asia, where political...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369248/gaza-stage-concert-activism-meets-malaysia-singapore-red-lines?utm_source=rss_feed",
-        "published": "2026-09-30T00:00:15+00:00"
-      },
-      {
-        "id": "a43876fbc14437ddc4b625b854b15df6",
-        "title": "Hong Kong’s executives are ‘ill prepared’ for AI era, report finds",
-        "summary": "Executives at Hong Kong’s largest listed companies have a severe lack of technological expertise, with fewer than 1 per cent of directors possessing dedicated artificial intelligence or cybersecurity skills, according to a new report by Grant Thornton Hong Kong. The firm’s 15th annual Corporate Governance Review – which surveyed 100 major listed firms on Hong Kong’s Hang Seng Composite Index – found that 59 per cent of companies view cybersecurity or AI as principal business risks. Yet only 11..",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds?utm_source=rss_feed",
-        "published": "2026-09-30T00:00:11+00:00"
-      },
-      {
-        "id": "c447d75fd17a4191e98e335b50b19e19",
-        "title": "Trump releases AI accord with tech executives",
-        "summary": "The document was signed by Mr. Trump and the bosses of Google, Anthropic, Meta, OpenAI, social media platform X and NVIDIA.",
+        "id": "7a53bdb10a276e19a14d9e6ff76d737a",
+        "title": "Trump says flydubai pilot 'a hero', plumber steadied plunging aircraft",
+        "summary": "The pilot who staved off the attempt to crash the aircraft has been identified as Smit Machchhar, an Indian national, and hailed a \"hero\" by Benjamin Netanyahu and many others",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/sci-tech/technology/trump-releases-ai-accord-with-tech-executives/article71525807.ece",
-        "published": "2026-09-29T23:35:58+00:00"
+        "url": "https://www.thehindu.com/news/international/flydubai-pilot-a-hero-plumber-steadied-plunging-aircraft-trump/article71530421.ece",
+        "published": "2026-10-01T00:38:35+00:00"
       },
       {
-        "id": "4ddc49349c1af5b7e0c43626424989db",
-        "title": "Ex-American Idol singer Caleb Flynn convicted of fatally shooting his wife",
-        "summary": "A former Ohio music pastor who once appeared on American Idol was convicted of murder on Tuesday in the killing of his wife while he was having an affair. Prosecutors said Caleb Flynn, 40, staged a home invasion in February after shooting his wife, Ashley Flynn, a 37-year-old teacher and volleyball coach. Flynn, who claimed his wife was killed by a burglar, could get up to life in prison without the chance of parole when he’s sentenced on Monday. Flynn closed his eyes, shook his head to the side",
+        "id": "66ece532ef59cb1cdfd8f1583a32ce24",
+        "title": "Retailers expect ‘golden week’ sales growth, but trade groups warn of modest gains",
+        "summary": "Some Hong Kong retailers are forecasting double-digit sales growth over the National Day “golden week” holiday, but industry leaders have warned that the expected influx of mainland Chinese visitors may deliver far smaller gains across the sector as tourists remain cautious about spending. The cautious outlook came after authorities estimated that about 1.29 million mainland visitors were expected between October 1 and 7, with average daily arrivals projected to exceed last year’s figure by more",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369260/ex-american-idol-singer-caleb-flynn-convicted-fatally-shooting-his-wife?utm_source=rss_feed",
-        "published": "2026-09-29T23:32:53+00:00"
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369384/retailers-expect-golden-week-sales-growth-trade-groups-warn-modest-gains?utm_source=rss_feed",
+        "published": "2026-10-01T00:30:08+00:00"
       },
       {
-        "id": "49a15a4ce150a6a12f3d094e4e7c2a07",
-        "title": "5 universities in Hong Kong rank in top 100 in ‘historic’ shift from West to East",
-        "summary": "Five public universities in Hong Kong have ranked in the top 100 of a renowned British publication’s latest global league table, as part of a trend described as a “historic realignment” of academic prowess from West to East. The University of Hong Kong remained the city’s highest-ranked tertiary institution, holding onto 33rd place from the previous year, in the Times Higher Education (THE) World University Rankings, released on Wednesday. The Chinese University of Hong Kong (CUHK) ranked 42nd,.",
+        "id": "e1288e9fdd9bdfbeb1ad2a520b86b1a4",
+        "title": "Border mine blasts show why both Koreas urgently need to restore communication",
+        "summary": "The two Koreas urgently need to restore military communication to prevent a landmine dispute in the demilitarised zone (DMZ) from escalating into an armed clash, according to observers. The danger is growing as North Korea presses ahead with leader Kim Jong-un’s order to fortify its side of the 4km (2.5 mile) wide buffer zone separating it from the South. South Korea views the works, including the laying of mines near the sparsely marked Military Demarcation Line (MDL) running through the centre",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/hong-kong/education/article/3369243/5-universities-hong-kong-rank-top-100-historic-shift-west-east?utm_source=rss_feed",
-        "published": "2026-09-29T23:30:05+00:00"
+        "url": "https://www.scmp.com/week-asia/politics/article/3369329/border-mine-blasts-show-why-both-koreas-urgently-need-restore-communication?utm_source=rss_feed",
+        "published": "2026-10-01T00:00:10+00:00"
       },
       {
-        "id": "ac8fad8b9a4b9689bb81f36a0de1a4f3",
-        "title": "North Korea denies South's claim it was behind DMZ mine blasts",
-        "summary": "South Korea said that North Korea was \"highly suspected\" of causing two explosions at the countries' Demilitarized Zone, adding that it was \"a clear violation\" of their armistice agreement.",
+        "id": "5fb9c22a9addae886ad64bd4399b79ea",
+        "title": "Pan Pacific Hotels Group has 10 new-build and renovation projects planned across Southeast Asia in 2027",
+        "summary": "Among the new properties being developed are Pan Pacific Phnom Penh and Parkroyal Siem Reap.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/east-asia/south-korea-north-dmz-mine-blasts-armistice-6419956",
-        "published": "2026-09-29T23:17:00+00:00"
+        "url": "https://www.channelnewsasia.com/travel/pan-pacific-hotels-group-southeast-asia-2027-6420646",
+        "published": "2026-09-30T23:49:00+00:00"
       },
       {
-        "id": "7e12f6dbb65235c254cbf8e21fc864cd",
-        "title": "Thailand to launch new push for Japanese tourists in 2027",
-        "summary": "The Tourism Authority of Thailand (TAT) is set to implement its new marketing plan for 2027, starting with the new fiscal year in October, in a bid to secure at least 2.83 trillion baht in revenue, of which 1.63 trillion baht is to come from 33 million foreign travellers.",
+        "id": "2d7baf46f11843afb8b431b8f7389eca",
+        "title": "Woman told Cornell police 2 years ago she was 100% sure she was raped, transcript shows",
+        "summary": "A woman who filed a lawsuit saying she was sexually assaulted by seven men at a Cornell University fraternity house told police weeks after the incident that she could “say with 100 per cent confidence I was raped”, according to a report by CBS New York, which said it obtained a transcript of her interview with investigators. The transcript, which has not been publicly released, raises new questions surrounding the local district attorney’s decision not to prosecute anyone at the time. In recent",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369397/woman-told-cornell-police-2-years-ago-she-was-100-sure-she-was-raped-transcript-shows?utm_source=rss_feed",
+        "published": "2026-09-30T23:34:09+00:00"
+      },
+      {
+        "id": "6ad9fa9c74b902e118db13de4fa29632",
+        "title": "Trump claims he discussed release of political prisoners in China with Xi at summit",
+        "summary": "US President Donald Trump said on Wednesday that he discussed the release of political prisoners in China with his counterpart, Xi Jinping, in Washington last week. “We talked, and I think we had some very, very important discussions. Hopefully fruitful discussions,” Trump told reporters in the White House. Families had stepped up pressure on the Trump administration to push Beijing to release their loved ones ahead of Xi’s three-day state visit. In the lead-up to the summit, the White House...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3369396/trump-claims-he-discussed-release-political-prisoners-xi-summit?utm_source=rss_feed",
+        "published": "2026-09-30T23:13:15+00:00"
+      },
+      {
+        "id": "a002d8aa12e66277342fe1ccd4aa2b8e",
+        "title": "THAI shares plunge during airport chaos",
+        "summary": "Analysts have turned bearish on Thai Airways International (THAI) shares, warning that the flag carrier could miss out on the aviation industry's fourth-quarter growth momentum if it fails to resolve its crisis management issues within 1-2 weeks.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3328715/thailand-to-launch-new-push-for-japanese-tourists-in-2027",
-        "published": "2026-09-29T22:39:00+00:00"
+        "url": "https://www.bangkokpost.com/business/general/3329309/thai-shares-plunge-during-airport-chaos",
+        "published": "2026-09-30T23:02:00+00:00"
+      },
+      {
+        "id": "05af91dffbc0182846d2200cfdb3fdd6",
+        "title": "Travel agents call for passenger protection",
+        "summary": "The Thai Travel Agents Association (TTAA) is urging the government to amend passenger protection regulations to extend coverage to associated costs beyond airfares in the event of flight disruptions, as massive flight cancellations by Thai Airways (THAI) are estimated to cost tour companies more than 10 million baht in damages.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3329239/travel-agents-call-for-passenger-protection",
+        "published": "2026-09-30T22:54:00+00:00"
       }
     ],
     "others": [
       {
-        "id": "5a02c6dc1d542ff98252097943bcf950",
-        "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-        "summary": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
+        "id": "ad8da5a296638eb3b5042f85f2916f64",
+        "title": "Iran parades Shahed drones through capital",
+        "summary": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-        "published": "2026-09-30T00:00:00+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+        "published": "2026-10-01T00:39:04+00:00"
       },
       {
-        "id": "ecf3451b3b53d1fb07f02123d282710e",
-        "title": "Trump says he plans to campaign for 32 days before midterm elections",
-        "summary": "US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.",
+        "id": "de02a2141292f732a3c37dd621c4ff74",
+        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T00:19:20+00:00"
+      },
+      {
+        "id": "ea626aeb1251e273f903b8fc972502ae",
+        "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+        "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-01T00:08:23+00:00"
+      },
+      {
+        "id": "64da60659c85f4eab54bc376154f57d7",
+        "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+        "summary": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-        "published": "2026-09-29T23:53:08+00:00"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+        "published": "2026-10-01T00:00:00+00:00"
       },
       {
-        "id": "8db552d70730bafabc5a34fb3c3bb288",
-        "title": "‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza",
-        "summary": "Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.",
+        "id": "5ab343457b29793b2ef22332339452d5",
+        "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+        "summary": "An amazed US President Donald Trump relayed the story of how an ‘Israeli plumber’ helped land a Flydubai flight.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
-        "published": "2026-09-29T23:49:18+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+        "published": "2026-09-30T23:50:17+00:00"
       },
       {
-        "id": "7b17ee08214bb3ddb407a671cc6c49d8",
-        "title": "Chinese AI tool told researchers how to make bioweapons",
-        "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+        "id": "ac9f36130590a987ade0d804e7c9d9ca",
+        "title": "Tiny image sparks big backlash in Nikon photo contest",
+        "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-29T23:15:29+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T23:10:19+00:00"
       },
       {
-        "id": "5733ccd541b62b18749b70ba1839f65c",
-        "title": "South Africa to clean up high-risk areas after 12 women killed",
-        "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+        "id": "3fb110d3c124ded27ff36950ba6ddd79",
+        "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+        "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-29T22:33:39+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-30T23:10:06+00:00"
       },
       {
-        "id": "08e4d413631ac29d7901ae04918f9572",
-        "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
-        "summary": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-29T22:33:13+00:00"
-      },
-      {
-        "id": "a03d38dbf3d93c1026c44460449ab7b8",
-        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-        "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-29T16:23:58+00:00"
-      },
-      {
-        "id": "c5024ea6f5b30e84589e6aebb5250665",
-        "title": "Ethiopia: No regard for civilians as fighting in Ethiopia's Tigray region continues",
-        "summary": "Fighting has returned to northern Ethiopia, shattering a fragile peace in the region. DW spoke to civilians caught in the crossfire amid communication blackouts, as rebel and federal forces keep battling for territory.",
+        "id": "07633ac9f9019e1587b474d739dea0e0",
+        "title": "France: Hundreds arrested as student protests escalate",
+        "summary": "Student protests have grown in scale and intensity, with violent clashes in some places leading to hundreds of arrests and dozens of injuries.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/ethiopia-no-regard-for-civilians-as-fighting-in-ethiopia-s-tigray-region-continues/a-79464569?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-09-29T16:14:00+00:00"
+        "url": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-09-30T23:02:00+00:00"
       }
     ],
     "tech": [
       {
-        "id": "6c1708232d8eaabd272d02dea0ac27f0",
-        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
+        "id": "f124c34cb5107f3df2a06a54f5deb0ef",
+        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+        "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-        "published": "2026-09-30T00:19:13+00:00"
+        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+        "published": "2026-10-01T00:23:45+00:00"
       },
       {
-        "id": "0caa6dfeb279778d3b3eb50566ad9a63",
-        "title": "How our vibe coded website looks like a designer made it",
-        "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website Comments URL: https://news.ycombinator.com/item?id=49901973 Points: 50 # Comments: 29",
+        "id": "5b1f4f1215f94e9e769909052b6ecb7b",
+        "title": "The new and huger Paramount has a new co-CEO",
+        "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, \"Ellison will focus on the company's long-term strategy, creative vision and direction, including its […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+        "published": "2026-09-30T23:08:49+00:00"
+      },
+      {
+        "id": "b501355c611e1636c194c6bc29a6b5cc",
+        "title": "EDG C++ Compiler is open source",
+        "summary": "Article URL: https://github.com/edgcpp/compiler Comments URL: https://news.ycombinator.com/item?id=49915484 Points: 25 # Comments: 1",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://railcode.dev/blog/vibe-coded-website",
-        "published": "2026-09-29T22:59:28+00:00"
+        "url": "https://github.com/edgcpp/compiler",
+        "published": "2026-09-30T22:48:44+00:00"
       },
       {
-        "id": "ed15edc06305a662c7c9336236cc4475",
-        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-        "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 148 # Comments: 79",
+        "id": "5d9ace1b535313bed6805acfef668208",
+        "title": "56k.rip – the 1996 dial-up internet experience",
+        "summary": "Article URL: https://56k.rip/ Comments URL: https://news.ycombinator.com/item?id=49915126 Points: 25 # Comments: 9",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://github.com/ninjahawk/livenerf",
-        "published": "2026-09-29T22:36:14+00:00"
+        "url": "https://56k.rip/",
+        "published": "2026-09-30T22:08:50+00:00"
       },
       {
-        "id": "40b541a970f6fed673126f79883f8676",
-        "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-        "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+        "id": "d65157ac7a2d54ff9641cb80bcb0bf12",
+        "title": "Automating Wi-Fi setup testing on the ESP32",
+        "summary": "Article URL: https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/ Comments URL: https://news.ycombinator.com/item?id=49915119 Points: 11 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+        "published": "2026-09-30T22:07:51+00:00"
+      },
+      {
+        "id": "947c9fc31e8578c3aad09ea6b685753c",
+        "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+        "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 104 # Comments: 29",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.thespacereview.com/article/4951/1",
+        "published": "2026-09-30T22:03:04+00:00"
+      },
+      {
+        "id": "361524cc3fc3fbd2b3d34d7910c2b4d8",
+        "title": "Dinosaur-killing impact crater might have been teeming with life",
+        "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
-        "published": "2026-09-29T22:30:37+00:00"
+        "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+        "published": "2026-09-30T21:54:12+00:00"
       },
       {
-        "id": "6b4b983b4647705cf6e78d06f1d2e762",
-        "title": "Trump orders US government to call AI ‘Super Intelligence’",
-        "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-        "published": "2026-09-29T22:25:45+00:00"
-      },
-      {
-        "id": "ff896e266835b9c670eae3af7c4b54a2",
-        "title": "UnoDOS",
-        "summary": "Article URL: https://github.com/hmofet/unodos Comments URL: https://news.ycombinator.com/item?id=49901437 Points: 13 # Comments: 7",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://github.com/hmofet/unodos",
-        "published": "2026-09-29T22:10:23+00:00"
-      },
-      {
-        "id": "10f888539aea8eddc25c2c3211d900f2",
-        "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-        "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-        "published": "2026-09-29T22:01:00+00:00"
-      },
-      {
-        "id": "ca63bae382d1b4f9a1cff061c0abbdd1",
-        "title": "Protests against OpenAI get increasingly creative",
-        "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+        "id": "980025b8b6130d33187bfd0e24e406e8",
+        "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+        "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-        "published": "2026-09-29T21:52:58+00:00"
+        "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
+        "published": "2026-09-30T21:37:54+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "01c90ec67d7c4282762a6229ecb22279",
+        "title": "The era of speedball capitalism has dawned",
+        "summary": "A financial revolution is taking place in America",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
+        "published": "2026-09-30T19:06:34+00:00"
+      },
       {
         "id": "daed8212793168ef223226f1b947460a",
         "title": "Democracy is stronger than it looks",
@@ -433,15 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think",
         "published": "2026-09-27T11:22:22+00:00"
-      },
-      {
-        "id": "1033cccbfe810c78de175924d537e7c8",
-        "title": "America’s and China’s leaders indulge in pageantry as crises mount",
-        "summary": "Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats",
-        "source": "International",
-        "category": "economist",
-        "url": "https://www.economist.com/international/2026/09/25/americas-and-chinas-leaders-indulge-in-pageantry-as-crises-mount",
-        "published": "2026-09-25T20:47:05+00:00"
       }
     ]
   },
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5729.02001953125,
-        "prev_close": 5711.1201171875,
-        "change_pct": 0.31,
-        "direction": "up",
-        "price_fmt": "5,729.0",
-        "change_str": "+0.31%"
+        "price": 5714.83984375,
+        "prev_close": 5729.02001953125,
+        "change_pct": -0.25,
+        "direction": "down",
+        "price_fmt": "5,714.8",
+        "change_str": "-0.25%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7670.83984375,
-        "prev_close": 7683.68994140625,
-        "change_pct": -0.17,
+        "price": 7651.5400390625,
+        "prev_close": 7670.83984375,
+        "change_pct": -0.25,
         "direction": "down",
-        "price_fmt": "7,670.8",
-        "change_str": "-0.17%"
+        "price_fmt": "7,651.5",
+        "change_str": "-0.25%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 24642.509765625,
-        "prev_close": 24510.08984375,
-        "change_pct": 0.54,
-        "direction": "up",
-        "price_fmt": "24,643",
-        "change_str": "+0.54%"
+        "price": 24523.5703125,
+        "prev_close": 24642.509765625,
+        "change_pct": -0.48,
+        "direction": "down",
+        "price_fmt": "24,524",
+        "change_str": "-0.48%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 66301.671875,
-        "prev_close": 65877.6171875,
-        "change_pct": 0.64,
+        "price": 67369.390625,
+        "prev_close": 65481.26953125,
+        "change_pct": 2.88,
         "direction": "up",
-        "price_fmt": "66,302",
-        "change_str": "+0.64%"
+        "price_fmt": "67,369",
+        "change_str": "+2.88%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10684.900390625,
-        "prev_close": 10695.2998046875,
-        "change_pct": -0.1,
+        "price": 10636.7001953125,
+        "prev_close": 10684.900390625,
+        "change_pct": -0.45,
         "direction": "down",
-        "price_fmt": "10,685",
-        "change_str": "-0.10%"
+        "price_fmt": "10,637",
+        "change_str": "-0.45%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8711.2001953125,
-        "prev_close": 8679.7001953125,
-        "change_pct": 0.36,
-        "direction": "up",
-        "price_fmt": "8,711.2",
-        "change_str": "+0.36%"
+        "price": 8693.400390625,
+        "prev_close": 8709.2998046875,
+        "change_pct": -0.18,
+        "direction": "down",
+        "price_fmt": "8,693.4",
+        "change_str": "-0.18%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2781699895858765,
-        "prev_close": 1.2772799730300903,
-        "change_pct": 0.07,
+        "price": 1.2783700227737427,
+        "prev_close": 1.2777400016784668,
+        "change_pct": 0.05,
         "direction": "up",
         "price_fmt": "1.28",
-        "change_str": "+0.07%"
+        "change_str": "+0.05%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.448889970779419,
-        "prev_close": 1.451799988746643,
-        "change_pct": -0.2,
+        "price": 1.448740005493164,
+        "prev_close": 1.4490300416946411,
+        "change_pct": -0.02,
         "direction": "down",
         "price_fmt": "1.45",
-        "change_str": "-0.20%"
+        "change_str": "-0.02%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.6903899908065796,
-        "prev_close": 1.6928499937057495,
-        "change_pct": -0.15,
-        "direction": "down",
-        "price_fmt": "1.69",
-        "change_str": "-0.15%"
+        "price": 1.6962100267410278,
+        "prev_close": 1.690019965171814,
+        "change_pct": 0.37,
+        "direction": "up",
+        "price_fmt": "1.70",
+        "change_str": "+0.37%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008070000447332859,
+        "price": 0.008050000295042992,
         "prev_close": 0.0081,
-        "change_pct": -0.37,
+        "change_pct": -0.62,
         "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "-0.37%"
+        "change_str": "-0.62%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19020000100135803,
-        "prev_close": 0.1901,
-        "change_pct": 0.05,
+        "price": 0.1898999959230423,
+        "prev_close": 0.1897,
+        "change_pct": 0.11,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "+0.05%"
+        "change_str": "+0.11%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 95.93000030517578,
-        "prev_close": 105.27999877929688,
-        "change_pct": -8.88,
+        "price": 98.16000366210938,
+        "prev_close": 102.58999633789062,
+        "change_pct": -4.32,
         "direction": "down",
-        "price_fmt": "95.93",
-        "change_str": "-8.88%"
+        "price_fmt": "98.16",
+        "change_str": "-4.32%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4211.5,
-        "prev_close": 4168.39990234375,
-        "change_pct": 1.03,
-        "direction": "up",
-        "price_fmt": "4,211.5",
-        "change_str": "+1.03%"
+        "price": 4175.10009765625,
+        "prev_close": 4179.7001953125,
+        "change_pct": -0.11,
+        "direction": "down",
+        "price_fmt": "4,175.1",
+        "change_str": "-0.11%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 61.73500061035156,
-        "prev_close": 61.220001220703125,
-        "change_pct": 0.84,
-        "direction": "up",
-        "price_fmt": "61.74",
-        "change_str": "+0.84%"
+        "price": 60.529998779296875,
+        "prev_close": 60.667999267578125,
+        "change_pct": -0.23,
+        "direction": "down",
+        "price_fmt": "60.53",
+        "change_str": "-0.23%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.0199999809265137,
-        "prev_close": 3.0,
-        "change_pct": 0.67,
-        "direction": "up",
-        "price_fmt": "3.02",
-        "change_str": "+0.67%"
+        "price": 2.999000072479248,
+        "prev_close": 3.010999917984009,
+        "change_pct": -0.4,
+        "direction": "down",
+        "price_fmt": "3.00",
+        "change_str": "-0.40%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 83364.6328125,
-        "prev_close": 83502.609375,
-        "change_pct": -0.17,
+        "price": 83443.328125,
+        "prev_close": 83622.4296875,
+        "change_pct": -0.21,
         "direction": "down",
-        "price_fmt": "83,365",
-        "change_str": "-0.17%"
+        "price_fmt": "83,443",
+        "change_str": "-0.21%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2667.570068359375,
-        "prev_close": 2688.668701171875,
-        "change_pct": -0.78,
-        "direction": "down",
-        "price_fmt": "2,667.6",
-        "change_str": "-0.78%"
+        "price": 2682.3798828125,
+        "prev_close": 2676.72216796875,
+        "change_pct": 0.21,
+        "direction": "up",
+        "price_fmt": "2,682.4",
+        "change_str": "+0.21%"
       }
     ]
   },
