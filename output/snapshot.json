@@ -2,375 +2,411 @@
   "news": {
     "singapore": [
       {
-        "id": "426a2c2f9890ce675ad23a6a6e010479",
-        "title": "Haze in S’pore: Air quality in central region slips back to unhealthy range",
-        "summary": "At 7am on Oct 4, the PSI reading in the central region was 102.",
+        "id": "90d47541e4ccef3d649ed53a4ff5a4b9",
+        "title": "ST Live: News as it happens",
+        "summary": "Follow the latest updates on ST.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-in-central-region-slips-back-to-unhealthy-range",
-        "published": "2026-10-03T23:14:39+00:00"
+        "url": "https://www.straitstimes.com/singapore/st-live-news-as-it-happens3",
+        "published": "2026-10-04T23:43:49+00:00"
       },
       {
-        "id": "eb23bc3ac4a0faba2d002b3b524c273d",
-        "title": "There's a magic school at Orchard Towers and I tried being a magician for an hour – here's how it went",
-        "summary": "CNA Lifestyle recently stopped by Institute Illusions to see if we could unlock our inner David Copperfield. Or at least do a card trick.",
+        "id": "f0dfdda2b27561f37d38714703148832",
+        "title": "This 57-year-old wants women to stop thinking of midlife as the beginning of the end: ‘There’s more to this’",
+        "summary": "Anna Tan co-founded The AM Club for women in their ‘second spring’ – bringing together those ready to reinvent themselves, seek out adventures around the world and embrace something wilder.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/living/institute-illusions-magic-school-singapore-6413711",
-        "published": "2026-10-03T22:56:51+00:00"
+        "url": "https://www.channelnewsasia.com/women/midlife-women-second-spring-am-club-6404421",
+        "published": "2026-10-04T23:17:35+00:00"
       },
       {
-        "id": "6f0aea0a4ae1f2d727d4c2bb8e73649e",
-        "title": "Meet a 25-year-old third-generation zookeeper whose family has worked at the zoo since it opened 53 years ago",
-        "summary": "Her grandfather joined Singapore Zoo when it opened in 1973. Her father followed suit at Night Safari in 1994. Now, Rutraajni Gurusamy Kaunder is making her own mark at River Wonders, caring for more than 200 animals.",
+        "id": "9d83f11800165dbf43bdc84b55a2c67d",
+        "title": "Haze in Singapore: Air quality falls back into the unhealthy range overnight",
+        "summary": "As at 6am, the 24-hour PSI in the central region stood at 110 and 102 in the west.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-falls-back-in-unhealthy-range-overnight",
+        "published": "2026-10-04T22:13:02+00:00"
+      },
+      {
+        "id": "549e9576e1515d1f1848f5c4e86efc1d",
+        "title": "Fewer babies, smaller market: How Singapore baby-care brands are adapting",
+        "summary": "Homegrown brands are widening product ranges, adding services and expanding abroad as costs climb and the domestic customer base shrinks.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/women/third-generation-zookeeper-river-wonders-mandai-6395241",
-        "published": "2026-10-03T22:56:23+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/baby-care-brand-hegen-tollyjoy-6409976",
+        "published": "2026-10-04T22:00:00+00:00"
       },
       {
-        "id": "5ae92b8aad43779104f12e9ca825e67a",
-        "title": "‘Why me? Did I cause it?’: Sex assault survivors on grappling with abuse by family members",
-        "summary": "The police said in most rape cases, the offenders and victims know each other.",
+        "id": "2ce8f783f829964dfdbd0011f928fa45",
+        "title": "Nearly $50m given to about 8,000 severely disabled Singaporeans in 6 years under ElderFund",
+        "summary": "A total of $6.4 million was paid out under the scheme in the first six months of 2026 alone.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/why-me-did-i-cause-it-sex-assault-survivors-on-grappling-with-abuse-by-family-members",
-        "published": "2026-10-03T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/health/nearly-50m-given-to-about-8000-severely-disabled-singaporeans-in-6-years",
+        "published": "2026-10-04T21:10:00+00:00"
       },
       {
-        "id": "448fd4c26bc3214bcfc8668723d33e17",
-        "title": "Authorities seize $39 million from sale of building linked to scam probe",
-        "summary": "Company 2JKB had tried to sell the property for $50 million in December 2025.",
+        "id": "7daeae5edce7211e72070fc995099655",
+        "title": "Robots in Punggol to get help to cross the road when they deliver food and go on patrol",
+        "summary": "These robots may not have robotic arms to physically press the pedestrian push buttons.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/authorities-seize-39-million-from-sale-of-building-linked-to-scam-probe",
-        "published": "2026-10-03T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/transport/robots-in-punggol-to-get-help-to-cross-the-road-before-they-deliver-food-and-go-on-patrol",
+        "published": "2026-10-04T21:05:00+00:00"
       },
       {
-        "id": "033851e4eb731f8cffe4a77e8fb439f6",
-        "title": "Angler’s Pokedex: Youth build free app to help identify and log Singapore’s fish",
-        "summary": "It includes a pop-up feature that alerts users on what to do if a scanned fish is a protected, rare or harmful species.",
+        "id": "26bf467e236a0d29d79a274456725ff5",
+        "title": "Hunker down, or plug in: SPH Media chairman on AI and why journalists can’t be replaced",
+        "summary": "What AI cannot do is generate original content, which is why reporters are still needed, he said.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/environment/anglers-pokedex-youth-build-free-app-to-help-identify-and-log-singapores-fish",
-        "published": "2026-10-03T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/hunker-down-or-plug-in-sph-media-chairman-on-ai-and-why-journalists-cant-be-replaced",
+        "published": "2026-10-04T21:00:00+00:00"
       },
       {
-        "id": "79904fb0b3a03cddd8b30db2cc85e507",
-        "title": "A family in distress: How MSF’s SAFER helped a social worker step in earlier",
-        "summary": "While abuse can be difficult to detect, a new government unit is helping social workers spot signs of risk earlier and reach families before problems escalate.",
+        "id": "104c9518dadd8d3b77de4560a77a3929",
+        "title": "SPH now meets readers wherever they are: Chan Yeng Kit",
+        "summary": "SPH Media now has more than 120 channels catering to all segments of audiences.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/a-family-in-distress-how-msfs-safer-helped-a-social-worker-step-in-earlier",
-        "published": "2026-10-03T20:00:00+00:00"
-      },
-      {
-        "id": "526da368af94ff123f869dde1e59fbfa",
-        "title": "Air quality in central Singapore back to moderate range",
-        "summary": "The 24-hour PSI reading at 11pm was 100, a dip from 101 an hour before.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/air-quality-in-central-singapore-back-to-moderate-range",
-        "published": "2026-10-03T15:38:22+00:00"
+        "url": "https://www.straitstimes.com/singapore/sph-now-meets-readers-wherever-they-are-chan-yeng-kit",
+        "published": "2026-10-04T21:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "4e201d6efff5a939157d1da769fc1cde",
-        "title": "Coast Guard searching for missing medical plane carrying 6 people",
-        "summary": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing.",
+        "id": "c2000369cbe1f0a50443e0db8f823119",
+        "title": "Kash Patel, girlfriend announce engagement",
+        "summary": "FBI Director Kash Patel is engaged to Alexis Wilkins, the couple revealed on Sunday. “Went and got the law involved,” Wilkins wrote on social platform X, adding ring and heart emojis, tagging Patel and sharing a photo of the two featuring her wearing an engagement ring. The FBI director responded to Wilkins using his personal…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/blogs/in-the-know/6128704-fbi-director-kash-patel-engaged/",
+        "published": "2026-10-05T00:08:33+00:00"
+      },
+      {
+        "id": "0ab47368d61eac22e0ffba9ae3afadbf",
+        "title": "Pentagon pulls B-1 bombers from UK base following alleged terror threat",
+        "summary": "The Pentagon pulled all 12 B-1 bombers this weekend from the U.K.’s RAF Fairford air base to their home stations in the U.S. weeks after an alleged terror threat against a U.S.-operated post in England. “While operational security precluded us from confirming the movement of our assets and forces in real-time, we can acknowledge now…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/",
+        "published": "2026-10-04T22:50:38+00:00"
+      },
+      {
+        "id": "8fcce104903c9bbd94485783039ce0fa",
+        "title": "Large oil exporters agree to continue consistent production in November",
+        "summary": "Seven of the world’s largest oil-exporting countries agreed Sunday to maintain their baseline production levels for November, as fuel prices remain elevated amid the Iran war. The “OPEC+” group, which includes Algeria, Iraq, Kazakhstan, Kuwait, Oman, Russia and Saudi Arabia, decided to “maintain” oil production levels they agreed to in September, the Organization of the…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/energy-environment/6128591-opec-maintains-oil-production-levels/",
+        "published": "2026-10-04T22:17:20+00:00"
+      },
+      {
+        "id": "3a07c8754232831b4f2ee10ea7e16546",
+        "title": "Brazil votes, with Lula facing Bolsonaro's son",
+        "summary": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
-        "published": "2026-10-03T22:31:04+00:00"
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+        "published": "2026-10-04T21:52:09+00:00"
       },
       {
-        "id": "4a146d1cf0d1a5f3abdd12f513054165",
-        "title": "Can the Cornell lawsuit force changes that make students safer?",
-        "summary": "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work.",
+        "id": "94cc6ddd3afcce94c172b46e68da4518",
+        "title": "Russia threatens more strikes after Zelensky vows to hit oil refineries",
+        "summary": "The Russian Defense Ministry on Sunday threatened to hit Ukrainian military and industrial facilities, after Ukrainian President Volodymyr Zelensky said his military would target Russia’s oil refineries. “Strikes by the Armed Forces of the Russian Federation against military and military-industrial facilities, as well as related infrastructure in Kyiv and other regions of Ukraine, will be…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/",
+        "published": "2026-10-04T21:45:31+00:00"
+      },
+      {
+        "id": "ef05613df00d23b1f24bedd2044fd815",
+        "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
+        "summary": "President Trump is headed to deep-red Nebraska as Republicans ready for a close Senate race against independent Dan Osborn, who’s backed by Democrats aiming to keep the seat out of GOP hands. Incumbent Sen. Pete Ricketts (R-Neb.), who won the 2024 special election to fill out the remainder of former Sen. Ben Sasse’s (R-Neb.) term,…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6127091-trump-nebraska-senate-rally-ricketts-osborn/",
+        "published": "2026-10-04T21:00:00+00:00"
+      },
+      {
+        "id": "0c791ab4d353c81bfea895c365327479",
+        "title": "Democratic rep: Administration ‘has failed to present a strategy’ in Iran war",
+        "summary": "Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain to the American people what the goals are in trying to prevent, and we have to prevent Iran from ever getting a nuclear weapon, but…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
+        "published": "2026-10-04T20:53:23+00:00"
+      },
+      {
+        "id": "46b9c9a44706b1c74de672d291852ace",
+        "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+        "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
-        "published": "2026-10-03T21:57:34+00:00"
-      },
-      {
-        "id": "350c8e566b1f61fe27d041e148f22b69",
-        "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
-        "summary": "Defense Secretary Pete Hegseth indicated on Saturday that some U.S. service members could be redeployed from Europe to the Western Hemisphere as the Trump administration ramps up its deadly campaign against drug cartels in South America. “Well, we’re definitely expanding our presence and our footprint in Central and South America with partners, and because of…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/",
-        "published": "2026-10-03T21:47:46+00:00"
-      },
-      {
-        "id": "55163c423e456ed691749b0214236cff",
-        "title": "Federal judge rules warrantless Flock camera searches may violate 4th Amendment",
-        "summary": "An Oklahoma federal judge ruled Friday that warrantless searches using AI-powered surveillance camera data, such as what Flock Safety’s hallmark technology collects, may violate the Fourth Amendment without adequate probable cause. “Freedom from persistent, dragnet-style surveillance while in public is not a foreign concept in our society, and it is a reasonable expectation that society…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/",
-        "published": "2026-10-03T21:43:14+00:00"
-      },
-      {
-        "id": "fdfdabeb18f6c42d8b2a02bec605de92",
-        "title": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
-        "summary": "The Trump administration is moving ahead with big changes to Head Start, the federal early childhood education program that serves low-income families, to the outcry of advocates who say the proposals will limit access to the program, currently serving 700,000 students. Interested parties have until Tuesday to submit their thoughts to the federal government on…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/",
-        "published": "2026-10-03T21:00:00+00:00"
-      },
-      {
-        "id": "8d3a786f4409897d6b72e3877e8eb00d",
-        "title": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term",
-        "summary": "With a month until the midterm elections, President Trump is hitting the campaign trail in an effort to ramp up voter turnout across traditionally red states, as rising costs and a deeply unpopular Iran war leave the GOP scrambling to protect its majority in Congress. Trump’s October campaign blitz will feature stops in Oklahoma, Alabama,…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/6127755-trump-midterm-campaign-iran-war/",
-        "published": "2026-10-03T20:37:40+00:00"
-      },
-      {
-        "id": "6c56eaf10569da138fd7dd5da562e76f",
-        "title": "Trump, Cotton tussle over daylight savings after cell phone number leak",
-        "summary": "President Trump repeatedly berated Sen. Tom Cotton (R-Ark.) on Saturday over his stance on a daylight savings bill after posting the Republican Congress member’s cell phone number on social media. In a morning Truth Social post, the president encouraged his supporters to call the senator and urge him to back legislation that would make daylight…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6127691-trump-cotton-fued-daylight-savings-posts/",
-        "published": "2026-10-03T19:53:57+00:00"
-      },
-      {
-        "id": "900aa314b94d2e4de0b56336eea5f051",
-        "title": "White House defends media outlet bans, now citing ‘professionalism’ standards",
-        "summary": "Trump administration lawyers are fighting back against CNN, MS NOW and Politico’s attempt to prevent the White House from enforcing futures bans against them — with the Justice Department (DOJ) now arguing the three outlets failed to meet “professional” standards. “The President concluded that they have failed to maintain basic minimum ‘standards of professionalism and…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/regulation/court-battles/6127654-white-house-defends-press-ban-professionalism/",
-        "published": "2026-10-03T19:22:07+00:00"
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+        "published": "2026-10-04T18:36:48+00:00"
       }
     ],
     "asia": [
       {
-        "id": "cd34803d5907374934970641f90056be",
-        "title": "Sinking city, rising rage: Bangkok’s floods fuel fury over government inaction",
-        "summary": "As floodwaters surged from Bangkok’s drains, Fon’s car sank faster than her hopes of escaping the floods unscathed. She had bought it less than a month earlier. “I woke up at 5am but it was too late,” the 24-year-old said, recalling her decision last weekend to wait until dawn to move her car to a nearby shopping centre. “My car was already submerged. I hadn’t even started making the payments and it’s gone.” Relentless rain paralysed Thailand’s capital this September, dumping a month’s worth of.",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/week-asia/health-environment/article/3369592/sinking-city-rising-rage-bangkoks-floods-fuel-fury-over-government-inaction?utm_source=rss_feed",
-        "published": "2026-10-04T00:00:12+00:00"
-      },
-      {
-        "id": "2cb859ad3f82de6c78e1814ec9d485fc",
-        "title": "Latvian leader poised for big win in election shadowed by Putin",
-        "summary": "Latvian Prime Minister Andris Kulbergs’ party was on course to win the largest share of votes in an election on Saturday amid growing security threats from Russia, putting him in a strong position ahead of coalition talks to form the next government. The United List secured 35.6 per cent of the vote, according to an exit poll released by LTV public broadcaster. If confirmed, this would be the best result of any party in Latvian parliamentary elections since the Baltic nation regained...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
-        "published": "2026-10-03T23:11:44+00:00"
-      },
-      {
-        "id": "25c4284f95644cbb99a464ec255b335b",
-        "title": "North Korea says it conducted intermediate-range strategic missile drill",
-        "summary": "The launch was the latest in a series of North Korean weapons tests this year and came as tensions on the ​Korean peninsula escalated",
+        "id": "ef1d2b883347d2e71ac58cf31b3b8c00",
+        "title": "Brazil’s Flavio Bolsonaro beats polls in presidential vote, faces Lula in runoff",
+        "summary": "The two leading candidates will advance ‌to the second round of voting on October 25",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill/article71541953.ece",
-        "published": "2026-10-03T23:08:50+00:00"
+        "url": "https://www.thehindu.com/news/international/brazil-election-results-updated-flavio-bolsonaro-luiz-inacio-lula-da-silva/article71545022.ece",
+        "published": "2026-10-05T00:12:17+00:00"
       },
       {
-        "id": "5ac9c557b28b00819a4d9551bf7b531e",
-        "title": "Yemen’s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
-        "summary": "The ⁠reported attack comes amid escalating hostilities between Saudi Arabia and ‌the Houthis, who have stepped up attacks on Saudi cities and energy infrastructure",
+        "id": "8b9a808b1d25ab234a61a95258b20403",
+        "title": "Georgia block party shooting kills two, injures dozens",
+        "summary": "Authorities do not believe there is a remaining ‌threat to the public, but have not publicly named any suspects or persons of interest, and have not identified a motive for ‌the shooting",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece",
-        "published": "2026-10-03T23:02:16+00:00"
+        "url": "https://www.thehindu.com/news/international/georgia-vienna-block-party-shooting-toll-updates-october-5-2026/article71545655.ece",
+        "published": "2026-10-05T00:09:53+00:00"
       },
       {
-        "id": "dc9bdcaf71026e6d2f2150b58c1d3e0c",
-        "title": "Call for better teen parent support",
-        "summary": "The government must redesign support systems for teenage parents, addressing gaps in welfare, healthcare and laws to tackle complex problems they may face, the Sexualities Studies Association says.",
-        "source": "Bangkok Post",
+        "id": "52ede595e74c1515f102dc61cd400851",
+        "title": "Malaysia’s Anwar set to unveil crowd-pleasing budget as political pressure rises",
+        "summary": "Malaysia’s Anwar Ibrahim is expected to roll out a populist budget on Friday aimed at placating voter concerns over the cost of living and access to essential services, experts say, as the prime minister seeks to shore up support ahead of a general election that could be called as soon as next year. Anwar’s coalition government is under mounting pressure amid a deepening feud with Umno. The Malay nationalist party, a key partner in Anwar’s administration, has demanded a snap poll after defeating",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3330845/call-for-better-teen-parent-support",
-        "published": "2026-10-03T22:37:00+00:00"
+        "url": "https://www.scmp.com/week-asia/economics/article/3369573/malaysias-anwar-set-unveil-crowd-pleasing-budget-political-pressure-rises?utm_source=rss_feed",
+        "published": "2026-10-05T00:00:17+00:00"
       },
       {
-        "id": "00aabd3beef108031c45fa4968ad00da",
-        "title": "Suphajee keeps eye on traders",
-        "summary": "Commerce Minister Suphajee Suthumpun has ordered strict price checks and stock monitoring to prevent traders from exploiting consumers affected by flooding.",
-        "source": "Bangkok Post",
+        "id": "358674e5cfc579c0624b407dc8c55246",
+        "title": "Search continues for missing Bermuda to Boston flight as crews plan to comb seabed",
+        "summary": "A search continued on Sunday off the Massachusetts coast for an air ambulance carrying six people that disappeared during a flight from Bermuda to Boston as authorities planned to comb the seabed, the US Coast Guard said. The Federal Aviation Administration contacted the coastguard at 2am on Saturday saying it had lost contact with the Gulfstream G100 carrying four Canadians and two Bermudian nationals over the Atlantic Ocean. Searchers later on Saturday found a “debris field” off the coast of..",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3330910/suphajee-keeps-eye-on-traders",
-        "published": "2026-10-03T22:30:00+00:00"
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369735/search-continues-missing-bermuda-boston-flight-crews-plan-comb-seabed?utm_source=rss_feed",
+        "published": "2026-10-04T22:56:01+00:00"
       },
       {
-        "id": "4ccd529a91d55d6cd37c1863ee7ad12d",
-        "title": "Govt, BMA under fire for response",
-        "summary": "The Bangkok floods have exposed failures in preparedness, warning systems and coordination, with analysts pointing to deeper structural weaknesses in crisis management.",
-        "source": "Bangkok Post",
+        "id": "fbb5949f0da4b9318115657746e858da",
+        "title": "U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack",
+        "summary": "The U.S. Air Force has brought home its bombers stationed at a U.S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/special-reports/3330965/govt-bma-under-fire-for-response",
-        "published": "2026-10-03T22:18:00+00:00"
+        "url": "https://www.thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece",
+        "published": "2026-10-04T22:30:39+00:00"
       },
       {
-        "id": "1150e654e717c991d095e0e86ba4f7cf",
-        "title": "Flood, disaster response 'weak'",
-        "summary": "The National Human Rights Commission (NHRC) has proposed structural reforms to the water management system, including unified flood command and proactive disaster funding.",
+        "id": "9c51323cf1c797d98920721a21e45075",
+        "title": "Govt defends 'sin tax' funding shake-up",
+        "summary": "The government has defended proposed changes to the funding of four state bodies, rejecting claims that they would lower alcohol and tobacco taxes or benefit producers.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3330995/flood-disaster-response-weak",
-        "published": "2026-10-03T22:11:00+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3331294/govt-defends-sin-tax-funding-shakeup",
+        "published": "2026-10-04T22:14:00+00:00"
+      },
+      {
+        "id": "14039ef1c6d7d6d2cf1e510d11be816a",
+        "title": "From catastrophe relief to risk transfer",
+        "summary": "Thailand is no stranger to natural disasters, which have become more frequent and severe in recent years as the impacts of climate change intensify.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3331534/from-catastrophe-relief-to-risk-transfer",
+        "published": "2026-10-04T22:05:00+00:00"
+      },
+      {
+        "id": "05486126e334569d726b02b21316bdae",
+        "title": "Businesses brace for future floods by building better",
+        "summary": "Flooding in Bangkok last week again exposed the vulnerability of the capital due to its geography, with a large part of the city situated on floodplains along riverbanks and canals.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3331529/businesses-brace-for-future-floods-by-building-better",
+        "published": "2026-10-04T22:02:00+00:00"
       }
     ],
     "others": [
       {
-        "id": "e7e0557a81b5f954cc050dc1b1fe51eb",
-        "title": "Cornell president says university 'must do better' after frat house rape allegations",
-        "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+        "id": "ae84dd734c20219f921dc7833112d495",
+        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-04T00:11:25+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T00:15:27+00:00"
       },
       {
-        "id": "7a3508f99f0c6c2eaf7bd53c6d4a7e8e",
-        "title": "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
-        "summary": "New York City Mayor Zohran Mamdani shared a video riding the subway with Irish PM Micheal Martin during UN week.",
+        "id": "10f0c8b31cebb1ff61ddac2c7d7cb880",
+        "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+        "summary": "Yemeni government announces major offensive against Houthis as Iran says it is ready to defend itself if the US attacks.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss",
-        "published": "2026-10-04T00:07:25+00:00"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+        "published": "2026-10-05T00:00:00+00:00"
       },
       {
-        "id": "86c409d57214fb780b1f4947a7a8e835",
-        "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
-        "summary": "Latest polls suggest Lula's lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.",
+        "id": "ac9cca6264f978d0170883128bee8462",
+        "title": "Israel face spitting allegation as Ireland boss ‘delighted’ ties after over",
+        "summary": "Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
-        "published": "2026-10-04T00:07:12+00:00"
+        "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
+        "published": "2026-10-04T23:52:49+00:00"
       },
       {
-        "id": "b8b6af751d859761925b70ab9a7e4500",
-        "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-        "summary": "Fighting in Yemen displaces more civilians as Trump says a decision on Iran is coming.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
-        "published": "2026-10-04T00:00:29+00:00"
-      },
-      {
-        "id": "19639ffe7bef2e8ed512eeb23937ff56",
-        "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
-        "summary": "Days after President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
+        "id": "212864c70516bc27b408ccb3f39646f3",
+        "title": "Brazil: Bolsonaro's lead over Lula shrinks as votes come in",
+        "summary": "Flavio Bolsonaro, the son of Brazil's populist ex-leader Jair Bolsonaro, took on incumbent left-wing Lula da Silva in a presidential race. Early results show Bolsonaro in the lead.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-10-03T21:55:00+00:00"
+        "url": "https://www.dw.com/en/brazil-bolsonaro-s-lead-over-lula-shrinks-as-votes-come-in/a-79533857?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-10-04T23:44:00+00:00"
       },
       {
-        "id": "b5a2830743ff2e080ab95d2b4cdaef1a",
-        "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-        "summary": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
+        "id": "a8e6f39508cb7fd3f2077324b159fa21",
+        "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+        "summary": "Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+        "published": "2026-10-04T23:22:02+00:00"
+      },
+      {
+        "id": "d9f72760f1fe2bc90c286244c1e8d799",
+        "title": "Nationalists top Bosnia-Herzegovina's divisive election",
+        "summary": "Bosnia-Herzegovina's three-member presidency is set to be dominated by nationalists from the three major ethnic groups, including Zeljka ​Cvijanovic, backed by disqualified Serb secessionist leader Milorad Dodik.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-10-03T18:49:00+00:00"
+        "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-10-04T22:55:00+00:00"
       },
       {
-        "id": "7739b8262ca1cb5d8486effe7b4a65e6",
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-        "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03T17:48:42+00:00"
-      },
-      {
-        "id": "ece77d1545bd4d85ff085288c7652982",
-        "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
-        "summary": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contactThe US Coast Guard is searching for an air ambulance jet with six people onboard that lost contact with the Federal Aviation Administration (FAA) during a flight from Bermuda to Boston early on Saturday morning.In a statement to the Guardian, an FAA spokesperson said that the agency issued a search-and-rescue alert notice for a Gulfstream G-100 at about 1.20am local time on Saturday. Continue ",
+        "id": "e879fce2285c59b0b035d1bc34f7a4c0",
+        "title": "Brazil presidential election 2026: first-round live results",
+        "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential raceThe incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil is directly elected, and candidates need more than 50% of the vote to avoid a second round. Continue reading...",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
-        "published": "2026-10-03T17:03:54+00:00"
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+        "published": "2026-10-04T22:01:31+00:00"
+      },
+      {
+        "id": "efc211b2e07e61339a607aa28134316d",
+        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+        "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-04T16:51:30+00:00"
       }
     ],
     "tech": [
       {
-        "id": "46beb9ac024a17a42eb479086980840d",
-        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 60 # Comments: 14",
+        "id": "73d83e2bcba69c3164d21b7075766bef",
+        "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+        "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 25 # Comments: 5",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "published": "2026-10-03T22:18:13+00:00"
+        "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+        "published": "2026-10-04T22:25:10+00:00"
       },
       {
-        "id": "07c7e3666538d1b536d12ba2b337e212",
-        "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-        "summary": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49948254 Points: 184 # Comments: 107",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-        "published": "2026-10-03T22:07:13+00:00"
-      },
-      {
-        "id": "0b0695ac4b8402327bc6048d3696ffde",
-        "title": "Reasons I didn't become an EMT, ranked",
-        "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 54 # Comments: 21",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-        "published": "2026-10-03T20:49:15+00:00"
-      },
-      {
-        "id": "e3fd23dda942e936e8655b8ca33c144a",
-        "title": "Surely you have ultra-wideband radios on your bins too?",
-        "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 34 # Comments: 7",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-        "published": "2026-10-03T20:27:44+00:00"
-      },
-      {
-        "id": "8e1c45c6bde773729e8d6606a28417c2",
-        "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-        "summary": "\"...we were making history.\"",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-        "published": "2026-10-03T19:45:17+00:00"
-      },
-      {
-        "id": "316dcb344778b08e9fbfdca95d459466",
-        "title": "We want you to build the next Git platform on Cloudflare",
-        "summary": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 93 # Comments: 84",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-        "published": "2026-10-03T19:33:16+00:00"
-      },
-      {
-        "id": "16b4f6f4730c31c35792b1a30e80adac",
-        "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-        "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 77 # Comments: 9",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-        "published": "2026-10-03T19:14:48+00:00"
-      },
-      {
-        "id": "1af8da52c08e22e0de741c7f90424287",
-        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-        "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]",
+        "id": "e2c245c4b97b0986bd79c230500dab44",
+        "title": "The new Fitbit Edge leaks",
+        "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-        "published": "2026-10-03T16:49:10+00:00"
+        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "published": "2026-10-04T21:02:09+00:00"
+      },
+      {
+        "id": "61ae1c51edb95514108c2038963f90dc",
+        "title": "In the wake of closure, a digital archive of animated materials appears online",
+        "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 5 # Comments: 1",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+        "published": "2026-10-04T21:01:28+00:00"
+      },
+      {
+        "id": "a9239c58b5db918712e663a2e5ca7d3e",
+        "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+        "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled debut record, his fingerprints […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+        "published": "2026-10-04T20:00:00+00:00"
+      },
+      {
+        "id": "88f07d2b6a4f3e6153118a7400a1ee3f",
+        "title": "Homa: The end of TCP for AI clusters [video]",
+        "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 46 # Comments: 12",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+        "published": "2026-10-04T19:42:25+00:00"
+      },
+      {
+        "id": "7eabf2ea928fd047939892efa13b160b",
+        "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+        "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 291 # Comments: 173",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/omlahore/RemoveMacAI",
+        "published": "2026-10-04T19:42:25+00:00"
+      },
+      {
+        "id": "b0a489b753388ced960ccdeaaf6621cb",
+        "title": "Improper redaction reveals Google Data Center water and electricity usage",
+        "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 194 # Comments: 287",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+        "published": "2026-10-04T19:37:05+00:00"
+      },
+      {
+        "id": "175f47fcfccc87d768187fe576a395b8",
+        "title": "Show HN: Build with Python – a beginner course where your code draws",
+        "summary": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv etc.The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block. A user would experiment with the code, and see the immediate changes in the visual output.The course has 13 modules, with the first 6 fo",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+        "published": "2026-10-04T18:59:25+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "46c28b60ee3e3f596b0e368f3faaf613",
+        "title": "The world is facing an almighty LNG crunch",
+        "summary": "In time it could bring about an equally disruptive glut",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
+        "published": "2026-10-04T17:11:12+00:00"
+      },
+      {
+        "id": "5973f9f0d489f8cb050176cdb19c4d7f",
+        "title": "Britain’s Greens have voted, shamefully, to say Zionism is racism",
+        "summary": "It is a damning moment for a political party with pretensions to power",
+        "source": "Leaders",
+        "category": "economist",
+        "url": "https://www.economist.com/leaders/2026/10/04/britains-greens-have-voted-shamefully-to-say-zionism-is-racism",
+        "published": "2026-10-04T16:07:11+00:00"
+      },
+      {
+        "id": "6cfd9c500ba71a38783ef126f8a70ba8",
+        "title": "How India saved its tigers—and lions and rhinos and elephants",
+        "summary": "India’s wildlife-conservation success holds lessons for other environmental efforts",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/10/04/how-india-saved-its-tigers-and-lions-and-rhinos-and-elephants",
+        "published": "2026-10-04T12:09:56+00:00"
+      },
+      {
+        "id": "b633311d9ff370ddd6bcb63975bc5014",
+        "title": "China is giving its economy a big shot in the arm",
+        "summary": "A massive infrastructure scheme may give the country a sorely needed boost—and help rebalance the world economy",
+        "source": "Briefing",
+        "category": "economist",
+        "url": "https://www.economist.com/briefing/2026/10/01/china-is-giving-its-economy-a-big-shot-in-the-arm",
+        "published": "2026-10-01T12:45:03+00:00"
+      },
       {
         "id": "63eed1a1ff9055f2074ec5c8a9ff1dc8",
         "title": "Mirror life is dangerous. Regulators must act before it becomes real",
@@ -390,33 +426,6 @@
         "published": "2026-10-01T12:45:03+00:00"
       },
       {
-        "id": "b633311d9ff370ddd6bcb63975bc5014",
-        "title": "China is giving its economy a big shot in the arm",
-        "summary": "A massive infrastructure scheme may give the country a sorely needed boost—and help rebalance the world economy",
-        "source": "Briefing",
-        "category": "economist",
-        "url": "https://www.economist.com/briefing/2026/10/01/china-is-giving-its-economy-a-big-shot-in-the-arm",
-        "published": "2026-10-01T12:45:03+00:00"
-      },
-      {
-        "id": "9c5c1a11ce2effb7719b1f60520b79fc",
-        "title": "You’re not sending an email. You’re training a model",
-        "summary": "Privacy, employee data and the demands of AI",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/10/01/youre-not-sending-an-email-youre-training-a-model",
-        "published": "2026-10-01T12:45:03+00:00"
-      },
-      {
-        "id": "f9a16a079654d77d8b41d26ae3963ec8",
-        "title": "The Swiss watch industry is shrinking—but getting swankier",
-        "summary": "Brands such as Rolex and Patek Philippe are consolidating the market",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/10/01/the-swiss-watch-industry-is-shrinking-but-getting-swankier",
-        "published": "2026-10-01T12:45:03+00:00"
-      },
-      {
         "id": "56866b060b9b368980779cee6b734530",
         "title": "Japan’s tea farmers enjoy a matcha boom",
         "summary": "But they face growing competition from China",
@@ -432,15 +441,6 @@
         "source": "Asia",
         "category": "economist",
         "url": "https://www.economist.com/asia/2026/10/01/a-huge-increase-in-tourists-visiting-komodo-brings-new-dangers",
-        "published": "2026-10-01T12:45:03+00:00"
-      },
-      {
-        "id": "ca13ac2fd0c958ea266cc948a0f49cbd",
-        "title": "Vietnam's high-tech dreams come with an electricity problem",
-        "summary": "It needs more LNG-generated power, but isn’t ready to pay for it",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/10/01/vietnams-high-tech-dreams-come-with-an-electricity-problem",
         "published": "2026-10-01T12:45:03+00:00"
       }
     ]
@@ -484,12 +484,12 @@
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 68309.4609375,
-        "prev_close": 68956.71875,
-        "change_pct": -0.94,
-        "direction": "down",
-        "price_fmt": "68,309",
-        "change_str": "-0.94%"
+        "price": 69506.3828125,
+        "prev_close": 68309.4609375,
+        "change_pct": 1.75,
+        "direction": "up",
+        "price_fmt": "69,506",
+        "change_str": "+1.75%"
       },
       {
         "symbol": "^FTSE",
@@ -506,64 +506,64 @@
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8682.099609375,
-        "prev_close": 8614.400390625,
-        "change_pct": 0.79,
+        "price": 8717.7001953125,
+        "prev_close": 8682.099609375,
+        "change_pct": 0.41,
         "direction": "up",
-        "price_fmt": "8,682.1",
-        "change_str": "+0.79%"
+        "price_fmt": "8,717.7",
+        "change_str": "+0.41%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2789000272750854,
+        "price": 1.2796299457550049,
         "prev_close": 1.2801899909973145,
-        "change_pct": -0.1,
+        "change_pct": -0.04,
         "direction": "down",
         "price_fmt": "1.28",
-        "change_str": "-0.10%"
+        "change_str": "-0.04%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4391000270843506,
+        "price": 1.4389400482177734,
         "prev_close": 1.4399000406265259,
-        "change_pct": -0.06,
+        "change_pct": -0.07,
         "direction": "down",
         "price_fmt": "1.44",
-        "change_str": "-0.06%"
+        "change_str": "-0.07%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.6927000284194946,
+        "price": 1.6937400102615356,
         "prev_close": 1.6889599561691284,
-        "change_pct": 0.22,
+        "change_pct": 0.28,
         "direction": "up",
         "price_fmt": "1.69",
-        "change_str": "+0.22%"
+        "change_str": "+0.28%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008050000295042992,
+        "price": 0.008059999905526638,
         "prev_close": 0.0081,
-        "change_pct": -0.62,
+        "change_pct": -0.49,
         "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "-0.62%"
+        "change_str": "-0.49%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
         "price": 0.19030000269412994,
-        "prev_close": 0.1902,
-        "change_pct": 0.05,
+        "prev_close": 0.1903,
+        "change_pct": 0.0,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "+0.05%"
+        "change_str": "0.00%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 102.25,
-        "prev_close": 102.30999755859375,
-        "change_pct": -0.06,
+        "price": 102.11000061035156,
+        "prev_close": 102.25,
+        "change_pct": -0.14,
         "direction": "down",
-        "price_fmt": "102.25",
-        "change_str": "-0.06%"
+        "price_fmt": "102.11",
+        "change_str": "-0.14%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4162.2998046875,
-        "prev_close": 4202.2998046875,
-        "change_pct": -0.95,
-        "direction": "down",
-        "price_fmt": "4,162.3",
-        "change_str": "-0.95%"
+        "price": 4177.39990234375,
+        "prev_close": 4162.2998046875,
+        "change_pct": 0.36,
+        "direction": "up",
+        "price_fmt": "4,177.4",
+        "change_str": "+0.36%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 59.97700119018555,
-        "prev_close": 60.724998474121094,
-        "change_pct": -1.23,
-        "direction": "down",
-        "price_fmt": "59.98",
-        "change_str": "-1.23%"
+        "price": 61.084999084472656,
+        "prev_close": 59.97700119018555,
+        "change_pct": 1.85,
+        "direction": "up",
+        "price_fmt": "61.08",
+        "change_str": "+1.85%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.0350000858306885,
-        "prev_close": 2.9670000076293945,
-        "change_pct": 2.29,
-        "direction": "up",
-        "price_fmt": "3.04",
-        "change_str": "+2.29%"
+        "price": 3.0169999599456787,
+        "prev_close": 3.0350000858306885,
+        "change_pct": -0.59,
+        "direction": "down",
+        "price_fmt": "3.02",
+        "change_str": "-0.59%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 84803.703125,
-        "prev_close": 84497.2109375,
-        "change_pct": 0.36,
+        "price": 86412.828125,
+        "prev_close": 84763.578125,
+        "change_pct": 1.95,
         "direction": "up",
-        "price_fmt": "84,804",
-        "change_str": "+0.36%"
+        "price_fmt": "86,413",
+        "change_str": "+1.95%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2687.239990234375,
-        "prev_close": 2668.151123046875,
-        "change_pct": 0.72,
+        "price": 2727.56005859375,
+        "prev_close": 2687.25537109375,
+        "change_pct": 1.5,
         "direction": "up",
-        "price_fmt": "2,687.2",
-        "change_str": "+0.72%"
+        "price_fmt": "2,727.6",
+        "change_str": "+1.50%"
       }
     ]
   },
