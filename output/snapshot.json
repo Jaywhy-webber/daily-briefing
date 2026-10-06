@@ -2,375 +2,411 @@
   "news": {
     "singapore": [
       {
-        "id": "90d47541e4ccef3d649ed53a4ff5a4b9",
-        "title": "ST Live: News as it happens",
-        "summary": "Follow the latest updates on ST.",
+        "id": "1bf97d179499a714534039e195222527",
+        "title": "Live: MPs to discuss home purchases by civil servants near unannounced MRT stations",
+        "summary": "Rising retrenchment numbers and delays in North-South Corridor construction are also on Parliament’s agenda.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/st-live-news-as-it-happens3",
-        "published": "2026-10-04T23:43:49+00:00"
+        "url": "https://www.straitstimes.com/singapore/politics/live-mps-to-discuss-home-purchases-by-civil-servants-near-unannounced-mrt-stations",
+        "published": "2026-10-06T01:51:45+00:00"
       },
       {
-        "id": "f0dfdda2b27561f37d38714703148832",
-        "title": "This 57-year-old wants women to stop thinking of midlife as the beginning of the end: ‘There’s more to this’",
-        "summary": "Anna Tan co-founded The AM Club for women in their ‘second spring’ – bringing together those ready to reinvent themselves, seek out adventures around the world and embrace something wilder.",
+        "id": "b37765b492142d79ce0680c22f8f839c",
+        "title": "Air quality in unhealthy range across most of Singapore",
+        "summary": "In an update on Monday evening, the National Environment Agency said the 24-hour PSI for Singapore was forecast to be in the high moderate to mid unhealthy range.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/women/midlife-women-second-spring-am-club-6404421",
-        "published": "2026-10-04T23:17:35+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-psi-oct-6-6434591",
+        "published": "2026-10-05T22:59:00+00:00"
       },
       {
-        "id": "9d83f11800165dbf43bdc84b55a2c67d",
-        "title": "Haze in Singapore: Air quality falls back into the unhealthy range overnight",
-        "summary": "As at 6am, the 24-hour PSI in the central region stood at 110 and 102 in the west.",
+        "id": "190f07b9ae594e44a0a7d9bec305152c",
+        "title": "Haze in Singapore: Air quality remains unhealthy for much of the island",
+        "summary": "Only the south has moderate levels of pollution, with 24-hour PSI reading still below 100.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-falls-back-in-unhealthy-range-overnight",
-        "published": "2026-10-04T22:13:02+00:00"
+        "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-remains-unhealthy-for-much-of-the-island",
+        "published": "2026-10-05T22:11:16+00:00"
       },
       {
-        "id": "549e9576e1515d1f1848f5c4e86efc1d",
-        "title": "Fewer babies, smaller market: How Singapore baby-care brands are adapting",
-        "summary": "Homegrown brands are widening product ranges, adding services and expanding abroad as costs climb and the domestic customer base shrinks.",
+        "id": "4f5bf8baaa0c5a139fb3a64ce55203ef",
+        "title": "Ageing pilgrims, fewer stalls: Kusu Island pilgrimage faces generational decline",
+        "summary": "About 15,500 people visited during the pilgrimage last year, roughly half the 30,000 recorded in 2019.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/baby-care-brand-hegen-tollyjoy-6409976",
-        "published": "2026-10-04T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/kusu-island-pilgrimage-sla-ferry-heritage-6421156",
+        "published": "2026-10-05T22:00:00+00:00"
       },
       {
-        "id": "2ce8f783f829964dfdbd0011f928fa45",
-        "title": "Nearly $50m given to about 8,000 severely disabled Singaporeans in 6 years under ElderFund",
-        "summary": "A total of $6.4 million was paid out under the scheme in the first six months of 2026 alone.",
-        "source": "The Straits Times",
+        "id": "a5dc4f145c038861756251a7d90f2964",
+        "title": "Commentary: Can commuters’ fatigue from North-South Corridor construction be better managed?",
+        "summary": "A liveable city must remain liveable while it is being built, say Samuel Chng and Sarah Chan of Singapore University of Technology and Design.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/nearly-50m-given-to-about-8000-severely-disabled-singaporeans-in-6-years",
-        "published": "2026-10-04T21:10:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/north-south-corridor-construction-disruption-6432831",
+        "published": "2026-10-05T22:00:00+00:00"
       },
       {
-        "id": "7daeae5edce7211e72070fc995099655",
-        "title": "Robots in Punggol to get help to cross the road when they deliver food and go on patrol",
-        "summary": "These robots may not have robotic arms to physically press the pedestrian push buttons.",
-        "source": "The Straits Times",
+        "id": "e1e3500f2d9d407527cb426d9443e3e8",
+        "title": "Commentary: When someone makes you feel unsafe in public, do you confront, film or walk away?",
+        "summary": "Think you’re being followed or watched by a stranger? Trust the warning signal but do not turn yourself into the investigator, says lawyer Gloria James.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/robots-in-punggol-to-get-help-to-cross-the-road-before-they-deliver-food-and-go-on-patrol",
-        "published": "2026-10-04T21:05:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/strangers-make-you-feel-unsafe-in-public-confront-film-or-walk-away-6432286",
+        "published": "2026-10-05T21:59:00+00:00"
       },
       {
-        "id": "26bf467e236a0d29d79a274456725ff5",
-        "title": "Hunker down, or plug in: SPH Media chairman on AI and why journalists can’t be replaced",
-        "summary": "What AI cannot do is generate original content, which is why reporters are still needed, he said.",
-        "source": "The Straits Times",
+        "id": "bbdc6893d394f305792b6fb224ef78a8",
+        "title": "Man to be charged with murder after 73-year-old dies, another injured at Telok Blangah Heights",
+        "summary": "Police said the man is believed to have acted alone and there is currently no evidence to suggest that it was a religiously motivated attack or an act of terror.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/hunker-down-or-plug-in-sph-media-chairman-on-ai-and-why-journalists-cant-be-replaced",
-        "published": "2026-10-04T21:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/murder-telok-blangah-heights-man-charged-6433796",
+        "published": "2026-10-05T15:23:00+00:00"
       },
       {
-        "id": "104c9518dadd8d3b77de4560a77a3929",
-        "title": "SPH now meets readers wherever they are: Chan Yeng Kit",
-        "summary": "SPH Media now has more than 120 channels catering to all segments of audiences.",
+        "id": "592a2f8c3a6204dfefc4e0d6f82b80d7",
+        "title": "1 dead, another injured in Telok Blangah; man arrested: Police",
+        "summary": "A 32-year-old man will be charged on Oct 7 with killing the victim.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/sph-now-meets-readers-wherever-they-are-chan-yeng-kit",
-        "published": "2026-10-04T21:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/courts-crime/1-dead-another-injured-at-telok-blangah-man-arrested-police",
+        "published": "2026-10-05T15:11:32+00:00"
       }
     ],
     "us": [
       {
-        "id": "c2000369cbe1f0a50443e0db8f823119",
-        "title": "Kash Patel, girlfriend announce engagement",
-        "summary": "FBI Director Kash Patel is engaged to Alexis Wilkins, the couple revealed on Sunday. “Went and got the law involved,” Wilkins wrote on social platform X, adding ring and heart emojis, tagging Patel and sharing a photo of the two featuring her wearing an engagement ring. The FBI director responded to Wilkins using his personal…",
+        "id": "ba9762557d8b5528f81e75205f478afd",
+        "title": "Trump approves death by firing squad for convicted terrorist",
+        "summary": "Nidal Malik Hasan, a convicted terrorist who opened fire on unarmed American soldiers at Ft. Hood in 2009, has been sentenced to death by firing squad, Pentagon spokesperson Sean Parnell announced Monday on the social platform X. Parnell said that Defense Secretary Pete Hegseth “recommended” it, and President Trump “approved” it. Hasan killed 13 people…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/blogs/in-the-know/6128704-fbi-director-kash-patel-engaged/",
-        "published": "2026-10-05T00:08:33+00:00"
+        "url": "https://thehill.com/homenews/6130802-nidal-hasan-death-firing-squad/",
+        "published": "2026-10-06T00:21:26+00:00"
       },
       {
-        "id": "0ab47368d61eac22e0ffba9ae3afadbf",
-        "title": "Pentagon pulls B-1 bombers from UK base following alleged terror threat",
-        "summary": "The Pentagon pulled all 12 B-1 bombers this weekend from the U.K.’s RAF Fairford air base to their home stations in the U.S. weeks after an alleged terror threat against a U.S.-operated post in England. “While operational security precluded us from confirming the movement of our assets and forces in real-time, we can acknowledge now…",
+        "id": "e89388848b10d02c1e5b94be28e3eeb0",
+        "title": "Trump announces steps to lower high cost of diesel",
+        "summary": "President Trump announced on Monday that his administration will take a series of steps aimed at lowering high diesel costs. The president had been expected to announce a directive aiming to increase the availability of red-dyed diesel. This diesel simply has red dye added to it to signal that it is tax exempt and is…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/",
-        "published": "2026-10-04T22:50:38+00:00"
+        "url": "https://thehill.com/policy/energy-environment/6130448-trump-order-high-diesel-prices/",
+        "published": "2026-10-06T00:12:15+00:00"
       },
       {
-        "id": "8fcce104903c9bbd94485783039ce0fa",
-        "title": "Large oil exporters agree to continue consistent production in November",
-        "summary": "Seven of the world’s largest oil-exporting countries agreed Sunday to maintain their baseline production levels for November, as fuel prices remain elevated amid the Iran war. The “OPEC+” group, which includes Algeria, Iraq, Kazakhstan, Kuwait, Oman, Russia and Saudi Arabia, decided to “maintain” oil production levels they agreed to in September, the Organization of the…",
+        "id": "c495aba70d5cdbef1d02435a171c5de8",
+        "title": "Tillis calls Hegseth vote his ‘biggest regret’",
+        "summary": "Sen. Thom Tillis (R-N.C.) wrote in his upcoming book that he views his confirmation vote for Defense Secretary Pete Hegseth as the “biggest regret” of his career. Tillis’s upcoming memoir — “How to Lose Friends and Antagonize Presidents,” which will hit the shelves Tuesday — breaks down how he was skeptical of allegations made about…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/energy-environment/6128591-opec-maintains-oil-production-levels/",
-        "published": "2026-10-04T22:17:20+00:00"
+        "url": "https://thehill.com/homenews/senate/6130753-tillis-regrets-hegseth-vote/",
+        "published": "2026-10-05T23:47:29+00:00"
       },
       {
-        "id": "3a07c8754232831b4f2ee10ea7e16546",
-        "title": "Brazil votes, with Lula facing Bolsonaro's son",
-        "summary": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+        "id": "6a1fa4b33c0f4ec80be6273afd83cb0a",
+        "title": "Trump hurls anti-trans slurs at Graham’s opponent as South Carolina race tightens",
+        "summary": "President Trump on Monday used an anti-transgender slur several times against Sen. Darline Graham’s (R-S.C.) Democratic opponent Dr. Annie Andrews, as the race for South Carolina’s Senate seat tightens. “Annie ‘T——‘ Andrews is running against our wonderful Darline Graham for the Senate in South Carolina,” Trump wrote on Truth Social. The president evoked Graham’s late…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6130651-trump-slur-graham-senate-race/",
+        "published": "2026-10-05T23:04:25+00:00"
+      },
+      {
+        "id": "a3c6849a7295b8cfae75f0e6294bdae5",
+        "title": "Crockett says she supports ‘all Democrats’: ‘Yes, that includes James Talarico’",
+        "summary": "Rep. Jasmine Crockett (D-Texas) said she supports all Democrats on the ballot in the Lone Star State, adding that this includes the Democratic Senate nominee who defeated her in the primary, Texas state Rep. James Talarico. “I support all Democrats. Yes, that includes James Talarico, who I endorsed the day after the election, OK?” she…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6130518-crockett-supports-texas-democrat-talarico/",
+        "published": "2026-10-05T22:07:52+00:00"
+      },
+      {
+        "id": "147875cd54ddafe117fbd8441e9cee98",
+        "title": "Watch live: Trump rallies Nebraska voters with GOP on defense",
+        "summary": "President Trump will rally voters in Nebraska Monday evening, as Republicans look to shore up support in a state where an unexpectedly competitive Senate race has put the GOP on defense. Sen. Pete Ricketts (R-Neb.) is facing independent Dan Osborn, who came within 7 points of Sen. Deb Fischer (R-Neb.) in 2024 and is now…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6130114-watch-live-donald-trump-nebraska-rally-midterms-pete-ricketts/",
+        "published": "2026-10-05T22:00:00+00:00"
+      },
+      {
+        "id": "1a754dc45b3f9dfd3619250c98cbd16d",
+        "title": "The iconic Arthur Read made his TV debut 30 years ago",
+        "summary": "The animated series \"Arthur\" premiered on PBS Kids on Oct. 7, 1996.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
-        "published": "2026-10-04T21:52:09+00:00"
+        "url": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary",
+        "published": "2026-10-05T18:26:01+00:00"
       },
       {
-        "id": "94cc6ddd3afcce94c172b46e68da4518",
-        "title": "Russia threatens more strikes after Zelensky vows to hit oil refineries",
-        "summary": "The Russian Defense Ministry on Sunday threatened to hit Ukrainian military and industrial facilities, after Ukrainian President Volodymyr Zelensky said his military would target Russia’s oil refineries. “Strikes by the Armed Forces of the Russian Federation against military and military-industrial facilities, as well as related infrastructure in Kyiv and other regions of Ukraine, will be…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/",
-        "published": "2026-10-04T21:45:31+00:00"
-      },
-      {
-        "id": "ef05613df00d23b1f24bedd2044fd815",
-        "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
-        "summary": "President Trump is headed to deep-red Nebraska as Republicans ready for a close Senate race against independent Dan Osborn, who’s backed by Democrats aiming to keep the seat out of GOP hands. Incumbent Sen. Pete Ricketts (R-Neb.), who won the 2024 special election to fill out the remainder of former Sen. Ben Sasse’s (R-Neb.) term,…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6127091-trump-nebraska-senate-rally-ricketts-osborn/",
-        "published": "2026-10-04T21:00:00+00:00"
-      },
-      {
-        "id": "0c791ab4d353c81bfea895c365327479",
-        "title": "Democratic rep: Administration ‘has failed to present a strategy’ in Iran war",
-        "summary": "Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain to the American people what the goals are in trying to prevent, and we have to prevent Iran from ever getting a nuclear weapon, but…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
-        "published": "2026-10-04T20:53:23+00:00"
-      },
-      {
-        "id": "46b9c9a44706b1c74de672d291852ace",
-        "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-        "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+        "id": "e460e5d4ca19b01da19d9b0346a498bb",
+        "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+        "summary": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his prior career as a teacher and wrestling coach, has died, a coroner said Monday. He was 84.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-        "published": "2026-10-04T18:36:48+00:00"
+        "url": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
+        "published": "2026-10-05T14:24:31+00:00"
       }
     ],
     "asia": [
       {
-        "id": "ef1d2b883347d2e71ac58cf31b3b8c00",
-        "title": "Brazil’s Flavio Bolsonaro beats polls in presidential vote, faces Lula in runoff",
-        "summary": "The two leading candidates will advance ‌to the second round of voting on October 25",
+        "id": "1d1c00a723998f363935526f05042fab",
+        "title": "U.S. envoy holds rare meeting with Sudan’s top general in push to seek end to fighting",
+        "summary": "The rare meeting between Massad Boulos and Abdel-Fattah Burhan comes as the U.S., Egypt and other intermediaries seek to renew pressure on the warring parties in Sudan to negotiate an end to the fighting that has killed at least 59,000 people",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/brazil-election-results-updated-flavio-bolsonaro-luiz-inacio-lula-da-silva/article71545022.ece",
-        "published": "2026-10-05T00:12:17+00:00"
+        "url": "https://www.thehindu.com/news/international/us-envoy-holds-rare-meeting-with-sudans-top-general-in-push-to-seek-end-to-fighting/article71549759.ece",
+        "published": "2026-10-06T01:45:55+00:00"
       },
       {
-        "id": "8b9a808b1d25ab234a61a95258b20403",
-        "title": "Georgia block party shooting kills two, injures dozens",
-        "summary": "Authorities do not believe there is a remaining ‌threat to the public, but have not publicly named any suspects or persons of interest, and have not identified a motive for ‌the shooting",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/georgia-vienna-block-party-shooting-toll-updates-october-5-2026/article71545655.ece",
-        "published": "2026-10-05T00:09:53+00:00"
-      },
-      {
-        "id": "52ede595e74c1515f102dc61cd400851",
-        "title": "Malaysia’s Anwar set to unveil crowd-pleasing budget as political pressure rises",
-        "summary": "Malaysia’s Anwar Ibrahim is expected to roll out a populist budget on Friday aimed at placating voter concerns over the cost of living and access to essential services, experts say, as the prime minister seeks to shore up support ahead of a general election that could be called as soon as next year. Anwar’s coalition government is under mounting pressure amid a deepening feud with Umno. The Malay nationalist party, a key partner in Anwar’s administration, has demanded a snap poll after defeating",
+        "id": "1dc656e02e9b7338c15866f17e79d5d3",
+        "title": "Bangkok braces for fresh chaos as possible floods threaten IMF-World Bank summit",
+        "summary": "Bangkok is preparing for possible flooding as more than 15,000 delegates are due to arrive for the annual meetings of the International Monetary Fund and World Bank Group. The Thai capital could receive about 50mm (two inches) of rain a day from October 11-13, coinciding with the start of the week-long gathering of finance ministers, central bankers, executives and other delegates from the institutions’ 191 member countries, according to Surapong Sarapa, the Meteorological Department’s head of..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/week-asia/economics/article/3369573/malaysias-anwar-set-unveil-crowd-pleasing-budget-political-pressure-rises?utm_source=rss_feed",
-        "published": "2026-10-05T00:00:17+00:00"
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369848/bangkok-braces-fresh-chaos-possible-floods-threaten-imf-world-bank-summit?utm_source=rss_feed",
+        "published": "2026-10-06T01:45:22+00:00"
       },
       {
-        "id": "358674e5cfc579c0624b407dc8c55246",
-        "title": "Search continues for missing Bermuda to Boston flight as crews plan to comb seabed",
-        "summary": "A search continued on Sunday off the Massachusetts coast for an air ambulance carrying six people that disappeared during a flight from Bermuda to Boston as authorities planned to comb the seabed, the US Coast Guard said. The Federal Aviation Administration contacted the coastguard at 2am on Saturday saying it had lost contact with the Gulfstream G100 carrying four Canadians and two Bermudian nationals over the Atlantic Ocean. Searchers later on Saturday found a “debris field” off the coast of..",
+        "id": "5327158da80e48abcdfe36a405bc7127",
+        "title": "Beijing’s policy advisers map out how post-reunification Taiwan could be governed",
+        "summary": "In 2019, President Xi Jinping became the first Chinese leader to publicly call for the exploration of detailed proposals for governing Taiwan after reunification. Seven years later, the first proposals from a handful of the mainland’s leading research institutes have either been finalised or are nearing completion, the South China Morning Post has learned. Rather than setting out a single fixed model, scholars involved in those studies told the SCMP there should be different scenarios based on..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3369735/search-continues-missing-bermuda-boston-flight-crews-plan-comb-seabed?utm_source=rss_feed",
-        "published": "2026-10-04T22:56:01+00:00"
+        "url": "https://www.scmp.com/news/china/politics/article/3369782/beijings-policy-advisers-map-out-how-post-reunification-taiwan-could-be-governed?utm_source=rss_feed",
+        "published": "2026-10-06T01:30:05+00:00"
       },
       {
-        "id": "fbb5949f0da4b9318115657746e858da",
-        "title": "U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack",
-        "summary": "The U.S. Air Force has brought home its bombers stationed at a U.S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base",
+        "id": "ef50e5dcc778ae7817a0e8324efe3fa9",
+        "title": "Middle East war sharpens focus on ASEAN energy security plans",
+        "summary": "Southeast Asian energy ministers meeting in Manila are expected to review regional fuel-security measures as the US-Israeli war against Iran drags on.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/asia/asean-energy-security-plans-focus-middle-east-war-oil-prices-6434631",
+        "published": "2026-10-06T01:27:00+00:00"
+      },
+      {
+        "id": "214e95d378674b52e54b89974cf9e365",
+        "title": "Trump says his super PAC will pay for taxpayer-funded ads that sparked backlash for glorifying him",
+        "summary": "Donald Trump provided no details on reimbursing taxpayers for ads that had already aired, nor on how he would go about having his political organisation pay for such future advertising",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece",
-        "published": "2026-10-04T22:30:39+00:00"
+        "url": "https://www.thehindu.com/news/international/trump-says-his-super-pac-will-pay-for-taxpayer-funded-ads-that-sparked-backlash-for-glorifying-him/article71549746.ece",
+        "published": "2026-10-06T01:12:35+00:00"
       },
       {
-        "id": "9c51323cf1c797d98920721a21e45075",
-        "title": "Govt defends 'sin tax' funding shake-up",
-        "summary": "The government has defended proposed changes to the funding of four state bodies, rejecting claims that they would lower alcohol and tobacco taxes or benefit producers.",
-        "source": "Bangkok Post",
+        "id": "c9c9bde9262dece21d3a04ff013f6b8c",
+        "title": "Hong Kong’s bridge of gold completes China’s yuan ambition",
+        "summary": "Beijing’s push to accumulate gold serves a larger goal: yuan internationalisation. In this series, Part I traces China’s path to becoming a gold superpower, while this article explores Hong Kong’s key role in safeguarding the nation’s financial security. In 2013, one-third of the world’s traded gold passed through Hong Kong. That year, the city imported 1,158 tonnes of bullion, overtaking India, the traditional top buyer. For all our love of the glittering metal, little of it stayed in our...",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3331294/govt-defends-sin-tax-funding-shakeup",
-        "published": "2026-10-04T22:14:00+00:00"
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369468/hong-kongs-bridge-gold-completes-chinas-yuan-ambition?utm_source=rss_feed",
+        "published": "2026-10-06T01:00:05+00:00"
       },
       {
-        "id": "14039ef1c6d7d6d2cf1e510d11be816a",
-        "title": "From catastrophe relief to risk transfer",
-        "summary": "Thailand is no stranger to natural disasters, which have become more frequent and severe in recent years as the impacts of climate change intensify.",
-        "source": "Bangkok Post",
+        "id": "f3888645911303c9addaead736de1b55",
+        "title": "Hong Kong temperatures drop to 23 degrees Celsius on Tuesday morning, lowest this autumn",
+        "summary": "Temperatures in Hong Kong dropped to about 23 degrees Celsius (73 Fahrenheit) on Tuesday morning, the lowest so far this autumn. According to the Hong Kong Observatory, the cooler weather was caused by a dry northeast monsoon. “A dry northeast monsoon will bring mainly fine weather to the coast of Guangdong in the next couple of days. It will be windier and slightly cooler in the morning over the region,” the forecaster said. “The monsoon is expected to moderate slightly in the latter part of...",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3331534/from-catastrophe-relief-to-risk-transfer",
-        "published": "2026-10-04T22:05:00+00:00"
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3369847/hong-kong-temperatures-drop-23-degrees-celsius-tuesday-morning-lowest-autumn?utm_source=rss_feed",
+        "published": "2026-10-06T00:54:03+00:00"
       },
       {
-        "id": "05486126e334569d726b02b21316bdae",
-        "title": "Businesses brace for future floods by building better",
-        "summary": "Flooding in Bangkok last week again exposed the vulnerability of the capital due to its geography, with a large part of the city situated on floodplains along riverbanks and canals.",
-        "source": "Bangkok Post",
+        "id": "16288ebe33de5d216065abd67e8ec821",
+        "title": "Experts urge wider One Stanley checks, tighter paperwork after steel bar shortfall",
+        "summary": "Hong Kong’s building authorities should consider inspecting the remaining properties in a luxury residential development and tightening work process documentation after one house was found to have used insufficient steel bars during construction, experts have said. Their suggestions followed the Buildings Department revealing at the weekend that it had launched an investigation into work quality issues at One Stanley in Stanley, one of the most expensive neighbourhoods in Southern district, and.",
+        "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3331529/businesses-brace-for-future-floods-by-building-better",
-        "published": "2026-10-04T22:02:00+00:00"
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3369835/experts-urge-wider-one-stanley-checks-tighter-paperwork-after-steel-bar-shortfall?utm_source=rss_feed",
+        "published": "2026-10-06T00:34:38+00:00"
       }
     ],
     "others": [
       {
-        "id": "ae84dd734c20219f921dc7833112d495",
-        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "id": "35907c61832ec3d5e34ae8df51002219",
+        "title": "Trump says taxpayers will no longer fund TV ads that praise him",
+        "summary": "Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss",
+        "published": "2026-10-06T01:51:32+00:00"
+      },
+      {
+        "id": "76a19a681a37b91a39229c7331ec9025",
+        "title": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows",
+        "summary": "During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss",
+        "published": "2026-10-06T01:39:54+00:00"
+      },
+      {
+        "id": "ec80ed18e05bccb410d5bc4066e92dc0",
+        "title": "Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder",
+        "summary": "Former ‘American Idol’ singer Caleb Flynn is sentenced to life without parole after being convicted of his wife's murder",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss",
+        "published": "2026-10-06T01:24:53+00:00"
+      },
+      {
+        "id": "ce11b529e6f96fa14598cbe893a5a018",
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-05T00:15:27+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T21:46:22+00:00"
       },
       {
-        "id": "10f0c8b31cebb1ff61ddac2c7d7cb880",
-        "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-        "summary": "Yemeni government announces major offensive against Houthis as Iran says it is ready to defend itself if the US attacks.",
-        "source": "Al Jazeera",
+        "id": "4a74ce0c6810ab962762186b4fe3a398",
+        "title": "US 'watching closely' after plague researcher dies in Russia",
+        "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+        "source": "BBC World",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-        "published": "2026-10-05T00:00:00+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T21:33:49+00:00"
       },
       {
-        "id": "ac9cca6264f978d0170883128bee8462",
-        "title": "Israel face spitting allegation as Ireland boss ‘delighted’ ties after over",
-        "summary": "Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.",
-        "source": "Al Jazeera",
+        "id": "d8b36f9d2a99dca9ec8d7ee2d8232b51",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "source": "BBC World",
         "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
-        "published": "2026-10-04T23:52:49+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T21:18:10+00:00"
       },
       {
-        "id": "212864c70516bc27b408ccb3f39646f3",
-        "title": "Brazil: Bolsonaro's lead over Lula shrinks as votes come in",
-        "summary": "Flavio Bolsonaro, the son of Brazil's populist ex-leader Jair Bolsonaro, took on incumbent left-wing Lula da Silva in a presidential race. Early results show Bolsonaro in the lead.",
-        "source": "Deutsche Welle",
-        "category": "others",
-        "url": "https://www.dw.com/en/brazil-bolsonaro-s-lead-over-lula-shrinks-as-votes-come-in/a-79533857?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-10-04T23:44:00+00:00"
-      },
-      {
-        "id": "a8e6f39508cb7fd3f2077324b159fa21",
-        "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
-        "summary": "Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
-        "published": "2026-10-04T23:22:02+00:00"
-      },
-      {
-        "id": "d9f72760f1fe2bc90c286244c1e8d799",
-        "title": "Nationalists top Bosnia-Herzegovina's divisive election",
-        "summary": "Bosnia-Herzegovina's three-member presidency is set to be dominated by nationalists from the three major ethnic groups, including Zeljka ​Cvijanovic, backed by disqualified Serb secessionist leader Milorad Dodik.",
-        "source": "Deutsche Welle",
-        "category": "others",
-        "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-10-04T22:55:00+00:00"
-      },
-      {
-        "id": "e879fce2285c59b0b035d1bc34f7a4c0",
-        "title": "Brazil presidential election 2026: first-round live results",
-        "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential raceThe incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil is directly elected, and candidates need more than 50% of the vote to avoid a second round. Continue reading...",
+        "id": "eba769c8587c7f5c5604c362c8c97e89",
+        "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+        "summary": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surgeFlávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to a shock first-round victory over the incumbent, Luiz Inácio Lula da Silva, leaving progressive voters reeling.The 45-year-old rightwing candidate received 56.1m votes to Lula’s 53.8m – 47.03% to 45.16% – meaning the 80-year-old leftwinger has a mountain to climb i",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-        "published": "2026-10-04T22:01:31+00:00"
+        "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+        "published": "2026-10-05T20:06:18+00:00"
       },
       {
-        "id": "efc211b2e07e61339a607aa28134316d",
-        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-        "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+        "id": "d5defa373657f74024de1ab393f78390",
+        "title": "Spain PM pins hopes on housing crisis to help win snap election",
+        "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-04T16:51:30+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-05T19:30:50+00:00"
       }
     ],
     "tech": [
       {
-        "id": "73d83e2bcba69c3164d21b7075766bef",
-        "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-        "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 25 # Comments: 5",
+        "id": "b80ae1347c51b30e851ca1a764ec4e2e",
+        "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 26 # Comments: 15",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-        "published": "2026-10-04T22:25:10+00:00"
+        "url": "https://edworkingpapers.com/ai26-1551",
+        "published": "2026-10-06T00:00:45+00:00"
       },
       {
-        "id": "e2c245c4b97b0986bd79c230500dab44",
-        "title": "The new Fitbit Edge leaks",
-        "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and […]",
+        "id": "8e2fecea670bce3ccdcd2a4b1587e095",
+        "title": "Samon: Designing a Zen Garden Raking Puzzle",
+        "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html Comments URL: https://news.ycombinator.com/item?id=49972211 Points: 16 # Comments: 6",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+        "published": "2026-10-05T23:35:35+00:00"
+      },
+      {
+        "id": "71f17a7783f54c41f41bfc9b44098f18",
+        "title": "Gemini Call for Me might tell your mom you’re running late",
+        "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-        "published": "2026-10-04T21:02:09+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "published": "2026-10-05T23:09:55+00:00"
       },
       {
-        "id": "61ae1c51edb95514108c2038963f90dc",
-        "title": "In the wake of closure, a digital archive of animated materials appears online",
-        "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 5 # Comments: 1",
+        "id": "0dad17e03857b289d45777d81cede082",
+        "title": "Ephemeral Testing",
+        "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/ Comments URL: https://news.ycombinator.com/item?id=49972008 Points: 32 # Comments: 11",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-        "published": "2026-10-04T21:01:28+00:00"
+        "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+        "published": "2026-10-05T23:06:36+00:00"
       },
       {
-        "id": "a9239c58b5db918712e663a2e5ca7d3e",
-        "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-        "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled debut record, his fingerprints […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-        "published": "2026-10-04T20:00:00+00:00"
-      },
-      {
-        "id": "88f07d2b6a4f3e6153118a7400a1ee3f",
-        "title": "Homa: The end of TCP for AI clusters [video]",
-        "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 46 # Comments: 12",
+        "id": "b10ec8d6480410b79643e66b98c14bf0",
+        "title": "Worth Building",
+        "summary": "Article URL: https://armstr.ng/writing/worth-building Comments URL: https://news.ycombinator.com/item?id=49971952 Points: 34 # Comments: 25",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-        "published": "2026-10-04T19:42:25+00:00"
+        "url": "https://armstr.ng/writing/worth-building",
+        "published": "2026-10-05T22:59:24+00:00"
       },
       {
-        "id": "7eabf2ea928fd047939892efa13b160b",
-        "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-        "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 291 # Comments: 173",
+        "id": "9cc748ed6bb471f7719450af48a0fdfc",
+        "title": "Example.com Just Launched the Biggest Redesign in Decades",
+        "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 84 # Comments: 53",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://github.com/omlahore/RemoveMacAI",
-        "published": "2026-10-04T19:42:25+00:00"
+        "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+        "published": "2026-10-05T22:55:11+00:00"
       },
       {
-        "id": "b0a489b753388ced960ccdeaaf6621cb",
-        "title": "Improper redaction reveals Google Data Center water and electricity usage",
-        "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 194 # Comments: 287",
+        "id": "e2fb5b3f9377f7d94347a5a70df4f860",
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "summary": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/ Comments URL: https://news.ycombinator.com/item?id=49971846 Points: 234 # Comments: 127",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-        "published": "2026-10-04T19:37:05+00:00"
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "published": "2026-10-05T22:46:45+00:00"
       },
       {
-        "id": "175f47fcfccc87d768187fe576a395b8",
-        "title": "Show HN: Build with Python – a beginner course where your code draws",
-        "summary": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv etc.The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block. A user would experiment with the code, and see the immediate changes in the visual output.The course has 13 modules, with the first 6 fo",
-        "source": "Hacker News (Top)",
+        "id": "67de379ff13608558c6c52639bf1ab1d",
+        "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+        "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+        "source": "Ars Technica",
         "category": "tech",
-        "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-        "published": "2026-10-04T18:59:25+00:00"
+        "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+        "published": "2026-10-05T22:26:35+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "3255d6d706f9751c747f12d39263a15e",
+        "title": "The bond market sell-off is helping the dollar",
+        "summary": "But the strength of the greenback is not as reliable as in the past",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
+        "published": "2026-10-05T19:31:48+00:00"
+      },
+      {
+        "id": "b128cda6cd24a53075e0f0036657a224",
+        "title": "A controversial new power grab in Pakistan",
+        "summary": "The powerful army chief wants to redraw the political map",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/10/05/a-controversial-new-power-grab-in-pakistan",
+        "published": "2026-10-05T15:30:00+00:00"
+      },
+      {
+        "id": "973ada7b65b69b30973a32eb8a846dd9",
+        "title": "Bartleby newsletter: How to fire a chicken into a jet engine",
+        "summary": "Andrew Palmer, our Bartleby columnist, reads up on testing regimes",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/10/05/bartleby-newsletter-how-to-fire-a-chicken-into-a-jet-engine",
+        "published": "2026-10-05T14:14:35+00:00"
+      },
+      {
+        "id": "64d7c71101f764443925ef4428f1fca8",
+        "title": "Record labels are in a spin over AI music",
+        "summary": "Should they fight upstart labs, or co-operate with them?",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music",
+        "published": "2026-10-05T11:35:13+00:00"
+      },
       {
         "id": "46c28b60ee3e3f596b0e368f3faaf613",
         "title": "The world is facing an almighty LNG crunch",
@@ -399,48 +435,12 @@
         "published": "2026-10-04T12:09:56+00:00"
       },
       {
-        "id": "b633311d9ff370ddd6bcb63975bc5014",
-        "title": "China is giving its economy a big shot in the arm",
-        "summary": "A massive infrastructure scheme may give the country a sorely needed boost—and help rebalance the world economy",
-        "source": "Briefing",
-        "category": "economist",
-        "url": "https://www.economist.com/briefing/2026/10/01/china-is-giving-its-economy-a-big-shot-in-the-arm",
-        "published": "2026-10-01T12:45:03+00:00"
-      },
-      {
         "id": "63eed1a1ff9055f2074ec5c8a9ff1dc8",
         "title": "Mirror life is dangerous. Regulators must act before it becomes real",
         "summary": "Playing catch-up with the technology is not an option",
         "source": "Leaders",
         "category": "economist",
         "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
-        "published": "2026-10-01T12:45:03+00:00"
-      },
-      {
-        "id": "050b0951c39ff1a8aa6c9aac3297fd8d",
-        "title": "China’s new infrastructure push will help itself and the world",
-        "summary": "But it must still do more to lift consumption",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/10/01/chinas-new-infrastructure-push-will-help-itself-and-the-world",
-        "published": "2026-10-01T12:45:03+00:00"
-      },
-      {
-        "id": "56866b060b9b368980779cee6b734530",
-        "title": "Japan’s tea farmers enjoy a matcha boom",
-        "summary": "But they face growing competition from China",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/10/01/japans-tea-farmers-enjoy-a-matcha-boom",
-        "published": "2026-10-01T12:45:03+00:00"
-      },
-      {
-        "id": "15dec5ccc157785b7d944f98445ab223",
-        "title": "A huge increase in tourists visiting Komodo brings new dangers",
-        "summary": "There are calls for more restrictions",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/10/01/a-huge-increase-in-tourists-visiting-komodo-brings-new-dangers",
         "published": "2026-10-01T12:45:03+00:00"
       }
     ]
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5634.81982421875,
-        "prev_close": 5667.669921875,
-        "change_pct": -0.58,
+        "price": 5662.16015625,
+        "prev_close": 5664.330078125,
+        "change_pct": -0.04,
         "direction": "down",
-        "price_fmt": "5,634.8",
-        "change_str": "-0.58%"
+        "price_fmt": "5,662.2",
+        "change_str": "-0.04%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7722.72021484375,
-        "prev_close": 7666.4501953125,
-        "change_pct": 0.73,
+        "price": 7773.9501953125,
+        "prev_close": 7722.72021484375,
+        "change_pct": 0.66,
         "direction": "up",
-        "price_fmt": "7,722.7",
-        "change_str": "+0.73%"
+        "price_fmt": "7,774.0",
+        "change_str": "+0.66%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23972.2890625,
-        "prev_close": 24613.26953125,
-        "change_pct": -2.6,
-        "direction": "down",
-        "price_fmt": "23,972",
-        "change_str": "-2.60%"
+        "price": 24301.009765625,
+        "prev_close": 24040.33984375,
+        "change_pct": 1.08,
+        "direction": "up",
+        "price_fmt": "24,301",
+        "change_str": "+1.08%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 69506.3828125,
-        "prev_close": 68309.4609375,
-        "change_pct": 1.75,
+        "price": 70154.78125,
+        "prev_close": 69946.859375,
+        "change_pct": 0.3,
         "direction": "up",
-        "price_fmt": "69,506",
-        "change_str": "+1.75%"
+        "price_fmt": "70,155",
+        "change_str": "+0.30%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10462.0,
-        "prev_close": 10428.2998046875,
-        "change_pct": 0.32,
+        "price": 10497.900390625,
+        "prev_close": 10462.0,
+        "change_pct": 0.34,
         "direction": "up",
-        "price_fmt": "10,462",
-        "change_str": "+0.32%"
+        "price_fmt": "10,498",
+        "change_str": "+0.34%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8717.7001953125,
-        "prev_close": 8682.099609375,
-        "change_pct": 0.41,
+        "price": 8733.7001953125,
+        "prev_close": 8686.400390625,
+        "change_pct": 0.54,
         "direction": "up",
-        "price_fmt": "8,717.7",
-        "change_str": "+0.41%"
+        "price_fmt": "8,733.7",
+        "change_str": "+0.54%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2796299457550049,
-        "prev_close": 1.2801899909973145,
-        "change_pct": -0.04,
+        "price": 1.279289960861206,
+        "prev_close": 1.2794400453567505,
+        "change_pct": -0.01,
         "direction": "down",
         "price_fmt": "1.28",
-        "change_str": "-0.04%"
+        "change_str": "-0.01%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4389400482177734,
-        "prev_close": 1.4399000406265259,
-        "change_pct": -0.07,
+        "price": 1.43517005443573,
+        "prev_close": 1.4399100542068481,
+        "change_pct": -0.33,
         "direction": "down",
         "price_fmt": "1.44",
-        "change_str": "-0.07%"
+        "change_str": "-0.33%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.6937400102615356,
-        "prev_close": 1.6889599561691284,
-        "change_pct": 0.28,
-        "direction": "up",
+        "price": 1.6911799907684326,
+        "prev_close": 1.6942700147628784,
+        "change_pct": -0.18,
+        "direction": "down",
         "price_fmt": "1.69",
-        "change_str": "+0.28%"
+        "change_str": "-0.18%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008059999905526638,
+        "price": 0.008050000295042992,
         "prev_close": 0.0081,
-        "change_pct": -0.49,
+        "change_pct": -0.62,
         "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "-0.49%"
+        "change_str": "-0.62%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19030000269412994,
+        "price": 0.19020000100135803,
         "prev_close": 0.1903,
-        "change_pct": 0.0,
-        "direction": "up",
+        "change_pct": -0.05,
+        "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "0.00%"
+        "change_str": "-0.05%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 102.11000061035156,
+        "price": 100.48999786376953,
         "prev_close": 102.25,
-        "change_pct": -0.14,
+        "change_pct": -1.72,
         "direction": "down",
-        "price_fmt": "102.11",
-        "change_str": "-0.14%"
+        "price_fmt": "100.49",
+        "change_str": "-1.72%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4177.39990234375,
+        "price": 4158.7998046875,
         "prev_close": 4162.2998046875,
-        "change_pct": 0.36,
-        "direction": "up",
-        "price_fmt": "4,177.4",
-        "change_str": "+0.36%"
+        "change_pct": -0.08,
+        "direction": "down",
+        "price_fmt": "4,158.8",
+        "change_str": "-0.08%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 61.084999084472656,
+        "price": 61.09000015258789,
         "prev_close": 59.97700119018555,
-        "change_pct": 1.85,
+        "change_pct": 1.86,
         "direction": "up",
-        "price_fmt": "61.08",
-        "change_str": "+1.85%"
+        "price_fmt": "61.09",
+        "change_str": "+1.86%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.0169999599456787,
+        "price": 3.078000068664551,
         "prev_close": 3.0350000858306885,
-        "change_pct": -0.59,
-        "direction": "down",
-        "price_fmt": "3.02",
-        "change_str": "-0.59%"
+        "change_pct": 1.42,
+        "direction": "up",
+        "price_fmt": "3.08",
+        "change_str": "+1.42%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 86412.828125,
-        "prev_close": 84763.578125,
-        "change_pct": 1.95,
-        "direction": "up",
-        "price_fmt": "86,413",
-        "change_str": "+1.95%"
+        "price": 85636.0,
+        "prev_close": 86480.3046875,
+        "change_pct": -0.98,
+        "direction": "down",
+        "price_fmt": "85,636",
+        "change_str": "-0.98%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2727.56005859375,
-        "prev_close": 2687.25537109375,
-        "change_pct": 1.5,
-        "direction": "up",
-        "price_fmt": "2,727.6",
-        "change_str": "+1.50%"
+        "price": 2707.68994140625,
+        "prev_close": 2726.509033203125,
+        "change_pct": -0.69,
+        "direction": "down",
+        "price_fmt": "2,707.7",
+        "change_str": "-0.69%"
       }
     ]
   },
