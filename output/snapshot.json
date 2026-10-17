@@ -2,375 +2,393 @@
   "news": {
     "singapore": [
       {
-        "id": "682d9f8a7de708ec5daead216b9d4e9d",
-        "title": "10 years of The Coconut Club: How its S$12.80 nasi lemak challenged the way we value local food",
-        "summary": "From a cold-press coconut machine developed by an F1 engineer to daily ikan bilis inspections, the restaurant's painstaking approach to Singapore's beloved dish hasn't come cheap. But, as it celebrates a decade in the business, what does its journey tell us about the value of local food?",
+        "id": "cf35b36c508e5d91f130484f6e38faa3",
+        "title": "Singapore haze eases overnight, but air quality remains unhealthy",
+        "summary": "NEA says the transport of smoke haze from Kalimantan to Singapore could ease on Saturday, with shifting winds and showers expected over Singapore and the surrounding region.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/dining/coconut-club-10th-anniversary-nasi-lemak-6459016",
-        "published": "2026-10-15T23:30:27+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-oct-17-6466816",
+        "published": "2026-10-16T23:09:00+00:00"
       },
       {
-        "id": "40296fb8730260322bc1f12ba2bdc016",
-        "title": "Singapore haze: Air quality very unhealthy in central region; PM2.5 readings elevated across country",
-        "summary": "At 7am, the 24-hour PSI in central Singapore was 224, a new high for the year.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/haze-oct-16-psi-pm-25-6459416",
-        "published": "2026-10-15T22:33:00+00:00"
-      },
-      {
-        "id": "3248c1e3c72c76a85349b7672a66a81f",
-        "title": "Haze in Singapore: PSI reading in central region in ‘very unhealthy’ range",
-        "summary": "At 7am, the 24-hour PSI in the central region stood at 224.",
+        "id": "f8f2cec0553865debb2d705b3d85f336",
+        "title": "Haze in Singapore: PSI back to ‘unhealthy’ range, PM2.5 remains ‘elevated’ in all regions",
+        "summary": "At 7am, 24-hour PSI were between 144 and 191, while the 1-hour PM2.5 were between 83 and 119.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-worsens-overnight-as-psi-hits-very-unhealthy-range-in-central-region",
-        "published": "2026-10-15T22:17:29+00:00"
+        "url": "https://www.straitstimes.com/singapore/haze-in-singapore-psi-back-to-unhealthy-range-pm2-5-remains-elevated-in-all-regions",
+        "published": "2026-10-16T23:07:32+00:00"
       },
       {
-        "id": "4c618ae47101365478d6eb181b4db091",
-        "title": "How a four-member government team turned red-light cameras into speed enforcers in 3 months",
-        "summary": "The Roadbuster tool processed 120,000 speeding cases in two years before it was retired, and speeding violations fell by 66 per cent at locations where it was activated.",
+        "id": "af2348e24f0521e2861cf1f11e45db68",
+        "title": "Legal action by Singapore against haze-causing firms in Indonesia may come with diplomatic implications: Lawyers",
+        "summary": "Minister for Sustainability and the Environment Grace Fu said Singapore will send preventive measure notices to seven companies in Indonesia responsible for fires causing the current haze.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/road-safety-speeding-traffic-police-ogp-6461926",
-        "published": "2026-10-15T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/haze-indonesia-diplomatic-implications-legal-action-lawyers-6465511",
+        "published": "2026-10-16T22:00:00+00:00"
       },
       {
-        "id": "b311ff6378acc2d1f004f2cc7ac52cd1",
-        "title": "Inside Audemars Piguet’s AP House Singapore, where watches are only part of the experience",
-        "summary": "At Raffles Singapore, the Swiss watchmaker has created a space where watches share the spotlight with food, design, hospitality and conversation. In partnership with Audemars Piguet",
+        "id": "529cb8f9128fb467a3d8a7c5ca7e107b",
+        "title": "Some Singapore pilgrims press ahead with Umrah plans despite advisory, others face cancellations",
+        "summary": "The Ministry of Foreign Affairs advised Singaporeans to defer all travel to Saudi Arabia amid heightened security risks.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/obsessions/audemars-piguet-ap-house-singapore-ceo-stefanie-ng-6455201",
-        "published": "2026-10-15T21:52:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/singapore-pilgrims-umrah-mfa-muis-advisory-saudi-arabia-6465391",
+        "published": "2026-10-16T22:00:00+00:00"
       },
       {
-        "id": "1dbb7ef9904684bdd8d9c513055beaf6",
-        "title": "Facing the heat at home: How vulnerable households are getting some cool help",
-        "summary": "Capital Distributors is working with community partners in Punggol North to improve airflow and comfort in residents' homes.",
+        "id": "f4104839cec80daa15fdd6e18e9d43e2",
+        "title": "Snap Insight: Protecting Singapore’s outdoor workers from haze is easier said than done",
+        "summary": "Financial pressures make reducing haze exposure difficult for Singapore's outdoor workers, says Olivia Jensen of NUS’ Institute for the Public Understanding of Risk.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/commentary/haze-outdoor-worker-platform-mask-snap-insight-6466426",
+        "published": "2026-10-16T22:00:00+00:00"
+      },
+      {
+        "id": "54990035513f70c3b26f0825cd96fa2f",
+        "title": "How small modular reactors put nuclear energy back on the table for Singapore and ASEAN",
+        "summary": "Geopolitical instability, decarbonisation and technological advancements contribute to the nuclear push.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/facing-the-heat-how-vulnerable-households-are-getting-some-cool-help-kdk-fans-capitol-distributors",
-        "published": "2026-10-15T20:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/environment/how-small-modular-reactors-put-nuclear-energy-back-on-the-table-for-singapore-and-asean",
+        "published": "2026-10-16T21:00:00+00:00"
       },
       {
-        "id": "eb6cfb831ac68782a42262d5b56a4ebe",
-        "title": "From Gran Turismo 7 to a smartphone with a second screen: How Xiaomi is linking cars, homes and devices",
-        "summary": "Xiaomi's Vision GT concept car and upcoming 18 Pro smartphone series form part of an ecosystem designed to work as one.",
+        "id": "36f58d790a7e58aa40f32fcac98dadd0",
+        "title": "How do small modular nuclear reactors work, and how safe are they if S’pore decides to use them?",
+        "summary": "More countries are looking to tap nuclear energy.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/gran-turismo-7-smartphone-xiaomi-human-car-home-ecosystem",
-        "published": "2026-10-15T20:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/environment/how-do-small-modular-nuclear-reactors-work-and-how-safe-are-they-if-spore-decides-to-use-them",
+        "published": "2026-10-16T21:00:00+00:00"
       },
       {
-        "id": "c7e35a41c38e1f5cb119f0b4e5cdaa8c",
-        "title": "Singapore looking into which companies responsible for haze-causing fires, may take legal action: PM Wong",
-        "summary": "Singapore is also exploring joint action with other countries, says Prime Minister Lawrence Wong.",
-        "source": "Channel NewsAsia",
+        "id": "9f28b148d71c564e8e2d161d5dbb0242",
+        "title": "‘Everybody has an opinion on nuclear energy’: This scientist is determined to defuse nuclear myths",
+        "summary": "Encountering scepticism about nuclear energy cemented Ian Ang’s decision to pursue a PhD in the field.",
+        "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/haze-singapore-indonesia-companies-fires-legal-action-pm-wong-6463101",
-        "published": "2026-10-15T15:18:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/environment/everybody-has-an-opinion-on-nuclear-energy-this-physicist-is-determined-to-defuse-nuclear-myths",
+        "published": "2026-10-16T21:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "0ddb5fac4c5dcc7ccee51e1638d6d6c4",
-        "title": "FDA advances peptide push to White House",
-        "summary": "Presented by Coalition to Strengthen America’s Healthcare {beacon} Healthcare Healthcare The Big Story RFK Jr. advances peptide push The Food and Drug Administration (FDA) this week submitted a peptide “interim access policy” to the White House for review, according to a government filing, which would reportedly allow compounding pharmacies to temporarily produce and sell previously restricted…",
+        "id": "12887527912851731b95e836bc44e15f",
+        "title": "Centcom commander says naval blockade cost Iran $25B in oil revenue",
+        "summary": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Centcom commander says naval blockade cost Iran $25B in oil revenue The U.S. Central Command (Centcom) Commander Adm. Brad Cooper said on Friday that the U.S. naval blockade has cost Iran $25 billion in crude oil…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/newsletters/healthcare/6152770-rfk-jr-fda-peptides-white-house/",
-        "published": "2026-10-15T23:50:02+00:00"
+        "url": "https://thehill.com/newsletters/defense-national-security/6155474-centcom-commander-says-naval-blockade-cost-iran-25b-in-oil-revenue/",
+        "published": "2026-10-16T23:12:48+00:00"
       },
       {
-        "id": "84fa19cfdc657e0ea87fba9bb0d140b6",
-        "title": "Anthropic PAC splits Q3 donations down the middle",
-        "summary": "{beacon} Technology Technology The Big Story Anthropic PAC splits Q3 donations down the middle Anthropic’s corporate political action committee poured $161,000 into campaigns across the aisle last month, bringing their total third-quarter spending to more than $250,000, according to spending records first shared with The Hill. © Patrick Sison, Associated Press The employee-funded PAC,…",
+        "id": "e490df97830755b46ce2cb1ea5b8406a",
+        "title": "FERC moves to ease gas approvals",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story FERC moves to ease gas approvals Federal energy regulators have proposed setting up a program to speed up approvals for expanding the nation’s gas export facilities. © Jacquelyn Martin, Associated Press The Federal Energy Regulatory Commission (FERC) on Thursday proposed to limit notice and protest…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/6152693-anthropic-pac-splits-q3-donations-down-the-middle/",
-        "published": "2026-10-15T22:56:25+00:00"
+        "url": "https://thehill.com/newsletters/energy-environment/6155469-ferc-proposes-lng-approval-speedup/",
+        "published": "2026-10-16T23:09:34+00:00"
       },
       {
-        "id": "7d3a3c9480f2a2dbc7faecd0a69873b8",
-        "title": "Questions flare over US role in Ukraine’s Starlink shut-off: What to know",
-        "summary": "On Wednesday, Elon Musk’s Starlink was pulled into the center of a controversy after Ukraine’s military faced restricted access to Starshield, the military version of the satellite-based system. Starlink services were cut off for objects that traveled more than 100 mph, impacting the capabilities of Ukraine’s drones, airplanes and helicopters, a source familiar with the…",
+        "id": "cb85e98258d47730b3febce6013d6980",
+        "title": "5 days of Katie Zacharia: The rapid fall of Trump’s ‘lawyer’ press secretary",
+        "summary": "Katie Zacharia won’t be remembered as one of the “all-time greats” in the White House press room, as one of her colleagues predicted this week, but she will go down in the annals of presidential press secretary history. Her tenure of five days in the role easily beats the previous record held by Anthony Scaramucci,…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/technology/6152345-elon-musk-starlink-ukraine-starshield/",
-        "published": "2026-10-15T22:43:28+00:00"
+        "url": "https://thehill.com/homenews/administration/6155287-katie-zacharia-white-house-exit-five-days/",
+        "published": "2026-10-16T22:38:50+00:00"
       },
       {
-        "id": "49905f95fdddcb3046d58522ced498c9",
-        "title": "4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage",
-        "summary": "Four Republican senators have signed on to a letter to the Defense Department’s inspector general expressing “grave concern” over Ukraine’s sudden loss of access to intelligence-sharing and high-speed Starlink data, which it needs to intercept Russian drones, and asked him to investigate whether senior Defense officials played a role. “We urgently request an Inspector General…",
+        "id": "208fa8726210d0e2268f58dd75163586",
+        "title": "Energy regulators speed up approvals for gas export facility expansions",
+        "summary": "U.S. energy regulators have proposed establishing a program that would speed up approvals for expanding the nation’s gas export facilities The Federal Energy Regulatory Commission (FERC) proposed Thursday to limit notice and protest periods to either 60 or 90 days for requested expansions to liquified natural gas (LNG) export terminals. FERC Chair Laura Swett (R) said…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/senate/6152642-defense-inspector-general-ukraine-starlink-senators/",
-        "published": "2026-10-15T22:38:10+00:00"
+        "url": "https://thehill.com/blogs/blog-briefing-room/news/energy-a-environment/6155398-ferc-seeks-shorten-gas-export-approvals/",
+        "published": "2026-10-16T22:34:01+00:00"
       },
       {
-        "id": "2d5eb9d98994174e4f7597a6a63b78c7",
-        "title": "Musk bankrolls PAC spending big on Paxton in Texas",
-        "summary": "Tech mogul Elon Musk poured $158 million into a key super PAC backing Texas Attorney General Ken Paxton’s (R) Senate run as part of his push to keep Republican majorities in Congress. Musk was the single donor to Texas PAC — a political action committee backing Paxton’s run — in the third quarter, according to…",
+        "id": "b482e2e652a9c656eb90b9c254ac4e11",
+        "title": "Bipartisan senators ask Pentagon to answer for Ukraine Starlink restrictions",
+        "summary": "{beacon} Technology Technology The Big Story GOP senators press Pentagon over Starlink restrictions in Ukraine Four Republican senators joined their Democratic colleagues in pressing the Trump administration for information about whether Pentagon officials ordered restrictions on Ukraine’s access to the satellite-based Starshield network. © Tom Brenner, Associated Press Ukraine needs access to fast Starshield data…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6152571-musk-texas-pac-paxton-senate/",
-        "published": "2026-10-15T22:34:37+00:00"
+        "url": "https://thehill.com/newsletters/technology/6155378-gop-senators-press-pentagon-starlink-newsletter/",
+        "published": "2026-10-16T22:20:37+00:00"
       },
       {
-        "id": "b3a2831b33208859561115cef1ed3f79",
-        "title": "Police investigating shooting at Oregon elementary school",
-        "summary": "A shooter is dead and two people have been hospitalized after reports of an active shooter incident at a Bend, Ore., elementary school, the Bend Police Department said Thursday. Police have confirmed multiple victims, including children. Their conditions are not known at this time. The incident was reported at Silver Rail Elementary School. Bend Police…",
+        "id": "3d948948030f4cc0e8db3363e6a0e617",
+        "title": "Senate Democrats unveil new plans for strengthening Medicare",
+        "summary": "Presented by Coalition to Strengthen Americas Healthcare {beacon} Healthcare Healthcare The Big Story Senate Democrats unveil new plans for strengthening Medicare Led by Sen. Ron Wyden (R-Ore.), ranking member of the Senate Finance Committee, Senate Democrats on Friday published their aims of revamping the long-term care system in the U.S., encompassing both home care and…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/state-watch/6152592-bend-oregon-elementary-school-shooting/",
-        "published": "2026-10-15T22:18:20+00:00"
+        "url": "https://thehill.com/newsletters/healthcare/6155303-senate-democrats-unveil-new-plans-for-strengthening-medicare/",
+        "published": "2026-10-16T21:57:49+00:00"
       },
       {
-        "id": "f6e3bfa5e58dba861f8041ca143a3e19",
-        "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
-        "summary": "In this first episode of Your Turn with Allison Aubrey, we explore the science of the flow state with violinist Diane Allen, who lost her flow and then tried to find it again, and also from Dr. Richard Huskey, who studies the flow state and how each of us can find it.",
+        "id": "a8853e51013fe3423ab8285f09e3943f",
+        "title": "Katie Zacharia is out as press secretary, White House says",
+        "summary": "Katie Zacharia is \"transitioning out\" of her role as press secretary, according to a White House official not authorized to speak on the record, marking a stunning turn of events for the spokeswoman.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
-        "published": "2026-10-15T20:50:53+00:00"
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
+        "published": "2026-10-16T20:29:40+00:00"
       },
       {
-        "id": "0efeb165f2614ab1e2c0a3fe052fa40c",
-        "title": "Suspicious mailings to election officials, congressional offices under investigation",
-        "summary": "The FBI and U.S. Postal Inspection Service are looking into the mailings, some of which included an unidentified powdery white substance.",
+        "id": "302666a3b20479cdb46ca5baef91a062",
+        "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
+        "summary": "Katie Zacharia's first official day was on Monday.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
-        "published": "2026-10-15T19:54:15+00:00"
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
+        "published": "2026-10-16T18:08:33+00:00"
       }
     ],
     "asia": [
       {
-        "id": "c932f15c9f3ba598ca58bc4f2a177947",
-        "title": "Shooting at elementary school in Oregon leaves at least five dead",
-        "summary": "The attacker was shot and went down inside the school soon after police arrived",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece",
-        "published": "2026-10-15T23:46:53+00:00"
-      },
-      {
-        "id": "cded6a38c828fd3876e78d4956d7db66",
-        "title": "China says 'divergent opinions' contributed to lack of G20 consensus",
-        "summary": "The draft called on all countries to move to eliminate structural excess capacity in their economies, among other actions",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/china-says-divergent-opinions-contributed-to-lack-of-g20-consensus/article71544457.ece",
-        "published": "2026-10-15T23:33:54+00:00"
-      },
-      {
-        "id": "c0fd5feb65a9b4aad79b185ba3116552",
-        "title": "Germany’s Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks",
-        "summary": "German Chancellor Friedrich Merz said Germany would take further steps to defend itself, including against Russia’s shadow fleet of tankers in the Baltic and North Seas, airspace violations and drone attacks",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/germanys-merz-in-kyiv-for-talks-with-zelenskyy/article71543190.ece",
-        "published": "2026-10-15T23:23:00+00:00"
-      },
-      {
-        "id": "938c9c63c3397293139fb8d1cd77136d",
-        "title": "Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report",
-        "summary": "Hong Kong investors are Asia’s most ambitious stock pickers, but they have much more subdued return expectations than regional peers swept up in enthusiasm over artificial intelligence, according to a survey by a global asset management firm. Some 95 per cent of Hong Kong respondents said they wanted to outperform the market, the highest proportion in Asia, where the average stood at 85 per cent, according to a survey conducted in August by Natixis Investment Managers. Hong Kong investors...",
+        "id": "e760e1a853e588f8a56ab03757a695b9",
+        "title": "Malaysia’s shoppers love Chinese e-commerce. Its factories pay the price",
+        "summary": "In hindsight, it was only a matter of time before Esha Yusof joined the growing ranks of Malaysian shoppers being drawn to Chinese e-commerce giant Pinduoduo. Esha is a relative newcomer. She signed up in July, more than half a year after the platform launched in Malaysia – and has been smitten with it ever since. Rock-bottom prices, a vast range of products and seamless payments through a popular local e-wallet make it easy for the 32-year-old to spend an average of 500 ringgit (US$122) a month",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report?utm_source=rss_feed",
-        "published": "2026-10-15T23:00:13+00:00"
+        "url": "https://www.scmp.com/week-asia/economics/article/3371173/malaysias-shoppers-love-chinese-e-commerce-its-factories-pay-price?utm_source=rss_feed",
+        "published": "2026-10-17T00:00:09+00:00"
       },
       {
-        "id": "a8e189685d92f0028cc6810a59490e57",
-        "title": "4 dead, including children, in Oregon school shooting, US reports say",
-        "summary": "A shooting at a junior school in the US state of Oregon on Thursday left “multiple victims”, police said, with several media outlets reporting three children and one adult had been killed. Police said the assailant had been “shot and killed”. The suspect was a 16-year-old male, CNN reported, citing multiple law enforcement sources. “At this time, we have confirmed there are multiple victims,” said a statement from local police, who added that at least two people were transported to a local...",
+        "id": "753f462c678cfe8098865644d00eb40e",
+        "title": "Texas carries out first execution in U.S. since Christa Pike's failed lethal injection",
+        "summary": "Texas has executed six people so far in 2026 and plans two more executions scheduled this year",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/texas-carries-out-first-execution-in-us-since-christa-pikes-failed-lethal-injection/article71558194.ece",
+        "published": "2026-10-16T23:44:36+00:00"
+      },
+      {
+        "id": "fc595f12388007bfa5a248d6ed4c5f49",
+        "title": "Kashmir-born filmmaker held in U.S. likely to be freed soon, says family",
+        "summary": "Sheikh Arfat won many awards after multiple screenings of his movie Saffron Kingdom in several parts of the United States and Europe",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/national/kashmir-born-filmmaker-held-in-us-likely-to-be-freed-soon-says-family/article71556733.ece",
+        "published": "2026-10-16T23:39:36+00:00"
+      },
+      {
+        "id": "6188a8f50a3fd2c6f4b5e117ba7a3798",
+        "title": "North Korea says it tested new torpedo with AI tech",
+        "summary": "⁠North Korea conducted an underwater ⁠test of a new torpedo weapon system on Thursday to verify technological upgrades, state news agency KCNA reported on Saturday, describing the test as a success and a significant step in ‌the country’s naval development. The test verified propulsion technology developed through more than 180 tests over the past five years, KCNA said, adding that artificial intelligence was used for target detection and guidance in the new high-speed precision-guided...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371069/oregon-school-shooting-leaves-2-hospital-shooter-dead?utm_source=rss_feed",
-        "published": "2026-10-15T22:39:37+00:00"
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech?utm_source=rss_feed",
+        "published": "2026-10-16T23:37:18+00:00"
       },
       {
-        "id": "7c3d0c90b5c92ff51ee2c10dc9a106fc",
-        "title": "Central banks urged to strive for clear communication",
-        "summary": "Central banks are emphasising clear and effective monetary policy communication as heightened global uncertainty complicates economic assessments and policy decisions, while the growing use of artificial intelligence (AI) introduces new challenges in how financial markets interpret policy signals.",
-        "source": "Bangkok Post",
+        "id": "c258f42ac570b29e44ac080170f6354e",
+        "title": "Checking Mount Bromo off the bucket list while also heading off the beaten path? Here's how",
+        "summary": "The writer and his friends wanted to visit the famous Mount Bromo in Indonesia, but also see its lesser-known surrounding towns. They encountered charming cafes, stunning views and fresh farm produce undiscovered by tourists.",
+        "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3337870/central-banks-urged-to-strive-for-clear-communication",
-        "published": "2026-10-15T22:37:00+00:00"
+        "url": "https://www.channelnewsasia.com/travel/mount-bromo-batu-malang-travel-6417286",
+        "published": "2026-10-16T23:23:14+00:00"
       },
       {
-        "id": "9d4900bc8c341ca287a28efdb49081d1",
-        "title": "AI seen as key for developing nations",
-        "summary": "Artificial intelligence (AI) can help emerging markets enhance productivity, bridge skill gaps and reduce costs through localisation, according to AI venture capitalists and startups at the IMF-World Bank Annual Meetings in Bangkok.",
+        "id": "83d4505fade84e828e0ba1436acee2d8",
+        "title": "Bangkok's flood plan under scrutiny",
+        "summary": "The recent floods have renewed questions about Bangkok's long-term flood defences, particularly the omission of previously proposed monkey cheek retention areas from the draft comprehensive city plan due to take effect next year.",
         "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3337845/ai-seen-as-key-for-developing-nations",
-        "published": "2026-10-15T22:30:00+00:00"
+        "url": "https://www.bangkokpost.com/business/general/3338604/bangkoks-flood-plan-under-scrutiny",
+        "published": "2026-10-16T23:05:00+00:00"
       },
       {
-        "id": "2af903181d1994e631771c834ff0549d",
-        "title": "IMF warns of economic storms",
-        "summary": "Kristalina Georgieva, managing director of the International Monetary Fund (IMF), warned that countries must rebuild economic buffers, address global imbalances and prepare for the rapid expansion of artificial intelligence (AI).",
-        "source": "Bangkok Post",
+        "id": "272fbccbd79ea49b30c2c36389fc1396",
+        "title": "Oregon school attack: Teen shooter was former student, police say",
+        "summary": "Authorities said Griffin J. John II had been a special needs student at Silver Rail Elementary and had attacked a classroom with special needs students",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/thailand/general/3337735/imf-warns-of-economic-storms",
-        "published": "2026-10-15T22:27:00+00:00"
+        "url": "https://www.thehindu.com/news/international/oregon-school-attack-teen-shooter-was-former-student-police-say/article71594326.ece",
+        "published": "2026-10-16T23:00:42+00:00"
+      },
+      {
+        "id": "00362a75c6693322aa439f3d2de6b288",
+        "title": "Tanker off Qatar reports hits from multiple projectiles: U.K. maritime agency",
+        "summary": "The reported attack on Wednesday (October 7, 2026) was around 500 kilometres (300 miles) from the Strait of Hormuz",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/oil-tanker-off-qatar-reports-hits-from-multiple-projectiles-hormuz-strait-october-7-2026/article71558152.ece",
+        "published": "2026-10-16T22:58:58+00:00"
       }
     ],
     "others": [
       {
-        "id": "467e03a9e41974ce2d96e4e1aa914685",
-        "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-        "summary": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
+        "id": "b7d5d76f305531b8abdbeaea2b98fbe9",
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+        "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-16T23:54:35+00:00"
+      },
+      {
+        "id": "42c78348119636b4295a3625185ba271",
+        "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+        "summary": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-        "published": "2026-10-15T23:35:26+00:00"
+        "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+        "published": "2026-10-16T23:27:01+00:00"
       },
       {
-        "id": "7d79bf9866ee0331d218be4a3d06a27e",
-        "title": "At least 4, including 3 children, killed in US elementary school shooting",
-        "summary": "Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.",
+        "id": "718e4fccc7a22ceefc6cdccc3dcd5f46",
+        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-16T23:07:38+00:00"
+      },
+      {
+        "id": "baa83f26ae8168b4488658ea4746849f",
+        "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+        "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-16T23:07:18+00:00"
+      },
+      {
+        "id": "7f50cc1efd64b744b5c91afc68dd24b0",
+        "title": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+        "summary": "Manchester United are mired in poor form - and Lisandro Martinez's meltdown - now they face on-the-up rivals Leeds.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-        "published": "2026-10-15T22:51:56+00:00"
+        "url": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+        "published": "2026-10-16T22:53:26+00:00"
       },
       {
-        "id": "41f2afa6d4a32e1e137c5bc3c72d0d25",
-        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-        "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-15T22:37:21+00:00"
-      },
-      {
-        "id": "a131d2d2b5abb6b3898dc0bca0d615cf",
-        "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-        "summary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
+        "id": "e1c1032563ec5640678160f9558f48e8",
+        "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+        "summary": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-        "published": "2026-10-15T21:57:58+00:00"
+        "url": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
+        "published": "2026-10-16T22:48:54+00:00"
       },
       {
-        "id": "6beea52bcf89a13e6898ddcb00b9e0a5",
-        "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-        "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+        "id": "971050ecacb30aa7a0d222177539a5c3",
+        "title": "Katie Zacharia leaving her White House role less than five days on the job",
+        "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-15T17:47:22+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-16T21:05:05+00:00"
       },
       {
-        "id": "a14c31f4e50bc8cf5770219419a4ba36",
-        "title": "Maduro pleads not guilty to new torture-related charges in New York",
-        "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-15T16:52:44+00:00"
-      },
-      {
-        "id": "0120310e16f31afd83e6a67a837aca20",
-        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-15T16:50:18+00:00"
-      },
-      {
-        "id": "86cec41a051e53b6d7c8dbda80d272e5",
-        "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
-        "summary": "Turkish police raided the Istanbul headquarters of an important pro-opposition television station on Wednesdazy, the day that jailed Istanbul Mayor Ekrem Imamoglu was set to start his defense against corruption charges.",
+        "id": "5ea2a49c61079f2209ef2b735eb19065",
+        "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+        "summary": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-10-15T16:48:00+00:00"
+        "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-10-16T19:42:00+00:00"
       }
     ],
     "tech": [
       {
-        "id": "e747552ff99ed17ae7a0166a92bf7a3e",
-        "title": "Steam can now show game achievements in separate ‘sets’",
-        "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse what you have unlocked afterward, Steam will […]",
+        "id": "e47b0abb71243a2f40afdc3aa6db1ffc",
+        "title": "All the news about the iPhone Duo",
+        "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-        "published": "2026-10-15T23:18:28+00:00"
+        "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "published": "2026-10-16T23:36:26+00:00"
       },
       {
-        "id": "b2a9bbb4bf28f843df88250d67f7451c",
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
+        "id": "82c72020617b26f29b3dc525f2a9649c",
+        "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+        "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "published": "2026-10-15T22:43:23+00:00"
+        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "published": "2026-10-16T22:51:22+00:00"
       },
       {
-        "id": "22f37598a036981ed0c7eabb29ceec2f",
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]",
-        "source": "The Verge",
+        "id": "1dc2877677245e15e7a8ebe573fddebf",
+        "title": "Why harnesses matter for energy (and token) efficiency",
+        "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 29 # Comments: 10",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-        "published": "2026-10-15T22:35:55+00:00"
+        "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+        "published": "2026-10-16T21:01:23+00:00"
       },
       {
-        "id": "12ec4ad3c9eed74a373142330a96cec5",
-        "title": "The tech backlash is now in theaters",
-        "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-        "published": "2026-10-15T21:39:52+00:00"
-      },
-      {
-        "id": "1fe47633aa2030607ab3ab56182ce735",
-        "title": "Plex now helps sell movie theater tickets",
-        "summary": "Discovery data from Plex users will help studios, advertisers.",
+        "id": "103816a63a991442bafd6d8dde402785",
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-        "published": "2026-10-15T21:22:15+00:00"
+        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "published": "2026-10-16T20:59:01+00:00"
       },
       {
-        "id": "0deb57bdf21954770e1bb8c9f7a243a9",
-        "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-        "summary": "Medical experts explicitly recommend against blanket screenings.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-        "published": "2026-10-15T21:09:57+00:00"
-      },
-      {
-        "id": "47f9c6ac2bde0938a28f443041a86e81",
-        "title": "Trump posts AI-edited photo to brag about White House restoration work",
-        "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or […]",
+        "id": "38e4a37ba52b57c5064e7d1d69d437c8",
+        "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
+        "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-        "published": "2026-10-15T21:09:33+00:00"
+        "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+        "published": "2026-10-16T20:50:27+00:00"
       },
       {
-        "id": "4dd7172b6d20cbed078040df5730e1b0",
-        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-        "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+        "id": "6c07bc85fe69a9ae4efa9260cd781e20",
+        "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+        "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+        "published": "2026-10-16T20:49:04+00:00"
+      },
+      {
+        "id": "298fc2f76e17f7045f2529885e71a537",
+        "title": "I never authorized an integration that scans my secrets",
+        "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 158 # Comments: 108",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+        "published": "2026-10-16T20:33:41+00:00"
+      },
+      {
+        "id": "76b615f372bd9a93fbcb85b2cc645dda",
+        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+        "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-        "published": "2026-10-15T20:32:41+00:00"
+        "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+        "published": "2026-10-16T20:20:07+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "9f43bddc6b1890d799bc8c88af820983",
+        "title": "It’s not just Commerzbank: Italians are eating up German business",
+        "summary": "The takeover of the bank by UniCredit is only the start",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
+        "published": "2026-10-16T17:58:53+00:00"
+      },
+      {
+        "id": "c966cc8bcb622c57e3f4a27adc49be88",
+        "title": "America makes waves in Cuba",
+        "summary": "But it shouldn’t undermine the growth of the island’s private sector",
+        "source": "Leaders",
+        "category": "economist",
+        "url": "https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba",
+        "published": "2026-10-15T12:50:21+00:00"
+      },
       {
         "id": "4596ee9cf2fbd590b46eb84d5922b1df",
         "title": "When AI agents take matters into their own hands",
@@ -417,15 +435,6 @@
         "published": "2026-10-15T12:50:21+00:00"
       },
       {
-        "id": "c966cc8bcb622c57e3f4a27adc49be88",
-        "title": "America makes waves in Cuba",
-        "summary": "But it shouldn’t undermine the growth of the island’s private sector",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba",
-        "published": "2026-10-15T12:50:21+00:00"
-      },
-      {
         "id": "7d9d5574ea6a56c4583b1b889ca93255",
         "title": "How to survive a predatory world order",
         "summary": "Middle powers face a new threat: Trump-Putin-Xi collusion",
@@ -433,15 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/international/2026/10/15/how-to-survive-a-predatory-world-order",
         "published": "2026-10-15T10:52:13+00:00"
-      },
-      {
-        "id": "ca58bdef0c0a3e6bdd01b1707fa5342f",
-        "title": "What if the machines take over science?",
-        "summary": "Artificial intelligence will require scholars to reinvent their disciplines",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/10/15/what-if-the-machines-take-over-science",
-        "published": "2026-10-15T10:27:17+00:00"
       }
     ]
   },
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5423.330078125,
-        "prev_close": 5430.5,
-        "change_pct": -0.13,
+        "price": 5403.5,
+        "prev_close": 5423.330078125,
+        "change_pct": -0.37,
         "direction": "down",
-        "price_fmt": "5,423.3",
-        "change_str": "-0.13%"
+        "price_fmt": "5,403.5",
+        "change_str": "-0.37%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7744.06005859375,
-        "prev_close": 7718.93994140625,
-        "change_pct": 0.33,
-        "direction": "up",
-        "price_fmt": "7,744.1",
-        "change_str": "+0.33%"
+        "price": 7659.43994140625,
+        "prev_close": 7744.06005859375,
+        "change_pct": -1.09,
+        "direction": "down",
+        "price_fmt": "7,659.4",
+        "change_str": "-1.09%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 24314.169921875,
-        "prev_close": 24345.220703125,
-        "change_pct": -0.13,
+        "price": 24062.720703125,
+        "prev_close": 24314.169921875,
+        "change_pct": -1.03,
         "direction": "down",
-        "price_fmt": "24,314",
-        "change_str": "-0.13%"
+        "price_fmt": "24,063",
+        "change_str": "-1.03%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 67744.2890625,
-        "prev_close": 67777.5234375,
-        "change_pct": -0.05,
+        "price": 64425.94921875,
+        "prev_close": 67744.2890625,
+        "change_pct": -4.9,
         "direction": "down",
-        "price_fmt": "67,744",
-        "change_str": "-0.05%"
+        "price_fmt": "64,426",
+        "change_str": "-4.90%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10724.900390625,
-        "prev_close": 10650.2998046875,
-        "change_pct": 0.7,
+        "price": 10840.400390625,
+        "prev_close": 10724.900390625,
+        "change_pct": 1.08,
         "direction": "up",
-        "price_fmt": "10,725",
-        "change_str": "+0.70%"
+        "price_fmt": "10,840",
+        "change_str": "+1.08%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8792.400390625,
-        "prev_close": 8727.900390625,
-        "change_pct": 0.74,
+        "price": 8806.7001953125,
+        "prev_close": 8719.7001953125,
+        "change_pct": 1.0,
         "direction": "up",
-        "price_fmt": "8,792.4",
-        "change_str": "+0.74%"
+        "price_fmt": "8,806.7",
+        "change_str": "+1.00%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2820299863815308,
-        "prev_close": 1.2837200164794922,
-        "change_pct": -0.13,
+        "price": 1.2796000242233276,
+        "prev_close": 1.281540036201477,
+        "change_pct": -0.15,
         "direction": "down",
         "price_fmt": "1.28",
-        "change_str": "-0.13%"
+        "change_str": "-0.15%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4373199939727783,
-        "prev_close": 1.4366999864578247,
-        "change_pct": 0.04,
+        "price": 1.438099980354309,
+        "prev_close": 1.437440037727356,
+        "change_pct": 0.05,
         "direction": "up",
         "price_fmt": "1.44",
-        "change_str": "+0.04%"
+        "change_str": "+0.05%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7008800506591797,
-        "prev_close": 1.6980400085449219,
-        "change_pct": 0.17,
+        "price": 1.7041000127792358,
+        "prev_close": 1.7014399766921997,
+        "change_pct": 0.16,
         "direction": "up",
         "price_fmt": "1.70",
-        "change_str": "+0.17%"
+        "change_str": "+0.16%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008059999905526638,
+        "price": 0.008050000295042992,
         "prev_close": 0.0081,
-        "change_pct": -0.49,
+        "change_pct": -0.62,
         "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "-0.49%"
+        "change_str": "-0.62%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19099999964237213,
+        "price": 0.19089999794960022,
         "prev_close": 0.1911,
-        "change_pct": -0.05,
+        "change_pct": -0.1,
         "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "-0.05%"
+        "change_str": "-0.10%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 105.73999786376953,
-        "prev_close": 106.05999755859375,
-        "change_pct": -0.3,
-        "direction": "down",
-        "price_fmt": "105.74",
-        "change_str": "-0.30%"
+        "price": 109.69000244140625,
+        "prev_close": 105.91999816894531,
+        "change_pct": 3.56,
+        "direction": "up",
+        "price_fmt": "109.69",
+        "change_str": "+3.56%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4178.60009765625,
-        "prev_close": 4107.89990234375,
-        "change_pct": 1.72,
+        "price": 4186.7001953125,
+        "prev_close": 4170.10009765625,
+        "change_pct": 0.4,
         "direction": "up",
-        "price_fmt": "4,178.6",
-        "change_str": "+1.72%"
+        "price_fmt": "4,186.7",
+        "change_str": "+0.40%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 57.28499984741211,
-        "prev_close": 55.54999923706055,
-        "change_pct": 3.12,
+        "price": 57.1349983215332,
+        "prev_close": 56.83700180053711,
+        "change_pct": 0.52,
         "direction": "up",
-        "price_fmt": "57.28",
-        "change_str": "+3.12%"
+        "price_fmt": "57.13",
+        "change_str": "+0.52%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.2170000076293945,
-        "prev_close": 3.197999954223633,
-        "change_pct": 0.59,
-        "direction": "up",
-        "price_fmt": "3.22",
-        "change_str": "+0.59%"
+        "price": 3.117000102996826,
+        "prev_close": 3.2360000610351562,
+        "change_pct": -3.68,
+        "direction": "down",
+        "price_fmt": "3.12",
+        "change_str": "-3.68%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 82135.7578125,
-        "prev_close": 81562.4921875,
-        "change_pct": 0.7,
-        "direction": "up",
-        "price_fmt": "82,136",
-        "change_str": "+0.70%"
+        "price": 81483.328125,
+        "prev_close": 82141.4609375,
+        "change_pct": -0.8,
+        "direction": "down",
+        "price_fmt": "81,483",
+        "change_str": "-0.80%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2440.52001953125,
-        "prev_close": 2418.20703125,
-        "change_pct": 0.92,
-        "direction": "up",
-        "price_fmt": "2,440.5",
-        "change_str": "+0.92%"
+        "price": 2418.530029296875,
+        "prev_close": 2440.47998046875,
+        "change_pct": -0.9,
+        "direction": "down",
+        "price_fmt": "2,418.5",
+        "change_str": "-0.90%"
       }
     ]
   },
