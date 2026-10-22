@@ -2,375 +2,402 @@
   "news": {
     "singapore": [
       {
-        "id": "3557e5082249bcfb32c18a40b822f93a",
-        "title": "She pioneered breast care nursing in Singapore and, at 74, still cares for breast cancer patients",
-        "summary": "After establishing breast care services at Singapore General Hospital in 1992, Nagalingam Saraswathi trained nurses from other hospitals and started a support group for breast cancer patients. More than three decades later, caring for them remains a huge part of her life.",
+        "id": "2be101c2abe8b526e9419a043b81d1d5",
+        "title": "Apple iPhone Duo hands-on: So what do you get for S$3,099?",
+        "summary": "Apple's first foldable iPhone Duo starts at S$3,099, featuring a 7.6-inch OLED display, the A20 Pro chip and cool multitasking capabilities. But is it worth buying?",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/women/singapore-first-breast-care-nurse-nagalingam-saraswathi-sgh-6445601",
-        "published": "2026-10-20T23:27:08+00:00"
+        "url": "https://www.channelnewsasia.com/living/apple-iphone-duo-review-price-features-worth-buying-6474601",
+        "published": "2026-10-22T00:02:00+00:00"
       },
       {
-        "id": "588d1002cc0e3d529257a8dd78812c07",
-        "title": "Air quality in Singapore sees slight improvement; 1-hour PM2.5 readings elevated in two regions",
-        "summary": "The National Environment Agency said the 24-hour PSI is expected to range from 110 to 180 on Wednesday.",
+        "id": "81cf736b18cd04b3de783c05e607fbd8",
+        "title": "London's cult-favourite Bao founders to open BFF at New Bahru with Taiwanese fried chicken, gravy-filled baos",
+        "summary": "Part fast-food joint, part convenience store, the new New Bahru pop-up by the people behind the popular London restaurant serves playful takes on Taiwanese favourites, alongside quirky merchandise and community events. It runs from Nov 11 to Dec 28.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-21-6476941",
-        "published": "2026-10-20T23:10:00+00:00"
+        "url": "https://www.channelnewsasia.com/dining/london-bao-bff-new-bahru-taiwanese-fried-chicken-6458811",
+        "published": "2026-10-21T23:21:12+00:00"
       },
       {
-        "id": "cb3cb4f5d2c5ad32d1b1f9c9fa001997",
-        "title": "Haze in Singapore: Air quality lies between moderate and unhealthy bands",
-        "summary": "At 7am, the 1-hour PM2.5 readings were elevated in the western and central regions.",
+        "id": "53ac6b348423d616c8f8c7e88b4bd69e",
+        "title": "KKH says abused baby had no injuries during admission months before death; case later closed",
+        "summary": "Trevor Neo Yu Hin was brought to KKH twice in the months before he died at eight months old after enduring prolonged abuse by his parents.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/kkh-trevor-neo-abuse-death-6478016",
+        "published": "2026-10-21T23:20:00+00:00"
+      },
+      {
+        "id": "5a30147b4e4540168282c27895a123fc",
+        "title": "Haze in Singapore: Air quality improves overnight with ‘normal’ PM2.5 readings across the island",
+        "summary": "Hourly PM2.5 readings have been in the \"normal\" range for all five regions since 1am on Oct 22.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-lies-between-moderate-and-unhealthy-bands-overnight",
-        "published": "2026-10-20T22:09:17+00:00"
+        "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-overnight-with-normal-pm2-5-readings-across-the-island",
+        "published": "2026-10-21T22:05:14+00:00"
       },
       {
-        "id": "8704e073a644ea5eb34c3b274bd3594a",
-        "title": "In poly or ITE? Log in to your ST student account to earn vouchers",
-        "summary": "Students in poly and ITE with ST accounts through their schools can activate or log in to their accounts to earn rewards.",
+        "id": "0c67f0c76642af83184cc21bd88eb347",
+        "title": "'Nobody will call you': The long road back after retrenchment for workers in their 50s",
+        "summary": "Older workers are taking longer to bounce back after being retrenched. Three of them tell CNA what it took to get back into the workforce.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/retrenched-workers-50s-older-work-find-jobs-6477801",
+        "published": "2026-10-21T22:00:00+00:00"
+      },
+      {
+        "id": "e5500d4cf1214dfe8f837816c2996aab",
+        "title": "Always tired? To reclaim energy, 6 Singaporeans try these small biohacks that could help you too",
+        "summary": "From late workouts to doomscrolling, everyday habits can take a toll. With guidance from NUS researchers, six participants in the series, Restless: Biohacking Better Health, discover how “micro” adjustments can make a difference.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/cna-insider/insider/restless-busy-tired-singaporeans-biohacks-better-health-reclaim-energy-6478221",
+        "published": "2026-10-21T22:00:00+00:00"
+      },
+      {
+        "id": "3eb0e5f60c5c5a9b4dcf844108a3d5bd",
+        "title": "About 40 cat fosterers approved under new pilot scheme as rescuers weigh benefits, restrictions",
+        "summary": "About 30 applications were rejected over eligibility or assessment issues, or withdrawn by applicants who could no longer foster cats.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/avs-cat-fosterer-new-pilot-scheme-application-benefit-restriction-6477451",
+        "published": "2026-10-21T22:00:00+00:00"
+      },
+      {
+        "id": "df6f452bbd7978bf7abe1e74dbd70138",
+        "title": "Causeway Point to house social and reading hub with SingLit showcase and pre-loved books in 2028",
+        "summary": "The new space is part of the mall’s upgrading, which is scheduled to commence in the second quarter of 2027.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/in-poly-or-ite-log-in-to-your-st-student-account-to-earn-vouchers",
-        "published": "2026-10-20T22:06:00+00:00"
-      },
-      {
-        "id": "ed871fece929ecb77076b0b0a51f2953",
-        "title": "Primary 1 registration changes could cut Phase 2A places at some popular schools by a fifth or more",
-        "summary": "If the new Primary 1 registration framework is applied to 2026 figures, one school would have four places for children in Phase 2A.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/p1-primary-schools-registration-phase-2a-alumni-6475436",
-        "published": "2026-10-20T22:00:00+00:00"
-      },
-      {
-        "id": "a3d1cd4f134e6441bf3d174af9f4ee7c",
-        "title": "Commentary: What we risk when Botox and fillers become routine maintenance",
-        "summary": "Aesthetic injectables are increasingly seen as expressions of self-improvement and female agency. But at what cost? Writer Annie Tan weighs in.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/botox-dermal-filler-injectable-beauty-routine-6474861",
-        "published": "2026-10-20T22:00:00+00:00"
-      },
-      {
-        "id": "9d501fa5bd0574325d2cdc1773119c9e",
-        "title": "Singapore haze: Is your old air purifier still effective, and how much does it cost to run one?",
-        "summary": "How often should you replace the filters, and is one air purifier enough for an entire flat? Experts explain how to get the most out of the devices.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/air-purifier-haze-costs-hepa-filter-6475021",
-        "published": "2026-10-20T22:00:00+00:00"
-      },
-      {
-        "id": "31b4269b00a3416856582adc592b11bf",
-        "title": "TCM physician, musician, rail engineer: Three S’poreans who made a mid-career switch into tech",
-        "summary": "",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/jobs/mid-career-switch-tech-ai-roles-edb",
-        "published": "2026-10-20T20:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/community/causeway-point-to-house-reading-hub-with-singlit-showcase-and-pre-loved-books-in-2028",
+        "published": "2026-10-21T21:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "0cc4f56de1299dd33a17691d5a70ea63",
-        "title": "Brown calls on Husted to condemn ad featuring Acton’s mother",
-        "summary": "Ohio Democratic Senate candidate Sherrod Brown pressed his Republican rival, Sen. Jon Husted (Ohio), to condemn a recent advertisement allegedly from Republican gubernatorial candidate Vivek Ramaswamy. “The ad released by Vivek Ramaswamy is disgusting. Everyone, including Jon Husted, should be willing to condemn this ad,” Brown said in a post on the social platform X…",
+        "id": "e12d9c10020c16f2c9ed29dbb653e3bd",
+        "title": "1 killed, 8 wounded in Saudi Arabia airport attack",
+        "summary": "An attack on an airport in Saudi Arabia by the Iranian-backed Houthis killed one person and injured eight others, officials confirmed Wednesday. Saudi Arabia’s General Authority of Civil Aviation said in a statement that the rebel group targeted the King Fahd International Airport in the eastern city of Dammam on Wednesday evening. Eight people were…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6161562-brown-demands-husted-condemn-ad/",
-        "published": "2026-10-20T23:40:13+00:00"
+        "url": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/",
+        "published": "2026-10-22T00:05:52+00:00"
       },
       {
-        "id": "22a61f746faf8954f5178239ac6276b1",
-        "title": "Cornell responds to Jane Doe’s letter saying she felt ‘unsupported’ by university president",
-        "summary": "A woman known as Jane Doe who accused seven men at Cornell University of sexual assault at a fraternity house sent a letter to the school saying she “felt unsupported and disebelieved” by the Ivy League institution’s president, Michael Kotlikoff. Cornell has responded to the letter, first obtained by The New York Times, and sent…",
+        "id": "5e138ca526bc4a4f4bb644d29b38a370",
+        "title": "Greene says El-Sayed could win Senate seat if Trump attacks Iran again",
+        "summary": "Former Rep. Marjorie Taylor Greene (D-Ga.) lashed out at President Trump’s military operations against Iran on Wednesday, warning a further escalation could cost Republicans in the November elections. “If Trump is dumb enough to attack Iran again before the midterms, @AbdulElSayed will win the senate seat in Michigan,” Greene wrote on the social platform X.…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/",
-        "published": "2026-10-20T23:14:13+00:00"
+        "url": "https://thehill.com/homenews/campaign/6164392-greene-warns-trump-iran-strikes/",
+        "published": "2026-10-22T00:01:41+00:00"
       },
       {
-        "id": "3d288b949d268cae987e7109a65fa530",
-        "title": "Trump administration launches national kidney care plan",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Trump launches national kidney care plan The Trump administration launched the Kidney Care National Plan Tuesday, aiming to improve structural kidney care deficiencies the Health and Human Services (HHS) Department says lead to higher costs and lower quality. © Rich Pedroncelli,…",
+        "id": "59e8b99734af21b1a96ec5803b8eb949",
+        "title": "Trump to hold rally in Mississippi",
+        "summary": "President Trump is scheduled to hold a rally in Mississippi next Monday, a notable choice for a last-minute midterm event given the state’s reliably Republican history. The visit is raising alarm that even redder GOP strongholds are in play weeks out from the election. The Republican National Committee announced Wednesday that Trump is speaking at…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/",
-        "published": "2026-10-20T23:13:12+00:00"
+        "url": "https://thehill.com/homenews/campaign/6164347-trump-mississippi-rally-midterms/",
+        "published": "2026-10-21T23:15:18+00:00"
       },
       {
-        "id": "1a8b80a239e0c54dbbcd8ea0a4d55abf",
-        "title": "Americans likely to associate tech CEOs, even fake ones, with GOP: Poll",
-        "summary": "Americans are more likely to assume the executives heading up the largest technology firms are Republican, marking a drastic shift in perception of what was once known as a liberal Silicon Valley, according to a new poll. In a new poll published by Politico on Monday, American respondents were asked about eight current or former…",
+        "id": "f2aed106a941b5ed62cc115509366ad3",
+        "title": "Pennsylvania warns of congenital measles risk as cases rise",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Pennsylvania warns of congenital measles risk as cases rise Pennsylvania officials warned doctors this week about an increase in congenital measles as the state continues to battle the worst outbreak in the disease it has seen in decades. © Matt…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/technology/6161382-americans-view-tech-ceos-republican/",
-        "published": "2026-10-20T22:13:49+00:00"
+        "url": "https://thehill.com/newsletters/healthcare/6164325-congenital-measles-cases-rise-pennsylvania/",
+        "published": "2026-10-21T23:01:18+00:00"
       },
       {
-        "id": "e09277e6802c704609336962eb1ab1c2",
-        "title": "Spanberger pushes for 6-year rate-hike freeze if Dominion-Next Era merger approved",
-        "summary": "Virginia Gov. Abigail Spanberger (D) is pushing for a six-year pause on electricity rate hikes in the commonwealth as part of a merger between NextEra Energy and Dominion Energy. Spanberger on Monday filed expert testimony with the State Corporation Commission (SCC), urging it to reject the proposed merger if the two companies do not agree…",
+        "id": "d80b76359b847ce53e16ef53d71bed5d",
+        "title": "Live updates: Kansas, Michigan Senate candidates make final pitches as Trump heads to South Carolina",
+        "summary": "Candidates in two gubernatorial races, as well as Kansas’s Senate candidates and Michigan Senate hopefuls, will debate on Wednesday night. President Trump, meanwhile, is campaigning Wednesday evening in Clemson, S.C., with Sen. Darline Graham (R-S.C.). He’s expected to speak at 7 p.m. EDT. Trump on Wednesday morning praised Russia’s release of American teacher Stephen Hubbard…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/state-watch/6161285-spanberger-demands-utility-rate-pause/",
-        "published": "2026-10-20T22:10:55+00:00"
+        "url": "https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/",
+        "published": "2026-10-21T23:00:50+00:00"
       },
       {
-        "id": "7580bf81b5b9c8191cf6911dc8ed8d50",
-        "title": "Ohio governor’s race takes ugly turn with viral video featuring Acton’s mother",
-        "summary": "A new viral video targeting Amy Acton is roiling the increasingly ugly Ohio governor’s race, where the Democrat is running against GOP nominee Vivek Ramaswamy. The clip features Acton’s estranged mother, Donna Arthur, calling the Democrat “a liar” and urging Ohioans to vote against her. It’s unclear who is behind the 60-second spot, which did…",
+        "id": "0fc7b59bd96e3b8f09c27e5a12694840",
+        "title": "Nancy Mace says Vivek Ramaswamy has run the most offensive ad of the cycle",
+        "summary": "Rep. Nancy Mace (R-S.C.) called a controversial political ad run by Ohio gubernatorial candidate Vivek Ramaswamy (R) “shameful,” saying she thinks it will hurt Republicans up and down the ballot in Ohio. “This ad is going to go down as the most shameful, disgusting, offensive ad this election season,” Mace told CNN’s Jake Tapper on…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6161344-ramaswamy-ohio-governor-race-controversy/",
-        "published": "2026-10-20T22:05:29+00:00"
+        "url": "https://thehill.com/homenews/campaign/6164220-nancy-mace-vivek-ramaswamy-political-ad/",
+        "published": "2026-10-21T22:05:48+00:00"
       },
       {
-        "id": "c3fa1ce023df84bfd5fc6b4d29f5522a",
-        "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-        "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
+        "id": "99c3e9525ceb42f1907823f621eb3cc9",
+        "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+        "summary": "A new poll shows record support for Democratic congressional candidates ahead of the midterms, as voters feel the party is better attuned to handling their top issues.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
-        "published": "2026-10-20T20:19:16+00:00"
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
+        "published": "2026-10-21T20:56:07+00:00"
       },
       {
-        "id": "0c7929ad336a7ccd373caa8b39af3e9a",
-        "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
-        "summary": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\"",
+        "id": "e2c38c7a408e4f21625198d46e6e5201",
+        "title": "Meet the people moving north to escape increasingly hot summers",
+        "summary": "As climate change fuels hotter summers, some Britons are moving north in search of cooler weather. Could a similar shift be on the horizon in the United States?",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
-        "published": "2026-10-20T16:27:01+00:00"
+        "url": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing",
+        "published": "2026-10-21T20:00:00+00:00"
       }
     ],
     "asia": [
       {
-        "id": "01f27e06f5a6c65b87cf2c00d2f1d085",
-        "title": "Southeast Asian families tying house move to top schools spur privilege worries",
-        "summary": "Singapore’s recent parliamentary debate over primary school admissions has put a familiar parental strategy in the city state under the spotlight – parents moving house to improve their children’s chances of getting into popular schools. Speaking with This Week in Asia, property agents say some families in Singapore have been approaching them with the intention of buying or renting particular residences at least two years before their children’s primary school admission. Living close to a...",
+        "id": "6837a9a02d58fa992e583a1e96716dae",
+        "title": "Chinese firm unveils ‘guardian’ robot that can disarm attackers, lift cars",
+        "summary": "A knife-wielding intruder is confronted. A car is lifted to free a trapped victim. A pedestrian is pulled from the path of an oncoming vehicle. The scenes described are not from a Hollywood blockbuster, but a promotional clip for a new “guardian” robot created by the Chinese technology firm Unitree Robotics. The footage for the H2-X model, released on Wednesday, underscores a wider shift in strategy by the Hangzhou-based firm, as it focuses on finding practical, real-world uses for its athletic.",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371554/southeast-asian-families-tying-house-move-top-schools-spur-privilege-worries",
-        "published": "2026-10-21T00:00:24+00:00"
+        "url": "https://www.scmp.com/tech/tech-trends/article/3371683/chinese-firm-unveils-guardian-robot-can-disarm-attackers-lift-cars",
+        "published": "2026-10-22T00:00:15+00:00"
       },
       {
-        "id": "0d915edcea8d55de5257b7fa2b75e510",
-        "title": "Why Anthropic has a major China problem ahead of its blockbuster IPO",
-        "summary": "The growing popularity of Chinese artificial intelligence models has emerged as a key risk factor for Anthropic ahead of its blockbuster initial public offering, according to US research firm Hedgeye Risk Management. “It’s all about Chinese competition when analysing Anthropic,” said Felix Wang, managing director and global tech sector head at Hedgeye. “Many of my clients are asking the same question.” The assessment comes as Anthropic faces renewed investor jitters over whether its massive AI..",
+        "id": "59d4ef19754cb9e44d79d47337488bb9",
+        "title": "Takaichi remains popular with Japanese public. Can she maintain her grip on LDP?",
+        "summary": "Japan’s Prime Minister Sanae Takaichi has marked one year in office still riding relatively high in public opinion polls – a heady position that few political analysts anticipated despite geopolitical tensions and persistent inflation. A poll by the conservative-leaning Yomiuri newspaper published on Monday indicated that Takaichi’s cabinet retains the support of 57 per cent of the Japanese public, down two percentage points from the previous survey on September 18 and significantly lower than..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/tech/big-tech/article/3371504/why-anthropic-has-major-china-problem-ahead-its-blockbuster-ipo",
-        "published": "2026-10-21T00:00:15+00:00"
+        "url": "https://www.scmp.com/week-asia/politics/article/3371661/takaichi-remains-popular-japanese-public-can-she-maintain-her-grip-ldp",
+        "published": "2026-10-22T00:00:11+00:00"
       },
       {
-        "id": "c7cf1d0b001bbc6531289cfb473fe296",
-        "title": "Trump administration says it has revoked over 300,000 visas",
-        "summary": "President Donald Trump’s administration has ⁠revoked over 300,000 ⁠US visas during his second ⁠term, the State Department said on Tuesday as the federal government continues its sweeping immigration crackdown. The number showed an acceleration in the pace of visa revocations in recent weeks. In an update ‌issued on August 10, the State Department had put the number of visa revocations since Trump’s current term began in January 2025 at over 175,000. Trump says his immigration crackdown and...",
+        "id": "0d24775af6de1e1b473c640a18644225",
+        "title": "US orders diplomats to leave Saudi Arabia amid Houthi strikes",
+        "summary": "The US State Department has ordered some diplomats and family members to depart ‌from its missions in Saudi Arabia and plans to withdraw family members from a number of other US missions in the region, US officials told Reuters. The order came as attacks in Saudi Arabia killed at least one person and injured eight others at a civilian airport in Dammam and two people were killed in a drone attack on an oilfield. US State Department spokesman Tommy Pigott said in a post on social media ⁠that the.",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371565/trump-administration-says-it-has-revoked-over-300000-visas",
-        "published": "2026-10-20T23:53:20+00:00"
+        "url": "https://www.scmp.com/news/world/middle-east/article/3371698/us-orders-diplomats-leave-saudi-arabia-amid-houthi-strikes",
+        "published": "2026-10-21T23:48:53+00:00"
       },
       {
-        "id": "ee78bd8fbbf311a287959a27c0b52ce5",
-        "title": "Musk says SpaceX and Tesla are exploring blockbuster merger deal",
-        "summary": "Elon Musk said SpaceX and Tesla Inc have formed special committees to explore a potential merger, a preliminary step towards what would rank as the largest corporate tie-up of all time. “I do think there’s a lot of merit to combining the companies,” Musk, the chief executive officer of both companies, said on Tuesday on SpaceX’s earnings webcast. “There’s a lot to be gained from cooperating on developing superintelligence software.” Musk said he is not taking part in the committee discussions...",
+        "id": "feab9a64b2246a44bb195cd9952ee282",
+        "title": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport",
+        "summary": "The statement ‌said material damage ‌was being ​assessed",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/attack-on-king-fahd-international-airport-in-dammam-saudi-arabia/article71609156.ece",
+        "published": "2026-10-21T23:39:35+00:00"
+      },
+      {
+        "id": "b4765e9cbc5fcf0550a16d23618cc7c3",
+        "title": "‘Comrade Raul’: Beijing defends Cuba’s ex-leader over Florida murder warrant",
+        "summary": "China on Wednesday condemned an arrest warrant issued in the US state of Florida for former Cuban president Raul Castro over the 1996 downing of two civilian planes, accusing the United States of using the courts to pressure Havana. Foreign ministry spokeswoman Mao Ning was asked about the warrant by the state-run Global Times at a regular briefing in Beijing. She referred to the 95-year-old as “comrade Raul Castro”, a “venerated” leader held in high international esteem. Mao said China opposed.",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371564/musk-says-spacex-and-tesla-are-exploring-blockbuster-merger-deal",
-        "published": "2026-10-20T23:35:28+00:00"
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3371697/comrade-raul-beijing-defends-cubas-ex-leader-over-florida-murder-warrant",
+        "published": "2026-10-21T23:02:27+00:00"
       },
       {
-        "id": "89e963ef45e7fb4501a8e363f39bcb3a",
-        "title": "Commercial lenders shouldering heavier AI burden than central banks: ICBC president",
-        "summary": "As artificial intelligence reshapes the finance industry, commercial bankers are facing a “more miserable” transition than their central banking counterparts, the head of the world’s largest lender by assets said. Industrial and Commercial Bank of China president Liu Jun said that while central bankers focused on oversight and policy, commercial lenders bore direct financial and legal liability when deploying AI at scale. “If [ICBC] deploys AI tools … towards different business lines, and all...",
+        "id": "acd9c86159163cd49e87f628fe31f727",
+        "title": "Could Hong Kong’s student housing boom lure property giants off the sidelines?",
+        "summary": "Hong Kong’s largest landlords and developers could get their first formal route into the rising student accommodation market after the government announced plans to tender land for a purpose-built student hostel this quarter, according to analysts. Development Secretary Bernadette Linn Hon-ho announced on Thursday the inclusion of a 1,100 square metre (11,840 square foot) site for student accommodation as one of two land tenders in the October to December quarter. The plot – at the junction of..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/business/banking-finance/article/3371521/commercial-lenders-shouldering-heavier-ai-burden-central-banks-icbc-president",
-        "published": "2026-10-20T23:00:08+00:00"
+        "url": "https://www.scmp.com/business/article/3371634/could-hong-kongs-student-housing-boom-lure-property-giants-sidelines",
+        "published": "2026-10-21T23:00:06+00:00"
       },
       {
-        "id": "9de0dd956d0109c5ab324710aafe30d3",
-        "title": "Musk ordered slowdown of Starlink service Ukraine military relies on, report says",
-        "summary": "Elon Musk last week ⁠ordered the slowdown of ⁠a military-grade version of ⁠SpaceX’s Starlink satellite service that Ukraine relies on, The Wall Street Journal reported on Tuesday, citing US officials and people familiar with the matter. Musk, SpaceX and the White House did not immediately respond to requests for comment. Reuters could not immediately verify the report. Ukraine uses Starlink for battlefield communications and drone operations. Restricting the satellite service hampered the...",
+        "id": "b6262490bab0c4a3299ab124ab60c8e6",
+        "title": "Ramaswamy faces firestorm over US political ad featuring Democrat rival’s estranged mother",
+        "summary": "Vivek Ramaswamy, the Republican candidate for Ohio governor, faced a firestorm of criticism Wednesday over an ad featuring Democratic rival Amy Acton’s estranged mother, whose husband was charged with raping Acton when she was a child. Acton has not spoken with her mother, Donna Arthur, since her childhood, when she accused her then-stepfather of sexually abusing her for years. In the ad, Arthur says her daughter has “lied her entire life”. “Don’t let her become your governor. If you think...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371563/musk-ordered-slowdown-starlink-service-ukraine-military-relies-report-says",
-        "published": "2026-10-20T22:49:12+00:00"
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3371696/ramaswamy-faces-firestorm-over-us-political-ad-featuring-democrat-rivals-estranged-mother",
+        "published": "2026-10-21T22:34:51+00:00"
       },
       {
-        "id": "45eb454611ca660bc3823a06f259f493",
-        "title": "High prices create multiple crises",
-        "summary": "Thailand faces growing pressure from soaring global energy prices, with spot liquefied natural gas (LNG) rates nearing US$30 per million British thermal units (mmBtu), raising concerns about the ability of households and businesses to cope with rising living costs.",
-        "source": "Bangkok Post",
+        "id": "84926a87320d8820300beb997b41f63e",
+        "title": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days",
+        "summary": "In a statement carried by state media KCNA, Ms. Kim ​said she was responding to ‌a special adviser to President Lee on defence policy, who accused North Korea of planting mines that wounded South Korean soldiers and told it not ‌to escalate tensions with loudspeaker broadcasts",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3340689/high-prices-create-multiple-crises",
-        "published": "2026-10-20T22:44:00+00:00"
-      },
-      {
-        "id": "c524a1db4f5690d3a4bb67b375f1b78e",
-        "title": "Investors await data centre rules",
-        "summary": "Thailand hopes to finalise a clear regulatory framework for data centre businesses by the first quarter of 2027 as massive investment plans hang in the balance, says Nan Boonthida Somchai, deputy digital economy and society (DES) minister.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3340699/investors-await-data-centre-rules",
-        "published": "2026-10-20T22:42:00+00:00"
+        "url": "https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece",
+        "published": "2026-10-21T22:00:58+00:00"
       }
     ],
     "others": [
       {
-        "id": "9bd027f95a9d43e5dc3c0598cc908c3f",
-        "title": "Moment plane crashes on a busy highway in the US",
-        "summary": "Moment plane crashes on a busy highway in the US",
+        "id": "3f34f0888214a4f714551881ea3e2db4",
+        "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+        "summary": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss",
-        "published": "2026-10-20T23:54:50+00:00"
+        "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+        "published": "2026-10-21T23:20:58+00:00"
       },
       {
-        "id": "ec3aa6629f7278dba32cc98225ca76a4",
-        "title": "Elon Musk says Tesla-SpaceX merger being considered",
-        "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+        "id": "8ba0b9e7875e3ad92f8361a63ccdccd6",
+        "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+        "summary": "The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+        "published": "2026-10-21T23:20:12+00:00"
+      },
+      {
+        "id": "45b8c61c886ab42fa7e9376030d3a55f",
+        "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+        "summary": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+        "published": "2026-10-21T23:13:35+00:00"
+      },
+      {
+        "id": "fece8d14c82626f1d1bc5942bbb8e7a8",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T23:24:47+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-21T21:27:41+00:00"
       },
       {
-        "id": "39bc95a3a6f91a00704546e64a405717",
-        "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
-        "summary": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
-        "source": "Al Jazeera",
+        "id": "f4900b6791eb40d3d77410bbb0731c4c",
+        "title": "Pope does not need further treatment after lung cancer surgery",
+        "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+        "source": "BBC World",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
-        "published": "2026-10-20T23:19:52+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-21T20:09:10+00:00"
       },
       {
-        "id": "a2420f7901d45ce50cfc3c561c5d70b6",
-        "title": "Portugal housing protests continue after police clear camps",
-        "summary": "Demonstrators vow to continue their campaign to call for affordable housing in Portugal after police cleared tent camps and arrested at least 55 people.",
+        "id": "2ce514dd6ad1fa288be948ae3ef0e1ea",
+        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-21T19:58:06+00:00"
+      },
+      {
+        "id": "a4ba948e830d7ef77845ddb409f98b58",
+        "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+        "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-10-20T23:11:00+00:00"
+        "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-10-21T19:32:00+00:00"
       },
       {
-        "id": "5281f55380756b73f7bdf586934976e9",
-        "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
-        "summary": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
-        "published": "2026-10-20T22:51:35+00:00"
-      },
-      {
-        "id": "345bb461bac975f3046346116220067e",
-        "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-        "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+        "id": "f16bb477aedadc9b3337ef1abc6d1ecc",
+        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+        "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T22:22:17+00:00"
-      },
-      {
-        "id": "d5f71e775dec6dd9507dd475bab136f3",
-        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-        "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T21:27:39+00:00"
-      },
-      {
-        "id": "68e587302e7cc42cf59351792286f959",
-        "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-        "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-20T20:00:57+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-21T18:10:42+00:00"
       }
     ],
     "tech": [
       {
-        "id": "a2f33bc5071e4687b72dc77451175308",
-        "title": "YouTube might be testing hiding the dislike button",
-        "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-        "published": "2026-10-21T00:00:56+00:00"
-      },
-      {
-        "id": "9f9b45dd6a28120c11b9718c75c13ae5",
-        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-        "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-        "published": "2026-10-20T23:04:19+00:00"
-      },
-      {
-        "id": "de426f577d5e2ad6dc52b4f02d8b4c48",
-        "title": "The Other Epidemic: Trying to get off benzodiazepines",
-        "summary": "Article URL: https://www.thebeliever.net/the-other-epidemic/ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 25 # Comments: 7",
+        "id": "dd2f641d2cc5d213cfaa074ac2d5609e",
+        "title": "mitmproxy adds --emudhra option",
+        "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 10 # Comments: 1",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.thebeliever.net/the-other-epidemic/",
-        "published": "2026-10-20T23:04:09+00:00"
+        "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+        "published": "2026-10-21T23:51:37+00:00"
       },
       {
-        "id": "dfee48ce05d73dab5837be27bcb534a0",
-        "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-        "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 53 # Comments: 13",
+        "id": "f24f77dfced45fbe3d6fe7d537c5a45c",
+        "title": "YouTube says it isn’t testing hiding the dislike button",
+        "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+        "published": "2026-10-21T23:46:45+00:00"
+      },
+      {
+        "id": "b5c52392305d216a4e77d1c7bc9f1dc3",
+        "title": "Airbnb bans making guests do dishes and take out the trash",
+        "summary": "Article URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update Comments URL: https://news.ycombinator.com/item?id=50189150 Points: 16 # Comments: 3",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-        "published": "2026-10-20T22:21:05+00:00"
+        "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+        "published": "2026-10-21T23:38:32+00:00"
       },
       {
-        "id": "5b591a72fccfa8e940e12dc09d9ecd3e",
-        "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-        "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members […]",
+        "id": "95f8853fd17e2d19ffbf9edd4e0cbe91",
+        "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+        "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
-        "published": "2026-10-20T22:20:11+00:00"
+        "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+        "published": "2026-10-21T23:36:31+00:00"
       },
       {
-        "id": "7df6e39838c06106486922bf3423749a",
-        "title": "Google’s more personalized Gemini AI is heading to your car",
-        "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+        "id": "a549dec68fc2c99ad8e04376bea2936d",
+        "title": "Κ = 0.003 for integer multiplication crossed",
+        "summary": "Article URL: https://github.com/CrocSwap/integer-mult-bounds/pull/4441 Comments URL: https://news.ycombinator.com/item?id=50189023 Points: 4 # Comments: 1",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+        "published": "2026-10-21T23:22:21+00:00"
+      },
+      {
+        "id": "558674b4cb04fcbbb5dfdd2c22082d64",
+        "title": "There isn't an easy exploit for this PHP vulnerability",
+        "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 31 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://eliastaylor.com/noexploit/",
+        "published": "2026-10-21T23:13:27+00:00"
+      },
+      {
+        "id": "0de4c27e21bdd971d8b0453eed9b92fd",
+        "title": "Data centers could erase decades of air quality gains",
+        "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-        "published": "2026-10-20T22:11:34+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+        "published": "2026-10-21T22:33:44+00:00"
       },
       {
-        "id": "3dba7d6b420d224e5567229d82b01333",
-        "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-        "summary": "\"I do think there's a lot of merit to combining the companies.\"",
-        "source": "Ars Technica",
+        "id": "ca20ccca77dc2ed9c7dc5476837500db",
+        "title": "Qpack amplification attacks against HTTP/3 servers",
+        "summary": "Article URL: https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers Comments URL: https://news.ycombinator.com/item?id=50188612 Points: 9 # Comments: 1",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-        "published": "2026-10-20T22:04:54+00:00"
-      },
-      {
-        "id": "443d3c184315112ec66317109de8e66c",
-        "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-        "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
-        "published": "2026-10-20T21:44:34+00:00"
+        "url": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+        "published": "2026-10-21T22:32:45+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "9c610977c1fb27119992b816b8feab90",
+        "title": "Either AI or public debt could crash markets. But probably not both",
+        "summary": "If AI stocks collapse, bond yields will fall",
+        "source": "Leaders",
+        "category": "economist",
+        "url": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
+        "published": "2026-10-21T19:15:40+00:00"
+      },
+      {
+        "id": "68d8dc6135a6b5d3f6e309d64c5a4d0e",
+        "title": "Is Netflix losing the plot?",
+        "summary": "The rise of YouTube has shifted the ground under the streamerâ€™s feetÂ",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
+        "published": "2026-10-21T18:37:28+00:00"
+      },
+      {
+        "id": "e8881b1767bc676c934562d1dfed2685",
+        "title": "How the 2010s remade business",
+        "summary": "The revolutionary decade deserves a revisionist eye",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
+        "published": "2026-10-21T18:08:46+00:00"
+      },
       {
         "id": "b88a44ec0f077452cf77a977166ccb22",
         "title": "AI-powered personal assistants could reshape the digital economy",
@@ -381,12 +408,12 @@
         "published": "2026-10-20T19:55:23+00:00"
       },
       {
-        "id": "f71f9b7933f58df146632b37d3117a2d",
-        "title": "Donald Trump, human wrecking-ball",
-        "summary": "The world mostly loathes Trumpian foreign policy. It may not change that much",
+        "id": "3fd99eee2a3a5fdadb2cbc196db04cd1",
+        "title": "MAGA foreign policy is a mess. Democrats disagree on what comes next",
+        "summary": "Donald Trump’s yen for demolition has broken the “pendulum theory”",
         "source": "International",
         "category": "economist",
-        "url": "https://www.economist.com/international/2026/10/20/donald-trump-human-wrecking-ball",
+        "url": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next",
         "published": "2026-10-20T19:46:46+00:00"
       },
       {
@@ -415,33 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/asia/2026/10/20/asia-bulletin-newsletter-russias-japanese-hostage",
         "published": "2026-10-20T11:21:23+00:00"
-      },
-      {
-        "id": "9a6079ab0b81a1df2eb727596404680f",
-        "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
-        "summary": "Japan wants its pension fund and households to buy more government debt",
-        "source": "Finance",
-        "category": "economist",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
-        "published": "2026-10-19T18:11:37+00:00"
-      },
-      {
-        "id": "0f562a030550c93e5e901187231a1beb",
-        "title": "Bartleby newsletter: Boomers, babies and bots",
-        "summary": "Andrew Palmer, our Bartleby columnist, rounds up three research papers that caught his eye",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/10/19/bartleby-newsletter-boomers-babies-and-bots",
-        "published": "2026-10-19T14:26:12+00:00"
-      },
-      {
-        "id": "84b0c277acd40dc3c3f2fdd6b697d460",
-        "title": "The AI industry’s gigantic debts are making investors nervous",
-        "summary": "Who will be left to pick up the bill in the event of a crash?",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
-        "published": "2026-10-18T20:19:28+00:00"
       }
     ]
   },
@@ -451,99 +451,99 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5412.0,
-        "prev_close": 5415.52978515625,
-        "change_pct": -0.07,
+        "price": 5404.02001953125,
+        "prev_close": 5412.0,
+        "change_pct": -0.15,
         "direction": "down",
-        "price_fmt": "5,412.0",
-        "change_str": "-0.07%"
+        "price_fmt": "5,404.0",
+        "change_str": "-0.15%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7712.56982421875,
-        "prev_close": 7690.72998046875,
-        "change_pct": 0.28,
+        "price": 7757.169921875,
+        "prev_close": 7712.56982421875,
+        "change_pct": 0.58,
         "direction": "up",
-        "price_fmt": "7,712.6",
-        "change_str": "+0.28%"
+        "price_fmt": "7,757.2",
+        "change_str": "+0.58%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 24186.830078125,
-        "prev_close": 24062.720703125,
-        "change_pct": 0.52,
-        "direction": "up",
-        "price_fmt": "24,187",
-        "change_str": "+0.52%"
+        "price": 23867.740234375,
+        "prev_close": 24186.830078125,
+        "change_pct": -1.32,
+        "direction": "down",
+        "price_fmt": "23,868",
+        "change_str": "-1.32%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 64916.69921875,
-        "prev_close": 65324.2890625,
-        "change_pct": -0.62,
-        "direction": "down",
-        "price_fmt": "64,917",
-        "change_str": "-0.62%"
+        "price": 64727.73828125,
+        "prev_close": 64075.421875,
+        "change_pct": 1.02,
+        "direction": "up",
+        "price_fmt": "64,728",
+        "change_str": "+1.02%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10764.7001953125,
-        "prev_close": 10881.900390625,
-        "change_pct": -1.08,
+        "price": 10733.0,
+        "prev_close": 10764.7001953125,
+        "change_pct": -0.29,
         "direction": "down",
-        "price_fmt": "10,765",
-        "change_str": "-1.08%"
+        "price_fmt": "10,733",
+        "change_str": "-0.29%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8826.099609375,
-        "prev_close": 8845.7001953125,
-        "change_pct": -0.22,
+        "price": 8791.7001953125,
+        "prev_close": 8816.900390625,
+        "change_pct": -0.29,
         "direction": "down",
-        "price_fmt": "8,826.1",
-        "change_str": "-0.22%"
+        "price_fmt": "8,791.7",
+        "change_str": "-0.29%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2779699563980103,
-        "prev_close": 1.2797399759292603,
-        "change_pct": -0.14,
+        "price": 1.2770899534225464,
+        "prev_close": 1.2779200077056885,
+        "change_pct": -0.06,
         "direction": "down",
         "price_fmt": "1.28",
-        "change_str": "-0.14%"
+        "change_str": "-0.06%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4345799684524536,
-        "prev_close": 1.4350800514221191,
-        "change_pct": -0.03,
-        "direction": "down",
+        "price": 1.4346799850463867,
+        "prev_close": 1.4344199895858765,
+        "change_pct": 0.02,
+        "direction": "up",
         "price_fmt": "1.43",
-        "change_str": "-0.03%"
+        "change_str": "+0.02%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7088299989700317,
-        "prev_close": 1.7026400566101074,
-        "change_pct": 0.36,
+        "price": 1.7107599973678589,
+        "prev_close": 1.7083300352096558,
+        "change_pct": 0.14,
         "direction": "up",
         "price_fmt": "1.71",
-        "change_str": "+0.36%"
+        "change_str": "+0.14%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 109.4800033569336,
-        "prev_close": 109.55000305175781,
-        "change_pct": -0.06,
-        "direction": "down",
-        "price_fmt": "109.48",
-        "change_str": "-0.06%"
+        "price": 109.8499984741211,
+        "prev_close": 108.79000091552734,
+        "change_pct": 0.97,
+        "direction": "up",
+        "price_fmt": "109.85",
+        "change_str": "+0.97%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4131.89990234375,
-        "prev_close": 4160.10009765625,
-        "change_pct": -0.68,
+        "price": 4141.39990234375,
+        "prev_close": 4142.60009765625,
+        "change_pct": -0.03,
         "direction": "down",
-        "price_fmt": "4,131.9",
-        "change_str": "-0.68%"
+        "price_fmt": "4,141.4",
+        "change_str": "-0.03%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 57.939998626708984,
-        "prev_close": 56.9739990234375,
-        "change_pct": 1.7,
-        "direction": "up",
-        "price_fmt": "57.94",
-        "change_str": "+1.70%"
+        "price": 57.66999816894531,
+        "prev_close": 57.70600128173828,
+        "change_pct": -0.06,
+        "direction": "down",
+        "price_fmt": "57.67",
+        "change_str": "-0.06%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 2.990000009536743,
-        "prev_close": 3.058000087738037,
-        "change_pct": -2.22,
+        "price": 2.7829999923706055,
+        "prev_close": 2.9630000591278076,
+        "change_pct": -6.07,
         "direction": "down",
-        "price_fmt": "2.99",
-        "change_str": "-2.22%"
+        "price_fmt": "2.78",
+        "change_str": "-6.07%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 82954.4765625,
-        "prev_close": 81853.5390625,
-        "change_pct": 1.35,
+        "price": 84140.0,
+        "prev_close": 82941.0,
+        "change_pct": 1.45,
         "direction": "up",
-        "price_fmt": "82,954",
-        "change_str": "+1.35%"
+        "price_fmt": "84,140",
+        "change_str": "+1.45%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2447.139892578125,
-        "prev_close": 2404.815185546875,
-        "change_pct": 1.76,
+        "price": 2475.2900390625,
+        "prev_close": 2446.730712890625,
+        "change_pct": 1.17,
         "direction": "up",
-        "price_fmt": "2,447.1",
-        "change_str": "+1.76%"
+        "price_fmt": "2,475.3",
+        "change_str": "+1.17%"
       }
     ]
   },
