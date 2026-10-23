@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Briefing · Friday, 23 October 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0d0d0d;
+      --surface:   #161616;
+      --surface2:  #1e1e1e;
+      --border:    rgba(255,255,255,0.07);
+      --border2:   rgba(255,255,255,0.13);
+      --text:      #f0ede7;
+      --muted:     #b0ada5;
+      --faint:     #7a7870;
+      --accent:    #c8a96e;
+      --accent2:   #4a8fa8;
+      --up:        #5aaa78;
+      --down:      #c26060;
+      --flat:      #7a7870;
+      --ff-serif:  'Playfair Display', Georgia, serif;
+      --ff-sans:   'DM Sans', system-ui, sans-serif;
+      --ff-mono:   'DM Mono', monospace;
+      --r:         6px;
+    }
+
+    html { background: var(--bg); color: var(--text); font-family: var(--ff-sans); font-size: 15px; line-height: 1.6; }
+    body { min-height: 100vh; }
+
+    /* ─── Layout ─────────────────────────────── */
+    .page { max-width: 1200px; margin: 0 auto; padding: 0 2rem 4rem; }
+
+    /* ─── Masthead ────────────────────────────── */
+    .masthead {
+      border-bottom: 1px solid var(--border2);
+      padding: 2.5rem 0 1.5rem;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+    .masthead-title {
+      font-family: var(--ff-serif);
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      color: var(--text);
+      line-height: 1.1;
+    }
+    .masthead-title em { color: var(--accent); font-style: italic; }
+    .masthead-meta {
+      text-align: right;
+      font-size: 0.75rem;
+      color: var(--muted);
+      font-family: var(--ff-mono);
+      letter-spacing: 0.05em;
+      line-height: 1.7;
+    }
+    .masthead-meta .live-dot {
+      display: inline-block;
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--up);
+      margin-right: 5px;
+      vertical-align: middle;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+
+    /* ─── Section headings ────────────────────── */
+    .section-head {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin: 2.5rem 0 1rem;
+    }
+    .section-head h2 {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.14em;
+      color: var(--muted);
+      text-transform: uppercase;
+      font-weight: 400;
+    }
+    .section-head::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ─── Markets ─────────────────────────────── */
+    .markets-tabs { display: flex; gap: 0; margin-bottom: 1rem; border-bottom: 1px solid var(--border); }
+    .tab-btn {
+      background: none; border: none; color: var(--muted); cursor: pointer;
+      font-family: var(--ff-mono); font-size: 0.7rem; letter-spacing: 0.08em;
+      text-transform: uppercase; padding: 0.5rem 1rem; border-bottom: 2px solid transparent;
+      transition: color .15s, border-color .15s; margin-bottom: -1px;
+    }
+    .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab-btn:hover:not(.active) { color: var(--text); }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+
+    .market-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 0.85rem 1rem;
+      transition: border-color .15s;
+    }
+    .market-card:hover { border-color: var(--border2); }
+    .market-label { font-size: 0.68rem; color: var(--muted); font-family: var(--ff-mono); letter-spacing: 0.05em; margin-bottom: 0.35rem; }
+    .market-price { font-size: 1.15rem; font-weight: 500; color: var(--text); font-variant-numeric: tabular-nums; }
+    .market-change { font-size: 0.72rem; font-family: var(--ff-mono); margin-top: 0.25rem; }
+    .market-change.up   { color: var(--up); }
+    .market-change.down { color: var(--down); }
+    .market-change.flat { color: var(--flat); }
+
+    /* ─── AI Briefing ─────────────────────────── */
+    .briefing {
+      border: 1px solid var(--border2);
+      border-left: 3px solid var(--accent);
+      background: var(--surface);
+      border-radius: 0 var(--r) var(--r) 0;
+      padding: 1.4rem 1.6rem;
+      margin: 2rem 0;
+    }
+    .briefing-label {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.12em;
+      color: var(--accent);
+      text-transform: uppercase;
+      margin-bottom: 0.75rem;
+    }
+    .briefing-text {
+      font-family: var(--ff-serif);
+      font-size: 1.05rem;
+      line-height: 1.75;
+      color: var(--text);
+    }
+
+    /* ─── News tabs ───────────────────────────── */
+    .news-tabs-bar {
+      display: flex;
+      gap: 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .news-tab-btn {
+      background: none; border: none; color: var(--muted); cursor: pointer;
+      font-family: var(--ff-mono); font-size: 0.7rem; letter-spacing: 0.08em;
+      text-transform: uppercase; padding: 0.6rem 1.1rem; border-bottom: 2px solid transparent;
+      transition: color .15s, border-color .15s; margin-bottom: -1px;
+      display: flex; align-items: center; gap: 0.45rem;
+    }
+    .news-tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .news-tab-btn:hover:not(.active) { color: var(--text); }
+    .tab-count {
+      font-size: 0.6rem;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-radius: 9px;
+      padding: 1px 5px;
+      letter-spacing: 0;
+      color: var(--faint);
+    }
+    .news-tab-btn.active .tab-count { color: var(--accent); border-color: rgba(200,169,110,0.3); }
+
+    .news-tab-panel { display: none; padding-top: 1rem; }
+    .news-tab-panel.active { display: block; }
+
+    .col-digest {
+      font-size: 0.82rem;
+      color: var(--muted);
+      line-height: 1.65;
+      padding: 0.75rem 0.85rem;
+      border-left: 2px solid var(--border2);
+      margin-bottom: 0.75rem;
+      font-style: italic;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    @media (max-width: 720px) { .news-grid { grid-template-columns: 1fr; } }
+
+    /* ─── Story cards ─────────────────────────── */
+    .story {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 0.85rem 1rem;
+      text-decoration: none;
+      display: block;
+      transition: background .15s, border-color .15s, transform .1s;
+    }
+    .story:hover {
+      background: var(--surface2);
+      border-color: var(--border2);
+      transform: translateX(2px);
+    }
+    .story-source {
+      font-size: 0.65rem;
+      font-family: var(--ff-mono);
+      letter-spacing: 0.07em;
+      color: var(--faint);
+      text-transform: uppercase;
+      margin-bottom: 0.35rem;
+    }
+    .story-title {
+      font-size: 0.9rem;
+      font-weight: 400;
+      color: var(--text);
+      line-height: 1.45;
+    }
+    .story-summary {
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.55;
+      margin-top: 0.35rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* ─── Economist cards ─────────────────────── */
+    .econ-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 1rem 1.1rem;
+      text-decoration: none;
+      display: block;
+      transition: background .15s, border-color .15s;
+    }
+    .econ-card:hover { background: var(--surface2); border-color: var(--border2); }
+    .econ-cat {
+      font-size: 0.62rem; font-family: var(--ff-mono); letter-spacing: 0.1em;
+      color: var(--accent2); text-transform: uppercase; margin-bottom: 0.4rem;
+    }
+    .econ-title {
+      font-family: var(--ff-serif);
+      font-size: 0.9rem;
+      line-height: 1.4;
+      color: var(--text);
+      margin-bottom: 0.35rem;
+    }
+    .econ-summary { font-size: 0.8rem; color: var(--muted); line-height: 1.55; }
+
+    /* ─── Bypass toggle ─────────────────────── */
+    .bypass-btn {
+      background: none;
+      border: 1px solid var(--border2);
+      border-radius: var(--r);
+      color: var(--faint);
+      cursor: pointer;
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.1em;
+      padding: 0.3rem 0.65rem;
+      text-transform: uppercase;
+      transition: color .15s, border-color .15s, background .15s;
+      margin-top: 0.6rem;
+      display: inline-block;
+    }
+    .bypass-btn:hover { color: var(--muted); border-color: var(--border2); }
+    .bypass-btn.active {
+      color: var(--accent);
+      border-color: rgba(200,169,110,0.45);
+      background: rgba(200,169,110,0.07);
+    }
+
+    /* ─── Source warning ─────────────────────── */
+    .source-warning {
+      font-size: 0.72rem;
+      font-family: var(--ff-mono);
+      color: var(--down);
+      background: rgba(194, 96, 96, 0.08);
+      border: 1px solid rgba(194, 96, 96, 0.25);
+      border-radius: var(--r);
+      padding: 0.5rem 0.85rem;
+      margin-bottom: 1rem;
+    }
+
+    /* ─── Footer ──────────────────────────────── */
+    .footer {
+      border-top: 1px solid var(--border);
+      margin-top: 3rem;
+      padding-top: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.7rem;
+      color: var(--faint);
+      font-family: var(--ff-mono);
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ── Masthead ── -->
+  <header class="masthead">
+    <h1 class="masthead-title">Morning<br><em>Briefing</em></h1>
+    <div class="masthead-meta">
+      <span class="live-dot"></span>DAILY BRIEF<br>
+      Friday, 23 October 2026<br>
+      08:14 SGT<br>
+      Singapore &amp; Global<br>
+      <button id="bypass-btn" class="bypass-btn" onclick="toggleBypass()">⬡ bypass off</button>
+    </div>
+  </header>
+
+  <!-- ── Source failures ── -->
+  
+  <div class="source-warning">Sources unavailable today: AP News · Reuters · Today Online</div>
+  
+
+  <!-- ── AI Briefing ── -->
+  
+
+  <!-- ── Markets ── -->
+  <div class="section-head"><h2>Financial markets</h2></div>
+
+  <div class="markets-tabs">
+    <button class="tab-btn active" onclick="switchTab('indices', this)">Indices</button>
+    <button class="tab-btn" onclick="switchTab('fx', this)">FX · SGD</button>
+    <button class="tab-btn" onclick="switchTab('commodities', this)">Commodities</button>
+    <button class="tab-btn" onclick="switchTab('crypto', this)">Crypto</button>
+  </div>
+
+  
+  <div id="tab-indices" class="tab-panel active">
+    
+    <div class="market-card">
+      <div class="market-label">STI</div>
+      <div class="market-price">5,438.0</div>
+      <div class="market-change up">
+        ▲
+        +0.63%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">S&amp;P 500</div>
+      <div class="market-price">7,663.4</div>
+      <div class="market-change down">
+        ▼
+        -1.21%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Hang Seng</div>
+      <div class="market-price">23,652</div>
+      <div class="market-change down">
+        ▼
+        -0.90%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Nikkei 225</div>
+      <div class="market-price">64,621</div>
+      <div class="market-change up">
+        ▲
+        +0.85%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">FTSE 100</div>
+      <div class="market-price">10,753</div>
+      <div class="market-change up">
+        ▲
+        +0.19%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">ASX 200</div>
+      <div class="market-price">8,759.9</div>
+      <div class="market-change down">
+        ▼
+        -0.81%
+      </div>
+    </div>
+    
+  </div>
+  
+  <div id="tab-fx" class="tab-panel ">
+    
+    <div class="market-card">
+      <div class="market-label">USD/SGD</div>
+      <div class="market-price">1.28</div>
+      <div class="market-change down">
+        ▼
+        -0.05%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">EUR/SGD</div>
+      <div class="market-price">1.43</div>
+      <div class="market-change down">
+        ▼
+        -0.14%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">GBP/SGD</div>
+      <div class="market-price">1.71</div>
+      <div class="market-change up">
+        ▲
+        +0.05%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">JPY/SGD</div>
+      <div class="market-price">0.01</div>
+      <div class="market-change up">
+        ▲
+        +0.25%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">CNY/SGD</div>
+      <div class="market-price">0.19</div>
+      <div class="market-change down">
+        ▼
+        -0.10%
+      </div>
+    </div>
+    
+  </div>
+  
+  <div id="tab-commodities" class="tab-panel ">
+    
+    <div class="market-card">
+      <div class="market-label">Brent Crude</div>
+      <div class="market-price">113.11</div>
+      <div class="market-change up">
+        ▲
+        +3.94%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Gold</div>
+      <div class="market-price">4,037.3</div>
+      <div class="market-change down">
+        ▼
+        -2.72%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Silver</div>
+      <div class="market-price">54.47</div>
+      <div class="market-change down">
+        ▼
+        -5.13%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Nat. Gas</div>
+      <div class="market-price">2.78</div>
+      <div class="market-change down">
+        ▼
+        -0.43%
+      </div>
+    </div>
+    
+  </div>
+  
+  <div id="tab-crypto" class="tab-panel ">
+    
+    <div class="market-card">
+      <div class="market-label">Bitcoin</div>
+      <div class="market-price">81,073</div>
+      <div class="market-change down">
+        ▼
+        -3.50%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Ethereum</div>
+      <div class="market-price">2,382.8</div>
+      <div class="market-change down">
+        ▼
+        -3.56%
+      </div>
+    </div>
+    
+  </div>
+  
+
+  <!-- ── News ── -->
+  <div class="section-head"><h2>News</h2></div>
+
+  <div class="news-tabs-bar">
+    <button class="news-tab-btn active" onclick="switchNewsTab('singapore', this)">
+      Singapore <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('us', this)">
+      US <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('asia', this)">
+      Asia <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('others', this)">
+      Others <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('tech', this)">
+      Technology <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('economist', this)">
+      Economist <span class="tab-count">8</span>
+    </button>
+  </div>
+
+  <div id="news-tab-singapore" class="news-tab-panel active">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://www.channelnewsasia.com/style-beauty/yang-yan-onitsuka-tiger-6465331" target="_blank" rel="noopener">
+        <div class="story-source">Channel NewsAsia</div>
+        <div class="story-title">Meet Yang Yan: The rising Singaporean star putting his best foot forward</div>
+        <div class="story-summary">From a Star Awards nomination to competing on an international idol survival show, singer-actor Yang Yan is steadily making a name for himself. Now, he&#39;s stepping into the fashion spotlight with Onitsuka Tiger&#39;s new Tai-Chi OG. In partnership with Onitsuka Tiger.</div>
+      </a>
+      
+      <a class="story" href="https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-23-6484486" target="_blank" rel="noopener">
+        <div class="story-source">Channel NewsAsia</div>
+        <div class="story-title">24-hour PSI readings remain at good to moderate level across Singapore</div>
+        <div class="story-summary">The National Environment Agency has said it expects the 24-hour PSI to be in the unhealthy range on Friday.</div>
+      </a>
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/haze-eases-in-singapore-as-residents-wake-up-to-improved-air-quality" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">Haze eases in Singapore as residents wake up to improved air quality</div>
+        <div class="story-summary">All the regions have had air quality in the good to moderate range.</div>
+      </a>
+      
+      <a class="story" href="https://www.channelnewsasia.com/singapore/pap-cec-election-central-executive-committee-6478606" target="_blank" rel="noopener">
+        <div class="story-source">Channel NewsAsia</div>
+        <div class="story-title">PAP leadership vote: Younger ministers may step up into CEC as some senior figures make way</div>
+        <div class="story-summary">Political observers expect gradual renewal rather than an overhaul when PAP cadres elect their central executive committee on Sunday, with a mix of experience and fresh faces.</div>
+      </a>
+      
+      <a class="story" href="https://www.channelnewsasia.com/singapore/france-protests-singaporeans-travel-paris-rioting-6481226" target="_blank" rel="noopener">
+        <div class="story-source">Channel NewsAsia</div>
+        <div class="story-title">&#39;We don&#39;t really want to cancel&#39;: Singaporeans weigh France travel plans amid violent protests</div>
+        <div class="story-summary">Singaporeans in Paris last weekend recounted scenes of damaged storefronts, tear gas and transport disruptions, even as daily life carried on largely as normal away from protest areas.</div>
+      </a>
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/health/need-help-getting-out-of-a-chair-it-could-be-an-early-sign-of-frailty" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">Need help getting out of a chair? It could be an early sign of frailty</div>
+        <div class="story-summary">Panellists at an In Perspective roundtable discussion said frailty can be reversed, particularly if detected early.</div>
+      </a>
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/health/simple-diet-and-exercise-changes-can-help-seniors-stay-strong-as-they-age" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">Simple diet and exercise changes can help seniors stay strong as they age</div>
+        <div class="story-summary">Experts share practical tips on diet and exercise to stay active and independent.</div>
+      </a>
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/environment/a-look-back-at-the-strongest-fire-and-haze-episodes-faced-by-se-asia" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">A look back at South-east Asia’s strongest fire and haze episodes</div>
+        <div class="story-summary">ST traces the scorch marks of the fires compounded by strong El Nino events in recent history.</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-us" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Canadian diplomats barred interacting with US midterm candidates: Reports</div>
+        <div class="story-summary">Canada has allegedly barred its diplomats from interacting with U.S. midterm candidates to avoid any allegations of election interference from the Trump administration, according to multiple reports. Written guidance issued earlier this week reportedly ordered Canadian officials based in the U.S. not to meet with candidates — or even be in the same room with…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Supreme Court rules NH can block voters from using student IDs</div>
+        <div class="story-summary">The Supreme Court on Thursday ruled New Hampshire’s top election official can fully stop voters from using their student IDs when showing up to the polls in the midterms — a request backed by the Republican National Committee (RNC). A lower judge ruled officials had improperly gone further than a new state law placing restrictions on…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/homenews/administration/6166995-trump-calls-for-honest-staff/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Trump on Lewandowski probe reports: ‘I want my people to be honest’</div>
+        <div class="story-summary">President Trump said Thursday that he has “no idea” why the Justice Department is investigating Corey Lewandowski for misconduct, but that anyone working for him has to be honest. Those that are not honest, Trump went on to say, will face the DOJ. “I want my people to be honest, and if they’re not going…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/newsletters/defense-national-security/6166946-senators-urge-hegseth-rubio-to-release-funding-for-baltic-security-initiative/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Senators urge Hegseth, Rubio to release funding for Baltic Security Initiative</div>
+        <div class="story-summary">Welcome to The Hill’s Defense &amp; NatSec newsletter {beacon} Defense &amp;National Security Defense &amp;National Security The Big Story Senators urge Hegseth, Rubio to release funding for Baltic Security Initiative A bipartisan group of senators are urging Defense Secretary Pete Hegseth and Secretary of State Marco Rubio to release the remaining congressional-approved funds for the…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/homenews/campaign/6166869-georgia-governor-race-turnout/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Jackson says he’s ‘concerned’ about Georgia rural voter turnout</div>
+        <div class="story-summary">Georgia gubernatorial candidate Rick Jackson (R) is sharing his concerns about rural turnout in his election, as early voting is underway across the Peach State. “I am concerned that rural Georgia still thinks we’re red and therefore they look at somebody like myself and my opponent and just say, ‘Well, there’s no comparison,’” Jackson said…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/policy/technology/6166816-gerber-slams-musk-starlink-ukraine/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">SpaceX investor: Starlink is ‘not reliable for national security for anybody but Trump’</div>
+        <div class="story-summary">SpaceX investor Ross Gerber, CEO of Gerber Kawasaki, said he is “disgusted” by the recent events surrounding the slowdown of Starlink services in Ukraine, which impacted the country’s military capabilities. “As a SpaceX shareholder I am disgusted,” Gerber said Wednesday during an appearance on CNN. “I think that these decisions were strategically horrendous and from…</div>
+      </a>
+      
+      <a class="story" href="https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead" target="_blank" rel="noopener">
+        <div class="story-source">NPR</div>
+        <div class="story-title">Actor Tom Skerritt, who played dads, cops and commanding officers, has died</div>
+        <div class="story-summary">Skerritt was Captain Dallas in Alien, Viper in Top Gun, and a small town sheriff in the TV series Picket Fences.</div>
+      </a>
+      
+      <a class="story" href="https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations" target="_blank" rel="noopener">
+        <div class="story-source">NPR</div>
+        <div class="story-title">Federal judge restricts DHS field operations looking for noncitizen voters</div>
+        <div class="story-summary">The judge found the department&#39;s field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-asia" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://www.scmp.com/week-asia/economics/article/3371827/vietnam-partners-denmark-propel-its-wind-energy-ambition" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">Vietnam partners with Denmark to propel its wind energy ambition</div>
+        <div class="story-summary">A wind energy partnership between Vietnam and Denmark has fuelled expectations of the Southeast Asian country boosting its competitiveness in renewable electricity to serve overseas and domestic markets. Vietnam is well placed to grow its renewable electricity sector by tapping its large pool of engineering talent and abundant wind resources with help from Denmark, a global leader in wind energy, according to analysts. On Tuesday, the two countries signed a comprehensive strategic partnership...</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/news/world/united-states-canada/article/3371838/video-shows-fatal-shooting-1-year-old-kohen-wiley-us-police-officer" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">Video shows fatal shooting of 1-year-old Kohen Wiley by US police officer</div>
+        <div class="story-summary">Mississippi released video on Thursday showing the fatal shooting of a one-year-old boy by a police officer whom state authorities have cleared of criminal wrongdoing. Kohen Wiley was killed in June when Senatobia police officer Sergeant Hunter Foster fired his gun into a moving vehicle while responding to a shoplifting call. Kohen’s family says footage of the fatal encounter shows the shooting was not justified. The Mississippi Attorney General’s office said this week its month-long probe found</div>
+      </a>
+      
+      <a class="story" href="https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece" target="_blank" rel="noopener">
+        <div class="story-source">The Hindu</div>
+        <div class="story-title">Tibet earthquake LIVE | At least sixteen dead, 32 injured after 7.0 quake strikes Tibet: China&#39;s state media</div>
+        <div class="story-summary">Search and rescue efforts continued following the collapse of at least 339 homes, the Nagqu media office said, citing city government officials. Among the injured, 11 people were in serious condition, and the other 21 sustained minor injuries, the media office said</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/news/asia/east-asia/article/3371816/inflation-squeezed-japanese-flock-claw-machines-dangling-everyday-items" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">Inflation-squeezed Japanese flock to claw machines dangling everyday items</div>
+        <div class="story-summary">With one eye on her baby in a stroller, Minae Kamata operates an arcade machine in a Tokyo suburb, manipulating a claw to grab not a stuffed toy but a pack of toilet paper. As inflation weighs on Japanese households, huge arcades on the outskirts of major cities are installing claw machines filled with eggs, rice, laundry detergent and other necessities. The “shop-and-play destinations” merge essential buying with entertainment so that families do not feel a choice between bringing home the...</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/news/china/diplomacy/article/3371837/asia-society-announces-new-permanent-home-historic-washington-building" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">Asia Society announces new permanent home in historic Washington building</div>
+        <div class="story-summary">The Asia Society announced on Thursday that it had marked out territory on the Washington policy landscape with the purchase of a US$17.5 million building that will give it a permanent spot alongside other US capital think tanks dating back more than a century, striving for influence. The 70-year-old institution, founded by the grandson of oil mogul John D. Rockefeller, has focused more on public policy in recent years, in addition to its traditional focus on arts, culture and education, under..</div>
+      </a>
+      
+      <a class="story" href="https://www.thehindu.com/news/international/judge-orders-trump-to-give-deposition-in-bbc-lawsuit-by-december-11/article71613501.ece" target="_blank" rel="noopener">
+        <div class="story-source">The Hindu</div>
+        <div class="story-title">Judge orders Trump to give deposition in BBC lawsuit by December 11</div>
+        <div class="story-summary">Judge Enjolique Lett in Miami gave the order in response to complaints by the British broadcaster that Mr. Trump has refused to sit for a deposition, including canceling a previously agreed date of October 16</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/business/cryptocurrency/article/3371805/hsbc-redcoin-stablecoin-launches-33-million-payme-users-hong-kong" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong</div>
+        <div class="story-summary">HSBC will launch its Hong Kong dollar-backed stablecoin in stages from Friday for more than 3.3 million users of its PayMe app, as the bank pushes to bring digital currencies into the city’s mainstream retail and investment markets. HSBC RedCoin, available only through PayMe and the bank’s Hong Kong mobile banking app, would initially support peer-to-peer transfers and peer-to-merchant payments on PayMe, according to head of PayMe Lawrence Li. Users can activate their HSBC RedCoin wallet, with..</div>
+      </a>
+      
+      <a class="story" href="https://www.bangkokpost.com/business/general/3342129/bot-seeks-feedback-on-thb-stablecoins" target="_blank" rel="noopener">
+        <div class="story-source">Bangkok Post</div>
+        <div class="story-title">BoT seeks feedback on THB stablecoins</div>
+        <div class="story-summary">The Bank of Thailand is seeking public feedback on proposed regulations for baht-denominated stablecoins, including a requirement for full 1:1 deposit backing and a ban on interest and other returns for issuers.</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-others" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">
+        <div class="story-source">BBC World</div>
+        <div class="story-title">Powerful earthquake hits Tibet killing 16 people, reports say</div>
+        <div class="story-summary">The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.</div>
+      </a>
+      
+      <a class="story" href="https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss" target="_blank" rel="noopener">
+        <div class="story-source">Al Jazeera</div>
+        <div class="story-title">Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran</div>
+        <div class="story-summary">Trump indicates new strikes on Iran, saying the US has knocked the &#39;hell out&#39; of the country.</div>
+      </a>
+      
+      <a class="story" href="https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss" target="_blank" rel="noopener">
+        <div class="story-source">Al Jazeera</div>
+        <div class="story-title">UK Conservative Party leader responds to Al Jazeera investigation</div>
+        <div class="story-summary">UK Conservative Party MP says the party does not condone former member&#39;s conduct, revealed in Al Jazeera investigation.</div>
+      </a>
+      
+      <a class="story" href="https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss" target="_blank" rel="noopener">
+        <div class="story-source">Al Jazeera</div>
+        <div class="story-title">Almost all shallow-water coral reefs now face extinction risk, study warns</div>
+        <div class="story-summary">World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as &#34;critically endangered&#34;.</div>
+      </a>
+      
+      <a class="story" href="https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">
+        <div class="story-source">BBC World</div>
+        <div class="story-title">Hospitals deliberately targeted by Sudan&#39;s RSF fighters, BBC investigation finds</div>
+        <div class="story-summary">The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.</div>
+      </a>
+      
+      <a class="story" href="https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">
+        <div class="story-source">BBC World</div>
+        <div class="story-title">L&#39;Oreal says weight loss drugs are impacting beauty and skin care sales</div>
+        <div class="story-summary">The beauty giant&#39;s CEO says the use of GLP-1s is &#34;a very important phenomenon for us&#34;.</div>
+      </a>
+      
+      <a class="story" href="https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix" target="_blank" rel="noopener">
+        <div class="story-source">The Guardian</div>
+        <div class="story-title">Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix</div>
+        <div class="story-summary">41-year-old set on ‘dream to be able to race in Africa’Rwanda to host despite criticism of human rights recordLewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s. The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record.Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-</div>
+      </a>
+      
+      <a class="story" href="https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">
+        <div class="story-source">BBC World</div>
+        <div class="story-title">Trump says Musk has restored access to Ukraine&#39;s Starlink network</div>
+        <div class="story-summary">Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-tech" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing" target="_blank" rel="noopener">
+        <div class="story-source">The Verge</div>
+        <div class="story-title">Etsy is cracking down on AI slop listings</div>
+        <div class="story-summary">Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that &#34;many active buyers say they can&#39;t tell which items involve AI-generated content&#34; and that sellers are &#34;concerned about your work appearing alongside items that use […]</div>
+      </a>
+      
+      <a class="story" href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">Mapping the Northern Sky</div>
+        <div class="story-summary">Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/ Comments URL: https://news.ycombinator.com/item?id=50202766 Points: 4 # Comments: 0</div>
+      </a>
+      
+      <a class="story" href="https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes" target="_blank" rel="noopener">
+        <div class="story-source">The Verge</div>
+        <div class="story-title">Spotify says yes, it is busting people for using Family Plan sharing too widely</div>
+        <div class="story-summary">Spotify co-CEO Alex Norström confirmed on this week&#39;s earnings call that the company is trying to catch Spotify Family plan users who don&#39;t actually live together with a new QR code verification method that requires scanning the plan manager&#39;s phone. TechCrunch reports that in response to a question about the &#34;crackdown,&#34; he called it a […]</div>
+      </a>
+      
+      <a class="story" href="https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial" target="_blank" rel="noopener">
+        <div class="story-source">The Verge</div>
+        <div class="story-title">The next-gen Xbox won’t cost you $1,800. It can’t. Can it?</div>
+        <div class="story-summary">Fortune dropped a bombshell report on the future of gaming this week. According to the publication&#39;s Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It&#39;s DOA. My second thought: Microsoft knows people won&#39;t pay that […]</div>
+      </a>
+      
+      <a class="story" href="https://www.anthropic.com/research/formal-verification" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">LLMs are making formal software verification feasible at a much larger scale</div>
+        <div class="story-summary">Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 23 # Comments: 2</div>
+      </a>
+      
+      <a class="story" href="https://github.com/Coverage-Cat/consumer-agent-testing-tool" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI</div>
+        <div class="story-summary">Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume.The problem: testing against these tools is hard! Agent memory + account statefulness make reproducibility, in the ways required for repeatable/reliable outcomes, between agents and the APIs/MCPs they interact with very challenging.The solution: CATT lets devs</div>
+      </a>
+      
+      <a class="story" href="https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model" target="_blank" rel="noopener">
+        <div class="story-source">The Verge</div>
+        <div class="story-title">Canva’s first AI image model plans designs before generating them</div>
+        <div class="story-summary">Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for &#34;greater precision, consistency and control,&#34; according to an […]</div>
+      </a>
+      
+      <a class="story" href="https://train.samismith.com/" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">Railpass</div>
+        <div class="story-summary">Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 34 # Comments: 8</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-economist" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="econ-card" href="https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts" target="_blank" rel="noopener">
+        <div class="econ-cat">Finance</div>
+        <div class="econ-title">Sam Bankman-Fried says he has paid his debts</div>
+        <div class="econ-summary">The crypto tycoon speaks with The Economist from prison in California</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/briefing/2026/10/22/emirati-saudi-rivalry-is-spurring-bloodshed-on-a-horrific-scale" target="_blank" rel="noopener">
+        <div class="econ-cat">Briefing</div>
+        <div class="econ-title">Emirati-Saudi rivalry is spurring bloodshed on a horrific scale</div>
+        <div class="econ-summary">The rift is prolonging and deepening deadly wars in Sudan, Yemen and elsewhere</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia" target="_blank" rel="noopener">
+        <div class="econ-cat">Business</div>
+        <div class="econ-title">Multinational businesses are losing confidence in Indonesia</div>
+        <div class="econ-summary">Its bountiful resources and vast population are attractive, but its government is a nightmare</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay" target="_blank" rel="noopener">
+        <div class="econ-cat">Business</div>
+        <div class="econ-title">If AI displaces human workers, they will lose more than just pay</div>
+        <div class="econ-summary">Work has value beyond the income it provides</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/leaders/2026/10/22/indonesias-populist-president-is-losing-his-charm" target="_blank" rel="noopener">
+        <div class="econ-cat">Leaders</div>
+        <div class="econ-title">Indonesia’s populist president is losing his charm</div>
+        <div class="econ-summary">Prabowo Subianto’s erratic policies are holding back his country</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/leaders/2026/10/22/saudi-arabia-and-the-uae-are-sowing-chaos" target="_blank" rel="noopener">
+        <div class="econ-cat">Leaders</div>
+        <div class="econ-title">Saudi Arabia and the UAE are sowing chaos</div>
+        <div class="econ-summary">Gulf powers should stop fuelling carnage in their backyard</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/leaders/2026/10/22/europe-must-escape-its-reliance-on-american-satellites" target="_blank" rel="noopener">
+        <div class="econ-cat">Leaders</div>
+        <div class="econ-title">Europe must escape its reliance on American satellites</div>
+        <div class="econ-summary">To do so it will have to drop old habits</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan" target="_blank" rel="noopener">
+        <div class="econ-cat">Asia</div>
+        <div class="econ-title">America’s attack on the International Criminal Court is a headache for Japan</div>
+        <div class="econ-summary">It’s hard to support international law when your main ally wants to destroy it</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <!-- ── Footer ── -->
+  <div class="footer">
+    <span>Daily Briefing · Generated 2026-10-23 08:14 SGT</span>
+    <span>Sources: CNA · ST · Reuters · BBC · The Verge · The Economist · yfinance</span>
+  </div>
+
+</div>
+
+<script>
+  function switchTab(group, btn) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('tab-' + group).classList.add('active');
+  }
+
+  function switchNewsTab(key, btn) {
+    document.querySelectorAll('.news-tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.news-tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('news-tab-' + key).classList.add('active');
+  }
+
+  // ── Paywall bypass ────────────────────────────────────────────────────────
+  // archive.ph/newest/ prepends the URL directly — no encoding needed
+  const BYPASS_PREFIX = 'https://archive.ph/newest/';
+
+  function applyBypass(active) {
+    document.querySelectorAll('a.story, a.econ-card').forEach(a => {
+      a.href = active ? BYPASS_PREFIX + a.dataset.orig : a.dataset.orig;
+    });
+    const btn = document.getElementById('bypass-btn');
+    btn.classList.toggle('active', active);
+    btn.textContent = active ? '⬡ bypass on' : '⬡ bypass off';
+  }
+
+  function toggleBypass() {
+    const next = localStorage.getItem('bypass') !== 'on';
+    localStorage.setItem('bypass', next ? 'on' : 'off');
+    applyBypass(next);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    // Store original URLs before any rewriting
+    document.querySelectorAll('a.story, a.econ-card').forEach(a => {
+      a.dataset.orig = a.getAttribute('href');
+    });
+    applyBypass(localStorage.getItem('bypass') === 'on');
+  });
+</script>
+</body>
+</html>
