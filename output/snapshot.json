@@ -2,375 +2,411 @@
   "news": {
     "singapore": [
       {
-        "id": "4392cccb9a1b0a0fa9f79e6b88bd9303",
-        "title": "Meta rolls out consumer AI agent in Singapore amid global safety, retail pushback",
-        "summary": "It is the first AI personal agent designed for the mainstream consumer market.",
+        "id": "d245f3f1ef054e6f4d1e62f78dfde952",
+        "title": "Unpaid salaries, no work: Migrant workers in 2 related firms left anxious",
+        "summary": "MOM is currently investigating both process sector firms, which have 240 affected workers.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/tech/meta-rolls-out-consumer-ai-agent-in-singapore-amid-global-safety-retail-pushback",
-        "published": "2026-10-28T00:35:40+00:00"
+        "url": "https://www.straitstimes.com/singapore/unpaid-salaries-no-work-migrant-workers-in-2-related-firms-left-anxious",
+        "published": "2026-10-29T01:00:00+00:00"
       },
       {
-        "id": "58bae61309ddf5bf0403b25afb82d525",
-        "title": "Singapore haze: PM2.5 readings remain normal, air quality moderate across all regions",
-        "summary": "Air quality across Singapore is expected to remain in the moderate range on Wednesday.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/singapore-haze-moderate-air-quality-pm25-normal-oct-28-6498021",
-        "published": "2026-10-27T23:42:00+00:00"
-      },
-      {
-        "id": "ae556b88e793b14539e04e873e30966f",
-        "title": "Does ethnicity affect the type of breast cancer you develop and how easily it's detected?",
-        "summary": "Asian women tend to have denser breasts, which can make cancer harder to detect. Studies also show that certain breast cancer types are more common among some ethnic groups in Singapore. But doctors say ethnicity alone doesn't determine how the disease behaves.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/women/breast-cancer-ethnicity-singapore-6474356",
-        "published": "2026-10-27T23:14:04+00:00"
-      },
-      {
-        "id": "b2d8f406cf39a06107b47637908a177d",
-        "title": "Air quality continues to improve across Singapore",
-        "summary": "PM2.5 readings are in the normal range, while the 24-hour PSI ones are ‘good to moderate’.",
+        "id": "2bffb4302797d97b0ae0a3f861f6dd2a",
+        "title": "Get $5 voucher for every $50 spent at FairPrice outlets from Oct 29 to Nov 9",
+        "summary": "This marks the sixth round of FairPrice return vouchers in 2026.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/environment/air-quality-continues-to-improve-across-singapore",
-        "published": "2026-10-27T22:06:30+00:00"
+        "url": "https://www.straitstimes.com/singapore/get-5-voucher-for-every-50-spent-at-fairprice-outlets-from-oct-29-to-nov-9",
+        "published": "2026-10-29T00:00:00+00:00"
       },
       {
-        "id": "e7a9d4b887fddd3cf7e65160b7d2499a",
-        "title": "Too late, too far, too little choice: Why surplus food apps face challenges matching meals with takers",
-        "summary": "\"They all want merchants near their home, near the office, and at a very steep discount and at a very convenient timing,\" says the founder of a food rescue app.",
+        "id": "a6df9ec325082da0d9bac33e6c1b2436",
+        "title": "GLP-1 weight-loss pills vs injections: How they compare and why you shouldn't get the pills online",
+        "summary": "Wegovy, a GLP-1 weight-loss drug, is already available in Singapore as a once-weekly weight-loss injection. Now offered as a daily pill in several countries but not Singapore, how does it compare with the jab? Doctors explain its effectiveness, dosing, side effects and why it isn’t meant for casual weight loss.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/food-rescue-apps-surplus-food-discount-6495796",
-        "published": "2026-10-27T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/wellness/wegovy-weight-loss-pill-vs-injection-glp-1-6451926",
+        "published": "2026-10-28T23:11:00+00:00"
       },
       {
-        "id": "ea7c8792258ed215a629337416ebc510",
-        "title": "Commentary: Singapore’s next big technology bet cannot wait till we’ve figured out AI",
-        "summary": "AI is today’s imperative. Quantum may be tomorrow’s advantage. The country must invest in both, say SGTech’s Gavin Chua and Gunasekharan Chellappan.",
+        "id": "61463bfb9af6bc1f82f74911c9e0c834",
+        "title": "Five years on, Julien Royer’s Claudine is having its best year yet. What’s behind its success?",
+        "summary": "As diners seek greater flexibility without compromising on good food, the French chef reflects on Claudine’s enduring appeal and the friendships that have helped shape the restaurant.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/singapore-ai-quantum-tech-jobs-investment-6494781",
-        "published": "2026-10-27T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/experiences/julien-royer-claudine-singapore-fifth-anniversary-6498606",
+        "published": "2026-10-28T22:13:00+00:00"
       },
       {
-        "id": "41fc3182ef72cf7794aeb79a85670bdc",
-        "title": "Specialised talent, stipend support, no resume pile: A smarter way for deep-tech start-ups to hire",
+        "id": "0acb832ea5c38a747668f466ca267f88",
+        "title": "Commentary: Staying indoors during haze can come at a cost to comfort",
+        "summary": "When sheltering from haze in indoor spaces, air filtration, cooling and ventilation need to be considered together, says SUSS’ Zuraimi Mohamed Sultan.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/commentary/haze-stay-indoors-psi-health-advisory-6496071",
+        "published": "2026-10-28T22:00:00+00:00"
+      },
+      {
+        "id": "2ff66d7f08b0486146ba04d95a59cab4",
+        "title": "Ong Teng Cheong 'stress-tested' EP scheme, showed that establishment figure can act independently: Jayakumar",
+        "summary": "The former senior minister recounts how younger ministers spoke up against Lee Kuan Yew's original proposal for the elected presidency, and his willingness to modify it.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/elected-presidency-ong-teng-cheong-jayakumar-6486206",
+        "published": "2026-10-28T22:00:00+00:00"
+      },
+      {
+        "id": "81ccdc42aedf7bae4f4bb9d70bc8e79a",
+        "title": "Mavericks of the Bar: Trio from new boutique firms among top-rated lawyers",
         "summary": "",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/specialised-talent-stipend-support-smarter-way-for-deep-tech-start-ups-to-hire-sginnovate",
-        "published": "2026-10-27T20:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/mavericks-of-the-bar-trio-from-new-boutique-firms-among-top-rated-lawyers",
+        "published": "2026-10-28T21:00:00+00:00"
       },
       {
-        "id": "aab7ed823427a9526c3676f1a653565a",
-        "title": "Deli Hub Catering suspended after 53 develop gastroenteritis symptoms at two MOE kindergartens",
-        "summary": "The affected individuals comprise 51 students and two staff members. None were hospitalised.",
-        "source": "Channel NewsAsia",
+        "id": "deb86137d18410f992bcc1e062b3a7c2",
+        "title": "The lawyer-pilot flying above the competition",
+        "summary": "",
+        "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/deli-hub-catering-suspended-gastroenteritis-moe-kindergartens-6496906",
-        "published": "2026-10-27T14:27:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/the-lawyer-pilot-flying-above-the-competition",
+        "published": "2026-10-28T21:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "53da725cb0303eec19e655f6dd898f3c",
-        "title": "Trump announces proposal to loosen methane rules for oil and gas production",
-        "summary": "President Trump announced plans to loosen methane regulations from the oil and gas sector during a Lubbock, Texas rally Tuesday night. The announcement came during the president’s second campaign stop of the day in Texas, during which he aimed to assist the Senate campaign of Republican Ken Paxton, the state attorney general, in the oil-heavy…",
+        "id": "b69de01477a9842fa0f4473add8a8873",
+        "title": "Senate Democrats drop $500K in Mississippi",
+        "summary": "The Democratic Senatorial Campaign Committee (DSCC) dropped $500,000 in Mississippi’s Senate race supporting Scott Colom (D), who is challenging Trump-backed Sen. Cindy Hyde-Smith (R-Miss.). The new ad focused on Colom’s record as a district attorney in the Magnolia State as the Democrat stated he’ll “take on anyone who stands in the way of what’s best…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/energy-environment/6176058-trump-texas-rally-methane-regulations-loosened/",
-        "published": "2026-10-28T00:35:30+00:00"
+        "url": "https://thehill.com/homenews/campaign/6179967-dscc-drops-mississippi-senate-funds/",
+        "published": "2026-10-29T01:02:27+00:00"
       },
       {
-        "id": "2c37404145f690c956008c2831945343",
-        "title": "Guardrails Alliance hits Husted over ties to Marc Andreessen in new ad",
-        "summary": "Super PAC Guardrails Alliance will launch a digital ad campaign Wednesday seeking to tie Ohio Sen. Jon Husted (R)’s past support for data centers to campaign donations he received from tech executives like venture capitalist Marc Andreessen. The 30-second ad, first shared with The Hill, highlights Andreessen’s past donations to Husted’s Senate run against former…",
+        "id": "834b36164058a5e50d62522ad1816655",
+        "title": "DOJ’s California ballot fight rejected by another judge",
+        "summary": "The Trump administration’s bid to separate 20,000 mail ballots in California that it says are likely noncitizens met another defeat on Wednesday as a trial judge refused to intervene. U.S. District Judge David Carter ruled California can continue to accept the questioned ballots like any other. “This request violates longstanding constitutional principles mandating that states have control over…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/policy/technology/6176397-guardrails-alliance-husted-ad-tech-ties/",
-        "published": "2026-10-27T23:43:41+00:00"
+        "url": "https://thehill.com/regulation/court-battles/6179970-judge-rejects-trump-ballot-challenge/",
+        "published": "2026-10-29T00:59:22+00:00"
       },
       {
-        "id": "e3e831abb1e39b67a1f77ea3ca0f978d",
-        "title": "Iran war cost increases to $47 billion",
-        "summary": "The cost of the U.S.’s war against Iran has gone up to $47 billion, an increase of more than $3 billion since last month, as President Trump mulls launching strikes against the Islamic Republic after the U.S. midterm elections. The biggest chunk of the cost is munition replacement at $29 billion, according to an Oct.…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/defense/6176624-us-iran-war-costs-rise/",
-        "published": "2026-10-27T23:32:42+00:00"
-      },
-      {
-        "id": "b824bf66db3178f17f101b29ad8917f3",
-        "title": "Husted leans into Trump’s compliments on his physique",
-        "summary": "Sen. Jon Husted (R-Ohio) on Tuesday leaned into President Trump’s recent campaign trail comments on his physique. “The president’s coming in, tomorrow, again to Ohio, third time in less than 30 days. He’ll be in Chillicothe,” Husted said at a campaign event Tuesday. “Don’t worry, I was in the weight room this morning working out,”…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6176600-trump-praises-husted-physique/",
-        "published": "2026-10-27T23:24:38+00:00"
-      },
-      {
-        "id": "d4a0a589a54d915e3cf781d2adc4aab1",
-        "title": "Pentagon picks Poland for new missile maintenance facility",
-        "summary": "Presented by Palantir {beacon} Defense &National Security Defense &National Security The Big Story Pentagon picks Poland for new missile maintenance facility The Pentagon picked Poland to host the maintenance center for Lockheed Martin’s Patriot interceptor missiles, the department announced Tuesday. © Getty The Pentagon said the new center will provide maintenance, repair and overhaul…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/newsletters/defense-national-security/6176571-pentagon-picks-poland-missile-facility/",
-        "published": "2026-10-27T23:15:58+00:00"
-      },
-      {
-        "id": "91d296eecbf5c0b5ee2f93a88b1bee84",
-        "title": "Hasan Piker sues Scott Jennings for defamation",
-        "summary": "Progressive Twitch streamer Hasan Piker filed a defamation lawsuit against conservative CNN commentator Scott Jennings on Tuesday, accusing him of falsely claiming Piker advocated lynching Black Americans after airing an edited video of his remarks. The 38-page lawsuit, filed in federal court in Washington, D.C., centers on an Aug. 11 episode of “The Scott Jennings…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/regulation/court-battles/6176566-piker-defamation-lawsuit-jennings/",
-        "published": "2026-10-27T23:12:20+00:00"
-      },
-      {
-        "id": "4b85813f1024cfc3c2638a121a157562",
-        "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-        "summary": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
+        "id": "ac9b91472c45e92f9f1def3c0ab33463",
+        "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+        "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet and will likely be appealed.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-        "published": "2026-10-27T21:17:57+00:00"
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+        "published": "2026-10-29T00:52:50+00:00"
       },
       {
-        "id": "4e74e4c5ff3f798e58c73ecbb329ca33",
-        "title": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
-        "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
+        "id": "c285aefdd1b0098a38670a9dc6ecdf67",
+        "title": "Kilmeade, Hume say Vance ‘not as popular as he thinks he is’ ahead of 2028",
+        "summary": "Fox News’s Brian Kilmeade and Brit Hume shared their doubts Wednesday about Vice President Vance’s prospects in the 2028 presidential race, questioning whether his close association to President Trump could hurt his chances of winning the Republican nomination. “I just don’t think that Vance is as popular as he thinks he is with Republicans,” Kilmeade…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6179914-vance-2028-presidential-prospects/",
+        "published": "2026-10-29T00:09:16+00:00"
+      },
+      {
+        "id": "77045aa126a7bc634be68e6e2943b16c",
+        "title": "Putin: Russia in ‘close contact’ with ‘genius’ Musk over satellite networks",
+        "summary": "Russian President Vladimir Putin praised SpaceX CEO Elon Musk as a “genius” Wednesday while revealing that Russia has been in contact with the billionaire as the country works to develop a rival satellite internet network. Putin made the remarks during a summit with African leaders in Moscow, where Maksut Shadayev, Russia’s digital development minister, briefed…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/technology/6179862-putin-praises-elon-musk/",
+        "published": "2026-10-28T23:18:17+00:00"
+      },
+      {
+        "id": "fdcd53fdd57db921c383a4e4cfd80f98",
+        "title": "Justice Department pushes to keep Ilhan Omar search warrant under seal for now",
+        "summary": "Federal prosecutors asked a judge Tuesday to reject a request from more than a dozen news organizations to immediately unseal the search warrant for Rep. Ilhan Omar’s (D-Minn.) Washington, D.C., home, saying it could jeopardize the ongoing criminal investigation. A heavily redacted filing signed by Jeanine Pirro, the U.S. Attorney for the District of Columbia,…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/regulation/court-battles/6179804-prosecutors-oppose-omar-warrant-unsealing/",
+        "published": "2026-10-28T23:05:11+00:00"
+      },
+      {
+        "id": "1a9365c002d91ad33b2e818f9e7d8f87",
+        "title": "Murkowski calls for ‘truth’ from Peltola amid ‘pattern of lies and coverups’",
+        "summary": "Sen. Lisa Murkowski (R-Alaska) called for the “truth” from former Rep. Mary Peltola (D-Alaska) amid what she said was a “pattern of lies and coverups” following reports the Democrat’s campaign recruited one of her midterm opponents to “ballot-stack.” “While some may try to write this off as just how politics works now, ballot-stacking should have…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/senate/6179799-murkowski-peltola-ballot-stacking-claims/",
+        "published": "2026-10-28T22:55:27+00:00"
+      },
+      {
+        "id": "16eddfdce17faeb583dbfe8af874c0fe",
+        "title": "Trump administration will allow pharmacies to make popular peptides",
+        "summary": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-        "published": "2026-10-27T20:45:39+00:00"
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+        "published": "2026-10-28T22:26:48+00:00"
       }
     ],
     "asia": [
       {
-        "id": "83ca68516322e871c76a2729f75f6d7e",
-        "title": "‘Don’t have the illusion’: graduate job ads down 22% as AI rewrites the rules",
-        "summary": "Fresh-graduate job postings in Hong Kong fell 22 per cent in the first nine months of this year from the same period in 2025, according to data from one of the city’s biggest job-search platforms, with an industry leader warning that advances in technology will deepen the decline. Its data also showed more graduates chasing fewer jobs: a typical listing for graduates drew 56 per cent more applications than a year earlier. Yet about 85 per cent of the 298 companies Jobsdb surveyed in August and..",
+        "id": "e49c8b5accfa3632075dc791e5f27b7b",
+        "title": "US should spy on Chinese firms to maintain edge in tech race: ex-CIA official",
+        "summary": "A former CIA official has called for Washington to spy on foreign companies to help US firms stay ahead in the technology race, in what would represent a break from long-standing US policy amid intensifying competition with China. “The US lead in many crucial advanced technologies is being contested or even erased by China,” wrote David Cohen, who served as deputy director of the Central Intelligence Agency under Presidents Barack Obama and Joe Biden, in an article published by Foreign Affairs..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372346/dont-have-illusion-graduate-job-ads-down-22-ai-rewrites-rules",
-        "published": "2026-10-28T00:30:11+00:00"
+        "url": "https://www.scmp.com/economy/china-economy/article/3372475/us-should-spy-chinese-firms-maintain-edge-tech-race-ex-cia-official",
+        "published": "2026-10-29T01:00:12+00:00"
       },
       {
-        "id": "e573dcf2ce4cb033f5c06e0362537d6f",
-        "title": "First Israeli election exit polls show narrow edge for Opposition",
-        "summary": "Israel’s current Opposition chief Yair Lapid said Benjamin Netanyahu’s bloc had suffered a “crushing defeat”, while left-wing leader Yair Golan said the public had “fired the Netanyahu government”",
+        "id": "4ebb78eb9ab619c35b8693ddb0c11c39",
+        "title": "What Quentin Tarantino’s Reservoir Dogs says about the US midterms",
+        "summary": "When I first watched Quentin Tarantino’s Reservoir Dogs in 1992, I was struck by its inventive opening. Tarantino launched a gritty crime thriller not with a gunfight or a heist but with eight mobsters in a diner, finishing breakfast while bickering over Madonna and tipping etiquette. By depicting hardened criminals as ordinary men carping about daily trivialities, Tarantino dispensed with the genre’s macho clichés, rendering the characters disarmingly authentic. Decades later, the subject of...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3372177/what-quentin-tarantinos-reservoir-dogs-says-about-us-midterms",
+        "published": "2026-10-29T01:00:06+00:00"
+      },
+      {
+        "id": "4a264c5fcd1bead52fdcb3b7f8a18e92",
+        "title": "Immigration rules deter nearly half of Asia-Pacific air travellers, survey finds",
+        "summary": "Immigration rules are discouraging a growing number of air travellers from visiting certain destinations, a global aviation survey has found, while geopolitical tensions are also influencing travel decisions, particularly in the Asia-Pacific region. The International Air Transport Association (IATA), an airline industry body, said its annual Global Passenger Survey found that 43 per cent of respondents had been put off from visiting certain destinations by immigration requirements, up from 33...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/hong-kong/transport/article/3372486/immigration-rules-deter-nearly-half-asia-pacific-air-travellers-survey-finds",
+        "published": "2026-10-29T00:30:06+00:00"
+      },
+      {
+        "id": "bb98738e9698203b3ca4d15d6d1f0946",
+        "title": "South Korea’s chipmakers are raking it in. Can China close the gap?",
+        "summary": "South Korean memory chip giant SK Hynix kept almost 80 per cent of its total sales as operating profit last quarter, a margin almost unheard of in manufacturing, as the country’s chipmakers reap the rewards of the global artificial intelligence boom. Operating profit, defined as earnings from the company’s core business before interest and taxes, soared 632 per cent in the three months to September from a year earlier to 83.33 trillion won (US$62.76 billion) on revenue of 104.62 trillion won, SK",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap",
+        "published": "2026-10-29T00:00:20+00:00"
+      },
+      {
+        "id": "7fd4e221722e353d5c6b4ac29171d0ba",
+        "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+        "summary": "Poland and India seek to raise bilateral trade from $6 bn to $10 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as trade imbalance and Beijing’s support for Russia deepen disillusionment with China",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece",
-        "published": "2026-10-28T00:12:50+00:00"
+        "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+        "published": "2026-10-28T23:48:08+00:00"
       },
       {
-        "id": "73f5fa72d9bd8663fa1cca89280120e9",
-        "title": "Football star Kylian Mbappe apologises for apparent reference to Mao as a 'dictator'",
-        "summary": "The China Football Association said on Tuesday that it has “lodged a stern protest” with Real Madrid and demanded that both the player and the football club “issue a public and formal apology”.",
-        "source": "CNA Asia",
-        "category": "asia",
-        "url": "https://www.channelnewsasia.com/sport/kylian-mbappe-apology-mao-zedong-dictator-6498101",
-        "published": "2026-10-28T00:11:00+00:00"
-      },
-      {
-        "id": "dccbde0ee593f292ae412d59ccd435bf",
-        "title": "China’s battery factories could be sitting right on top of vast lithium deposits",
-        "summary": "Lithium deposits formed by ancient volcanic activity may lie beneath parts of China’s battery manufacturing heartland, particularly along the southeastern coast, according to a new study. In an interview with the South China Morning Post, geologist Duan Zheng said that “potential targets for clay-type lithium deposits in southeastern China overlap with lithium battery industrial clusters in East and South China”. “Local supplies could significantly reduce transport costs and supply-chain risks,”",
+        "id": "7123570d45064cc90406a679223c0124",
+        "title": "US civil rights icon Dolores Huerta dies at 96",
+        "summary": "Dolores Huerta, the US labour leader and civil rights icon whose union work changed the lives of migrant workers, has died, her family said on Wednesday. She was 96. For nearly four decades Huerta was vice-president of United Farm Workers, the union she founded with Cesar Chavez, organising strikes and walkouts that won improvements in working conditions for the millions of men and women who labour in US fields. “We are deeply saddened to announce that our beloved mother, Dolores Huerta, has...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/science/article/3372325/chinas-battery-factories-could-be-sitting-right-top-vast-lithium-deposits",
-        "published": "2026-10-28T00:00:26+00:00"
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3372496/us-civil-rights-icon-dolores-huerta-dies-96",
+        "published": "2026-10-28T23:33:24+00:00"
       },
       {
-        "id": "a6246949839723d0fab25f7a4278c63c",
-        "title": "Why is the US reluctant to give South Korea wartime control of its troops?",
-        "summary": "South Korea wants to take back wartime command of its troops from the United States within the next two years, but analysts say Washington is refusing to commit to a date to keep a hold on a military it sees as vital to countering China. The dispute is over wartime operational control, known as OPCON, which the US has held since shortly after the outbreak of the Korean war in 1950. If fighting were to break out again under the current arrangements, designated South Korean units would be assigned",
+        "id": "a074897b154a831c0ef473ce18ae2491",
+        "title": "Australia returns ancient stone heads to China after more than 30 years",
+        "summary": "Australia has returned two stone sculptures to China after more than 30 years abroad. The statues, showing the heads of a military official and civil servant, had been given to the National Gallery of Australia in Canberra by a private collector and date back to the Northern Song dynasty (960–1127). China’s National Cultural Heritage Administration received the heads on Wednesday, according to the state broadcaster CCTV. They are thought to have been removed from two imperial mausoleums in Henan",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/week-asia/politics/article/3372297/why-us-reluctant-give-south-korea-wartime-control-its-troops",
-        "published": "2026-10-28T00:00:21+00:00"
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372466/australia-returns-ancient-stone-heads-china-after-more-30-years",
+        "published": "2026-10-28T23:00:07+00:00"
       },
       {
-        "id": "3e7e38d7f53c34ddfa683375b900e06d",
-        "title": "Global carmakers search for new China strategy as market share slips below 30%",
-        "summary": "Global carmakers are searching for a way to survive in China’s cutthroat market, as they continue to lose ground to domestic competitors in a landscape that is increasingly tilting towards electric vehicles. International auto brands from Volkswagen to Toyota saw their market share in the Chinese mainland slide once again in the third quarter of the year, as consumers turned away from expensive foreign cars amid an economic slowdown and the Iran war. Foreign marques accounted for less than 30...",
-        "source": "South China Morning Post",
+        "id": "276afe5b709349b5b0518a79db926e36",
+        "title": "Pioneering U.S. labour leader Dolores Huerta dies at 96",
+        "summary": "Dolores Huerta took the reins of the U.S. farmworker movement in the 1960s with Chavez",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.scmp.com/business/china-business/article/3372359/global-carmakers-search-new-china-strategy-market-share-slips-below-30",
-        "published": "2026-10-27T23:59:35+00:00"
-      },
-      {
-        "id": "c03eeae360e1b2889f91a96a59f35810",
-        "title": "King Charles arrives in Bahamas, faces demands for reparations: ‘pay us what you owe us’",
-        "summary": "Britain’s King Charles arrived in the Bahamas on Tuesday as part of a nine-day trip to the Caribbean, where he faces calls for an apology and slavery reparations. It is his first official visit to the Bahamas as king, with the archipelago’s government closing all public schools on the island of New Providence to welcome him. The Bahamian police and armed forces strode out to greet Charles in lockstep, some wearing pith helmets. Charles stepped out in a light grey suit and donned sunglasses as he",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/world/americas/article/3372358/king-charles-arrives-bahamas-faces-demands-reparations-pay-us-what-you-owe-us",
-        "published": "2026-10-27T23:36:51+00:00"
-      },
-      {
-        "id": "54f322a1f1f7e2321e91916027e09bdc",
-        "title": "Push for Thai storage of CCTV footage",
-        "summary": "The Telecommunications Association of Thailand (TCT) is spearheading a national digital security initiative requiring personal data collected by nationwide closed-circuit TV (CCTV) and Internet of Things (IoT) systems to be stored on local domestic cloud infrastructure.",
-        "source": "Bangkok Post",
-        "category": "asia",
-        "url": "https://www.bangkokpost.com/business/general/3344848/push-for-thai-storage-of-cctv-footage",
-        "published": "2026-10-27T22:52:00+00:00"
+        "url": "https://www.thehindu.com/news/international/pioneering-us-labour-leader-dolores-huerta-dies-at-96/article71637847.ece",
+        "published": "2026-10-28T20:06:05+00:00"
       }
     ],
     "others": [
       {
-        "id": "2ec4756b5b1f1e3150d247c0dcbe4d95",
-        "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
-        "summary": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
-        "source": "Al Jazeera",
+        "id": "031f660ec14aa00963ac642ae0ce05c1",
+        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+        "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+        "source": "BBC World",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
-        "published": "2026-10-28T00:25:08+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-29T01:14:01+00:00"
       },
       {
-        "id": "40c9ab6160ae0f6ce3238bfcb82db776",
-        "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-        "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talksKing Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour.The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973. Continue reading...",
+        "id": "6e6b16bab4b50d838283d57d976a661c",
+        "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+        "summary": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+        "published": "2026-10-29T00:36:33+00:00"
+      },
+      {
+        "id": "bb8923fbb6e9180d21bd6e7448dc4d59",
+        "title": "Israelis rally for Jewish-Arab government after election gains",
+        "summary": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+        "published": "2026-10-29T00:34:24+00:00"
+      },
+      {
+        "id": "2a090ccb8f7a8e848d6023a86b9622ab",
+        "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+        "summary": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+        "published": "2026-10-29T00:01:07+00:00"
+      },
+      {
+        "id": "c89b344d076fbc804bd762dca4b533f4",
+        "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+        "summary": "Flavio Bolsonaro declared himself the rightful leader of his country despite losing the presidential election runoff on Sunday. He and his family have fled to the US.",
+        "source": "Deutsche Welle",
+        "category": "others",
+        "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-10-28T22:26:00+00:00"
+      },
+      {
+        "id": "c1c057983081690c5ad6470a2a6ba80b",
+        "title": "Girl seriously injured in wolf attack at German wildlife park",
+        "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-28T22:08:52+00:00"
+      },
+      {
+        "id": "1b076dbc08799818d62e6db067f25620",
+        "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+        "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via EcuadorFlávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United States.After landing on a private jet with his family in Miami, Florida, on Wednesday morning, the far-right senator published the claim in a letter – even though his own party has recognised the legitimate victory of Luiz Inácio Lula da Silva, as hav",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-        "published": "2026-10-28T00:07:22+00:00"
+        "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+        "published": "2026-10-28T22:06:46+00:00"
       },
       {
-        "id": "fe132398b314e7e0e5f8a6a2ac67fd4b",
-        "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-        "summary": "Gaza film festival highlights women's resilience through stories of war, loss and survival.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-        "published": "2026-10-27T23:35:51+00:00"
-      },
-      {
-        "id": "81f1b6ca0c0595fddc1de3a34c72616b",
-        "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
-        "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
-        "published": "2026-10-27T23:23:42+00:00"
-      },
-      {
-        "id": "c01a41fcd8f2e79976b8ab25ddb7aa91",
-        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+        "id": "a72392431c58247653859e28646d8669",
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-27T22:11:08+00:00"
-      },
-      {
-        "id": "49805eda801ca6a4af76f3e9614a34b0",
-        "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-        "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-27T21:09:12+00:00"
-      },
-      {
-        "id": "aa7e12c29b62e7851d62535524c164e6",
-        "title": "Dutch zookeeper dies after being mauled by leopard",
-        "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-27T19:30:37+00:00"
-      },
-      {
-        "id": "4d5814b52ba74c1769e0717a6cc41e26",
-        "title": "Norway and Finland leaders hold rare call with Putin",
-        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-27T18:28:23+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-28T21:38:54+00:00"
       }
     ],
     "tech": [
       {
-        "id": "284acf39405b74dff7d7c6303a434e55",
-        "title": "Free daily JSON feed of Shanghai government subsidy notices",
-        "summary": "Article URL: https://github.com/ZhongGheart/china-policy-data Comments URL: https://news.ycombinator.com/item?id=50267494 Points: 9 # Comments: 0",
+        "id": "840845b54b0d2467c36c0cd4ef2fb6c0",
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 9 # Comments: 10",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://github.com/ZhongGheart/china-policy-data",
-        "published": "2026-10-27T23:46:21+00:00"
+        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "published": "2026-10-29T00:30:37+00:00"
       },
       {
-        "id": "f55d5e204adb2e9a5ee30c30feeafef3",
-        "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-        "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]",
+        "id": "f2199adc241f7348da30a01c63d02e87",
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 21 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://divagr.com/blog/qwenputer",
+        "published": "2026-10-29T00:25:45+00:00"
+      },
+      {
+        "id": "0cde7ebe491a89f2a48e221d5ede5a92",
+        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+        "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 18 # Comments: 13",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+        "published": "2026-10-29T00:16:08+00:00"
+      },
+      {
+        "id": "4b06c1b77429d0854d2cfeea6c9340f4",
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 63 # Comments: 14",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "published": "2026-10-28T23:45:46+00:00"
+      },
+      {
+        "id": "3f2d5f11c494616823c03038b05ad192",
+        "title": "The first wired XR glasses powered by Android XR",
+        "summary": "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 12 # Comments: 11",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+        "published": "2026-10-28T23:45:19+00:00"
+      },
+      {
+        "id": "370275beb6949ffa17acef20a6365b12",
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 78 # Comments: 82",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "published": "2026-10-28T23:35:02+00:00"
+      },
+      {
+        "id": "67e1c32a491bea7dba519d0b84b68efb",
+        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-        "published": "2026-10-27T22:55:05+00:00"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+        "published": "2026-10-28T23:05:39+00:00"
       },
       {
-        "id": "1df18d2e56059a801c8321453286a53e",
-        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-        "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+        "id": "4bf96c680db41f3fb74b9828cb96b8dc",
+        "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+        "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-        "published": "2026-10-27T22:37:30+00:00"
-      },
-      {
-        "id": "4f23c9f63469f3a08b8d0de0f782de7f",
-        "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-        "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 39 # Comments: 39",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-        "published": "2026-10-27T22:31:15+00:00"
-      },
-      {
-        "id": "4e51709e6dc00d7a5d848dd968ae6fce",
-        "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-        "summary": "Article URL: https://www.anthropic.com/news/expanding-partnership-gsa Comments URL: https://news.ycombinator.com/item?id=50266701 Points: 15 # Comments: 9",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-        "published": "2026-10-27T22:23:37+00:00"
-      },
-      {
-        "id": "fdf2f2f7738fc9b5b7eb4b7e842290a4",
-        "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-        "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-        "published": "2026-10-27T22:22:32+00:00"
-      },
-      {
-        "id": "d723d2b75875bf0ff39742a5d5b6a61c",
-        "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-        "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-        "published": "2026-10-27T22:04:50+00:00"
-      },
-      {
-        "id": "333f55b38fe3dab02defab8bd17d478d",
-        "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-        "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-        "published": "2026-10-27T21:50:04+00:00"
+        "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+        "published": "2026-10-28T22:51:15+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "6905804af31b36c73a0c729ece7d5d3c",
+        "title": "Weil’s collapse and the death of corporate loyalty",
+        "summary": "Superstar talent is alluring. It is also dangerous",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
+        "published": "2026-10-28T21:10:38+00:00"
+      },
+      {
+        "id": "37fe6cfdbbd3355ee262437964a2829c",
+        "title": "Israel’s Jewish and Arab opposition parties should work together",
+        "summary": "If they want to dislodge Binyamin Netanyahu from office, they need to act fast",
+        "source": "Leaders",
+        "category": "economist",
+        "url": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
+        "published": "2026-10-28T20:11:07+00:00"
+      },
+      {
+        "id": "2a35df8a0b34102d2019a3bd8969aabd",
+        "title": "China’s stock markets are the great global exception",
+        "summary": "If the country is winning the future, why are its investors so glum?",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
+        "published": "2026-10-28T19:48:19+00:00"
+      },
+      {
+        "id": "f10bcff1b25a6e653835ec66ebe95d77",
+        "title": "India’s ultra-cheap internet is about to get more expensive",
+        "summary": "Blame Jio, the country’s telecoms disrupter, going public",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
+        "published": "2026-10-28T17:49:31+00:00"
+      },
       {
         "id": "f85a249519ec009ba6ef5455d69b912b",
         "title": "In an AI blow-up, would insurance pay out?",
@@ -406,42 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/business/2026/10/27/american-bosses-are-desperately-trying-to-de-magafy",
         "published": "2026-10-27T10:59:32+00:00"
-      },
-      {
-        "id": "3f7b0e068638ee2b27483c47370ea1dc",
-        "title": "Wanted: a researcher/news assistant in Tokyo",
-        "summary": "Work with the East Asia bureau of The Economist",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
-        "published": "2026-10-27T10:37:28+00:00"
-      },
-      {
-        "id": "9a3a4746b5cf651d236cdd71d70562bb",
-        "title": "Don’t expect supersize profits from Anthropic soon",
-        "summary": "Lurking in its IPO prospectus are warnings of challenges ahead",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
-        "published": "2026-10-26T22:23:01+00:00"
-      },
-      {
-        "id": "090ba40af673b0f569025813aed29682",
-        "title": "Markets are dismayed by Lula’s surprise win—and for good reason",
-        "summary": "The pressure is on Brazil’s re-elected president to avoid an economic slump",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
-        "published": "2026-10-26T20:53:42+00:00"
-      },
-      {
-        "id": "96a92767aedd724f46c8ecfef5e071c3",
-        "title": "Opinion newsletter: Why Indonesia is stuck at a roundabout",
-        "summary": "Simon Long, our editor-at-large, says that many of today’s problems are the same as those he wrote about two decades ago",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
-        "published": "2026-10-26T17:58:56+00:00"
       }
     ]
   },
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5415.91015625,
-        "prev_close": 5422.16015625,
-        "change_pct": -0.12,
-        "direction": "down",
-        "price_fmt": "5,415.9",
-        "change_str": "-0.12%"
+        "price": 5425.0498046875,
+        "prev_close": 5397.02978515625,
+        "change_pct": 0.52,
+        "direction": "up",
+        "price_fmt": "5,425.0",
+        "change_str": "+0.52%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7722.60009765625,
-        "prev_close": 7676.77001953125,
-        "change_pct": 0.6,
+        "price": 7743.97998046875,
+        "prev_close": 7722.60009765625,
+        "change_pct": 0.28,
         "direction": "up",
-        "price_fmt": "7,722.6",
-        "change_str": "+0.60%"
+        "price_fmt": "7,744.0",
+        "change_str": "+0.28%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23211.810546875,
-        "prev_close": 23093.369140625,
-        "change_pct": 0.51,
-        "direction": "up",
-        "price_fmt": "23,212",
-        "change_str": "+0.51%"
+        "price": 23041.3203125,
+        "prev_close": 23211.810546875,
+        "change_pct": -0.73,
+        "direction": "down",
+        "price_fmt": "23,041",
+        "change_str": "-0.73%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 63973.01171875,
-        "prev_close": 62189.6484375,
-        "change_pct": 2.87,
+        "price": 64755.94921875,
+        "prev_close": 63268.37109375,
+        "change_pct": 2.35,
         "direction": "up",
-        "price_fmt": "63,973",
-        "change_str": "+2.87%"
+        "price_fmt": "64,756",
+        "change_str": "+2.35%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10767.2998046875,
-        "prev_close": 10690.400390625,
-        "change_pct": 0.72,
-        "direction": "up",
-        "price_fmt": "10,767",
-        "change_str": "+0.72%"
+        "price": 10686.5,
+        "prev_close": 10767.2998046875,
+        "change_pct": -0.75,
+        "direction": "down",
+        "price_fmt": "10,686",
+        "change_str": "-0.75%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8914.2001953125,
-        "prev_close": 8809.900390625,
-        "change_pct": 1.18,
+        "price": 8872.400390625,
+        "prev_close": 8850.099609375,
+        "change_pct": 0.25,
         "direction": "up",
-        "price_fmt": "8,914.2",
-        "change_str": "+1.18%"
+        "price_fmt": "8,872.4",
+        "change_str": "+0.25%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.281309962272644,
-        "prev_close": 1.2808300256729126,
-        "change_pct": 0.04,
-        "direction": "up",
+        "price": 1.2807199954986572,
+        "prev_close": 1.281309962272644,
+        "change_pct": -0.05,
+        "direction": "down",
         "price_fmt": "1.28",
-        "change_str": "+0.04%"
+        "change_str": "-0.05%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.425320029258728,
-        "prev_close": 1.4309500455856323,
-        "change_pct": -0.39,
-        "direction": "down",
+        "price": 1.4273899793624878,
+        "prev_close": 1.4254599809646606,
+        "change_pct": 0.14,
+        "direction": "up",
         "price_fmt": "1.43",
-        "change_str": "-0.39%"
+        "change_str": "+0.14%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7046400308609009,
-        "prev_close": 1.7087600231170654,
-        "change_pct": -0.24,
-        "direction": "down",
-        "price_fmt": "1.70",
-        "change_str": "-0.24%"
+        "price": 1.7062699794769287,
+        "prev_close": 1.7045300006866455,
+        "change_pct": 0.1,
+        "direction": "up",
+        "price_fmt": "1.71",
+        "change_str": "+0.10%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008070000447332859,
+        "price": 0.008059999905526638,
         "prev_close": 0.0081,
-        "change_pct": -0.37,
+        "change_pct": -0.49,
         "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "-0.37%"
+        "change_str": "-0.49%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19169999659061432,
+        "price": 0.1914999932050705,
         "prev_close": 0.1917,
-        "change_pct": -0.0,
+        "change_pct": -0.1,
         "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "-0.00%"
+        "change_str": "-0.10%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 109.87000274658203,
-        "prev_close": 115.80999755859375,
-        "change_pct": -5.13,
+        "price": 110.61000061035156,
+        "prev_close": 113.87999725341797,
+        "change_pct": -2.87,
         "direction": "down",
-        "price_fmt": "109.87",
-        "change_str": "-5.13%"
+        "price_fmt": "110.61",
+        "change_str": "-2.87%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 4076.60009765625,
-        "prev_close": 4038.39990234375,
-        "change_pct": 0.95,
-        "direction": "up",
-        "price_fmt": "4,076.6",
-        "change_str": "+0.95%"
+        "price": 4063.10009765625,
+        "prev_close": 4074.60009765625,
+        "change_pct": -0.28,
+        "direction": "down",
+        "price_fmt": "4,063.1",
+        "change_str": "-0.28%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 54.459999084472656,
-        "prev_close": 54.108001708984375,
-        "change_pct": 0.65,
-        "direction": "up",
-        "price_fmt": "54.46",
-        "change_str": "+0.65%"
+        "price": 54.07500076293945,
+        "prev_close": 54.292999267578125,
+        "change_pct": -0.4,
+        "direction": "down",
+        "price_fmt": "54.08",
+        "change_str": "-0.40%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.065999984741211,
-        "prev_close": 2.6019999980926514,
-        "change_pct": 17.83,
+        "price": 3.0190000534057617,
+        "prev_close": 2.697000026702881,
+        "change_pct": 11.94,
         "direction": "up",
-        "price_fmt": "3.07",
-        "change_str": "+17.83%"
+        "price_fmt": "3.02",
+        "change_str": "+11.94%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 80608.0703125,
-        "prev_close": 80006.65625,
-        "change_pct": 0.75,
-        "direction": "up",
-        "price_fmt": "80,608",
-        "change_str": "+0.75%"
+        "price": 80794.2578125,
+        "prev_close": 80805.078125,
+        "change_pct": -0.01,
+        "direction": "down",
+        "price_fmt": "80,794",
+        "change_str": "-0.01%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 2341.570068359375,
-        "prev_close": 2320.28125,
-        "change_pct": 0.92,
-        "direction": "up",
-        "price_fmt": "2,341.6",
-        "change_str": "+0.92%"
+        "price": 2342.39990234375,
+        "prev_close": 2347.72998046875,
+        "change_pct": -0.23,
+        "direction": "down",
+        "price_fmt": "2,342.4",
+        "change_str": "-0.23%"
       }
     ]
   },
