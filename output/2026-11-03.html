@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Briefing · Tuesday, 3 November 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0d0d0d;
+      --surface:   #161616;
+      --surface2:  #1e1e1e;
+      --border:    rgba(255,255,255,0.07);
+      --border2:   rgba(255,255,255,0.13);
+      --text:      #f0ede7;
+      --muted:     #b0ada5;
+      --faint:     #7a7870;
+      --accent:    #c8a96e;
+      --accent2:   #4a8fa8;
+      --up:        #5aaa78;
+      --down:      #c26060;
+      --flat:      #7a7870;
+      --ff-serif:  'Playfair Display', Georgia, serif;
+      --ff-sans:   'DM Sans', system-ui, sans-serif;
+      --ff-mono:   'DM Mono', monospace;
+      --r:         6px;
+    }
+
+    html { background: var(--bg); color: var(--text); font-family: var(--ff-sans); font-size: 15px; line-height: 1.6; }
+    body { min-height: 100vh; }
+
+    /* ─── Layout ─────────────────────────────── */
+    .page { max-width: 1200px; margin: 0 auto; padding: 0 2rem 4rem; }
+
+    /* ─── Masthead ────────────────────────────── */
+    .masthead {
+      border-bottom: 1px solid var(--border2);
+      padding: 2.5rem 0 1.5rem;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+    .masthead-title {
+      font-family: var(--ff-serif);
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      color: var(--text);
+      line-height: 1.1;
+    }
+    .masthead-title em { color: var(--accent); font-style: italic; }
+    .masthead-meta {
+      text-align: right;
+      font-size: 0.75rem;
+      color: var(--muted);
+      font-family: var(--ff-mono);
+      letter-spacing: 0.05em;
+      line-height: 1.7;
+    }
+    .masthead-meta .live-dot {
+      display: inline-block;
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--up);
+      margin-right: 5px;
+      vertical-align: middle;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+
+    /* ─── Section headings ────────────────────── */
+    .section-head {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin: 2.5rem 0 1rem;
+    }
+    .section-head h2 {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.14em;
+      color: var(--muted);
+      text-transform: uppercase;
+      font-weight: 400;
+    }
+    .section-head::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ─── Markets ─────────────────────────────── */
+    .markets-tabs { display: flex; gap: 0; margin-bottom: 1rem; border-bottom: 1px solid var(--border); }
+    .tab-btn {
+      background: none; border: none; color: var(--muted); cursor: pointer;
+      font-family: var(--ff-mono); font-size: 0.7rem; letter-spacing: 0.08em;
+      text-transform: uppercase; padding: 0.5rem 1rem; border-bottom: 2px solid transparent;
+      transition: color .15s, border-color .15s; margin-bottom: -1px;
+    }
+    .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab-btn:hover:not(.active) { color: var(--text); }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+
+    .market-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 0.85rem 1rem;
+      transition: border-color .15s;
+    }
+    .market-card:hover { border-color: var(--border2); }
+    .market-label { font-size: 0.68rem; color: var(--muted); font-family: var(--ff-mono); letter-spacing: 0.05em; margin-bottom: 0.35rem; }
+    .market-price { font-size: 1.15rem; font-weight: 500; color: var(--text); font-variant-numeric: tabular-nums; }
+    .market-change { font-size: 0.72rem; font-family: var(--ff-mono); margin-top: 0.25rem; }
+    .market-change.up   { color: var(--up); }
+    .market-change.down { color: var(--down); }
+    .market-change.flat { color: var(--flat); }
+
+    /* ─── AI Briefing ─────────────────────────── */
+    .briefing {
+      border: 1px solid var(--border2);
+      border-left: 3px solid var(--accent);
+      background: var(--surface);
+      border-radius: 0 var(--r) var(--r) 0;
+      padding: 1.4rem 1.6rem;
+      margin: 2rem 0;
+    }
+    .briefing-label {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.12em;
+      color: var(--accent);
+      text-transform: uppercase;
+      margin-bottom: 0.75rem;
+    }
+    .briefing-text {
+      font-family: var(--ff-serif);
+      font-size: 1.05rem;
+      line-height: 1.75;
+      color: var(--text);
+    }
+
+    /* ─── News tabs ───────────────────────────── */
+    .news-tabs-bar {
+      display: flex;
+      gap: 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .news-tab-btn {
+      background: none; border: none; color: var(--muted); cursor: pointer;
+      font-family: var(--ff-mono); font-size: 0.7rem; letter-spacing: 0.08em;
+      text-transform: uppercase; padding: 0.6rem 1.1rem; border-bottom: 2px solid transparent;
+      transition: color .15s, border-color .15s; margin-bottom: -1px;
+      display: flex; align-items: center; gap: 0.45rem;
+    }
+    .news-tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .news-tab-btn:hover:not(.active) { color: var(--text); }
+    .tab-count {
+      font-size: 0.6rem;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-radius: 9px;
+      padding: 1px 5px;
+      letter-spacing: 0;
+      color: var(--faint);
+    }
+    .news-tab-btn.active .tab-count { color: var(--accent); border-color: rgba(200,169,110,0.3); }
+
+    .news-tab-panel { display: none; padding-top: 1rem; }
+    .news-tab-panel.active { display: block; }
+
+    .col-digest {
+      font-size: 0.82rem;
+      color: var(--muted);
+      line-height: 1.65;
+      padding: 0.75rem 0.85rem;
+      border-left: 2px solid var(--border2);
+      margin-bottom: 0.75rem;
+      font-style: italic;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    @media (max-width: 720px) { .news-grid { grid-template-columns: 1fr; } }
+
+    /* ─── Story cards ─────────────────────────── */
+    .story {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 0.85rem 1rem;
+      text-decoration: none;
+      display: block;
+      transition: background .15s, border-color .15s, transform .1s;
+    }
+    .story:hover {
+      background: var(--surface2);
+      border-color: var(--border2);
+      transform: translateX(2px);
+    }
+    .story-source {
+      font-size: 0.65rem;
+      font-family: var(--ff-mono);
+      letter-spacing: 0.07em;
+      color: var(--faint);
+      text-transform: uppercase;
+      margin-bottom: 0.35rem;
+    }
+    .story-title {
+      font-size: 0.9rem;
+      font-weight: 400;
+      color: var(--text);
+      line-height: 1.45;
+    }
+    .story-summary {
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.55;
+      margin-top: 0.35rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* ─── Economist cards ─────────────────────── */
+    .econ-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 1rem 1.1rem;
+      text-decoration: none;
+      display: block;
+      transition: background .15s, border-color .15s;
+    }
+    .econ-card:hover { background: var(--surface2); border-color: var(--border2); }
+    .econ-cat {
+      font-size: 0.62rem; font-family: var(--ff-mono); letter-spacing: 0.1em;
+      color: var(--accent2); text-transform: uppercase; margin-bottom: 0.4rem;
+    }
+    .econ-title {
+      font-family: var(--ff-serif);
+      font-size: 0.9rem;
+      line-height: 1.4;
+      color: var(--text);
+      margin-bottom: 0.35rem;
+    }
+    .econ-summary { font-size: 0.8rem; color: var(--muted); line-height: 1.55; }
+
+    /* ─── Bypass toggle ─────────────────────── */
+    .bypass-btn {
+      background: none;
+      border: 1px solid var(--border2);
+      border-radius: var(--r);
+      color: var(--faint);
+      cursor: pointer;
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.1em;
+      padding: 0.3rem 0.65rem;
+      text-transform: uppercase;
+      transition: color .15s, border-color .15s, background .15s;
+      margin-top: 0.6rem;
+      display: inline-block;
+    }
+    .bypass-btn:hover { color: var(--muted); border-color: var(--border2); }
+    .bypass-btn.active {
+      color: var(--accent);
+      border-color: rgba(200,169,110,0.45);
+      background: rgba(200,169,110,0.07);
+    }
+
+    /* ─── Source warning ─────────────────────── */
+    .source-warning {
+      font-size: 0.72rem;
+      font-family: var(--ff-mono);
+      color: var(--down);
+      background: rgba(194, 96, 96, 0.08);
+      border: 1px solid rgba(194, 96, 96, 0.25);
+      border-radius: var(--r);
+      padding: 0.5rem 0.85rem;
+      margin-bottom: 1rem;
+    }
+
+    /* ─── Footer ──────────────────────────────── */
+    .footer {
+      border-top: 1px solid var(--border);
+      margin-top: 3rem;
+      padding-top: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.7rem;
+      color: var(--faint);
+      font-family: var(--ff-mono);
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ── Masthead ── -->
+  <header class="masthead">
+    <h1 class="masthead-title">Morning<br><em>Briefing</em></h1>
+    <div class="masthead-meta">
+      <span class="live-dot"></span>DAILY BRIEF<br>
+      Tuesday, 3 November 2026<br>
+      11:08 SGT<br>
+      Singapore &amp; Global<br>
+      <button id="bypass-btn" class="bypass-btn" onclick="toggleBypass()">⬡ bypass off</button>
+    </div>
+  </header>
+
+  <!-- ── Source failures ── -->
+  
+  <div class="source-warning">Sources unavailable today: AP News · Reuters · Today Online</div>
+  
+
+  <!-- ── AI Briefing ── -->
+  
+
+  <!-- ── Markets ── -->
+  <div class="section-head"><h2>Financial markets</h2></div>
+
+  <div class="markets-tabs">
+    <button class="tab-btn active" onclick="switchTab('indices', this)">Indices</button>
+    <button class="tab-btn" onclick="switchTab('fx', this)">FX · SGD</button>
+    <button class="tab-btn" onclick="switchTab('commodities', this)">Commodities</button>
+    <button class="tab-btn" onclick="switchTab('crypto', this)">Crypto</button>
+  </div>
+
+  
+  <div id="tab-indices" class="tab-panel active">
+    
+    <div class="market-card">
+      <div class="market-label">STI</div>
+      <div class="market-price">5,280.8</div>
+      <div class="market-change down">
+        ▼
+        -0.43%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">S&amp;P 500</div>
+      <div class="market-price">7,541.4</div>
+      <div class="market-change down">
+        ▼
+        -0.51%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Hang Seng</div>
+      <div class="market-price">23,479</div>
+      <div class="market-change up">
+        ▲
+        +0.36%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Nikkei 225</div>
+      <div class="market-price">63,082</div>
+      <div class="market-change down">
+        ▼
+        -0.33%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">FTSE 100</div>
+      <div class="market-price">10,761</div>
+      <div class="market-change up">
+        ▲
+        +0.29%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">ASX 200</div>
+      <div class="market-price">8,862.7</div>
+      <div class="market-change up">
+        ▲
+        +0.07%
+      </div>
+    </div>
+    
+  </div>
+  
+  <div id="tab-fx" class="tab-panel ">
+    
+    <div class="market-card">
+      <div class="market-label">USD/SGD</div>
+      <div class="market-price">1.28</div>
+      <div class="market-change up">
+        ▲
+        +0.15%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">EUR/SGD</div>
+      <div class="market-price">1.43</div>
+      <div class="market-change up">
+        ▲
+        +0.41%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">GBP/SGD</div>
+      <div class="market-price">1.71</div>
+      <div class="market-change up">
+        ▲
+        +0.28%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">JPY/SGD</div>
+      <div class="market-price">0.01</div>
+      <div class="market-change down">
+        ▼
+        -0.49%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">CNY/SGD</div>
+      <div class="market-price">0.19</div>
+      <div class="market-change down">
+        ▼
+        -0.21%
+      </div>
+    </div>
+    
+  </div>
+  
+  <div id="tab-commodities" class="tab-panel ">
+    
+    <div class="market-card">
+      <div class="market-label">Brent Crude</div>
+      <div class="market-price">104.73</div>
+      <div class="market-change down">
+        ▼
+        -0.04%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Gold</div>
+      <div class="market-price">3,959.7</div>
+      <div class="market-change down">
+        ▼
+        -0.25%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Silver</div>
+      <div class="market-price">50.26</div>
+      <div class="market-change down">
+        ▼
+        -0.91%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Nat. Gas</div>
+      <div class="market-price">2.88</div>
+      <div class="market-change up">
+        ▲
+        +0.84%
+      </div>
+    </div>
+    
+  </div>
+  
+  <div id="tab-crypto" class="tab-panel ">
+    
+    <div class="market-card">
+      <div class="market-label">Bitcoin</div>
+      <div class="market-price">76,711</div>
+      <div class="market-change down">
+        ▼
+        -1.97%
+      </div>
+    </div>
+    
+    <div class="market-card">
+      <div class="market-label">Ethereum</div>
+      <div class="market-price">2,248.9</div>
+      <div class="market-change down">
+        ▼
+        -1.06%
+      </div>
+    </div>
+    
+  </div>
+  
+
+  <!-- ── News ── -->
+  <div class="section-head"><h2>News</h2></div>
+
+  <div class="news-tabs-bar">
+    <button class="news-tab-btn active" onclick="switchNewsTab('singapore', this)">
+      Singapore <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('us', this)">
+      US <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('asia', this)">
+      Asia <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('others', this)">
+      Others <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('tech', this)">
+      Technology <span class="tab-count">8</span>
+    </button>
+    <button class="news-tab-btn" onclick="switchNewsTab('economist', this)">
+      Economist <span class="tab-count">8</span>
+    </button>
+  </div>
+
+  <div id="news-tab-singapore" class="news-tab-panel active">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/parenting-education/are-we-getting-screen-time-all-wrong-new-st-podcast-helps-parents-navigate-a-world-of-devices" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">Are we getting screen time all wrong? New ST podcast helps parents navigate a world of devices</div>
+        <div class="story-summary">It&#39;s not just about screen time. It&#39;s about how we raise our children.</div>
+      </a>
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/beware-of-malware-targeting-computer-users-via-hijacked-whatsapp-accounts" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">Beware of malware targeting computer users via hijacked WhatsApp accounts</div>
+        <div class="story-summary">Victims may have had their personal information stolen.</div>
+      </a>
+      
+      <a class="story" href="https://www.channelnewsasia.com/entertainment/thomas-ong-fractures-ankle-japan-holiday-6514851" target="_blank" rel="noopener">
+        <div class="story-source">Channel NewsAsia</div>
+        <div class="story-title">Actor Thomas Ong fractures ankle during solo Japan holiday, drives himself to hospital despite pain</div>
+        <div class="story-summary">The 57-year-old actor, who also lost his wallet and dropped his mobile phone into water during the trip, joked that his souvenirs from Japan this time were a pair of crutches.</div>
+      </a>
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/environment/singapores-beverage-container-return-scheme-has-been-battered-with-criticisms-why-do-we-need-it" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">Singapore’s beverage container return scheme has been battered with criticisms. Why do we need it?</div>
+        <div class="story-summary">The scheme could help to improve Singapore’s low domestic recycling rates.</div>
+      </a>
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/politics/un-top-court-to-hold-elections-for-5-seats-singapore-fields-candidate-for-first-time" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">UN top court to hold election for 5 seats; Singapore fields candidate for first time</div>
+        <div class="story-summary">The Republic is fielding ambassador Rena Lee for the ICJ polls on Nov 3.</div>
+      </a>
+      
+      <a class="story" href="https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-3-6514651" target="_blank" rel="noopener">
+        <div class="story-source">Channel NewsAsia</div>
+        <div class="story-title">Singapore haze: Hourly PM2.5 readings remain in normal range islandwide</div>
+        <div class="story-summary">The 24-hour PSI is forecast to be in the moderate range on Tuesday, between 51 and 80.</div>
+      </a>
+      
+      <a class="story" href="https://www.straitstimes.com/singapore/scoot-extends-middle-east-flight-cancellations-to-february-2027" target="_blank" rel="noopener">
+        <div class="story-source">The Straits Times</div>
+        <div class="story-title">Scoot extends Middle East flight cancellations to February 2027</div>
+        <div class="story-summary">The move follows Singapore Airlines&#39; extension of its flight cancellations to the region.</div>
+      </a>
+      
+      <a class="story" href="https://www.channelnewsasia.com/singapore/social-media-ban-tiered-access-parents-experts-6511786" target="_blank" rel="noopener">
+        <div class="story-source">Channel NewsAsia</div>
+        <div class="story-title">Tiered social media access preferred over outright ban, but is it enough to keep teens safe?</div>
+        <div class="story-summary">Come 2027, Singapore will introduce legislation on age assurance and safer design of social media for teenagers. But experts say keeping children safe online requires more than restrictions.</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-us" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://thehill.com/homenews/campaign/6190917-james-talarico-donald-trump-maga/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Talarico says he wants to work with Trump on bipartisan MAGA agenda</div>
+        <div class="story-summary">Democratic Texas Senate candidate James Talarico said he would want to work with President Trump on a bipartisan “Make America Great Again” agenda. “I would love, as the next U.S. senator from Texas, to work with Donald Trump to actually fulfill some of the promises of his political project,” Talarico stated during an interview with…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">US military strikes Iran’s Qeshm Island day before midterms</div>
+        <div class="story-summary">The U.S. military struck radar detectors and missile launchers on Iran’s Qeshm Island on Monday, a day before the U.S. midterm elections as mediators continue to push the two sides to reach a peace deal. The Monday attack is a continuation of strikes against Iran and was defensive in nature, a U.S. official told NewsNation,…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Democrats accuse Musk’s X of favoring Polymarket</div>
+        <div class="story-summary">A group of Senate Democrats accused Elon Musk’s social media platform X of giving the prediction market Polymarket “preferential treatment” on its timeline. In a letter to X leadership Friday, Democratic Sens. Catherine Cortez Masto (Nev.), Jacky Rosen (Nev.), Adam Schiff (Calif.) and Richard Blumenthal (Conn.) sent screenshots appearing to show that X does not…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/homenews/campaign/6190693-el-sayed-sh-lettuce-act/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">El-Sayed wants to pass ‘S‑‑‑ Lettuce Elimination Act’</div>
+        <div class="story-summary">Michigan Senate candidate Abdul El-Sayed (D) told reporters that if he was elected to the upper chamber, he wanted to pass an act related to 2026’s cyclospora outbreak: The S‑‑‑ Lettuce Elimination Act. “For a long time here in Michigan, right, over the summer, there were a lot of people who ate lettuce and then…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/homenews/campaign/6190665-cook-political-report-michigan-senate/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Michigan Senate race shifts to ‘lean Democrat’ in final Cook Political Report rating</div>
+        <div class="story-summary">The nonpartisan political handicapper Cook Political Report has shifted its rating of the 2026 Michigan Senate race to lean Democratic. In a post Monday on the social platform X, the Cook Political Report said it was “issuing its final Senate ratings of the 2026 midterm cycle” and that “the Michigan Senate race moves from Toss…</div>
+      </a>
+      
+      <a class="story" href="https://thehill.com/homenews/senate/6190569-duckworth-condemns-trump-flyover/" target="_blank" rel="noopener">
+        <div class="story-source">The Hill</div>
+        <div class="story-title">Duckworth condemns Trump’s low Halloween flyover, demands answers</div>
+        <div class="story-summary">Sen. Tammy Duckworth (D-Ill.) on Monday condemned President Trump’s recent low flyover in a letter addressed to Bryan Bedford, the administrator of the Federal Aviation Administration (FAA); Russell Vought, the director of the Office of Management and Budget; and Defense Secretary Pete Hegseth. The flyover occurred Thursday during the White House’s Halloween party, with Air…</div>
+      </a>
+      
+      <a class="story" href="https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice" target="_blank" rel="noopener">
+        <div class="story-source">NPR</div>
+        <div class="story-title">AI chatbots are becoming political advisers. Their answers can mislead voters</div>
+        <div class="story-summary">Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters&#39; decisions.</div>
+      </a>
+      
+      <a class="story" href="https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump" target="_blank" rel="noopener">
+        <div class="story-source">NPR</div>
+        <div class="story-title">Is America really that polarized? The answer might be a surprise</div>
+        <div class="story-summary">The U.S. has become more politically polarized, but research shows people overestimate their differences and there is &#39;messy middle&#39; majority of Americans who share overlapping political views.</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-asia" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://www.thehindu.com/news/international/israels-far-right-supporters-hold-out-hope-for-return-to-power/article71659276.ece" target="_blank" rel="noopener">
+        <div class="story-source">The Hindu</div>
+        <div class="story-title">Israel’s far-right supporters hold out hope for return to power</div>
+        <div class="story-summary">After years of the Israeli electorate drifting rightwards under Mr. Netanyahu, far-right parties such as Mr. Ben Gvir’s Jewish Power and Bezalel Smotrich’s Religious Zionism had hoped for watershed gains</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/news/asia/east-asia/article/3373065/south-korea-rushes-reissue-passports-president-lee-wife-after-data-leak" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">South Korea rushes to reissue passports to President Lee, wife after data leak</div>
+        <div class="story-summary">South Korea’s foreign ministry said on Tuesday it was taking steps to reissue passports for all 168 people affected by an online leak of sensitive personal information, including President Lee Jae Myung and first lady Kim Hea-kyung, as police investigate how the data was exposed. “The foreign ministry is swiftly taking measures to ensure the smooth reissuance of passports for all affected individuals, including the president and first lady,” ministry spokesman Park Doo-soon said during a...</div>
+      </a>
+      
+      <a class="story" href="https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece" target="_blank" rel="noopener">
+        <div class="story-source">The Hindu</div>
+        <div class="story-title">U.S. has conducted defensive strikes on some Iranian targets in Strait of Hormuz: official ahead of midterm elections</div>
+        <div class="story-summary">Vice-President J.D. Vance told reporters that he just spoke to President Trump about talks with Iran and said that “the president and I both feel pretty good about the prospects for potentially coming to a negotiated settlement”</div>
+      </a>
+      
+      <a class="story" href="https://www.thehindu.com/news/international/us-supreme-court-rejects-trump-administration-push-to-set-aside-thousands-of-california-ballots/article71659232.ece" target="_blank" rel="noopener">
+        <div class="story-source">The Hindu</div>
+        <div class="story-title">U.S. Supreme Court rejects Trump administration push to set aside thousands of California ballots</div>
+        <div class="story-summary">Another federal judge ruled against the administration&#39;s efforts to make last-minute demands of California election officials, finding they violated the Constitution</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3373064/man-61-arrested-allegedly-spiking-drink-japanese-dj-hong-kong-nightclub" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">Man, 61, arrested for allegedly spiking drink of Japanese DJ at Hong Kong nightclub</div>
+        <div class="story-summary">A 61-year-old Hong Kong man has been arrested for allegedly spiking the drink of Japanese disc jockey Mao Hamasaki at a Tsim Sha Tsui nightclub over the weekend, leaving her in intensive care. The police on Tuesday said that after investigations by the Yau Tsim crime squad, officers arrested the suspect in Central on Monday in relation to an alleged drugging attempt at PP Club on Mody Road the previous day. The man has been detained and is being investigated for allegedly administering poison...</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/news/world/united-states-canada/article/3373062/learjet-may-have-broken-crashing-florida-investigators-say" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">Learjet may have broken up before crashing in Florida, investigators say</div>
+        <div class="story-summary">The National Transportation Safety Board said ⁠on Monday a Learjet ⁠60 that crashed on Sunday ⁠in a residential area in Palm Beach County, Florida, killing all nine people on board, may have broken up before hitting the ground at high speed. The private Bombardier-made jet had taken off from Austin, Texas, and ‌was headed to the Bahamas. Heavy rainfall and thunderstorms were occurring in the area where it went down. Nasa Administrator Jared Isaacman, posting on X, highlighted the harrowing...</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/news/people-culture/trending-china/article/3373051/chinese-delivery-driver-divorces-american-teacher-he-married-4-months-after-love-confession" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">Chinese delivery driver divorces American teacher he married 4 months after love confession</div>
+        <div class="story-summary">A food delivery driver from northeastern China, whose whirlwind marriage to an American teacher captivated social media, has announced their divorce. Liu Hao, 28, from Liaoning province, met Hannah Harris, 31, an English teacher from Alabama, in November 2024 after delivering food to her flat. Charmed by Liu, who greeted her in the lift with the simple English phrase “Hello, I love you,” Harris soon bonded with him over their shared love of food, sport and pets. The relationship progressed...</div>
+      </a>
+      
+      <a class="story" href="https://www.scmp.com/week-asia/politics/article/3373034/sara-dutertes-impeachment-case-being-sped-due-filipinos-growing-impatience" target="_blank" rel="noopener">
+        <div class="story-source">South China Morning Post</div>
+        <div class="story-title">Is Sara Duterte’s impeachment case being sped up due to Filipinos’ ‘growing impatience’?</div>
+        <div class="story-summary">The impeachment trial of Philippine Vice-President Sara Duterte-Carpio may soon draw to a close after the prosecution decided to drop several of her charges, a move that legal experts have said is intended to speed up the trial and secure a conviction by focusing on the strongest evidence against her. Beyond the trial, the decision could have significant political implications for the 2028 presidential race, with a swift verdict potentially removing a strong candidate, according to analysts. On.</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-others" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss" target="_blank" rel="noopener">
+        <div class="story-source">Al Jazeera</div>
+        <div class="story-title">US urges Venezuela to follow phased plan for democratic transition</div>
+        <div class="story-summary">This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.</div>
+      </a>
+      
+      <a class="story" href="https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss" target="_blank" rel="noopener">
+        <div class="story-source">Al Jazeera</div>
+        <div class="story-title">Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz</div>
+        <div class="story-summary">Several explosions heard in Qeshm Island and Bandar Lengeh as US media say the US military had carried out the strikes.</div>
+      </a>
+      
+      <a class="story" href="https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss" target="_blank" rel="noopener">
+        <div class="story-source">Al Jazeera</div>
+        <div class="story-title">Thousands displaced as homes are bulldozed in India’s Assam state</div>
+        <div class="story-summary">Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India.</div>
+      </a>
+      
+      <a class="story" href="https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">
+        <div class="story-source">BBC World</div>
+        <div class="story-title">Russian bombing kills 26 people at Ukraine aid centre, Kyiv says</div>
+        <div class="story-summary">Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an &#34;utterly horrific&#34; attack.</div>
+      </a>
+      
+      <a class="story" href="https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">
+        <div class="story-source">BBC World</div>
+        <div class="story-title">Plane may have broken apart ahead of deadly Florida jet crash, say investigators</div>
+        <div class="story-summary">The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.</div>
+      </a>
+      
+      <a class="story" href="https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">
+        <div class="story-source">BBC World</div>
+        <div class="story-title">Thousands of European troops to rehearse Ukraine deployment in event of peace</div>
+        <div class="story-summary">Western officials stress that any force sent to Ukraine would not take part in any offensive operations.</div>
+      </a>
+      
+      <a class="story" href="https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">
+        <div class="story-source">BBC World</div>
+        <div class="story-title">Legal challenge to Australia&#39;s social media ban to start in High Court</div>
+        <div class="story-summary">A rights group will argue the world-leading policy robs under-16s of their right to free communication.</div>
+      </a>
+      
+      <a class="story" href="https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-world-4025-rdf" target="_blank" rel="noopener">
+        <div class="story-source">Deutsche Welle</div>
+        <div class="story-title">Supreme Court rejects Trump bid to block 20,000 California ballots</div>
+        <div class="story-summary">The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens.</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-tech" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="story" href="https://hackertimes.ca/" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">Show HN: Hacker Times, a New York Times-Inspired Version Hacker News</div>
+        <div class="story-summary">I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 36 # Comments: 11</div>
+      </a>
+      
+      <a class="story" href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs</div>
+        <div class="story-summary">Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 43 # Comments: 9</div>
+      </a>
+      
+      <a class="story" href="https://news.ycombinator.com/item?id=50346164" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">Ask HN: Does anyone have a contact with Cleveland-area Ham club?</div>
+        <div class="story-summary">I filled out the web form for the Cuyahoga Amateur Radio Club but it&#39;s probably been circular-filed... I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster. A lot of it brand-new. If you know anybody at the club, please tell them to check whatever it is that receives their webform input. Comments URL: https://news.ycombinator.com/item?id=50346164 Points: 66 # Comments: 8</div>
+      </a>
+      
+      <a class="story" href="https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">Intel stock collapse worsens as $3.5T chip rout spreads</div>
+        <div class="story-summary">Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html Comments URL: https://news.ycombinator.com/item?id=50346153 Points: 98 # Comments: 67</div>
+      </a>
+      
+      <a class="story" href="https://www.c64-wiki.com/wiki/GUI64" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">GUI64 – GUI for the Commodore 64 running on top of the built-in ROM</div>
+        <div class="story-summary">Article URL: https://www.c64-wiki.com/wiki/GUI64 Comments URL: https://news.ycombinator.com/item?id=50345735 Points: 9 # Comments: 1</div>
+      </a>
+      
+      <a class="story" href="https://news.ycombinator.com/item?id=50345712" target="_blank" rel="noopener">
+        <div class="story-source">Hacker News (Top)</div>
+        <div class="story-title">WorkOS reports security breach</div>
+        <div class="story-summary">It&#39;s not on their website or Trust center yet, but we received the following breach notification from WorkOS:We are writing to notify you of a data security incident that we detected on October 30, 2026 and are continuing to investigate. We value your trust and want to keep you informed while our investigation continues.What HappenedOn October 30, 2026, at 16:39 UTC, WorkOS detected anomalous traffic to an internal business system. Our investigation identified evidence the attack was likely driv</div>
+      </a>
+      
+      <a class="story" href="https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/" target="_blank" rel="noopener">
+        <div class="story-source">Ars Technica</div>
+        <div class="story-title">&#34;At Home in Space&#34; opens, caps Air and Space Museum renovation</div>
+        <div class="story-summary">The Smithsonian&#39;s National Air and Space Museum has all of its &#34;space&#34; back open.</div>
+      </a>
+      
+      <a class="story" href="https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints" target="_blank" rel="noopener">
+        <div class="story-source">The Verge</div>
+        <div class="story-title">Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around</div>
+        <div class="story-summary">Apple CEO John Ternus doesn&#39;t have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is &#34;working hard to get it to as many customers as quickly as possible, but at this ​point, we&#39;re not able to predict when supply and demand will be in […]</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <div id="news-tab-economist" class="news-tab-panel">
+    
+    <div class="news-grid">
+      
+      <a class="econ-card" href="https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business" target="_blank" rel="noopener">
+        <div class="econ-cat">Business</div>
+        <div class="econ-title">The quest for immortality has become serious business</div>
+        <div class="econ-summary">As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right" target="_blank" rel="noopener">
+        <div class="econ-cat">Asia</div>
+        <div class="econ-title">The fight for the soul of the Australian right</div>
+        <div class="econ-summary">Can a special-forces veteran stop the rise of Pauline Hanson?</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in" target="_blank" rel="noopener">
+        <div class="econ-cat">Business</div>
+        <div class="econ-title">Hackers are running riot with AI. Its makers want to cash in</div>
+        <div class="econ-summary">OpenAI and Anthropic spy a big opportunity in cyber-security</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich" target="_blank" rel="noopener">
+        <div class="econ-cat">Finance</div>
+        <div class="econ-title">Intensive parenting is no longer the preserve of the rich</div>
+        <div class="econ-summary">But wealthy families still come out on top</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation" target="_blank" rel="noopener">
+        <div class="econ-cat">Asia</div>
+        <div class="econ-title">Cheap data is great for Indians but not for India’s reputation</div>
+        <div class="econ-summary">The internet brings out the worst in everyone</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history" target="_blank" rel="noopener">
+        <div class="econ-cat">International</div>
+        <div class="econ-title">The War Room newsletter: The best warplanes in history</div>
+        <div class="econ-summary">Richard Cockett, a senior editor, straps in to examine the greatest aircraft of all time</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai" target="_blank" rel="noopener">
+        <div class="econ-cat">Business</div>
+        <div class="econ-title">Google’s $500bn bloodbath reflects the danger it faces from AI</div>
+        <div class="econ-summary">As its search engine sputters, rivals gain ground</div>
+      </a>
+      
+      <a class="econ-card" href="https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer" target="_blank" rel="noopener">
+        <div class="econ-cat">Business</div>
+        <div class="econ-title">Why it’s a bad time to be a rat-killer</div>
+        <div class="econ-summary">Private equity and artificial intelligence are nibbling at sales</div>
+      </a>
+      
+    </div>
+  </div>
+
+  <!-- ── Footer ── -->
+  <div class="footer">
+    <span>Daily Briefing · Generated 2026-11-03 11:08 SGT</span>
+    <span>Sources: CNA · ST · Reuters · BBC · The Verge · The Economist · yfinance</span>
+  </div>
+
+</div>
+
+<script>
+  function switchTab(group, btn) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('tab-' + group).classList.add('active');
+  }
+
+  function switchNewsTab(key, btn) {
+    document.querySelectorAll('.news-tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.news-tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('news-tab-' + key).classList.add('active');
+  }
+
+  // ── Paywall bypass ────────────────────────────────────────────────────────
+  // archive.ph/newest/ prepends the URL directly — no encoding needed
+  const BYPASS_PREFIX = 'https://archive.ph/newest/';
+
+  function applyBypass(active) {
+    document.querySelectorAll('a.story, a.econ-card').forEach(a => {
+      a.href = active ? BYPASS_PREFIX + a.dataset.orig : a.dataset.orig;
+    });
+    const btn = document.getElementById('bypass-btn');
+    btn.classList.toggle('active', active);
+    btn.textContent = active ? '⬡ bypass on' : '⬡ bypass off';
+  }
+
+  function toggleBypass() {
+    const next = localStorage.getItem('bypass') !== 'on';
+    localStorage.setItem('bypass', next ? 'on' : 'off');
+    applyBypass(next);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    // Store original URLs before any rewriting
+    document.querySelectorAll('a.story, a.econ-card').forEach(a => {
+      a.dataset.orig = a.getAttribute('href');
+    });
+    applyBypass(localStorage.getItem('bypass') === 'on');
+  });
+</script>
+</body>
+</html>
