@@ -2,375 +2,384 @@
   "news": {
     "singapore": [
       {
-        "id": "e6c64d311b612299dec686c1c58cec02",
-        "title": "Man handed 41 charges in relation to Nvidia chips case",
+        "id": "800328af498a4e47a726d7be1a7adfdb",
+        "title": "Singapore start-up taps peptide power to tackle pet infections, seeks to replace chemical preservatives",
+        "summary": "Healbac is working with six Singapore vet clinics to test its peptide against infections in cats and dogs.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/health/singapore-start-up-taps-peptide-power-to-tackle-pet-infections-seeks-to-replace-chemical",
+        "published": "2026-11-14T01:00:00+00:00"
+      },
+      {
+        "id": "2bd09593be6de33d13e0588c36cfa45c",
+        "title": "Nvidia-Megaspeed saga could squeeze Singapore's room in chips space, slow things for firms: Analysts",
+        "summary": "An extramarital affair has renewed global scrutiny on chip giant Nvidia and its Singapore-based client Megaspeed, which is suspected of helping China gain access to advanced semiconductors from the US.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/nvidia-megaspeed-ai-chips-semiconductor-6549036",
+        "published": "2026-11-14T00:41:38+00:00"
+      },
+      {
+        "id": "9430556570b23b4b1ec11b05f28a8679",
+        "title": "Ramen Keisuke's Tori King at 100AM mall closing after 14 years, last day on Nov 29",
+        "summary": "Known for its rich chicken broth ramen, tender chicken thighs and free-flow eggs, the Japanese eatery in Tanjong Pagar is shutting for good after 14 years.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/dining/ramen-keisuke-tori-king-100am-mall-6550861",
+        "published": "2026-11-14T00:21:00+00:00"
+      },
+      {
+        "id": "d3af1fc927f421ef8d86b852c4386a05",
+        "title": "Woodlands, Sembawang residents get new stretch of cycling paths; network in area now at 42km",
+        "summary": "New 16km stretch links to key MRT stations and amenities.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/transport/woodlands-sembawang-residents-get-new-stretch-of-cycling-paths-network-in-area-now-at-42km",
+        "published": "2026-11-14T00:15:00+00:00"
+      },
+      {
+        "id": "c1d79ebf7f5ad8f3a2b261eec51f7376",
+        "title": "Singapore ends Youth Olympics campaign with 3 medals; SNOC hails athletes' 'hunger' against world's best",
+        "summary": "The contingent's achievements included a historic wushu gold and Singapore's first-ever fencing medal at the Games, secured on the final day of competition.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/youth-olympic-games-team-singapore-medals-sports-6550241",
+        "published": "2026-11-14T00:12:00+00:00"
+      },
+      {
+        "id": "e79ebaf05566c4f6b863a95c700c3ffb",
+        "title": "Are you losing muscle without knowing it? These tests can detect sarcopenia as you age",
+        "summary": "You may look the same on the outside but your muscles could be shrinking without you knowing it. Doctors explain the signs of age-related muscle loss, the tests that can detect it, and whether strength training and nutrition can really help reverse the damage.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/wellness/sarcopenia-muscle-loss-tests-dexa-handgrip-strength-ageing-6542351",
+        "published": "2026-11-13T22:52:57+00:00"
+      },
+      {
+        "id": "86f0b12fda94e928a6e6ef3858017039",
+        "title": "Seniors take to the water in Singapore’s first dragon boat race for older adults",
         "summary": "",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/man-handed-41-charges-in-relation-to-nvidia-chips-case",
-        "published": "2026-11-13T02:03:54+00:00"
+        "url": "https://www.straitstimes.com/singapore/seniors-take-to-the-water-in-singapores-first-dragon-boat-race-for-older-adults",
+        "published": "2026-11-13T21:00:00+00:00"
       },
       {
-        "id": "1d6a17c65c7844b29f22c68957e03e1f",
-        "title": "Obesity clinics see surge in patients amid greater awareness of condition",
-        "summary": "Healthcare providers say factors such as genetics, hormones and metabolism can make weight loss difficult despite efforts to adopt healthier lifestyles.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/obesity-clinics-increase-patients-greater-awareness-overweight-6547196",
-        "published": "2026-11-13T01:16:10+00:00"
-      },
-      {
-        "id": "c12a7392d9cc60b2aba707d97c67ae64",
-        "title": "Local clothing brand Our Second Nature hit by data breach; customer details exposed",
-        "summary": "Information compromised may include customers' names, contact numbers and delivery addresses.",
+        "id": "8389847fd88f06077f54fa565b80c531",
+        "title": "New smart video system on roads can help identify cause of traffic accidents, detect illegal parking",
+        "summary": "It can also detect road hazards and predict potential problem areas when it is rolled out from 2028.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/local-clothing-brand-our-second-nature-hit-by-data-breach-customer-details-exposed",
-        "published": "2026-11-13T00:57:23+00:00"
-      },
-      {
-        "id": "b694cacff4a8974363ceecdfe7841adb",
-        "title": "SGH warns of fake YouTube ad on eye drop product",
-        "summary": "SGH said that the advertisement is not authorised or endorsed by the hospital.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/sgh-warns-of-fake-youtube-ad-on-eye-drop-product",
-        "published": "2026-11-12T23:28:00+00:00"
-      },
-      {
-        "id": "94f8c2deb6c0c59c817b42173a26631b",
-        "title": "Beyond astronauts and rockets: How Singapore is grooming its future space workforce",
-        "summary": "Singapore is opening new pathways for young people into the space industry, but questions remain over whether these will lead to viable careers.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/space-careers-talent-schools-students-satellites-6543061",
-        "published": "2026-11-12T22:00:00+00:00"
-      },
-      {
-        "id": "906b7a3d304d1628b5d27c0511b06f49",
-        "title": "Commentary: Have we become too reliant on online reviews and recommendations?",
-        "summary": "When businesses can buy five-star reviews for a few dollars, perhaps it is time we placed a little less faith in strangers' opinions, says writer Karen Tee.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/commentary/business-buy-five-star-review-restaurant-salon-6502911",
-        "published": "2026-11-12T22:00:00+00:00"
-      },
-      {
-        "id": "dd57092119d55c8355f94b88c8a86d7e",
-        "title": "Climate change’s heat and El Nino’s drought worsened Indonesia haze: Study",
-        "summary": "But these events are increasingly predictable, and in turn, solvable, said a new study.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/environment/climate-changes-heat-and-el-ninos-drought-worsened-indonesia-haze-study",
-        "published": "2026-11-12T22:00:00+00:00"
-      },
-      {
-        "id": "da86f657b1b0385f1142c0adef50dc8b",
-        "title": "Helping skin age better: How non-invasive RF treatment can boost collagen and improve sagging",
-        "summary": "",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/xerf-non-invasive-rf-treatment-for-face-boost-collagen-make-skin-firmer",
-        "published": "2026-11-12T20:00:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/transport/new-smart-video-system-on-roads-can-help-identify-cause-of-traffic-accidents-detect-illegal-parking",
+        "published": "2026-11-13T21:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "d677f67eb796da7892b1c2f04fb270fe",
-        "title": "Boebert blames policy, corruption, ‘markets’ for possible loss",
-        "summary": "Incumbent Rep. Lauren Boebert (R) blamed her potential loss in Colorado’s 4th Congressional District on policy, corruption and “markets” Thursday as her race remains too close to call more than a week out from Election Day. “Yes, there are so many different variables, and I’m going to start with policy,” she told NewsNation’s Blake Burman.…",
+        "id": "6f5e004668b21c27475c2d0fc60fa23f",
+        "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+        "summary": "President Trump plans to meet with Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China next week, marking the first-ever trilateral meeting between the three leaders. Trump will be in Asia for The Association of Southeast Asian Nations summit in the Philippines and…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/house/6217833-boebert-blames-policy-market-losses/",
-        "published": "2026-11-13T01:40:25+00:00"
+        "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
+        "published": "2026-11-14T01:30:55+00:00"
       },
       {
-        "id": "53af3a3f22ae8020bcc39cc5f4e3d553",
-        "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
-        "summary": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
+        "id": "2e3448828e86870c24fa5a55a3515143",
+        "title": "Rubio, off script, leans into inspiring vision for America as 2028 speculation grows",
+        "summary": "Secretary of State Marco Rubio promoted an inspirational view of the United States during remarks at a conservative law conference Friday, invoking the image of a country where an ambitious attitude binds Americans — striving toward living up to the founding ideals Rubio’s off-script remarks, which followed a keynote address during the annual conference of…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6220243-rubio-federalist-society-remarks-2028-preview/",
+        "published": "2026-11-14T01:14:44+00:00"
+      },
+      {
+        "id": "d736e5262ebff7e959c52896385997c1",
+        "title": "Watch: Duffy, Mullin hold press briefing on FAA nationwide ground stop",
+        "summary": "Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy will hold a press briefing at the White House on Friday night to provide an update on the Federal Aviation Administration’s (FAA) nationwide ground stop. “The @FAANews [FAA] issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop/",
+        "published": "2026-11-14T00:54:31+00:00"
+      },
+      {
+        "id": "6e73530440a071d9da9c6532376614ae",
+        "title": "Hegseth directs Pentagon CFO to transform military pay systems",
+        "summary": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Hegseth directs Pentagon CFO to transform military pay systems Defense Secretary Pete Hegseth directed the Pentagon’s comptroller to begin a “comprehensive transformation” of the military pay systems, arguing the current process has resulted in a growing…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/",
+        "published": "2026-11-14T00:25:15+00:00"
+      },
+      {
+        "id": "7936e184646f5bcfd1dc179bbf027dce",
+        "title": "Multiple college football teams in flight limbo due to FAA ground stop",
+        "summary": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has impacted travel plans for college football teams scheduled to fly to their destinations. Among teams impacted are four schools in the NCAA’s Big 12 Conference, Baylor University, Kansas State University, University of Utah and Arizona State University; three in the Big Ten…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football/",
+        "published": "2026-11-14T00:08:59+00:00"
+      },
+      {
+        "id": "eb6f7590053abb09504b51e601b697a3",
+        "title": "House Democrat calls FAA stop ‘quite disturbing’",
+        "summary": "Rep. Robert Garcia (D-Calif.) called the nationwide ground stop issued by the Federal Aviation Administration (FAA) on Friday “quite disturbing.” “This is quite disturbing and pretty extraordinary of a action taken,” Garcia said during an appearance on MS NOW. “Whatever it is, I think deserves as much transparency as possible.” “The impact is going to…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/",
+        "published": "2026-11-13T23:22:00+00:00"
+      },
+      {
+        "id": "db16f2bdd9411002df53028feddc3e0a",
+        "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+        "summary": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
-        "published": "2026-11-13T01:26:24+00:00"
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+        "published": "2026-11-13T22:36:46+00:00"
       },
       {
-        "id": "171d4a96fc275f092e507b73cf44588e",
-        "title": "Trump on Colom’s Mississippi Senate win: ‘I give him a lot of credit’",
-        "summary": "President Trump reacted Thursday to Sen.-elect Scott Colom’s (D) upset victory in the Mississippi Senate race, giving credit to the Democrat for his efforts to win over Republican voters. “I don’t know the gentleman, but I give him credit,” Trump told sports commentator Stephen A. Smith in an interview at the White House. “I had…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6217818-trump-praises-colom-mississippi-victory/",
-        "published": "2026-11-13T01:06:58+00:00"
-      },
-      {
-        "id": "35ca4560f5f48f25cacefa7e1bebde64",
-        "title": "Photos showing White House ballroom’s size spark backlash from Clyburn, McGarvey",
-        "summary": "Newly released images showing the new White House ballroom’s size have sparked backlash among a pair of House Democrats — Reps. James Clyburn (S.C.) and Morgan McGarvey (Ky.) — who voiced their frustration with the project on social media this week. “I hope everyone takes a good hard look at this picture,” Clyburn wrote on…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/house/6217770-democrats-backlash-white-house-ballroom-size/",
-        "published": "2026-11-13T00:43:17+00:00"
-      },
-      {
-        "id": "e2eeed1d55a01ff78b5d77e8c81b35c8",
-        "title": "US Army officer involved in alleged Russian spying scheme identified: Reports",
-        "summary": "The U.S. Army officer arrested in the United Kingdom this week for his alleged involvement in a Russian espionage scheme has been identified as Lt. Col. Brandon Tyner, according to multiple reports. The 41-year-old soldier was detained Tuesday following a sting operation and is expected to be charged in the U.K. early next week, The…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/defense/6217738-brandon-tyner-army-russia-espionage-arrest/",
-        "published": "2026-11-13T00:39:26+00:00"
-      },
-      {
-        "id": "2323127046efecc7aa2fd393db3c39d3",
-        "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-        "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+        "id": "f5566973b6c07a2b879932f3fde50eac",
+        "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+        "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-        "published": "2026-11-12T23:36:19+00:00"
-      },
-      {
-        "id": "0ea6899fc8276bb7fb8a63c29f1f9bf0",
-        "title": "SpaceX to invest $74B into data center construction projects in Texas, Arizona",
-        "summary": "Elon Musk’s SpaceX plans to invest more than $74 billion into building two data centers in Texas and Arizona, the company announced Thursday, marketing them as projects that will boost local communities amid backlash surrounding such facilities. “These investments will expand local tax bases, generate substantial new revenue for schools and public services, and create…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/technology/6217630-spacex-plans-data-centers-texas-arizona/",
-        "published": "2026-11-12T23:24:15+00:00"
-      },
-      {
-        "id": "bd14406e246d255f0a11567f44c5b170",
-        "title": "Poland says Pentagon has ‘greenlit’ permanent US base",
-        "summary": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Poland says Pentagon has ‘greenlit’ permanent US base Poland said this week that the Pentagon leadership has “greenlit” a permanent U.S. military presence in the country, but the final decision will be made by the White…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/newsletters/defense-national-security/6217655-pentagon-greenlights-poland-base/",
-        "published": "2026-11-12T23:11:38+00:00"
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+        "published": "2026-11-13T22:36:45+00:00"
       }
     ],
     "asia": [
       {
-        "id": "434243c6470f6dcd7c10245bb6fc08ce",
-        "title": "Par for the cause: Hong Kong Golf Club raises funds, builds community through sports",
-        "summary": "Members of the Hong Kong Golf Club gathered on the putting green this autumn to take part in two sporting events, both aimed at supporting charitable causes and strengthening community ties. Beyond world-class competition, the club has used the Link Hong Kong Open as a platform to promote charitable giving and community engagement, working alongside the annual fundraising campaign Operation Santa Claus (OSC). The 65th edition of the Link Hong Kong Open was held at the Hong Kong Golf Club’s...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/hong-kong/society/article/3374226/par-cause-hong-kong-golf-club-raises-funds-builds-community-through-sports",
-        "published": "2026-11-13T02:15:06+00:00"
-      },
-      {
-        "id": "fa5810090693db60f8fa197f0eeaf275",
-        "title": "U.S., Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
-        "summary": "U.S. envoys Jared Kushner and Steve Witkoff held over four hours of talks with Vladimir Putin in the Kremlin before jetting to debrief Volodymyr Zelenskyy in Dublin",
+        "id": "d0bb91283af316526af510b9c74db2bb",
+        "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
+        "summary": "For the Kremlin, the planned trilateral meeting is a coveted chance to posture as a superpower on par with Washington and Beijing",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/article71696395.ece",
-        "published": "2026-11-13T02:03:27+00:00"
+        "url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+        "published": "2026-11-14T01:47:32+00:00"
       },
       {
-        "id": "8e7d3b2c85dac8ccd92e19a7349b13d3",
-        "title": "Amidst simmering tensions, India-Bangladesh consular dialogue postponed",
-        "summary": "This would have been the fifth such consular dialogue and the first after the August 2024 uprising; postponement due to tensions over former PM Hasina’s plan to return to Bangladesh next month",
+        "id": "921f5d14554a0ef6852469ba25208ae6",
+        "title": "All departing U.S. flights grounded due to communication outage",
+        "summary": "The incident marked only the second time such an alert was given in U.S. airspace since the 9/11 attacks; Homeland Security Secretary Markwayne Mullin said there was no sign of a threat to the country and “this isn’t another 9/11”",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/national/amidst-simmering-tensions-india-bangladesh-consular-dialogue-postponed/article71694931.ece",
-        "published": "2026-11-13T01:37:59+00:00"
+        "url": "https://www.thehindu.com/news/international/all-departing-us-flights-grounded-due-to-communication-outage/article71700667.ece",
+        "published": "2026-11-14T01:47:16+00:00"
       },
       {
-        "id": "7eabab2e5a1e8b747384e712f93bae4b",
-        "title": "Centre sanctions new roads, infrastructure along China’s border",
-        "summary": "The Indo-Tibetan Border Police sanctions the construction of 15 pedestrian suspension bridges and 18 log bridges in Arunachal Pradesh; CCS clears 26 new roads as part of ICBR-III",
+        "id": "a47ce9a5bb4d770d66b4ec56cf638b23",
+        "title": "U.S. FAA ground stop LIVE updates: Nationwide ​halt ⁠to ‌flight ‌take-offs cancelled, FAA says",
+        "summary": "The incident marks only the second time such an alert was given in U.S. airspace since the 9/11 attacks.",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
-        "published": "2026-11-13T01:37:01+00:00"
+        "url": "https://www.thehindu.com/news/international/us-flights-grounded-faa-nationwide-stop-usa-flights-live-updates-november-14-2026/article71700693.ece",
+        "published": "2026-11-14T01:37:11+00:00"
       },
       {
-        "id": "1da8d7389e2edb5769a3e0fe7a27da3e",
-        "title": "Thunderstorms to hit Hong Kong on Friday ahead of colder weather next week",
-        "summary": "Hong Kong is set for heavy showers and thunderstorms from Friday night, with urban area temperatures forecast to fall to as low as 19 degrees Celsius (66 Fahrenheit) next week as a cold front reaches the Guangdong coast. The Hong Kong Observatory said upper-air disturbances would bring showers and a few squally thunderstorms to southern China on Friday and Saturday. The city will see sunny periods on Friday, but showers will develop in the afternoon and intensify at night, accompanied by...",
-        "source": "South China Morning Post",
+        "id": "26abd82b5bef2ace45fd79bddc99d27e",
+        "title": "Megaspeed: Gaming company to chips linchpin",
+        "summary": "How Megaspeed, a little-known firm started by Alice Huang, became a linchpin in the chips trade",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3374276/thunderstorms-hit-hong-kong-friday-ahead-colder-weather-next-week",
-        "published": "2026-11-13T01:33:08+00:00"
+        "url": "https://www.thehindu.com/news/international/megaspeed-gaming-company-to-chips-linchpin/article71697385.ece",
+        "published": "2026-11-14T01:34:07+00:00"
       },
       {
-        "id": "cfbd05d67e561c1e0d4ca333b23378fa",
-        "title": "Fewer Japanese subscribe to newspapers. Yet they trust print media more",
-        "summary": "Less than half of households in Japan subscribe to a daily newspaper, a level not seen in about 60 years, according to a media tracking report, signalling further evidence of the decline of print as the favoured news medium in the country. While the report shows most Japanese no longer read newspapers, they still trust legacy media more than online media. “It is commonly said that two factors have reduced the number of people subscribing to print newspapers,” said Tetsuo Hatanaka, a professor at",
-        "source": "South China Morning Post",
+        "id": "2d969cbe4e67bba6e93364a5625b51f2",
+        "title": "Microsoft Outage LIVE: Microsoft apologises as global service outage eases",
+        "summary": "Microsoft is testing fixes, rerouting traffic and boosting server capacity as it works to stabilise its systems and restore services",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3374274/fewer-japanese-subscribe-newspapers-yet-they-trust-print-media-more",
-        "published": "2026-11-13T01:30:08+00:00"
+        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece",
+        "published": "2026-11-14T01:31:36+00:00"
       },
       {
-        "id": "01d3aeb59426b7870347210ebe192650",
-        "title": "Eli Lilly beats Novo Nordisk to China approval for first oral GLP-1 weight-loss drug",
-        "summary": "China has approved US pharmaceutical giant Eli Lilly’s weight-loss pill orforglipron, making it the country’s first available oral GLP-1 treatment for obesity as global drug makers seek to tap the country’s massive weight-management market. China’s National Medical Products Administration announced the approval on Thursday, saying that the once-daily pill, marketed as Foundayo, could be used for chronic weight management by obese or overweight adults. GLP-1 receptor agonists are synthetic...",
+        "id": "c252120b482199693ddef40bc8d444db",
+        "title": "Don’t take Nvidia CEO Jensen Huang’s ‘sex’ scandal at face value",
+        "summary": "“I thought spooks were supposed to be stealthy,” the uncouth, flatulent anti-hero Jackson Lamb complains in the hit British spy series Slow Horses as an annoying underling loudly enters his rundown office building, known to fans as Slough House. I have no idea if Alice Huang, the alleged love interest of billionaire Jensen Huang – who resigned as Nvidia CEO on Thursday – is really a Chinese Mata Hari. My own knowledge of espionage is confined to reading John le Carre and Robert Ludlum, and...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/business/companies/article/3374229/eli-lilly-beats-novo-nordisk-china-approval-first-oral-glp-1-weight-loss-drug",
-        "published": "2026-11-13T01:01:06+00:00"
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3374017/dont-take-nvidia-ceo-jensen-huangs-sex-scandal-face-value",
+        "published": "2026-11-14T01:30:08+00:00"
       },
       {
-        "id": "813068d65644ae12d59f1794053535de",
-        "title": "Why Japanese firms are shrugging off bilateral tensions, adjusting China sales strategies",
-        "summary": "Macroeconomic issues are occupying the thoughts of leading Japanese multinationals as they adjust strategies in China, but few say they worry that diplomatic tensions will cost them opportunities in one of their largest overseas markets. Big names, from Panasonic to Hitachi, used a major trade show in Shanghai this week to highlight their commitment to China and parade their offerings. While nimbly navigating geopolitical headwinds, they are also looking forward to possible exchanges between...",
-        "source": "South China Morning Post",
+        "id": "0be23d0fa0fa1a1c68a9952eeb82dcf6",
+        "title": "Microsoft Outage updates: No ETA yet on full recovery, company says",
+        "summary": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.scmp.com/economy/china-economy/article/3374215/why-japanese-firms-are-shrugging-bilateral-tensions-adjusting-china-sales-strategies",
-        "published": "2026-11-13T01:00:06+00:00"
+        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+        "published": "2026-11-14T01:18:21+00:00"
+      },
+      {
+        "id": "1d63a30e68fe643340dcb9d8898db0a3",
+        "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
+        "summary": "US officials say President Donald Trump plans to discuss nuclear arms reductions and the war in Iran with his Chinese and Russian counterparts, in what would be an unprecedented trilateral meeting.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/east-asia/trump-xi-putin-trilateral-summit-apec-6551001",
+        "published": "2026-11-14T01:16:51+00:00"
       }
     ],
     "others": [
       {
-        "id": "3dcf0572fb44384c0b3d7a1f81a8ef7c",
-        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-        "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T02:01:35+00:00"
-      },
-      {
-        "id": "1843d9a9c639cd799af2acd44db36652",
-        "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
-        "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+        "id": "b3c1ce599da215c5ad544409339f8e52",
+        "title": "Tanker collision leaves riverboat passengers clinging to railings",
+        "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
-        "published": "2026-11-13T01:44:55+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+        "published": "2026-11-14T01:37:08+00:00"
       },
       {
-        "id": "98d4421e10adcda88981ed15eea167ba",
-        "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
-        "summary": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+        "id": "ab1b65f9ffe78357a70caf9d90090955",
+        "title": "Former FAA official says ‘nobody really knows what is going on’",
+        "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
-        "published": "2026-11-13T01:43:17+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+        "published": "2026-11-14T01:28:46+00:00"
       },
       {
-        "id": "d9bbccd3744e5e1cc75b2968b7c43c95",
-        "title": "Australian footballers will not be charged after hotel incident, police say",
-        "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T01:03:59+00:00"
-      },
-      {
-        "id": "bc1882dac33fc9bcbf282fae5fb8b0d7",
-        "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-        "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T00:20:24+00:00"
-      },
-      {
-        "id": "18383ce6d3d4f525d0af534264be00e9",
-        "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-        "summary": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+        "id": "85ffb569aece0a1b5ce01a6c5065a502",
+        "title": "UK police open sex offence probe into comedian and author David Walliams",
+        "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
-        "published": "2026-11-13T00:00:26+00:00"
+        "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+        "published": "2026-11-14T00:22:07+00:00"
       },
       {
-        "id": "f07cea66358b60cada8838089e849526",
-        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "id": "c5c986bd8ed98dd148d4637866756460",
+        "title": "Setback for SpaceX Starship rocket's double-catch test",
+        "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-12T23:34:05+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-14T00:01:01+00:00"
       },
       {
-        "id": "d76e033babdc40f962678a007f60773c",
-        "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
-        "summary": "A seat at the table for Europe now appears likely following comments by a US envoy who just held talks with Putin. But who will take that seat remains unclear.",
+        "id": "1e7c4520d0b771000c2933d9bb2456e6",
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13T23:40:45+00:00"
+      },
+      {
+        "id": "88d2480fceee5fe1c60fc1225e78a524",
+        "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+        "summary": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-11-12T22:00:00+00:00"
+        "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-11-13T21:31:00+00:00"
+      },
+      {
+        "id": "6d24ceb9da58124c54d8aecc7c4f7290",
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13T21:14:22+00:00"
+      },
+      {
+        "id": "f408ea089df0c3c99af3cc7c6157057f",
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13T18:36:57+00:00"
       }
     ],
     "tech": [
       {
-        "id": "b005218bd38e94a7ef1f0cfcbe25be68",
-        "title": "Donald Trump really wants Tim Cook to run Nvidia",
-        "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]",
+        "id": "239ea52de88f309d8fa2b5ac2ecd1fca",
+        "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+        "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-        "published": "2026-11-13T00:46:07+00:00"
+        "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+        "published": "2026-11-14T01:53:04+00:00"
       },
       {
-        "id": "1902530ec1190a240ea5a9256ea73267",
-        "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-        "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 28 # Comments: 5",
+        "id": "32544733c804b2716c01e7bc1ab12555",
+        "title": "FAA lifted National Ground Stop at 0119Z",
+        "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 20 # Comments: 2",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-        "published": "2026-11-13T00:38:41+00:00"
+        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+        "published": "2026-11-14T01:30:01+00:00"
       },
       {
-        "id": "4253a09dc5704c946a3259710c2a99c2",
-        "title": "Xbox announces Wolfenstein 3",
-        "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-        "published": "2026-11-13T00:11:44+00:00"
-      },
-      {
-        "id": "67e1fbe38b0f60633b40aab85dbeb2cc",
-        "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-        "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-        "published": "2026-11-12T23:43:22+00:00"
-      },
-      {
-        "id": "c8477fe78a4e4765a942bf4e4682d4b4",
-        "title": "Humble Bundle redesign removes two-factor verification from settings",
-        "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-        "published": "2026-11-12T23:30:52+00:00"
-      },
-      {
-        "id": "4ca8ea6de60b47ec3aa0fbcbd578e90c",
-        "title": "Microsoft Outlook is still down",
-        "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-        "published": "2026-11-12T23:24:13+00:00"
-      },
-      {
-        "id": "a5bbbdd680b575656beb1048bad1eb37",
-        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-        "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 50 # Comments: 14",
+        "id": "508ccf2b297bbdd16e49a28093bda846",
+        "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+        "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 51 # Comments: 11",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-        "published": "2026-11-12T23:06:17+00:00"
+        "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+        "published": "2026-11-14T01:10:22+00:00"
       },
       {
-        "id": "5998fbd5096dd1bfe062c5596873ef86",
-        "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-        "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" […]",
+        "id": "dd006a3a3707825b4a3cbe2ffbea0164",
+        "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+        "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 93 # Comments: 24",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+        "published": "2026-11-14T00:52:29+00:00"
+      },
+      {
+        "id": "69c12520f6eab811971e80842aa5d75e",
+        "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+        "summary": "One way or another, the company will get some more data on Saturday.",
+        "source": "Ars Technica",
+        "category": "tech",
+        "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+        "published": "2026-11-14T00:49:13+00:00"
+      },
+      {
+        "id": "eb1dbd1d7dbfe79c98c37bcf269c46a9",
+        "title": "Show HN: Light control for MacBook charger status light (open-source)",
+        "summary": "For anyone who wants to control their MacBook charger light. For me, my MacBook lives in my bedroom most nights on charge and the light is quite bright. Config allows on/off automation with time, focus status, or persistently on/off. Open to features / suggestions via Github Comments URL: https://news.ycombinator.com/item?id=50492269 Points: 6 # Comments: 6",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
+        "published": "2026-11-14T00:44:58+00:00"
+      },
+      {
+        "id": "5dc3fffe1928a4b1eb37419894dacffd",
+        "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "summary": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 12 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+        "published": "2026-11-14T00:28:11+00:00"
+      },
+      {
+        "id": "9bb67b5868bc790e0a1add189d25a9f3",
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-        "published": "2026-11-12T23:00:00+00:00"
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "published": "2026-11-13T23:49:11+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "00f7e20accfd04d63e6f18d879d08fcc",
+        "title": "Teaching kids to think for themselves in the age of AI",
+        "summary": "The Economist Educational Foundation helps schoolchildren around the world make sense of the news",
+        "source": "International",
+        "category": "economist",
+        "url": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
+        "published": "2026-11-13T11:37:50+00:00"
+      },
       {
         "id": "ac48adce1920f940a1154a0bae30158c",
         "title": "Jensen Huang is out. His successor has the toughest job in tech",
@@ -408,39 +417,30 @@
         "published": "2026-11-12T14:08:53+00:00"
       },
       {
-        "id": "79ea3d035f6ca38495114a3d6452d577",
-        "title": "The panic over personalised pricing is overdone",
-        "summary": "Lawmakers are getting ahead of themselves",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
-        "published": "2026-11-12T14:08:53+00:00"
-      },
-      {
-        "id": "ae20c4d573cc9bb2736cb44a0452f2ce",
-        "title": "Everything is going wrong for SoftBank",
-        "summary": "Masayoshi Son’s all-in bet on AI is looking shaky",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
-        "published": "2026-11-12T14:08:53+00:00"
-      },
-      {
-        "id": "4191a666c494138341f06465a47e0458",
-        "title": "A franchise revolution is stirring in China",
-        "summary": "It is bringing buzzy retail brands to every corner of the country—and beyond",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
-        "published": "2026-11-12T14:08:53+00:00"
-      },
-      {
         "id": "82a7e1da3dd933741228516c7eb818d8",
         "title": "Can anyone fix the China-Japan relationship?",
         "summary": "The two countries need a go-between. Donald Trump is not an ideal option",
         "source": "Asia",
         "category": "economist",
         "url": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
+        "published": "2026-11-12T14:08:53+00:00"
+      },
+      {
+        "id": "06a25debdcfb1341a211fc5b2d4a5052",
+        "title": "The Japanese region where “eight-testicle women” outdo men",
+        "summary": "It’s a matter of sake and hard work",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
+        "published": "2026-11-12T14:08:53+00:00"
+      },
+      {
+        "id": "79ea3d035f6ca38495114a3d6452d577",
+        "title": "The panic over personalised pricing is overdone",
+        "summary": "Lawmakers are getting ahead of themselves",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
         "published": "2026-11-12T14:08:53+00:00"
       }
     ]
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5230.85986328125,
-        "prev_close": 5289.66015625,
-        "change_pct": -1.11,
+        "price": 5231.83984375,
+        "prev_close": 5282.7001953125,
+        "change_pct": -0.96,
         "direction": "down",
-        "price_fmt": "5,230.9",
-        "change_str": "-1.11%"
+        "price_fmt": "5,231.8",
+        "change_str": "-0.96%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7592.39990234375,
-        "prev_close": 7619.3798828125,
-        "change_pct": -0.35,
+        "price": 7561.669921875,
+        "prev_close": 7592.39990234375,
+        "change_pct": -0.4,
         "direction": "down",
-        "price_fmt": "7,592.4",
-        "change_str": "-0.35%"
+        "price_fmt": "7,561.7",
+        "change_str": "-0.40%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23871.330078125,
-        "prev_close": 24315.919921875,
-        "change_pct": -1.83,
+        "price": 23637.599609375,
+        "prev_close": 24008.55078125,
+        "change_pct": -1.55,
         "direction": "down",
-        "price_fmt": "23,871",
-        "change_str": "-1.83%"
+        "price_fmt": "23,638",
+        "change_str": "-1.55%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 61848.359375,
-        "prev_close": 61248.58984375,
-        "change_pct": 0.98,
+        "price": 61142.3515625,
+        "prev_close": 60819.359375,
+        "change_pct": 0.53,
         "direction": "up",
-        "price_fmt": "61,848",
-        "change_str": "+0.98%"
+        "price_fmt": "61,142",
+        "change_str": "+0.53%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10835.5,
-        "prev_close": 10751.599609375,
-        "change_pct": 0.78,
+        "price": 10902.599609375,
+        "prev_close": 10863.099609375,
+        "change_pct": 0.36,
         "direction": "up",
-        "price_fmt": "10,836",
-        "change_str": "+0.78%"
+        "price_fmt": "10,903",
+        "change_str": "+0.36%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 9091.0,
-        "prev_close": 9153.2001953125,
-        "change_pct": -0.68,
-        "direction": "down",
-        "price_fmt": "9,091.0",
-        "change_str": "-0.68%"
+        "price": 9082.2001953125,
+        "prev_close": 9082.2001953125,
+        "change_pct": 0.0,
+        "direction": "flat",
+        "price_fmt": "9,082.2",
+        "change_str": "0.00%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2864199876785278,
+        "price": 1.2868200540542603,
         "prev_close": 1.2838000059127808,
-        "change_pct": 0.2,
+        "change_pct": 0.24,
         "direction": "up",
         "price_fmt": "1.29",
-        "change_str": "+0.20%"
+        "change_str": "+0.24%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4226100444793701,
+        "price": 1.4219399690628052,
         "prev_close": 1.4249299764633179,
-        "change_pct": -0.16,
+        "change_pct": -0.21,
         "direction": "down",
         "price_fmt": "1.42",
-        "change_str": "-0.16%"
+        "change_str": "-0.21%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7025599479675293,
+        "price": 1.7017600536346436,
         "prev_close": 1.705090045928955,
-        "change_pct": -0.15,
+        "change_pct": -0.2,
         "direction": "down",
         "price_fmt": "1.70",
-        "change_str": "-0.15%"
+        "change_str": "-0.20%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.00800000037997961,
+        "price": 0.008019999600946903,
         "prev_close": 0.008,
-        "change_pct": 0.0,
+        "change_pct": 0.25,
         "direction": "up",
         "price_fmt": "0.01",
-        "change_str": "0.00%"
+        "change_str": "+0.25%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.1923999935388565,
+        "price": 0.19259999692440033,
         "prev_close": 0.1922,
-        "change_pct": 0.1,
+        "change_pct": 0.21,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "+0.10%"
+        "change_str": "+0.21%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 95.20999908447266,
+        "price": 96.08000183105469,
         "prev_close": 95.81999969482422,
-        "change_pct": -0.64,
-        "direction": "down",
-        "price_fmt": "95.21",
-        "change_str": "-0.64%"
+        "change_pct": 0.27,
+        "direction": "up",
+        "price_fmt": "96.08",
+        "change_str": "+0.27%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 3911.300048828125,
+        "price": 3887.60009765625,
         "prev_close": 3885.300048828125,
-        "change_pct": 0.67,
+        "change_pct": 0.06,
         "direction": "up",
-        "price_fmt": "3,911.3",
-        "change_str": "+0.67%"
+        "price_fmt": "3,887.6",
+        "change_str": "+0.06%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 50.45000076293945,
+        "price": 48.650001525878906,
         "prev_close": 49.97200012207031,
-        "change_pct": 0.96,
-        "direction": "up",
-        "price_fmt": "50.45",
-        "change_str": "+0.96%"
+        "change_pct": -2.65,
+        "direction": "down",
+        "price_fmt": "48.65",
+        "change_str": "-2.65%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.3480000495910645,
+        "price": 3.242000102996826,
         "prev_close": 3.3399999141693115,
-        "change_pct": 0.24,
-        "direction": "up",
-        "price_fmt": "3.35",
-        "change_str": "+0.24%"
+        "change_pct": -2.93,
+        "direction": "down",
+        "price_fmt": "3.24",
+        "change_str": "-2.93%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 70523.3671875,
-        "prev_close": 73964.46875,
-        "change_pct": -4.65,
+        "price": 68220.9375,
+        "prev_close": 71342.96875,
+        "change_pct": -4.38,
         "direction": "down",
-        "price_fmt": "70,523",
-        "change_str": "-4.65%"
+        "price_fmt": "68,221",
+        "change_str": "-4.38%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1998.0899658203125,
-        "prev_close": 2055.876220703125,
-        "change_pct": -2.81,
+        "price": 1926.969970703125,
+        "prev_close": 2016.8297119140625,
+        "change_pct": -4.46,
         "direction": "down",
-        "price_fmt": "1,998.1",
-        "change_str": "-2.81%"
+        "price_fmt": "1,927.0",
+        "change_str": "-4.46%"
       }
     ]
   },
