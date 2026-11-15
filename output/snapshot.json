@@ -2,375 +2,384 @@
   "news": {
     "singapore": [
       {
-        "id": "800328af498a4e47a726d7be1a7adfdb",
-        "title": "Singapore start-up taps peptide power to tackle pet infections, seeks to replace chemical preservatives",
-        "summary": "Healbac is working with six Singapore vet clinics to test its peptide against infections in cats and dogs.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/singapore-start-up-taps-peptide-power-to-tackle-pet-infections-seeks-to-replace-chemical",
-        "published": "2026-11-14T01:00:00+00:00"
-      },
-      {
-        "id": "2bd09593be6de33d13e0588c36cfa45c",
-        "title": "Nvidia-Megaspeed saga could squeeze Singapore's room in chips space, slow things for firms: Analysts",
-        "summary": "An extramarital affair has renewed global scrutiny on chip giant Nvidia and its Singapore-based client Megaspeed, which is suspected of helping China gain access to advanced semiconductors from the US.",
+        "id": "0f00879b3e12935fdf291233f83c1412",
+        "title": "A family photo, a hand to hold: An occupational therapist learnt what matters most to dying patients",
+        "summary": "Some patients worry less about dying than about the loved ones they will leave behind. For St Luke’s Hospital occupational therapist Esther Lim, caring for people nearing the end of life has revealed their regrets, surprisingly simple wishes and moments of joy.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/nvidia-megaspeed-ai-chips-semiconductor-6549036",
-        "published": "2026-11-14T00:41:38+00:00"
+        "url": "https://www.channelnewsasia.com/women/occupational-therapist-dying-patients-last-wishes-6502371",
+        "published": "2026-11-14T22:58:31+00:00"
       },
       {
-        "id": "9430556570b23b4b1ec11b05f28a8679",
-        "title": "Ramen Keisuke's Tori King at 100AM mall closing after 14 years, last day on Nov 29",
-        "summary": "Known for its rich chicken broth ramen, tender chicken thighs and free-flow eggs, the Japanese eatery in Tanjong Pagar is shutting for good after 14 years.",
+        "id": "7172ce641f03d15b7142236fb4b3a15f",
+        "title": "'Very inconvenient': Residents, shop owners frustrated by indiscriminately parked bicycles despite stepped-up enforcement",
+        "summary": "The Land Transport Authority has removed 489 bicycles in the first 10 months of 2026 as it ramps up efforts to tackle the issue.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/dining/ramen-keisuke-tori-king-100am-mall-6550861",
-        "published": "2026-11-14T00:21:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/bicycle-indiscriminate-parking-mrt-stations-cyclists-6551666",
+        "published": "2026-11-14T22:00:00+00:00"
       },
       {
-        "id": "d3af1fc927f421ef8d86b852c4386a05",
-        "title": "Woodlands, Sembawang residents get new stretch of cycling paths; network in area now at 42km",
-        "summary": "New 16km stretch links to key MRT stations and amenities.",
+        "id": "c3956a1181ec0474a2c58e9d59894c48",
+        "title": "Chinatown to get new cinema, while mall near MRT station may soon make way for hotel",
+        "summary": "Both developments signal a renewal of the district’s ageing commercial stock, said an analyst.",
         "source": "The Straits Times",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/woodlands-sembawang-residents-get-new-stretch-of-cycling-paths-network-in-area-now-at-42km",
-        "published": "2026-11-14T00:15:00+00:00"
+        "url": "https://www.straitstimes.com/singapore/chinatown-to-get-new-cinema-while-mall-near-mrt-station-may-soon-make-way-for-hotel",
+        "published": "2026-11-14T21:00:00+00:00"
       },
       {
-        "id": "c1d79ebf7f5ad8f3a2b261eec51f7376",
-        "title": "Singapore ends Youth Olympics campaign with 3 medals; SNOC hails athletes' 'hunger' against world's best",
-        "summary": "The contingent's achievements included a historic wushu gold and Singapore's first-ever fencing medal at the Games, secured on the final day of competition.",
+        "id": "8d31a173dd87301831e6d2af64289d38",
+        "title": "A Tiong Bahru apartment gets a warm, Scandinavian-inspired makeover",
+        "summary": "An 89-sq-m apartment in one of Singapore’s oldest housing estates has been transformed into a light-filled home with an open layout, natural materials and carefully chosen design classics.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/youth-olympic-games-team-singapore-medals-sports-6550241",
-        "published": "2026-11-14T00:12:00+00:00"
+        "url": "https://www.channelnewsasia.com/obsessions/tiong-bahru-apartment-renovation-scandinavian-interior-design-6537686",
+        "published": "2026-11-14T20:45:00+00:00"
       },
       {
-        "id": "e79ebaf05566c4f6b863a95c700c3ffb",
-        "title": "Are you losing muscle without knowing it? These tests can detect sarcopenia as you age",
-        "summary": "You may look the same on the outside but your muscles could be shrinking without you knowing it. Doctors explain the signs of age-related muscle loss, the tests that can detect it, and whether strength training and nutrition can really help reverse the damage.",
+        "id": "e260aa8adc4de58b6acd9fdf8e9c3247",
+        "title": "Was it really the police? Calls from SPF now come from one number",
+        "summary": "Since Nov 2, all police calls to the public come from a single number, 6000 0999, to help people tell real officers from impersonators.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/was-it-really-the-police-calls-from-spf-now-come-from-one-number",
+        "published": "2026-11-14T20:00:00+00:00"
+      },
+      {
+        "id": "fa1d352fb6c83c09ac1f1b6ad74715ef",
+        "title": "140,000 migrant worker records hit in Fullerton Health cyber breach; new server planned",
+        "summary": "About 43,000 compromised records belonged to individuals whose work passes are no longer valid.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/records-of-140000-migrant-workers-hit-by-fullerton-health-portal-breach-new-server-planned",
+        "published": "2026-11-14T15:54:43+00:00"
+      },
+      {
+        "id": "8e4505bdcae05b3d520d880b703b49bb",
+        "title": "Malaysian team of seniors wins Counter-Strike 2 e-sports contest in Singapore",
+        "summary": "The competition was Asia’s first offline international senior e-sports tournament.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/malaysian-team-of-seniors-wins-counter-strike-2-e-sports-contest-in-singapore",
+        "published": "2026-11-14T13:55:55+00:00"
+      },
+      {
+        "id": "754dd02a1573da77e3bd0d0e3008f611",
+        "title": "Records of about 140,000 migrant workers exposed in Fullerton Health's recent data breach",
+        "summary": "About 43,000 records belonged to individuals whose work passes were no longer valid, the healthcare provider said in response to CNA's queries.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/wellness/sarcopenia-muscle-loss-tests-dexa-handgrip-strength-ageing-6542351",
-        "published": "2026-11-13T22:52:57+00:00"
-      },
-      {
-        "id": "86f0b12fda94e928a6e6ef3858017039",
-        "title": "Seniors take to the water in Singapore’s first dragon boat race for older adults",
-        "summary": "",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/seniors-take-to-the-water-in-singapores-first-dragon-boat-race-for-older-adults",
-        "published": "2026-11-13T21:00:00+00:00"
-      },
-      {
-        "id": "8389847fd88f06077f54fa565b80c531",
-        "title": "New smart video system on roads can help identify cause of traffic accidents, detect illegal parking",
-        "summary": "It can also detect road hazards and predict potential problem areas when it is rolled out from 2028.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/new-smart-video-system-on-roads-can-help-identify-cause-of-traffic-accidents-detect-illegal-parking",
-        "published": "2026-11-13T21:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/fullerton-health-cybersecurity-data-incident-work-pass-holder-records-6551586",
+        "published": "2026-11-14T10:47:48+00:00"
       }
     ],
     "us": [
       {
-        "id": "6f5e004668b21c27475c2d0fc60fa23f",
-        "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
-        "summary": "President Trump plans to meet with Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China next week, marking the first-ever trilateral meeting between the three leaders. Trump will be in Asia for The Association of Southeast Asian Nations summit in the Philippines and…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
-        "published": "2026-11-14T01:30:55+00:00"
-      },
-      {
-        "id": "2e3448828e86870c24fa5a55a3515143",
-        "title": "Rubio, off script, leans into inspiring vision for America as 2028 speculation grows",
-        "summary": "Secretary of State Marco Rubio promoted an inspirational view of the United States during remarks at a conservative law conference Friday, invoking the image of a country where an ambitious attitude binds Americans — striving toward living up to the founding ideals Rubio’s off-script remarks, which followed a keynote address during the annual conference of…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/administration/6220243-rubio-federalist-society-remarks-2028-preview/",
-        "published": "2026-11-14T01:14:44+00:00"
-      },
-      {
-        "id": "d736e5262ebff7e959c52896385997c1",
-        "title": "Watch: Duffy, Mullin hold press briefing on FAA nationwide ground stop",
-        "summary": "Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy will hold a press briefing at the White House on Friday night to provide an update on the Federal Aviation Administration’s (FAA) nationwide ground stop. “The @FAANews [FAA] issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop/",
-        "published": "2026-11-14T00:54:31+00:00"
-      },
-      {
-        "id": "6e73530440a071d9da9c6532376614ae",
-        "title": "Hegseth directs Pentagon CFO to transform military pay systems",
-        "summary": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Hegseth directs Pentagon CFO to transform military pay systems Defense Secretary Pete Hegseth directed the Pentagon’s comptroller to begin a “comprehensive transformation” of the military pay systems, arguing the current process has resulted in a growing…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/",
-        "published": "2026-11-14T00:25:15+00:00"
-      },
-      {
-        "id": "7936e184646f5bcfd1dc179bbf027dce",
-        "title": "Multiple college football teams in flight limbo due to FAA ground stop",
-        "summary": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has impacted travel plans for college football teams scheduled to fly to their destinations. Among teams impacted are four schools in the NCAA’s Big 12 Conference, Baylor University, Kansas State University, University of Utah and Arizona State University; three in the Big Ten…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football/",
-        "published": "2026-11-14T00:08:59+00:00"
-      },
-      {
-        "id": "eb6f7590053abb09504b51e601b697a3",
-        "title": "House Democrat calls FAA stop ‘quite disturbing’",
-        "summary": "Rep. Robert Garcia (D-Calif.) called the nationwide ground stop issued by the Federal Aviation Administration (FAA) on Friday “quite disturbing.” “This is quite disturbing and pretty extraordinary of a action taken,” Garcia said during an appearance on MS NOW. “Whatever it is, I think deserves as much transparency as possible.” “The impact is going to…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/",
-        "published": "2026-11-13T23:22:00+00:00"
-      },
-      {
-        "id": "db16f2bdd9411002df53028feddc3e0a",
-        "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-        "summary": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+        "id": "eeb6d6f89012c0ec5a75378418bdc730",
+        "title": "FAA ground stop disrupts college football",
+        "summary": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-        "published": "2026-11-13T22:36:46+00:00"
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+        "published": "2026-11-15T01:13:59+00:00"
       },
       {
-        "id": "f5566973b6c07a2b879932f3fde50eac",
-        "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
-        "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+        "id": "23306b1f71d2ee3ab1c35d75a2dc3a10",
+        "title": "Bigger and more-frequent wildfires threaten water supplies across the US",
+        "summary": "Wildfires leave behind charred trees and scorched vegetation that impact the streams and rivers providing drinking water to much of the country, and new studies show that contamination could remain for more than a decade.",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/energy-environment/6220821-wildfire-contamination-drinking-water-rises/",
+        "published": "2026-11-15T01:13:19+00:00"
+      },
+      {
+        "id": "58fca6facec63f117b2a1f568ce40094",
+        "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal",
+        "summary": "Canadian Prime Minister Mark Carney said Saturday trade negotiations between his government and the U.S. were progressing amid a monthslong tariff battle between the two countries. The leader told reporters in Manila he had a conversation with President Trump, U.S. Trade Representative Jamieson Greer, White House chief of staff Stephen Miller and other officials “just…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/",
+        "published": "2026-11-15T00:26:46+00:00"
+      },
+      {
+        "id": "d832cd407812ed253cc080667ba7ba8d",
+        "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+        "summary": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
-        "published": "2026-11-13T22:36:45+00:00"
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+        "published": "2026-11-15T00:03:52+00:00"
+      },
+      {
+        "id": "60c68ba5b29bcb3de8b0007242965ebc",
+        "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
+        "summary": "Democrats are charting their political future and issuing warnings to exercise their oversight powers against the Trump administration after gaining control of Congress with sweeping midterm election wins. This week, more races were called in Democrats’ favor in Mississippi and Colorado. The Alaska Senate race remains uncalled as of Saturday afternoon, but new ballot counts…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/",
+        "published": "2026-11-14T23:55:20+00:00"
+      },
+      {
+        "id": "8d3fccecb4368ed5e434cb930a6b9b36",
+        "title": "Federalist Society’s celebrations mix with shock over Democratic sweep",
+        "summary": "Two years ago, a champagne cork went flying on the Federalist Society convention stage as panelists toasted recent Supreme Court wins. A celebratory mood was still on display at this year’s annual gathering of the conservative legal movement, but those feelings were mixed with shock from Democrats’ midterm victories. “On election night, there was a congressman…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/",
+        "published": "2026-11-14T23:25:26+00:00"
+      },
+      {
+        "id": "ce34fdf6e00a992e6a6d91ae58e89561",
+        "title": "Burchett rips Johnson, Thune over FAA funding: ‘Step up to the daggum plate’",
+        "summary": "GOP Rep. Tim Burchett (Tenn.) called on his party’s congressional leadership — House Speaker Mike Johnson (La.) and Senate Majority Leader John Thune (S.D.) to “step up to the daggum plate” Saturday morning, urging the pair to pass legislation funding air travel infrastructure updates in light of Friday’s nationwide ground stop. “We know that it…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/",
+        "published": "2026-11-14T23:08:06+00:00"
+      },
+      {
+        "id": "de876ae5bc87c1a47242696a24998e69",
+        "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+        "summary": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
+        "source": "NPR",
+        "category": "us",
+        "url": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+        "published": "2026-11-14T22:48:38+00:00"
       }
     ],
     "asia": [
       {
-        "id": "d0bb91283af316526af510b9c74db2bb",
-        "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
-        "summary": "For the Kremlin, the planned trilateral meeting is a coveted chance to posture as a superpower on par with Washington and Beijing",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
-        "published": "2026-11-14T01:47:32+00:00"
-      },
-      {
-        "id": "921f5d14554a0ef6852469ba25208ae6",
-        "title": "All departing U.S. flights grounded due to communication outage",
-        "summary": "The incident marked only the second time such an alert was given in U.S. airspace since the 9/11 attacks; Homeland Security Secretary Markwayne Mullin said there was no sign of a threat to the country and “this isn’t another 9/11”",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/all-departing-us-flights-grounded-due-to-communication-outage/article71700667.ece",
-        "published": "2026-11-14T01:47:16+00:00"
-      },
-      {
-        "id": "a47ce9a5bb4d770d66b4ec56cf638b23",
-        "title": "U.S. FAA ground stop LIVE updates: Nationwide ​halt ⁠to ‌flight ‌take-offs cancelled, FAA says",
-        "summary": "The incident marks only the second time such an alert was given in U.S. airspace since the 9/11 attacks.",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/us-flights-grounded-faa-nationwide-stop-usa-flights-live-updates-november-14-2026/article71700693.ece",
-        "published": "2026-11-14T01:37:11+00:00"
-      },
-      {
-        "id": "26abd82b5bef2ace45fd79bddc99d27e",
-        "title": "Megaspeed: Gaming company to chips linchpin",
-        "summary": "How Megaspeed, a little-known firm started by Alice Huang, became a linchpin in the chips trade",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/megaspeed-gaming-company-to-chips-linchpin/article71697385.ece",
-        "published": "2026-11-14T01:34:07+00:00"
-      },
-      {
-        "id": "2d969cbe4e67bba6e93364a5625b51f2",
-        "title": "Microsoft Outage LIVE: Microsoft apologises as global service outage eases",
-        "summary": "Microsoft is testing fixes, rerouting traffic and boosting server capacity as it works to stabilise its systems and restore services",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece",
-        "published": "2026-11-14T01:31:36+00:00"
-      },
-      {
-        "id": "c252120b482199693ddef40bc8d444db",
-        "title": "Don’t take Nvidia CEO Jensen Huang’s ‘sex’ scandal at face value",
-        "summary": "“I thought spooks were supposed to be stealthy,” the uncouth, flatulent anti-hero Jackson Lamb complains in the hit British spy series Slow Horses as an annoying underling loudly enters his rundown office building, known to fans as Slough House. I have no idea if Alice Huang, the alleged love interest of billionaire Jensen Huang – who resigned as Nvidia CEO on Thursday – is really a Chinese Mata Hari. My own knowledge of espionage is confined to reading John le Carre and Robert Ludlum, and...",
+        "id": "754a88a1f94e5bc716e894f1c2fa921a",
+        "title": "Have you done this before? Hong Kong firefighter recalls mid-air rescue chat",
+        "summary": "Hong Kong firefighter Yuen Chung-hang did not expect to have to explain his work experience while dangling from a rope to rescue one of two workers left hanging in mid-air outside a skyscraper after their gondola malfunctioned. As Yuen tried to keep the man calm with small talk during their descent from the 35th floor of Jardine House in Central late last month, he was asked whether he had handled similar situations before. “I didn’t expect that, but I understand it because the worker was very..",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3374017/dont-take-nvidia-ceo-jensen-huangs-sex-scandal-face-value",
-        "published": "2026-11-14T01:30:08+00:00"
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3374451/have-you-done-hong-kong-firefighter-recalls-mid-air-rescue-chat",
+        "published": "2026-11-15T01:00:14+00:00"
       },
       {
-        "id": "0be23d0fa0fa1a1c68a9952eeb82dcf6",
-        "title": "Microsoft Outage updates: No ETA yet on full recovery, company says",
-        "summary": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours",
+        "id": "9f76dbf15056972b8438ad3d6ac0433b",
+        "title": "Asean’s neutrality set to be tested as Philippines welcomes world leaders",
+        "summary": "World leaders converged in Manila for the Asean summit on Sunday, bringing attention to the 11-member bloc’s growing clout in a region with a population of 700 million and a US$4.4 trillion economy that is tipped to become the world’s fourth largest by 2030. Among top officials flying in are Canadian Prime Minister Mark Carney, Brazilian President Luiz Inacio Lula da Silva, Chinese Premier Li Qiang and US President Donald Trump, with the latter expected to attend on Tuesday . But questions...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/week-asia/politics/article/3374395/aseans-neutrality-set-be-tested-philippines-welcomes-world-leaders",
+        "published": "2026-11-15T01:00:10+00:00"
+      },
+      {
+        "id": "1ab58d4ecc465b6e00dca6b2dffd8662",
+        "title": "Malaysia’s Melaka poll shows ethnic lines firming. Can Anwar turn Malay nationalist tide?",
+        "summary": "Identity politics could very well decide the outcome of Malaysia’s next national election, experts say, after parties and voters dug in their heels along ethnic lines in recent polls that have undermined Prime Minister Anwar Ibrahim’s multicultural ruling coalition. On Saturday, Anwar’s Pakatan Harapan (PH) suffered its third straight electoral defeat this year in Melaka state as the incumbent Barisan Nasional (BN) coalition and its new partner, the Perikatan Nasional (PN) federal opposition...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/week-asia/politics/article/3374453/malaysias-melaka-poll-shows-ethnic-lines-firming-can-anwar-turn-malay-nationalist-tide",
+        "published": "2026-11-15T00:00:16+00:00"
+      },
+      {
+        "id": "a72c8d436969eb64da22ea58f33ec73b",
+        "title": "Anutin takes pitch to summits",
+        "summary": "Prime Minister Anutin Charnvirakul will highlight Thailand's energy security, infrastructure and investment potential at the upcoming Asean and Apec summits, seeking to attract global investors to use the country as a gateway to a regional market of 700 million people under the concept of \"Asean and Beyond\".",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/thailand/general/3354721/anutin-takes-pitch-to-summits",
+        "published": "2026-11-14T23:47:00+00:00"
+      },
+      {
+        "id": "899435bf53df56f6ba2c172b37c5e7e7",
+        "title": "Firms to face rising pressure: SCG",
+        "summary": "Thai businesses face mounting economic and technological pressures over the next three years, prompting calls for stronger preparation, closer supply-chain cooperation and workforce training.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3354875/firms-to-face-rising-pressure-scg",
+        "published": "2026-11-14T23:26:00+00:00"
+      },
+      {
+        "id": "b3a794caf0d5e65b15441e5e3380acce",
+        "title": "Stronger resilience, collaboration key",
+        "summary": "Stronger national resilience and closer public-private collaboration to ensure foreign investment delivers benefits for Thailand's domestic economy, says Deputy Prime Minister and Finance Minister Ekniti Nitithanprapas.",
+        "source": "Bangkok Post",
+        "category": "asia",
+        "url": "https://www.bangkokpost.com/business/general/3354885/stronger-resilience-collaboration-key",
+        "published": "2026-11-14T23:19:00+00:00"
+      },
+      {
+        "id": "66d086d3cbf54949470f20e85cc9ddaf",
+        "title": "Bomb rips through Damascus suburb; killing 2, including child",
+        "summary": "The explosion took place in the southern Damascus suburb of Jaramana near a factory where batteries are produced, state TV said",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-        "published": "2026-11-14T01:18:21+00:00"
+        "url": "https://www.thehindu.com/news/international/bomb-rips-through-damascus-suburb-several-people-killed/article71703052.ece",
+        "published": "2026-11-14T23:13:39+00:00"
       },
       {
-        "id": "1d63a30e68fe643340dcb9d8898db0a3",
-        "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
-        "summary": "US officials say President Donald Trump plans to discuss nuclear arms reductions and the war in Iran with his Chinese and Russian counterparts, in what would be an unprecedented trilateral meeting.",
-        "source": "CNA Asia",
+        "id": "813a8eabf8a51e6bc09a3c159b9b0908",
+        "title": "Thais review air safety after US disruptions",
+        "summary": "The Transport Ministry is reviewing Thailand's aviation safety systems after a communications failure disrupted 22 air traffic control centres across the United States.",
+        "source": "Bangkok Post",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/east-asia/trump-xi-putin-trilateral-summit-apec-6551001",
-        "published": "2026-11-14T01:16:51+00:00"
+        "url": "https://www.bangkokpost.com/thailand/general/3354826/thais-review-air-safety-after-us-disruptions",
+        "published": "2026-11-14T23:11:00+00:00"
       }
     ],
     "others": [
       {
-        "id": "b3c1ce599da215c5ad544409339f8e52",
-        "title": "Tanker collision leaves riverboat passengers clinging to railings",
-        "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+        "id": "a5d4fbb0bd6375f9eac05480000f2af1",
+        "title": "Hundreds of men march in Switzerland to protest violence against women",
+        "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
-        "published": "2026-11-14T01:37:08+00:00"
+        "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+        "published": "2026-11-15T00:27:14+00:00"
       },
       {
-        "id": "ab1b65f9ffe78357a70caf9d90090955",
-        "title": "Former FAA official says ‘nobody really knows what is going on’",
-        "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+        "id": "9cfc28c3b594f392f47dfb49da3014e0",
+        "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+        "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
-        "published": "2026-11-14T01:28:46+00:00"
+        "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+        "published": "2026-11-15T00:14:22+00:00"
       },
       {
-        "id": "85ffb569aece0a1b5ce01a6c5065a502",
-        "title": "UK police open sex offence probe into comedian and author David Walliams",
-        "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+        "id": "83f704548f6c8ebc8258b2bd43936ad8",
+        "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+        "summary": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
-        "published": "2026-11-14T00:22:07+00:00"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+        "published": "2026-11-15T00:00:08+00:00"
       },
       {
-        "id": "c5c986bd8ed98dd148d4637866756460",
-        "title": "Setback for SpaceX Starship rocket's double-catch test",
-        "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+        "id": "52757b282200dae645f4d1d86656d45f",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-14T00:01:01+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-14T22:37:25+00:00"
       },
       {
-        "id": "1e7c4520d0b771000c2933d9bb2456e6",
-        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-        "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+        "id": "d5e77e4987c6389fbc5b6dfd5ec7de84",
+        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T23:40:45+00:00"
+        "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-14T22:09:40+00:00"
       },
       {
-        "id": "88d2480fceee5fe1c60fc1225e78a524",
-        "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
-        "summary": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
+        "id": "b4cf8607ede5d2bdc4bd2c83020f88bc",
+        "title": "Nigeria's upcoming election marred by rising AI disinformation",
+        "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
         "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-11-13T21:31:00+00:00"
+        "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-11-14T21:05:00+00:00"
       },
       {
-        "id": "6d24ceb9da58124c54d8aecc7c4f7290",
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "source": "BBC World",
+        "id": "16b1bd523358e1b093e14fccec4dbc09",
+        "title": "Fact check: 'Iranian' content farms reach millions",
+        "summary": "Several social media accounts claiming to represent the Iranian military show signs of being part of so-called content farms. DW Fact Check looks at how they operate and how users can spot them.",
+        "source": "Deutsche Welle",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T21:14:22+00:00"
+        "url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-world-4025-rdf",
+        "published": "2026-11-14T20:26:00+00:00"
       },
       {
-        "id": "f408ea089df0c3c99af3cc7c6157057f",
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+        "id": "3eb5b960237c1205456458ad644aa678",
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-13T18:36:57+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-14T19:12:25+00:00"
       }
     ],
     "tech": [
       {
-        "id": "239ea52de88f309d8fa2b5ac2ecd1fca",
-        "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-        "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage […]",
-        "source": "The Verge",
-        "category": "tech",
-        "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-        "published": "2026-11-14T01:53:04+00:00"
-      },
-      {
-        "id": "32544733c804b2716c01e7bc1ab12555",
-        "title": "FAA lifted National Ground Stop at 0119Z",
-        "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 20 # Comments: 2",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-        "published": "2026-11-14T01:30:01+00:00"
-      },
-      {
-        "id": "508ccf2b297bbdd16e49a28093bda846",
-        "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-        "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 51 # Comments: 11",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-        "published": "2026-11-14T01:10:22+00:00"
-      },
-      {
-        "id": "dd006a3a3707825b4a3cbe2ffbea0164",
-        "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-        "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 93 # Comments: 24",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-        "published": "2026-11-14T00:52:29+00:00"
-      },
-      {
-        "id": "69c12520f6eab811971e80842aa5d75e",
-        "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-        "summary": "One way or another, the company will get some more data on Saturday.",
+        "id": "14a09658587b858383cd07b0ef615a1f",
+        "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+        "summary": "It felt like stepping into the future.",
         "source": "Ars Technica",
         "category": "tech",
-        "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-        "published": "2026-11-14T00:49:13+00:00"
+        "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+        "published": "2026-11-15T00:40:59+00:00"
       },
       {
-        "id": "eb1dbd1d7dbfe79c98c37bcf269c46a9",
-        "title": "Show HN: Light control for MacBook charger status light (open-source)",
-        "summary": "For anyone who wants to control their MacBook charger light. For me, my MacBook lives in my bedroom most nights on charge and the light is quite bright. Config allows on/off automation with time, focus status, or persistently on/off. Open to features / suggestions via Github Comments URL: https://news.ycombinator.com/item?id=50492269 Points: 6 # Comments: 6",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
-        "published": "2026-11-14T00:44:58+00:00"
-      },
-      {
-        "id": "5dc3fffe1928a4b1eb37419894dacffd",
-        "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "summary": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 12 # Comments: 0",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-        "published": "2026-11-14T00:28:11+00:00"
-      },
-      {
-        "id": "9bb67b5868bc790e0a1add189d25a9f3",
-        "title": "Amazon has a plan to index the world’s online shopping data",
-        "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+        "id": "6d7c4e60d6760689a337004cf78b9a40",
+        "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+        "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-        "published": "2026-11-13T23:49:11+00:00"
+        "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+        "published": "2026-11-14T21:44:44+00:00"
+      },
+      {
+        "id": "6fbcd8aabf1dffcb6f9d8a183cf4fbfb",
+        "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+        "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+        "published": "2026-11-14T19:47:40+00:00"
+      },
+      {
+        "id": "380d93dc20ddc75d2931fd68b8d18b47",
+        "title": "Work to replace old copper wire led to the FAA’s ground stop",
+        "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+        "published": "2026-11-14T17:44:28+00:00"
+      },
+      {
+        "id": "4cfb8329436ef7401a93c9380d025ae2",
+        "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+        "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+        "published": "2026-11-14T15:00:00+00:00"
+      },
+      {
+        "id": "09d73c73832634d7c933e22ba4a2ed90",
+        "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+        "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+        "published": "2026-11-14T15:00:00+00:00"
+      },
+      {
+        "id": "2d79f88f17522215b3bbae26617206f5",
+        "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+        "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one […]",
+        "source": "The Verge",
+        "category": "tech",
+        "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+        "published": "2026-11-14T14:18:36+00:00"
+      },
+      {
+        "id": "738bf44c052f8a69c272a8a4847bedc9",
+        "title": "James Webb telescope finds ice older than the star it orbits",
+        "summary": "Radiation and collisions reshape the planetary building materials.",
+        "source": "Ars Technica",
+        "category": "tech",
+        "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+        "published": "2026-11-14T12:15:48+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "6cca9d6e15ab34b7b1dd3e467e3a7f83",
+        "title": "The Bottom Line newsletter: Nvidia will never be the same",
+        "summary": "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+        "published": "2026-11-14T11:55:51+00:00"
+      },
       {
         "id": "00f7e20accfd04d63e6f18d879d08fcc",
         "title": "Teaching kids to think for themselves in the age of AI",
@@ -417,30 +426,21 @@
         "published": "2026-11-12T14:08:53+00:00"
       },
       {
-        "id": "82a7e1da3dd933741228516c7eb818d8",
-        "title": "Can anyone fix the China-Japan relationship?",
-        "summary": "The two countries need a go-between. Donald Trump is not an ideal option",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
-        "published": "2026-11-12T14:08:53+00:00"
-      },
-      {
-        "id": "06a25debdcfb1341a211fc5b2d4a5052",
-        "title": "The Japanese region where “eight-testicle women” outdo men",
-        "summary": "It’s a matter of sake and hard work",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
-        "published": "2026-11-12T14:08:53+00:00"
-      },
-      {
         "id": "79ea3d035f6ca38495114a3d6452d577",
         "title": "The panic over personalised pricing is overdone",
         "summary": "Lawmakers are getting ahead of themselves",
         "source": "Business",
         "category": "economist",
         "url": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
+        "published": "2026-11-12T14:08:53+00:00"
+      },
+      {
+        "id": "ae20c4d573cc9bb2736cb44a0452f2ce",
+        "title": "Everything is going wrong for SoftBank",
+        "summary": "Masayoshi Son’s all-in bet on AI is looking shaky",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
         "published": "2026-11-12T14:08:53+00:00"
       }
     ]
@@ -518,32 +518,32 @@
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2868200540542603,
-        "prev_close": 1.2838000059127808,
-        "change_pct": 0.24,
+        "price": 1.2877000570297241,
+        "prev_close": 1.2868200540542603,
+        "change_pct": 0.07,
         "direction": "up",
         "price_fmt": "1.29",
-        "change_str": "+0.24%"
+        "change_str": "+0.07%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4219399690628052,
-        "prev_close": 1.4249299764633179,
-        "change_pct": -0.21,
+        "price": 1.4191999435424805,
+        "prev_close": 1.4219399690628052,
+        "change_pct": -0.19,
         "direction": "down",
         "price_fmt": "1.42",
-        "change_str": "-0.21%"
+        "change_str": "-0.19%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7017600536346436,
-        "prev_close": 1.705090045928955,
-        "change_pct": -0.2,
+        "price": 1.700700044631958,
+        "prev_close": 1.7017600536346436,
+        "change_pct": -0.06,
         "direction": "down",
         "price_fmt": "1.70",
-        "change_str": "-0.20%"
+        "change_str": "-0.06%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -558,12 +558,12 @@
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19259999692440033,
+        "price": 0.1923999935388565,
         "prev_close": 0.1922,
-        "change_pct": 0.21,
+        "change_pct": 0.1,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "+0.21%"
+        "change_str": "+0.10%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 96.08000183105469,
+        "price": 95.83999633789062,
         "prev_close": 95.81999969482422,
-        "change_pct": 0.27,
+        "change_pct": 0.02,
         "direction": "up",
-        "price_fmt": "96.08",
-        "change_str": "+0.27%"
+        "price_fmt": "95.84",
+        "change_str": "+0.02%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 3887.60009765625,
+        "price": 3886.300048828125,
         "prev_close": 3885.300048828125,
-        "change_pct": 0.06,
+        "change_pct": 0.03,
         "direction": "up",
-        "price_fmt": "3,887.6",
-        "change_str": "+0.06%"
+        "price_fmt": "3,886.3",
+        "change_str": "+0.03%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 48.650001525878906,
+        "price": 49.03099822998047,
         "prev_close": 49.97200012207031,
-        "change_pct": -2.65,
+        "change_pct": -1.88,
         "direction": "down",
-        "price_fmt": "48.65",
-        "change_str": "-2.65%"
+        "price_fmt": "49.03",
+        "change_str": "-1.88%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.242000102996826,
+        "price": 3.2300000190734863,
         "prev_close": 3.3399999141693115,
-        "change_pct": -2.93,
+        "change_pct": -3.29,
         "direction": "down",
-        "price_fmt": "3.24",
-        "change_str": "-2.93%"
+        "price_fmt": "3.23",
+        "change_str": "-3.29%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 68220.9375,
-        "prev_close": 71342.96875,
-        "change_pct": -4.38,
+        "price": 62640.80078125,
+        "prev_close": 68249.2734375,
+        "change_pct": -8.22,
         "direction": "down",
-        "price_fmt": "68,221",
-        "change_str": "-4.38%"
+        "price_fmt": "62,641",
+        "change_str": "-8.22%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1926.969970703125,
-        "prev_close": 2016.8297119140625,
-        "change_pct": -4.46,
+        "price": 1725.3599853515625,
+        "prev_close": 1927.5888671875,
+        "change_pct": -10.49,
         "direction": "down",
-        "price_fmt": "1,927.0",
-        "change_str": "-4.46%"
+        "price_fmt": "1,725.4",
+        "change_str": "-10.49%"
       }
     ]
   },
