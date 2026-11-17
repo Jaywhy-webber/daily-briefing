@@ -2,375 +2,420 @@
   "news": {
     "singapore": [
       {
-        "id": "7f9fdbc440c377fc1156d72b3aa347e5",
-        "title": "CNA Now: ASEAN leaders meet in Manila, plus other news as it happens",
+        "id": "b62819e09a3f170b95c88135ad2059d6",
+        "title": "PSLE results to be released on Nov 24",
+        "summary": "Secondary 1 school choices and options can be submitted through the online portal from 11.30am on Nov 24 to 4.30pm on Nov 30.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/psle-results-release-nov-24-moe-seab-6557596",
+        "published": "2026-11-17T03:33:00+00:00"
+      },
+      {
+        "id": "677fafae6bbff3315846f4b0386ce3f9",
+        "title": "PSLE results to be released on Nov 24",
+        "summary": "Secondary 1 posting results will tentatively be released on Dec 18.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/psle-results-to-be-released-on-nov-24",
+        "published": "2026-11-17T03:28:13+00:00"
+      },
+      {
+        "id": "de370185ed55842ebf75c3d2716d60d0",
+        "title": "Travellers can book private-hire rides to JB round the clock from Nov 23 on ComfortDelGro app",
+        "summary": "This will mean a larger pool of vehicles are available to travellers.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/transport/travellers-can-book-private-hire-rides-to-jb-round-the-clock-from-nov-23-on-comfortdelgro-app",
+        "published": "2026-11-17T03:20:22+00:00"
+      },
+      {
+        "id": "f5780b5fe20db71a759872be8b685b64",
+        "title": "Police warn against unregulated loan consultancies amid cheating probe",
+        "summary": "One operator is currently under investigation for suspected cheating offences.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/police-warn-against-unregulated-loan-consultancies-amid-cheating-probe",
+        "published": "2026-11-17T03:18:18+00:00"
+      },
+      {
+        "id": "8363fb19e007ae86520322f0ef02f5f0",
+        "title": "Singapore’s non-oil exports surge 79.8% in October, driven by pharmaceuticals and ship structures",
+        "summary": "Singapore’s non-oil exports to the United States and China recorded triple-digit growth in October, accelerating sharply from the previous month.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/nodx-october-electronics-pharmaceuticals-us-china-6557476",
+        "published": "2026-11-17T02:35:34+00:00"
+      },
+      {
+        "id": "9c86bf9d9a14d2dd22fe937c92fa8ee3",
+        "title": "Must sustainability always come at a price premium? Not necessarily",
+        "summary": "Can going green ever be truly cheaper?",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/environment/must-sustainability-always-come-at-a-price-premium-not-necessarily",
+        "published": "2026-11-17T02:00:00+00:00"
+      },
+      {
+        "id": "5cd920e00af7bd47e1480db12ef946be",
+        "title": "CNA Now: Simba faces possible licence suspension, plus other news as it happens",
         "summary": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/cna-now-asean-leaders-live-6552901",
-        "published": "2026-11-16T01:01:06+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/cna-now-simba-breaking-news-6555041",
+        "published": "2026-11-17T00:19:56+00:00"
       },
       {
-        "id": "601798b3c1cd1945369e18b8e7bd99da",
-        "title": "ST Live: Latest on Nvidia and Jensen Huang, ASEAN summit, Singapore crime",
-        "summary": "Follow the latest updates on ST.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/st-live-news-as-it-happens9",
-        "published": "2026-11-15T23:48:57+00:00"
-      },
-      {
-        "id": "1890acff275e24122e71f889afc89100",
-        "title": "A positive HPV test does not mean you have cervical cancer. Here's what to know",
-        "summary": "Most human papillomavirus (HPV) infections clear naturally, but some strains can cause changes in cervical cells that may eventually lead to cancer. Doctors explain when an infection becomes a concern, who is at greater risk and why regular screening matters.",
+        "id": "8d60a82cb97a78efbcac2eb523870c2d",
+        "title": "Taking leave, buying PS5s and getting their partners' approval: How Singapore gamers are preparing for GTA 6",
+        "summary": "After a 13-year wait, Rockstar Games' Grand Theft Auto VI (GTA 6) launches on Thursday (Nov 19). From taking unpaid leave to buying new gaming setups, Singapore fans share how they're preparing for the big day.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/women/positive-hpv-test-cervical-cancer-risk-6527016",
-        "published": "2026-11-15T23:29:42+00:00"
-      },
-      {
-        "id": "017588ee3ab588614d36ed130c07d736",
-        "title": "'Not enough to make a good game anymore': Singapore game developers flail as pressures, risks intensify",
-        "summary": "French firm Ubisoft in October slashed 70 jobs at its Singapore studio. Experts and developers say the cuts reflect broader struggles for the local gaming scene.",
-        "source": "Channel NewsAsia",
-        "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/gaming-developers-studios-industry-risks-funding-jobs-6530756",
-        "published": "2026-11-15T22:00:00+00:00"
-      },
-      {
-        "id": "58ed71c60dfd5840252406f7b6adbfda",
-        "title": "Man who sexually assaulted oldest stepdaughter gets nearly 12 years’ jail, caning",
-        "summary": "The man made his stepdaughters shower together before separating the victim from her sisters.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/man-who-sexually-assaulted-oldest-stepdaughter-gets-nearly-12-years-jail-caning",
-        "published": "2026-11-15T21:00:00+00:00"
-      },
-      {
-        "id": "ebeac73587628264f6a71eec5279a4fa",
-        "title": "Some religious national monuments offered longer lease renewals to support long-term upkeep",
-        "summary": "St Joseph's Church in Victoria Street is now on a 60-year lease, twice the typical tenure for religious sites.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/some-religious-national-monuments-offered-longer-lease-renewals-to-support-long-term-upkeep",
-        "published": "2026-11-15T21:00:00+00:00"
-      },
-      {
-        "id": "7e08bcf54147c0f77d91e2e2b62aec1d",
-        "title": "askST Jobs: Is it OK to ask my boss if more retrenchments are coming?",
-        "summary": "Employees should acknowledge their anxieties before raising concerns about further retrenchments.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/jobs/askst-jobs-is-it-ok-to-ask-my-boss-if-more-retrenchments-are-coming",
-        "published": "2026-11-15T21:00:00+00:00"
-      },
-      {
-        "id": "6acf6240e9d53dd7b51f5729017fa073",
-        "title": "From TikTok strategy to defence diplomacy: Why this UCL law graduate chose MINDEF over the Bar",
-        "summary": "",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/ucl-law-graduate-defence-merit-scholarship-mindef-career",
-        "published": "2026-11-15T20:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/living/gta-6-singapore-gamers-launch-grand-theft-auto-vi-6553211",
+        "published": "2026-11-16T23:42:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "1c812389eb0777427fcdb959a25a2d1f",
-        "title": "Flight disruptions expected to last into Monday",
-        "summary": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
+        "id": "9115c0f389f9269d62a4932e692e6661",
+        "title": "Peltola expands lead over Sullivan in latest ballot drop",
+        "summary": "Former Rep. Mary Peltola (D-Alaska) continues to pull ahead of incumbent Sen. Dan S. Sullivan (R-Alaska) in the last Senate race to be called from November’s midterms. The latest ballot drop from Alaska’s Division of Elections reported Peltola is in the lead with 141,637 votes, followed by the incumbent with 130,162 votes, Republican Gerald L.…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/",
+        "published": "2026-11-17T03:49:38+00:00"
+      },
+      {
+        "id": "c1add11fd074bb6f85db0bb6ac07e68d",
+        "title": "Comer announces bid for Kentucky governor",
+        "summary": "Rep. James Comer (R-Ky.) announced a bid for Kentucky’s governor’s mansion following an election cycle where Democrats took control of Congress and a historic number of state legislatures. “Serving this state is a calling for me,” Comer said while unveiling his campaign Monday. “Kentucky needs a leader whose policies will lead to growth and good-paying…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
+        "published": "2026-11-17T03:07:31+00:00"
+      },
+      {
+        "id": "456dcd95e682af8f86096ecfcb5d53a8",
+        "title": "Senate GOP unveils nearly $1.1T defense appropriations bill",
+        "summary": "Senate Republicans on Monday unveiled a nearly $1.1 trillion defense appropriations bill for fiscal year 2027, which includes tens of billions in funding for programs initially part of the Pentagon’s $350 billion reconciliation request The massive spending bill saw close to $69 billion being moved from reconciliation to the base budget, reflecting the skepticism that…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/senate/6224030-senate-gop-defense-appropriations-bill/",
+        "published": "2026-11-17T02:16:58+00:00"
+      },
+      {
+        "id": "006c77da3223d94888e25a469d34987f",
+        "title": "Vance mocks Democrats for accusing Trump of being ‘soft on China’",
+        "summary": "Vice President Vance mocked Democrats who accused President Trump of being “soft on China” amid criticism of the administration’s handling of the Nvidia scandal. “Now again, I find it just hysterical that the Democrats are accusing Donald Trump of being soft on China,” Vance said during an interview with Fox News. “When it comes to…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/",
+        "published": "2026-11-17T02:06:38+00:00"
+      },
+      {
+        "id": "913b6486064c76e3a971ae643060d4e5",
+        "title": "Air Force One rerouted over extreme weather",
+        "summary": "Air Force One was rerouted Monday over extreme weather as President Trump and administration officials head to Asia to meet with Chinese President Xi Jinping and Russian President Vladimir Putin. “Due to extreme weather conditions in Anchorage, Air Force One landed in Fairbanks in order to refuel under better climate conditions,” a White House official…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/administration/6223947-trump-reroutes-air-force-one/",
+        "published": "2026-11-17T00:08:34+00:00"
+      },
+      {
+        "id": "1c153ff6fcab2c5765057f6c21b6f088",
+        "title": "Senate takes big step toward passing permitting reform package",
+        "summary": "The Senate took a big step Monday to advance a bipartisan permitting reform package closer to final passage by voting to end debate on a managers’ amendment to strengthen provisions of the bill addressing energy-hungry data centers and protecting tribal sovereignty. Senators voted to invoke cloture 70-27 on the substitute amendment sponsored by Sen. Shelley…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/senate/6223468-senate-advances-baja-permitting-reform/",
+        "published": "2026-11-17T00:07:20+00:00"
+      },
+      {
+        "id": "68eb79c1dceef9f4bdabf6c17bd9b337",
+        "title": "California sues OpenAI over hacking risks",
+        "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
-        "published": "2026-11-16T01:19:28+00:00"
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+        "published": "2026-11-16T22:06:22+00:00"
       },
       {
-        "id": "6327e16633bf3645caf0d8229609954f",
-        "title": "Moore on the chances of a 2028 presidential bid: ‘I’m still sorting it out’",
-        "summary": "Maryland Gov. Wes Moore (D) on Sunday said he was still deliberating on the decision to go from the governor’s mansion to the White House with a 2028 presidential run, but noted that he was “still sorting” out that decision. Independent journalist Chuck Todd asked Moore in an interview on Noosphere if he was still…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/state-watch/6221790-wes-moore-on-the-chances-of-a-2028-presidential-bid-im-still-sorting-it-out/",
-        "published": "2026-11-16T01:14:34+00:00"
-      },
-      {
-        "id": "b076e37342e8437137a0d646c3dd824f",
-        "title": "DeSantis knocks Republicans resisting Trump judicial appointment push",
-        "summary": "Florida Gov. Ron DeSantis (R) on Sunday knocked Republicans for pushing back on President Trump’s efforts to install more judges before Democrats take control in the 120th Congress in January. DeSantis reacted to a Reuters report about the GOP resistance to an “appointment blitz.” “Ugh. And Republicans wonder why they have problems with base voter…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/state-watch/6221727-desantis-knocks-republicans-resisting-trump-judicial-appointment-push/",
-        "published": "2026-11-16T00:07:49+00:00"
-      },
-      {
-        "id": "324108ddc97072c1a7002285f1ff0584",
-        "title": "Cassidy says questions remain about Trump’s FDA pick ahead of committee vote",
-        "summary": "Sen. Bill Cassidy (R-La.) on Sunday said there are still questions left unanswered about Heidi Overton, President Trump’s pick to lead the Food and Drug Administration (FDA), ahead of the Senate Health Committee’s vote on her nomination this week. CBS News’s Margaret Brennan asked Cassidy during his appearance on “Face the Nation” if Overton will…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/senate/6221636-cassidy-questions-trumps-fda-pick/",
-        "published": "2026-11-15T22:50:23+00:00"
-      },
-      {
-        "id": "11d0feb62800b1e99edb8ec9260632d5",
-        "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
-        "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
+        "id": "9d28218d2f4c8859db5170a87d795b8a",
+        "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+        "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
-        "published": "2026-11-15T22:41:22+00:00"
-      },
-      {
-        "id": "5adac3755b71aa74298a383cd620c5c1",
-        "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
-        "summary": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
-        "source": "NPR",
-        "category": "us",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
-        "published": "2026-11-15T22:07:55+00:00"
-      },
-      {
-        "id": "e23bd6e45484ccdb0a87ef46e8ed033c",
-        "title": "5 takeaways as lame-duck defense fights heat up",
-        "summary": "Congressional Democrats and the Trump administration seem to be moving in opposite directions as the clock ticks on the lame-duck session. House and Senate leaders of the Armed Services committees are set to meet two times next week to hammer out the National Defense Authorization Act (NDAA), a mammoth defense policy bill that faces an…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/defense/6220052-lame-duck-ndaa-defense-fighting/",
-        "published": "2026-11-15T22:00:00+00:00"
-      },
-      {
-        "id": "1aed9a5c6439c0f715371e8788323a47",
-        "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding",
-        "summary": "Rep.-elect Dan Koh (D-Mass.) on Sunday blamed President Trump for blocking more than $1 trillion in Biden-era funding for infrastructure and funds toward the Federal Aviation Administration (FAA), referring to Friday’s rare nationwide ground stop for all U.S. flights. Koh joined the panel on MS NOW’s “The Weekend” as part of a discussion about the…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/house/6221559-koh-blames-trump-faa-funding/",
-        "published": "2026-11-15T21:36:11+00:00"
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+        "published": "2026-11-16T18:49:26+00:00"
       }
     ],
     "asia": [
       {
-        "id": "e6b3afb3b49049c53ca8d7ae49bab870",
-        "title": "China-US-Russia trilateral set for Thursday on Apec sidelines: Beijing",
-        "summary": "The state leaders of China, the United States and Russia will hold a trilateral meeting in Shenzhen on Thursday at the sideline of the Apec summit, Beijing said on Monday. The announcement follows Friday’s confirmation from the White House that the unprecedented meeting between the three presidents was planned to coincide with the Asia-Pacific Economic Cooperation leaders’ summit in Shenzhen which opens on Wednesday. More to follow...",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3374523/china-us-russia-trilateral-set-thursday-beijing",
-        "published": "2026-11-16T01:12:06+00:00"
-      },
-      {
-        "id": "1085b9a965cdf2802f6bead7aa3ed556",
-        "title": "Malaysia mulls mandatory WhatsApp identity checks to curb scams",
-        "summary": "Malaysia’s Communications Ministry is studying the feasibility of requiring messaging platform WhatsApp to verify the identities and telephone numbers linked to each account to curb online scam activities. Its minister, Fahmi Fadzil, said the proposal was being studied following an increase in cases involving the misuse of the application by scam syndicates, and was also in line with discussions among member countries of the International Tele­communication Union. “The Communications Ministry is",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374522/malaysia-mulls-mandatory-whatsapp-identity-checks-curb-scams",
-        "published": "2026-11-16T01:02:27+00:00"
-      },
-      {
-        "id": "fcbd78c7e3bcf0cd6264c631aaca4edd",
-        "title": "Can a new 4-country defence hub counter Beijing in the South China Sea?",
-        "summary": "China’s activities in the South China Sea’s disputed waters could face greater challenges as the US, Japan, Australia and the Philippines accelerate efforts to build a joint operational structure and strengthen their collective response, analysts said. Under an agreement reached on October 28 and made public on November 10, the four countries plan to establish a defence coordination centre in the Philippines, a move that could improve intelligence sharing, joint surveillance and their ability to",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/military/article/3374504/can-new-four-country-defence-hub-counter-china-south-china-sea",
-        "published": "2026-11-16T01:00:09+00:00"
-      },
-      {
-        "id": "4b4eed0810a637b11cfbad975101e90c",
-        "title": "Are HK$500,000 ‘one-stop’ student hostel packages risking Hong Kong’s reputation?",
-        "summary": "Amid surging demand for university places, some of Hong Kong’s hostel operators are selling non-local students “one-stop” accommodation and tutoring packages for up to HK$500,000 (US$63,730), using dubious claims that threaten the city’s reputation as an education hub, the South China Morning Post has found. The investigation also prompted a denial from the University of Hong Kong, which said a self-proclaimed lecturer linked to one such operator was not affiliated with the institution, despite.",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/hong-kong/education/article/3374501/are-hk500000-one-stop-student-hostel-packages-risking-hong-kongs-reputation",
-        "published": "2026-11-16T00:30:12+00:00"
-      },
-      {
-        "id": "5c9859ce24107a238b8ab71bc77e266b",
-        "title": "Beginning of the end of MAGA: Neera Tanden",
-        "summary": "The Center for American Progress chief argues Democrats’ pragmatic populism and immigration reform signal the waning of MAGA, with global lessons for progressive politics",
+        "id": "c68b35434b13041a6cb7e8068b4e085c",
+        "title": "Tokyo lodges protest after aircraft believed to be Russian violate Japan airspace",
+        "summary": "The last confirmed violation of ‌Japan’s airspace by Russian aircraft ​was off Rebun Island, Hokkaido, in ⁠September 2024, according to the ⁠Defence Ministry",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/beginning-of-the-end-of-maga-neera-tanden/article71705976.ece",
-        "published": "2026-11-16T00:11:32+00:00"
+        "url": "https://www.thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece",
+        "published": "2026-11-17T03:48:34+00:00"
       },
       {
-        "id": "a59e668552a3504a699ff5e9e9f23cdc",
-        "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
-        "summary": "Houthi gains in Yemen and attacks on Saudi Arabia and ‌Red Sea shipping in recent months have strengthened the position of Iran in the wider West Asia conflict ⁠launched by the United States and Israel in February",
+        "id": "19d1c6a70de74fd2be4c31b4f88e3b37",
+        "title": "Royal row claims Malaysian chief minister as Umno hunts a successor",
+        "summary": "The chief minister of Malaysia’s Negeri Sembilan state has submitted his resignation, less than four months into the job, after backing an attempt to depose the state’s ruler – opening up a succession contest within Umno. Ismail Lasim, 67, addressed his resignation letter to the ruler Tuanku Muhriz, according to a statement late on Monday from Zambry Abd Kadir, secretary general of the Barisan Nasional (BN) coalition that is led by the United Malays National Organisation. The palace said on...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/week-asia/politics/article/3374671/royal-row-claims-malaysian-chief-minister-umno-hunts-successor",
+        "published": "2026-11-17T03:35:47+00:00"
+      },
+      {
+        "id": "5c903fcdc0161082d2b6e2d5ba40c1a9",
+        "title": "What to know about the online banking delays affecting major U.S. banks",
+        "summary": "Chase said that the technical problem was not the result of a cyberattack, stressing that it was an isolated incident and not related to anything other than a bug.",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
-        "published": "2026-11-16T00:06:23+00:00"
+        "url": "https://www.thehindu.com/sci-tech/technology/what-to-know-about-the-online-banking-delays-affecting-major-us-banks/article71710293.ece",
+        "published": "2026-11-17T03:34:48+00:00"
       },
       {
-        "id": "ed1141a777627adb298f3e5df437052b",
-        "title": "As foreigners in Thailand lose homes, Malaysia courts wealthy buyers",
-        "summary": "A growing number of foreigners who thought they owned a home in Thailand are discovering they never legally did. A year-long crackdown on illegal foreign property ownership in the Southeast Asian nation has led to confiscations, arrests and prosecutions. “There’s a lot of confusion, fear and sleepless nights going on out there,” said Brian Ramsden, a Briton who has become a trusted voice on social media for his measured explainers on the subject. “Some people are having to sell their properties.",
-        "source": "South China Morning Post",
+        "id": "7b5e75b0fc03ca0bae553b788d60c0f9",
+        "title": "Singapore seeks ‘trusted access’ to AI chips after new US curbs",
+        "summary": "Singapore is finding itself at the centre of the controversy as cloud computing firm Megaspeed, suspected of helping Chinese firms get around US export controls, is based there",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.scmp.com/week-asia/people/article/3374379/foreigners-thailand-lose-homes-malaysia-courts-wealthy-buyers",
-        "published": "2026-11-16T00:00:13+00:00"
+        "url": "https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece",
+        "published": "2026-11-17T03:10:26+00:00"
       },
       {
-        "id": "c91125493b6c85fdd40f3a9b974819b0",
-        "title": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit",
-        "summary": "Britain’s Prince Harry hailed wounded Ukrainian veterans as society’s role models on Sunday and said they need to continue receiving support from Kyiv as he wrapped up an unannounced weekend visit to the war-torn country. It was Harry’s fourth visit to Ukraine since the war started and his second time in the western city of Lviv to meet patients and staff at Superhumans Centre, an orthopaedic clinic that treats wounded military staff and civilians. “We’ve invested in them before they put the...",
+        "id": "1630c5d76efaca3202317c40b9e06437",
+        "title": "Horns and drones banned as Shenzhen hushes for Trump and APEC",
+        "summary": "The freewheeling Chinese tech capital takes centre stage this week as host of this year's Asia-Pacific Economic Cooperation (APEC) forum.",
+        "source": "CNA Asia",
+        "category": "asia",
+        "url": "https://www.channelnewsasia.com/east-asia/shenzhen-apec-drone-cars-bikes-horns-city-ban-6557581",
+        "published": "2026-11-17T03:07:10+00:00"
+      },
+      {
+        "id": "07d07d4f6c60601dff47ed696941b3a7",
+        "title": "China team produces endless energy from lotus stems with water evaporation power",
+        "summary": "Chinese scientists have harnessed the process of water evaporation to generate continuous electricity day and night using a unique device made from lotus plants, according to a paper published in the peer-reviewed journal Device. The hydrovoltaic technology could provide low-maintenance power for distributed sensors and low-power electronics in off-grid locations next to large water bodies, said the paper, which appeared on November 2. The team’s lotus-stem and bacteria generator achieved...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/europe/article/3374521/prince-harry-salutes-wounded-ukrainian-veterans-role-models-surprise-ukraine-visit",
-        "published": "2026-11-15T23:27:25+00:00"
+        "url": "https://www.scmp.com/news/china/science/article/3374569/china-team-produces-endless-energy-lotus-stems-water-evaporation-power",
+        "published": "2026-11-17T03:00:09+00:00"
+      },
+      {
+        "id": "84bc1294bec31d4e6fc03737c8dde5f1",
+        "title": "Singapore seeks US talks on AI chip export rules amid Nvidia fallout, Megaspeed probe",
+        "summary": "Singapore has been engaging with the United States to explore ways to facilitate “trusted access” for local firms after Washington announced a new measure that would restrict exports of artificial intelligence chips to the city state. The interim rule, introduced by the US Commerce Department on Monday, would require companies to obtain a licence to ship, re-export or transfer advanced AI chips to Singapore, Indonesia, Malaysia, Thailand and Brazil. The US did not specify the date of...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe",
+        "published": "2026-11-17T02:39:53+00:00"
+      },
+      {
+        "id": "919c85720f8ec821fde6961b105ed6ad",
+        "title": "Third US aircraft carrier reaches Middle East as Trump weighs Iran options",
+        "summary": "A third American aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as US President Donald Trump keeps his options open for next steps in the Iran war. The USS Theodore Roosevelt brings thousands of additional troops to the Middle East as Trump has oscillated between threatening additional large-scale strikes on Iran and insisting that the more than eight-month-old war “militarily is effectively...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3374663/third-us-aircraft-carrier-reaches-middle-east-trump-weighs-iran-options",
+        "published": "2026-11-17T02:32:44+00:00"
       }
     ],
     "others": [
       {
-        "id": "c376fb383fd39d5360b5a0dc5796b85d",
-        "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-        "summary": "Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the AmazonPope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining.On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon and channelled one of Pope Francis’s core teachings that links care for the most vulnerab",
+        "id": "63e718bcc2e2fa377783b4e57017d230",
+        "title": "Gunfire erupts in occupied West Bank settler attack",
+        "summary": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+        "published": "2026-11-17T04:00:08+00:00"
+      },
+      {
+        "id": "c1f75584fe89f334dd6d30554f09acf5",
+        "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+        "summary": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+        "published": "2026-11-17T03:12:54+00:00"
+      },
+      {
+        "id": "f099e0c69b118fdcc29f5a19944c9628",
+        "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+        "summary": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+        "source": "Al Jazeera",
+        "category": "others",
+        "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+        "published": "2026-11-17T02:52:56+00:00"
+      },
+      {
+        "id": "16e531d4e3ea74aa424f81daa70e2128",
+        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+        "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-17T02:37:53+00:00"
+      },
+      {
+        "id": "261249ae025e0e48de575bf2effdf114",
+        "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+        "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns l",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-        "published": "2026-11-16T01:13:44+00:00"
+        "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+        "published": "2026-11-17T01:10:59+00:00"
       },
       {
-        "id": "29dd1fdece6f56bfb3f19f40fe86ba95",
-        "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
-        "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
-        "published": "2026-11-16T00:51:23+00:00"
-      },
-      {
-        "id": "4ad1b82a2a44805b7b252f6ce38ccdc1",
-        "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
-        "summary": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
-        "published": "2026-11-16T00:45:48+00:00"
-      },
-      {
-        "id": "ed6480a87f140cf2f0ad27706cc8f5fe",
-        "title": "Czechs rally against gov’t threat to media independence",
-        "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
-        "source": "Al Jazeera",
-        "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
-        "published": "2026-11-16T00:26:32+00:00"
-      },
-      {
-        "id": "1a62f2acabd23cc6e6d6832ae2a76b3f",
-        "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-        "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+        "id": "6d1dcce34b2ccb0c5769ec1dfb2c444f",
+        "title": "Five EU countries announce migrant deportation centre in Rwanda",
+        "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T23:52:10+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-16T23:20:45+00:00"
       },
       {
-        "id": "6b8c83f2ffcfae860cefab1510251d65",
-        "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-        "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+        "id": "d793767ef38c223d53c474f22495f62b",
+        "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+        "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T22:57:27+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-16T21:40:07+00:00"
       },
       {
-        "id": "b28a4ef6a599d00803b158ee67179242",
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-        "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+        "id": "f71cb93d6681ad354ce0928faef882b5",
+        "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+        "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-15T22:24:20+00:00"
-      },
-      {
-        "id": "760640357c3806aad6ed7134f70b5ced",
-        "title": "Goodbye, overtourism? Sustainable travel gains ground",
-        "summary": "As tourism booms across Latin America, alternative forms of travel are gaining ground. Making your holiday more sustainable means rethinking who calls the shots, who invests and who benefits.",
-        "source": "Deutsche Welle",
-        "category": "others",
-        "url": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295?maca=en-rss-en-world-4025-rdf",
-        "published": "2026-11-15T20:57:00+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-16T20:33:57+00:00"
       }
     ],
     "tech": [
       {
-        "id": "c2c5268e58d8f79680403992051d886f",
-        "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-        "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
+        "id": "a6cfee49889228a9a34133683ea584d9",
+        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+        "summary": "Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 33 # Comments: 15",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://support.apple.com/en-us/149699",
+        "published": "2026-11-17T02:17:04+00:00"
+      },
+      {
+        "id": "6626b958faec5d3b8ac79f26852d5c8a",
+        "title": "Mem Is Shutting Down",
+        "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down Comments URL: https://news.ycombinator.com/item?id=50526537 Points: 24 # Comments: 25",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+        "published": "2026-11-17T02:13:41+00:00"
+      },
+      {
+        "id": "3c9047a33cb1523adc7c233d8c6d2906",
+        "title": "Running coding agents without handing them my credentials",
+        "summary": "Article URL: https://blog.antonio.cx/running-agents-with-lend Comments URL: https://news.ycombinator.com/item?id=50526152 Points: 54 # Comments: 21",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://blog.antonio.cx/running-agents-with-lend",
+        "published": "2026-11-17T01:18:56+00:00"
+      },
+      {
+        "id": "f499fab5c23965415a60b3d2328fe957",
+        "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+        "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/ Comments URL: https://news.ycombinator.com/item?id=50525658 Points: 67 # Comments: 18",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+        "published": "2026-11-17T00:23:21+00:00"
+      },
+      {
+        "id": "feb27033dadbe73b92ad2f9c2243df64",
+        "title": "Why 3dfx 1 cards had such a washed out color output?",
+        "summary": "Article URL: https://twitter.com/id_aa_carmack/status/2122478083319992513 Comments URL: https://news.ycombinator.com/item?id=50525575 Points: 22 # Comments: 0",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+        "published": "2026-11-17T00:16:24+00:00"
+      },
+      {
+        "id": "abe0d08e7aefd78831413240191442d6",
+        "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+        "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-        "published": "2026-11-16T01:26:56+00:00"
+        "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+        "published": "2026-11-16T23:35:58+00:00"
       },
       {
-        "id": "9315a36f9b38046ef0c95d87c18cd9a0",
-        "title": "What's Next for Nvidia?",
-        "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 26 # Comments: 15",
+        "id": "7ed8d9052605c8ad1406bd6816d86ca6",
+        "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+        "summary": "Article URL: https://github.com/0nelight/sutra-os Comments URL: https://news.ycombinator.com/item?id=50525052 Points: 42 # Comments: 17",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-        "published": "2026-11-15T23:55:55+00:00"
+        "url": "https://github.com/0nelight/sutra-os",
+        "published": "2026-11-16T23:25:41+00:00"
       },
       {
-        "id": "3ec00f7e2df3b1a859bb68ca1829a007",
-        "title": "Mini.nvim Is Now on Tangled",
-        "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 25 # Comments: 7",
-        "source": "Hacker News (Top)",
+        "id": "27336b0ea0e6780d674cf4c6ef69f05c",
+        "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+        "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
+        "source": "The Verge",
         "category": "tech",
-        "url": "https://tangled.org/nvim-mini.org/mini.nvim",
-        "published": "2026-11-15T23:55:41+00:00"
-      },
-      {
-        "id": "d34b183cf38acd6b81b6964205cfea32",
-        "title": "Jensen Huang might return to Nvidia as CEO",
-        "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 116 # Comments: 94",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
-        "published": "2026-11-15T23:24:53+00:00"
-      },
-      {
-        "id": "42a78c3e047b26b5e6f054a4330b8d85",
-        "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-        "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-        "published": "2026-11-15T23:11:54+00:00"
-      },
-      {
-        "id": "a88e77bcd4ae44378f2c91783775fe8e",
-        "title": "Preserving 30 Years of Salon Journalism",
-        "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 63 # Comments: 11",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-        "published": "2026-11-15T23:00:11+00:00"
-      },
-      {
-        "id": "3d7ddf6218a4d0744d3c02d3856eb6a5",
-        "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-        "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 39 # Comments: 5",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://lastcomplication.com/",
-        "published": "2026-11-15T22:48:52+00:00"
-      },
-      {
-        "id": "ded027305438cdd81129a434d734b1d9",
-        "title": "Old Bitly Links Are Being Hijacked",
-        "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 151 # Comments: 79",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-        "published": "2026-11-15T22:11:43+00:00"
+        "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+        "published": "2026-11-16T23:17:34+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "45b657033c74f2f200445caa542c63c9",
+        "title": "Trump Inc is in free fall",
+        "summary": "Investors are souring on anything with ties to the president and his family",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
+        "published": "2026-11-16T21:37:36+00:00"
+      },
+      {
+        "id": "3d6d22553fa90503f8606756bb150674",
+        "title": "Bangladesh is no longer a development superstar",
+        "summary": "Corruption has led its banks to the verge of insolvency",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
+        "published": "2026-11-16T18:31:19+00:00"
+      },
+      {
+        "id": "304a97fccadd14a9d34803b0d9a2d4e2",
+        "title": "America does not produce world-beating statistics. Who does?",
+        "summary": "We search for the world’s worst—and best—economic data",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
+        "published": "2026-11-16T18:28:18+00:00"
+      },
+      {
+        "id": "ca7b00f2f0f794db6dcb8e5625b31a41",
+        "title": "The War Room newsletter: Will America or Iran blink first?",
+        "summary": "Alex Turner, our defence editor, on why neither side can end the stalemate",
+        "source": "International",
+        "category": "economist",
+        "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
+        "published": "2026-11-16T17:38:50+00:00"
+      },
+      {
+        "id": "a71287cbb2737162f8227301223cf56b",
+        "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
+        "summary": "Andrew Palmer, our Bartleby columnist, writes about the benefits of “skip-level meetings”",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+        "published": "2026-11-16T14:53:55+00:00"
+      },
       {
         "id": "67e3e9581cb93b8b2899292cdf8e1e20",
         "title": "Anthropic’s giant IPO puts the heat on OpenAI",
@@ -397,51 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
         "published": "2026-11-14T11:55:51+00:00"
-      },
-      {
-        "id": "00f7e20accfd04d63e6f18d879d08fcc",
-        "title": "Teaching kids to think for themselves in the age of AI",
-        "summary": "The Economist Educational Foundation helps schoolchildren around the world make sense of the news",
-        "source": "International",
-        "category": "economist",
-        "url": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
-        "published": "2026-11-13T11:37:50+00:00"
-      },
-      {
-        "id": "ac48adce1920f940a1154a0bae30158c",
-        "title": "Jensen Huang is out. His successor has the toughest job in tech",
-        "summary": "A company built around one man must now learn to run without him",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
-        "published": "2026-11-12T14:28:59+00:00"
-      },
-      {
-        "id": "eff49460729e899f2a95f33d763eadd3",
-        "title": "China's emissions are falling. Thank self-interest",
-        "summary": "And its technology is helping others fight climate change, too",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
-        "published": "2026-11-12T14:08:53+00:00"
-      },
-      {
-        "id": "b8e66acced2d4ded522f2ec90840e89a",
-        "title": "To triumph in show business, take a lo-fi or hi-fi approach",
-        "summary": "Skydance is stuck in the dangerous middle ground",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
-        "published": "2026-11-12T14:08:53+00:00"
-      },
-      {
-        "id": "4a06ecd9a8c9beddb0d4ce5ef33f446a",
-        "title": "South Africans are giving up on Nelson Mandelaâ€™s party. GoodÂ",
-        "summary": "The decline of the African National Congress shows that democracy is working",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
-        "published": "2026-11-12T14:08:53+00:00"
       }
     ]
   },
@@ -451,119 +451,119 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5225.0400390625,
-        "prev_close": 5231.83984375,
-        "change_pct": -0.13,
+        "price": 5134.0,
+        "prev_close": 5183.18017578125,
+        "change_pct": -0.95,
         "direction": "down",
-        "price_fmt": "5,225.0",
-        "change_str": "-0.13%"
+        "price_fmt": "5,134.0",
+        "change_str": "-0.95%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7561.669921875,
-        "prev_close": 7592.39990234375,
-        "change_pct": -0.4,
+        "price": 7416.58984375,
+        "prev_close": 7561.669921875,
+        "change_pct": -1.92,
         "direction": "down",
-        "price_fmt": "7,561.7",
-        "change_str": "-0.40%"
+        "price_fmt": "7,416.6",
+        "change_str": "-1.92%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23637.599609375,
-        "prev_close": 24008.55078125,
-        "change_pct": -1.55,
+        "price": 23572.619140625,
+        "prev_close": 23753.83984375,
+        "change_pct": -0.76,
         "direction": "down",
-        "price_fmt": "23,638",
-        "change_str": "-1.55%"
+        "price_fmt": "23,573",
+        "change_str": "-0.76%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 60478.30078125,
-        "prev_close": 61142.3515625,
-        "change_pct": -1.09,
+        "price": 58888.08984375,
+        "prev_close": 59662.01953125,
+        "change_pct": -1.3,
         "direction": "down",
-        "price_fmt": "60,478",
-        "change_str": "-1.09%"
+        "price_fmt": "58,888",
+        "change_str": "-1.30%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10902.599609375,
-        "prev_close": 10863.099609375,
-        "change_pct": 0.36,
-        "direction": "up",
-        "price_fmt": "10,903",
-        "change_str": "+0.36%"
+        "price": 10881.599609375,
+        "prev_close": 10902.599609375,
+        "change_pct": -0.19,
+        "direction": "down",
+        "price_fmt": "10,882",
+        "change_str": "-0.19%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 9069.7998046875,
-        "prev_close": 9082.2001953125,
-        "change_pct": -0.14,
+        "price": 8887.099609375,
+        "prev_close": 9044.7001953125,
+        "change_pct": -1.74,
         "direction": "down",
-        "price_fmt": "9,069.8",
-        "change_str": "-0.14%"
+        "price_fmt": "8,887.1",
+        "change_str": "-1.74%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2881100177764893,
-        "prev_close": 1.2868200540542603,
-        "change_pct": 0.1,
+        "price": 1.2882299423217773,
+        "prev_close": 1.2877600193023682,
+        "change_pct": 0.04,
         "direction": "up",
         "price_fmt": "1.29",
-        "change_str": "+0.10%"
+        "change_str": "+0.04%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4197700023651123,
-        "prev_close": 1.4219399690628052,
-        "change_pct": -0.15,
+        "price": 1.4178600311279297,
+        "prev_close": 1.4197299480438232,
+        "change_pct": -0.13,
         "direction": "down",
         "price_fmt": "1.42",
-        "change_str": "-0.15%"
+        "change_str": "-0.13%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.7016799449920654,
-        "prev_close": 1.7017600536346436,
-        "change_pct": -0.0,
+        "price": 1.6996400356292725,
+        "prev_close": 1.7019100189208984,
+        "change_pct": -0.13,
         "direction": "down",
         "price_fmt": "1.70",
-        "change_str": "-0.00%"
+        "change_str": "-0.13%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008019999600946903,
+        "price": 0.00803999975323677,
         "prev_close": 0.008,
-        "change_pct": 0.25,
+        "change_pct": 0.5,
         "direction": "up",
         "price_fmt": "0.01",
-        "change_str": "+0.25%"
+        "change_str": "+0.50%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19249999523162842,
-        "prev_close": 0.1926,
-        "change_pct": -0.05,
-        "direction": "down",
+        "price": 0.19280000030994415,
+        "prev_close": 0.1928,
+        "change_pct": 0.0,
+        "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "-0.05%"
+        "change_str": "0.00%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 95.22000122070312,
-        "prev_close": 95.83999633789062,
-        "change_pct": -0.65,
+        "price": 91.66000366210938,
+        "prev_close": 92.44000244140625,
+        "change_pct": -0.84,
         "direction": "down",
-        "price_fmt": "95.22",
-        "change_str": "-0.65%"
+        "price_fmt": "91.66",
+        "change_str": "-0.84%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 3875.39990234375,
-        "prev_close": 3886.300048828125,
-        "change_pct": -0.28,
-        "direction": "down",
-        "price_fmt": "3,875.4",
-        "change_str": "-0.28%"
+        "price": 3871.199951171875,
+        "prev_close": 3853.0,
+        "change_pct": 0.47,
+        "direction": "up",
+        "price_fmt": "3,871.2",
+        "change_str": "+0.47%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 48.040000915527344,
-        "prev_close": 49.03099822998047,
-        "change_pct": -2.02,
-        "direction": "down",
-        "price_fmt": "48.04",
-        "change_str": "-2.02%"
+        "price": 47.275001525878906,
+        "prev_close": 46.78499984741211,
+        "change_pct": 1.05,
+        "direction": "up",
+        "price_fmt": "47.28",
+        "change_str": "+1.05%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.1540000438690186,
-        "prev_close": 3.2300000190734863,
-        "change_pct": -2.35,
+        "price": 3.0880000591278076,
+        "prev_close": 3.121999979019165,
+        "change_pct": -1.09,
         "direction": "down",
-        "price_fmt": "3.15",
-        "change_str": "-2.35%"
+        "price_fmt": "3.09",
+        "change_str": "-1.09%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 64772.171875,
-        "prev_close": 64128.05078125,
-        "change_pct": 1.0,
-        "direction": "up",
-        "price_fmt": "64,772",
-        "change_str": "+1.00%"
+        "price": 64887.078125,
+        "prev_close": 65305.0625,
+        "change_pct": -0.64,
+        "direction": "down",
+        "price_fmt": "64,887",
+        "change_str": "-0.64%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1809.75,
-        "prev_close": 1769.1204833984375,
-        "change_pct": 2.3,
-        "direction": "up",
-        "price_fmt": "1,809.8",
-        "change_str": "+2.30%"
+        "price": 1828.02001953125,
+        "prev_close": 1835.4952392578125,
+        "change_pct": -0.41,
+        "direction": "down",
+        "price_fmt": "1,828.0",
+        "change_str": "-0.41%"
       }
     ]
   },
