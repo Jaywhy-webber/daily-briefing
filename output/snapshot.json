@@ -2,375 +2,420 @@
   "news": {
     "singapore": [
       {
-        "id": "b62819e09a3f170b95c88135ad2059d6",
-        "title": "PSLE results to be released on Nov 24",
-        "summary": "Secondary 1 school choices and options can be submitted through the online portal from 11.30am on Nov 24 to 4.30pm on Nov 30.",
+        "id": "82614aca20f70183acdea8c4587f5d7f",
+        "title": "Woman charged with offering bribe to ICA officer to allow her to enter Singapore",
+        "summary": "Her case will be heard again on Jan 5.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/courts-crime/woman-charged-with-offering-bribe-to-ica-officer-to-allow-her-to-enter-singapore",
+        "published": "2026-11-18T02:27:58+00:00"
+      },
+      {
+        "id": "761efd6006484deb646a0766462b1912",
+        "title": "Working longer as Singapore raises its retirement age",
+        "summary": "Retirement and re-employment ages have been raised again. But is office culture changing to keep up with an ageing workforce?",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/working-longer-as-singapore-raises-its-retirement-age",
+        "published": "2026-11-18T02:00:00+00:00"
+      },
+      {
+        "id": "3a30cbc884ff337d6e784d103f002aba",
+        "title": "Singapore, US agree to follow up on arrangements to facilitate continued trusted access to advanced American technologies",
+        "summary": "The agreement comes after the US included Singapore among the five countries subjected to its new export controls on advanced semiconductors.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/psle-results-release-nov-24-moe-seab-6557596",
-        "published": "2026-11-17T03:33:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/singapore-us-semiconductor-mddi-josephine-teo-6560761",
+        "published": "2026-11-18T01:10:00+00:00"
       },
       {
-        "id": "677fafae6bbff3315846f4b0386ce3f9",
-        "title": "PSLE results to be released on Nov 24",
-        "summary": "Secondary 1 posting results will tentatively be released on Dec 18.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/psle-results-to-be-released-on-nov-24",
-        "published": "2026-11-17T03:28:13+00:00"
-      },
-      {
-        "id": "de370185ed55842ebf75c3d2716d60d0",
-        "title": "Travellers can book private-hire rides to JB round the clock from Nov 23 on ComfortDelGro app",
-        "summary": "This will mean a larger pool of vehicles are available to travellers.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/travellers-can-book-private-hire-rides-to-jb-round-the-clock-from-nov-23-on-comfortdelgro-app",
-        "published": "2026-11-17T03:20:22+00:00"
-      },
-      {
-        "id": "f5780b5fe20db71a759872be8b685b64",
-        "title": "Police warn against unregulated loan consultancies amid cheating probe",
-        "summary": "One operator is currently under investigation for suspected cheating offences.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/police-warn-against-unregulated-loan-consultancies-amid-cheating-probe",
-        "published": "2026-11-17T03:18:18+00:00"
-      },
-      {
-        "id": "8363fb19e007ae86520322f0ef02f5f0",
-        "title": "Singapore’s non-oil exports surge 79.8% in October, driven by pharmaceuticals and ship structures",
-        "summary": "Singapore’s non-oil exports to the United States and China recorded triple-digit growth in October, accelerating sharply from the previous month.",
+        "id": "07714d2954c45831addc97a458fa69a5",
+        "title": "Shopping with your furkid? Here are 7 pet-friendly malls and hangout spots in Singapore",
+        "summary": "These pet-friendly malls in Singapore offer more sheltered spots for a day out with your furry plus-one.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/nodx-october-electronics-pharmaceuticals-us-china-6557476",
-        "published": "2026-11-17T02:35:34+00:00"
+        "url": "https://www.channelnewsasia.com/living/pet-friendly-malls-singapore-6557426",
+        "published": "2026-11-18T00:17:00+00:00"
       },
       {
-        "id": "9c86bf9d9a14d2dd22fe937c92fa8ee3",
-        "title": "Must sustainability always come at a price premium? Not necessarily",
-        "summary": "Can going green ever be truly cheaper?",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/environment/must-sustainability-always-come-at-a-price-premium-not-necessarily",
-        "published": "2026-11-17T02:00:00+00:00"
-      },
-      {
-        "id": "5cd920e00af7bd47e1480db12ef946be",
-        "title": "CNA Now: Simba faces possible licence suspension, plus other news as it happens",
+        "id": "bd85c36012b64b8b7ebe87c34bf8fb4c",
+        "title": "CNA Now: Trump in Asia amid trade tensions, plus other news as it happens",
         "summary": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/cna-now-simba-breaking-news-6555041",
-        "published": "2026-11-17T00:19:56+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/trump-asia-trade-tensions-cna-now-6558371",
+        "published": "2026-11-18T00:14:38+00:00"
       },
       {
-        "id": "8d60a82cb97a78efbcac2eb523870c2d",
-        "title": "Taking leave, buying PS5s and getting their partners' approval: How Singapore gamers are preparing for GTA 6",
-        "summary": "After a 13-year wait, Rockstar Games' Grand Theft Auto VI (GTA 6) launches on Thursday (Nov 19). From taking unpaid leave to buying new gaming setups, Singapore fans share how they're preparing for the big day.",
+        "id": "68ae781f6e46239caf81c31018f45b54",
+        "title": "What to expect at Boutiques Singapore 2026: From homegrown labels to international finds",
+        "summary": "With over 300 brands under one roof, The Gifting Edition 2026 promises fresh discoveries, exclusive collections and plenty of shopping inspiration ahead of the holiday season.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/living/gta-6-singapore-gamers-launch-grand-theft-auto-vi-6553211",
-        "published": "2026-11-16T23:42:00+00:00"
+        "url": "https://www.channelnewsasia.com/style-beauty/boutiques-singapore-2026-what-expect-6538581",
+        "published": "2026-11-17T23:28:57+00:00"
+      },
+      {
+        "id": "a26b6dbc5e1a4da7f6cb00cdd8c37e2e",
+        "title": "US chip export curbs test Southeast Asia’s AI ambitions, but offer chance to toughen regulatory oversight",
+        "summary": "The new restrictions on advanced chips could bring reputational risks and dampen the region’s AI ambitions, experts say.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/singapore/us-ai-chip-export-control-southeast-asia-singapore-6558276",
+        "published": "2026-11-17T22:00:00+00:00"
+      },
+      {
+        "id": "66ce7977625853276bf9b97a6c1a5aca",
+        "title": "Commentary: Disinformation can hurt Singapore even if Singaporeans are not the target. What can be done?",
+        "summary": "Recent disinformation campaigns that sought to portray Singapore’s hand in Indonesia’s affairs highlight the growing and evolving threat of foreign information manipulation and interference, says strategic consultancy managing director Nicholas Fang.",
+        "source": "Channel NewsAsia",
+        "category": "singapore",
+        "url": "https://www.channelnewsasia.com/commentary/disinformation-campaign-haze-singapore-information-resilience-6558396",
+        "published": "2026-11-17T22:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "9115c0f389f9269d62a4932e692e6661",
-        "title": "Peltola expands lead over Sullivan in latest ballot drop",
-        "summary": "Former Rep. Mary Peltola (D-Alaska) continues to pull ahead of incumbent Sen. Dan S. Sullivan (R-Alaska) in the last Senate race to be called from November’s midterms. The latest ballot drop from Alaska’s Division of Elections reported Peltola is in the lead with 141,637 votes, followed by the incumbent with 130,162 votes, Republican Gerald L.…",
+        "id": "27a051e08be62690f355592c65c610d0",
+        "title": "Murkowski calls midterms ‘a direct pushback to President Trump’",
+        "summary": "Sen. Lisa Murkowski (R-Alaska) said Republicans’ staggering midterm losses were were a clear rebuke of President Trump from voters. “I think what you saw was a pushback on some of the administration’s policies, and a direct pushback to President Trump,” Murkowski said Tuesday during an appearance on Alaska Public Media’s “Talk of Alaska.” The moderate…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/",
-        "published": "2026-11-17T03:49:38+00:00"
+        "url": "https://thehill.com/homenews/senate/6226959-murkowski-midterm-rebuke-trump/",
+        "published": "2026-11-18T02:11:53+00:00"
       },
       {
-        "id": "c1add11fd074bb6f85db0bb6ac07e68d",
-        "title": "Comer announces bid for Kentucky governor",
-        "summary": "Rep. James Comer (R-Ky.) announced a bid for Kentucky’s governor’s mansion following an election cycle where Democrats took control of Congress and a historic number of state legislatures. “Serving this state is a calling for me,” Comer said while unveiling his campaign Monday. “Kentucky needs a leader whose policies will lead to growth and good-paying…",
+        "id": "9d75401705a51d0891018ca7481979f5",
+        "title": "Kelly knocks Hun Cao’s analogy about food shortages on Navy ships",
+        "summary": "Sen. Mark Kelly (D-Ariz.) knocked acting Navy Secretary Hung Cao’s confirmation hearing analogy on Navy vessel food shortages, implying the comparison undermined the reports of poor conditions aboard ships docked in the Middle East. During the hearing, Cao compared reports that certain sailors aboard the USS George Washington and the Boxer Amphibious Ready Group were…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
-        "published": "2026-11-17T03:07:31+00:00"
+        "url": "https://thehill.com/homenews/senate/6226889-kelly-criticizes-cao-navy-food/",
+        "published": "2026-11-18T01:52:11+00:00"
       },
       {
-        "id": "456dcd95e682af8f86096ecfcb5d53a8",
-        "title": "Senate GOP unveils nearly $1.1T defense appropriations bill",
-        "summary": "Senate Republicans on Monday unveiled a nearly $1.1 trillion defense appropriations bill for fiscal year 2027, which includes tens of billions in funding for programs initially part of the Pentagon’s $350 billion reconciliation request The massive spending bill saw close to $69 billion being moved from reconciliation to the base budget, reflecting the skepticism that…",
+        "id": "62c2aa2049567140399f6103a7223476",
+        "title": "Senate Intel Vice Chair Warner says AI contributing to network outages",
+        "summary": "Senate Intelligence Committee ranking member Mark Warner (D-Va.) alleged Tuesday that AI contributed to several high-profile system outages this week, arguing industries are under pressure to quickly identify and fix security issues the technology can easily exploit. “What appears to be happening instead is a consequence of how quickly artificial intelligence is changing the cybersecurity…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/senate/6224030-senate-gop-defense-appropriations-bill/",
-        "published": "2026-11-17T02:16:58+00:00"
+        "url": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/",
+        "published": "2026-11-18T01:34:12+00:00"
       },
       {
-        "id": "006c77da3223d94888e25a469d34987f",
-        "title": "Vance mocks Democrats for accusing Trump of being ‘soft on China’",
-        "summary": "Vice President Vance mocked Democrats who accused President Trump of being “soft on China” amid criticism of the administration’s handling of the Nvidia scandal. “Now again, I find it just hysterical that the Democrats are accusing Donald Trump of being soft on China,” Vance said during an interview with Fox News. “When it comes to…",
+        "id": "4a8a2bb5191dc4e56dd19b55eff1fb81",
+        "title": "White House pulls nomination of Heidi Overton to lead FDA",
+        "summary": "The White House withdrew the nomination of Heidi Overton to lead the Food and Drug Administration (FDA) amid opposition from Senate Republicans, it confirmed to The Hill. Overton was set to face a key vote Wednesday in the Senate health committee, where Republicans hold only a one-vote majority — meaning losing one member would be…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/",
-        "published": "2026-11-17T02:06:38+00:00"
+        "url": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/",
+        "published": "2026-11-18T01:08:53+00:00"
       },
       {
-        "id": "913b6486064c76e3a971ae643060d4e5",
-        "title": "Air Force One rerouted over extreme weather",
-        "summary": "Air Force One was rerouted Monday over extreme weather as President Trump and administration officials head to Asia to meet with Chinese President Xi Jinping and Russian President Vladimir Putin. “Due to extreme weather conditions in Anchorage, Air Force One landed in Fairbanks in order to refuel under better climate conditions,” a White House official…",
+        "id": "7a3cf628769bf76a5cbe0beda3bd0db4",
+        "title": "Director of National Intelligence offers explanation for tech outages",
+        "summary": "Director of National Intelligence Jay Clayton pushed back Tuesday on public speculation surrounding recent tech outages, attributing many to system upgrades as opposed to cyberattacks. “Let me tell you what this is not, as far as we can tell … this is not a cyberattack, and this is not a coordinated effort by a nation…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/administration/6223947-trump-reroutes-air-force-one/",
-        "published": "2026-11-17T00:08:34+00:00"
+        "url": "https://thehill.com/policy/national-security/6226816-dni-dismisses-outage-cyberattack-theory/",
+        "published": "2026-11-18T00:41:40+00:00"
       },
       {
-        "id": "1c153ff6fcab2c5765057f6c21b6f088",
-        "title": "Senate takes big step toward passing permitting reform package",
-        "summary": "The Senate took a big step Monday to advance a bipartisan permitting reform package closer to final passage by voting to end debate on a managers’ amendment to strengthen provisions of the bill addressing energy-hungry data centers and protecting tribal sovereignty. Senators voted to invoke cloture 70-27 on the substitute amendment sponsored by Sen. Shelley…",
+        "id": "d059f23f93352f751fc0c653c8759ff0",
+        "title": "Judge vacates ESA review underlying offshore mining",
+        "summary": "Presented by EQT {beacon} Energy & Environment Energy & Environment The Big Story Judge vacates ESA review underlying offshore mining A court ruling this week is throwing a wrench into the Trump administration’s bid to open up mining off the coast of American Samoa. © Fili Sagapolutele, Associated Press file Judge Jill Otake, a Trump…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/senate/6223468-senate-advances-baja-permitting-reform/",
-        "published": "2026-11-17T00:07:20+00:00"
+        "url": "https://thehill.com/homenews/6226829-judge-vacates-esa-review-underlying-offshore-mining/",
+        "published": "2026-11-18T00:35:48+00:00"
       },
       {
-        "id": "68eb79c1dceef9f4bdabf6c17bd9b337",
-        "title": "California sues OpenAI over hacking risks",
-        "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
+        "id": "1cc0882ee740daddb9dab6b765d0cce1",
+        "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+        "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-        "published": "2026-11-16T22:06:22+00:00"
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+        "published": "2026-11-17T18:34:31+00:00"
       },
       {
-        "id": "9d28218d2f4c8859db5170a87d795b8a",
-        "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-        "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
+        "id": "08582e027803aeaa765e2c3799482229",
+        "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+        "summary": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-        "published": "2026-11-16T18:49:26+00:00"
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+        "published": "2026-11-17T17:36:31+00:00"
       }
     ],
     "asia": [
       {
-        "id": "c68b35434b13041a6cb7e8068b4e085c",
-        "title": "Tokyo lodges protest after aircraft believed to be Russian violate Japan airspace",
-        "summary": "The last confirmed violation of ‌Japan’s airspace by Russian aircraft ​was off Rebun Island, Hokkaido, in ⁠September 2024, according to the ⁠Defence Ministry",
-        "source": "The Hindu",
-        "category": "asia",
-        "url": "https://www.thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece",
-        "published": "2026-11-17T03:48:34+00:00"
-      },
-      {
-        "id": "19d1c6a70de74fd2be4c31b4f88e3b37",
-        "title": "Royal row claims Malaysian chief minister as Umno hunts a successor",
-        "summary": "The chief minister of Malaysia’s Negeri Sembilan state has submitted his resignation, less than four months into the job, after backing an attempt to depose the state’s ruler – opening up a succession contest within Umno. Ismail Lasim, 67, addressed his resignation letter to the ruler Tuanku Muhriz, according to a statement late on Monday from Zambry Abd Kadir, secretary general of the Barisan Nasional (BN) coalition that is led by the United Malays National Organisation. The palace said on...",
+        "id": "98bcf3d0f412c0866d0c68cd3162f6de",
+        "title": "Heavy metal in an EV hub: Trump’s ‘Beast’ and new Air Force One to touch down in Shenzhen",
+        "summary": "The Beast – as the state car serving the United States leader is popularly known – is expected to make its second trip to China in half a year when President Donald Trump arrives in Shenzhen on Wednesday for the Apec leaders’ summit. This time, however, the heavily armoured presidential limousine, officially named Cadillac One, will find itself sharing the roads with a very different kind of motorcade. The Beast is widely reported to be powered by a V8 engine, with some reports putting its fuel.",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/week-asia/politics/article/3374671/royal-row-claims-malaysian-chief-minister-umno-hunts-successor",
-        "published": "2026-11-17T03:35:47+00:00"
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3374825/heavy-metal-ev-hub-trumps-beast-and-new-air-force-one-touch-down-shenzhen",
+        "published": "2026-11-18T02:58:30+00:00"
       },
       {
-        "id": "5c903fcdc0161082d2b6e2d5ba40c1a9",
-        "title": "What to know about the online banking delays affecting major U.S. banks",
-        "summary": "Chase said that the technical problem was not the result of a cyberattack, stressing that it was an isolated incident and not related to anything other than a bug.",
+        "id": "3ed4818f0d67fa4a8474c1bf5c573ab2",
+        "title": "All-too fallible: On India’s vote against moratorium on death penalty",
+        "summary": "Death penalty requires a near-infallible criminal justice system",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/sci-tech/technology/what-to-know-about-the-online-banking-delays-affecting-major-us-banks/article71710293.ece",
-        "published": "2026-11-17T03:34:48+00:00"
+        "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece",
+        "published": "2026-11-18T02:55:25+00:00"
       },
       {
-        "id": "7b5e75b0fc03ca0bae553b788d60c0f9",
-        "title": "Singapore seeks ‘trusted access’ to AI chips after new US curbs",
-        "summary": "Singapore is finding itself at the centre of the controversy as cloud computing firm Megaspeed, suspected of helping Chinese firms get around US export controls, is based there",
+        "id": "936edb4505856f6b4264b60a5e7a9385",
+        "title": "Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents",
+        "summary": "The newly-elected Speaker is Matan Kahana, an ally of Gadi Eisenkot, the party leader currently working to form the next government and replace Mr. Netanyahu",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece",
-        "published": "2026-11-17T03:10:26+00:00"
+        "url": "https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece",
+        "published": "2026-11-18T02:48:57+00:00"
       },
       {
-        "id": "1630c5d76efaca3202317c40b9e06437",
-        "title": "Horns and drones banned as Shenzhen hushes for Trump and APEC",
-        "summary": "The freewheeling Chinese tech capital takes centre stage this week as host of this year's Asia-Pacific Economic Cooperation (APEC) forum.",
+        "id": "82bc1eeeb86451dbc052961e65ccc3e5",
+        "title": "Surgeon had ‘cognitive lapse’ when mistakenly removing woman’s ovaries, Hong Kong hospital says",
+        "summary": "The hospital attributed the blunder to a “cognitive lapse” and a temporary loss of focus by the surgeon, whose identity has not been publicly released.",
         "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.channelnewsasia.com/east-asia/shenzhen-apec-drone-cars-bikes-horns-city-ban-6557581",
-        "published": "2026-11-17T03:07:10+00:00"
+        "url": "https://www.channelnewsasia.com/east-asia/hong-kong-female-patient-ovary-removal-mistake-surgeon-6561046",
+        "published": "2026-11-18T02:26:00+00:00"
       },
       {
-        "id": "07d07d4f6c60601dff47ed696941b3a7",
-        "title": "China team produces endless energy from lotus stems with water evaporation power",
-        "summary": "Chinese scientists have harnessed the process of water evaporation to generate continuous electricity day and night using a unique device made from lotus plants, according to a paper published in the peer-reviewed journal Device. The hydrovoltaic technology could provide low-maintenance power for distributed sensors and low-power electronics in off-grid locations next to large water bodies, said the paper, which appeared on November 2. The team’s lotus-stem and bacteria generator achieved...",
+        "id": "41f8ef69c18d5264df1823138c2c6555",
+        "title": "Malaysian man linked to 24 armed robberies killed in police shoot-out",
+        "summary": "A Malaysian man posing as a taxi driver and suspected of being involved in at least 24 armed robberies targeting women and senior citizens was shot dead in a police operation at a hotel in Chow Kit, Kuala Lumpur, early on Wednesday. The operation was conducted at about 2am by the Kuala Lumpur police Criminal Investigation Department, together with Bukit Aman, after the suspect was traced to a hotel room in the area. Kuala Lumpur police chief Commissioner Fadil Marsus said the suspect, who was...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/science/article/3374569/china-team-produces-endless-energy-lotus-stems-water-evaporation-power",
-        "published": "2026-11-17T03:00:09+00:00"
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374820/malaysian-man-linked-24-armed-robberies-killed-police-shoot-out",
+        "published": "2026-11-18T02:24:16+00:00"
       },
       {
-        "id": "84bc1294bec31d4e6fc03737c8dde5f1",
-        "title": "Singapore seeks US talks on AI chip export rules amid Nvidia fallout, Megaspeed probe",
-        "summary": "Singapore has been engaging with the United States to explore ways to facilitate “trusted access” for local firms after Washington announced a new measure that would restrict exports of artificial intelligence chips to the city state. The interim rule, introduced by the US Commerce Department on Monday, would require companies to obtain a licence to ship, re-export or transfer advanced AI chips to Singapore, Indonesia, Malaysia, Thailand and Brazil. The US did not specify the date of...",
+        "id": "e1c5792925d023b5ad8f554aff6fabfb",
+        "title": "Group emerges from isolation in Brazil’s Amazon in ‘historic encounter’",
+        "summary": "Around 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, appearing thin and hungry, several organisations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory. According to the NGO Survival International, members of the Awa people, who live in voluntary isolation, arrived on Monday in a village and made contact with a government team in a “historic encounter”. The village they entered was within the Arariboia Indigenous Territory in",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe",
-        "published": "2026-11-17T02:39:53+00:00"
+        "url": "https://www.scmp.com/news/world/americas/article/3374818/isolated-group-emerges-brazils-amazon-historic-encounter",
+        "published": "2026-11-18T02:16:30+00:00"
       },
       {
-        "id": "919c85720f8ec821fde6961b105ed6ad",
-        "title": "Third US aircraft carrier reaches Middle East as Trump weighs Iran options",
-        "summary": "A third American aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as US President Donald Trump keeps his options open for next steps in the Iran war. The USS Theodore Roosevelt brings thousands of additional troops to the Middle East as Trump has oscillated between threatening additional large-scale strikes on Iran and insisting that the more than eight-month-old war “militarily is effectively...",
+        "id": "075b077b471d54c855bea13e54e8ead0",
+        "title": "Marco Rubio says ‘zero’ information that U.S. outages are linked or caused by a malign actor",
+        "summary": "President Donald Trump faced a groundswell of criticism as friends and foes alike said the White House must answer for a cascade of service outages that snarled travel, cut off work, limited bank access and disrupted classified communications",
+        "source": "The Hindu",
+        "category": "asia",
+        "url": "https://www.thehindu.com/news/international/marco-rubio-says-zero-information-that-us-outages-are-linked-or-caused-by-a-malign-actor/article71714357.ece",
+        "published": "2026-11-18T02:07:52+00:00"
+      },
+      {
+        "id": "02d648eadb5ad63cbbfcefeeb4d56626",
+        "title": "Hong Kong MTR signalling fault causes rush-hour delays on Island line",
+        "summary": "A signalling fault disrupted services on Hong Kong’s MTR Island line for more than 90 minutes on Wednesday morning, with long queues forming at North Point station during rush hour. A signalling fault has disrupted Hong Kong’s MTR Island line during morning rush hour for more than 90 minutes, with long queues forming at North Point station. The MTR Corporation said that a fault with signalling equipment at HKU station could add five to eight minutes to journeys between the line’s terminals. The.",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/middle-east/article/3374663/third-us-aircraft-carrier-reaches-middle-east-trump-weighs-iran-options",
-        "published": "2026-11-17T02:32:44+00:00"
+        "url": "https://www.scmp.com/news/hong-kong/transport/article/3374817/hong-kong-mtr-signalling-fault-causes-rush-hour-delays-island-line",
+        "published": "2026-11-18T02:07:40+00:00"
       }
     ],
     "others": [
       {
-        "id": "63e718bcc2e2fa377783b4e57017d230",
-        "title": "Gunfire erupts in occupied West Bank settler attack",
-        "summary": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
+        "id": "e1bd79757cd27a326777f39a730d996d",
+        "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+        "summary": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
-        "published": "2026-11-17T04:00:08+00:00"
+        "url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+        "published": "2026-11-18T02:36:09+00:00"
       },
       {
-        "id": "c1f75584fe89f334dd6d30554f09acf5",
-        "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-        "summary": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+        "id": "5b16f0c020eed133a7ca63df577f2e2a",
+        "title": "Hungary on the hunt for a football hero",
+        "summary": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
-        "published": "2026-11-17T03:12:54+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+        "published": "2026-11-18T02:32:57+00:00"
       },
       {
-        "id": "f099e0c69b118fdcc29f5a19944c9628",
-        "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-        "summary": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+        "id": "3ab1b279a35f2d84667295d846eff286",
+        "title": "ICE agents shove and pepper-spray pregnant woman",
+        "summary": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-        "published": "2026-11-17T02:52:56+00:00"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+        "published": "2026-11-18T02:17:12+00:00"
       },
       {
-        "id": "16e531d4e3ea74aa424f81daa70e2128",
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-        "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+        "id": "2be40aa64b5ccaed18b5bab1756c6184",
+        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-17T02:37:53+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-18T01:18:18+00:00"
       },
       {
-        "id": "261249ae025e0e48de575bf2effdf114",
-        "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-        "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns l",
+        "id": "d9ce9280e9d4fe22430eb74627a7f892",
+        "title": "Thomas Markle charged over child sex abuse material in Philippines",
+        "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-17T22:44:15+00:00"
+      },
+      {
+        "id": "5b757f95c96840f2535e1cb24efe1c1e",
+        "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+        "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned.On Friday, Terrance Drew, the prime minister of the twin-island Caribbean nation, announced he would wind down the citizenship-by-investment (CBI) progr",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-        "published": "2026-11-17T01:10:59+00:00"
+        "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+        "published": "2026-11-17T21:49:29+00:00"
       },
       {
-        "id": "6d1dcce34b2ccb0c5769ec1dfb2c444f",
-        "title": "Five EU countries announce migrant deportation centre in Rwanda",
-        "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+        "id": "fce8ad7e34367da20a534e34141274e9",
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-16T23:20:45+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-17T21:24:35+00:00"
       },
       {
-        "id": "d793767ef38c223d53c474f22495f62b",
-        "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-        "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+        "id": "d19e9380cafaff44d092a3c088029167",
+        "title": "Russian military plane crashes, killing all 19 on board",
+        "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-16T21:40:07+00:00"
-      },
-      {
-        "id": "f71cb93d6681ad354ce0928faef882b5",
-        "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-        "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-16T20:33:57+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-17T21:06:11+00:00"
       }
     ],
     "tech": [
       {
-        "id": "a6cfee49889228a9a34133683ea584d9",
-        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-        "summary": "Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 33 # Comments: 15",
+        "id": "5719d320d4ac469f51b52c69fc17f7e4",
+        "title": "Cerebras Disaggregated Inference",
+        "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 26 # Comments: 8",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://support.apple.com/en-us/149699",
-        "published": "2026-11-17T02:17:04+00:00"
+        "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+        "published": "2026-11-18T00:56:23+00:00"
       },
       {
-        "id": "6626b958faec5d3b8ac79f26852d5c8a",
-        "title": "Mem Is Shutting Down",
-        "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down Comments URL: https://news.ycombinator.com/item?id=50526537 Points: 24 # Comments: 25",
+        "id": "68f2d4602c02c63b9db1a0e58b68eb81",
+        "title": "ID.me terms required for IRS sign-in",
+        "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 138 # Comments: 49",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-        "published": "2026-11-17T02:13:41+00:00"
+        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+        "published": "2026-11-18T00:51:45+00:00"
       },
       {
-        "id": "3c9047a33cb1523adc7c233d8c6d2906",
-        "title": "Running coding agents without handing them my credentials",
-        "summary": "Article URL: https://blog.antonio.cx/running-agents-with-lend Comments URL: https://news.ycombinator.com/item?id=50526152 Points: 54 # Comments: 21",
+        "id": "094d4bc585c6b9c104e5fb1e9c28361d",
+        "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+        "source": "Ars Technica",
+        "category": "tech",
+        "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+        "published": "2026-11-18T00:27:29+00:00"
+      },
+      {
+        "id": "ecdfa4cd445fc8c27ae784a1390ba2a6",
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 128 # Comments: 82",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://blog.antonio.cx/running-agents-with-lend",
-        "published": "2026-11-17T01:18:56+00:00"
+        "url": "https://revscope.co/blog/search-seo-geo-2026/",
+        "published": "2026-11-18T00:17:58+00:00"
       },
       {
-        "id": "f499fab5c23965415a60b3d2328fe957",
-        "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-        "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/ Comments URL: https://news.ycombinator.com/item?id=50525658 Points: 67 # Comments: 18",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
-        "published": "2026-11-17T00:23:21+00:00"
-      },
-      {
-        "id": "feb27033dadbe73b92ad2f9c2243df64",
-        "title": "Why 3dfx 1 cards had such a washed out color output?",
-        "summary": "Article URL: https://twitter.com/id_aa_carmack/status/2122478083319992513 Comments URL: https://news.ycombinator.com/item?id=50525575 Points: 22 # Comments: 0",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-        "published": "2026-11-17T00:16:24+00:00"
-      },
-      {
-        "id": "abe0d08e7aefd78831413240191442d6",
-        "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-        "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November […]",
+        "id": "256ce1c73643bfca995386fa81982bda",
+        "title": "Satya Nadella says he’s AGI-pilled now",
+        "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-        "published": "2026-11-16T23:35:58+00:00"
+        "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+        "published": "2026-11-17T23:41:18+00:00"
       },
       {
-        "id": "7ed8d9052605c8ad1406bd6816d86ca6",
-        "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-        "summary": "Article URL: https://github.com/0nelight/sutra-os Comments URL: https://news.ycombinator.com/item?id=50525052 Points: 42 # Comments: 17",
+        "id": "42aa51335bd522a80a79686412da536f",
+        "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+        "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 98 # Comments: 37",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://github.com/0nelight/sutra-os",
-        "published": "2026-11-16T23:25:41+00:00"
+        "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+        "published": "2026-11-17T23:32:58+00:00"
       },
       {
-        "id": "27336b0ea0e6780d674cf4c6ef69f05c",
-        "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-        "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
-        "source": "The Verge",
+        "id": "772bd97df786716b1c3311bb9b5ed62f",
+        "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+        "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 154 # Comments: 37",
+        "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-        "published": "2026-11-16T23:17:34+00:00"
+        "url": "https://github.com/microsoft/onnxruntime",
+        "published": "2026-11-17T23:18:49+00:00"
+      },
+      {
+        "id": "874ef478014c630960b93e2f786d84b8",
+        "title": "San Diego dumps both Flock cameras and smart streetlights",
+        "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+        "source": "Ars Technica",
+        "category": "tech",
+        "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+        "published": "2026-11-17T23:09:09+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "e41ef72c9cc78de3500cf9fafa9dae0f",
+        "title": "Jensen Huang’s departure will cause lasting damage to Nvidia",
+        "summary": "The full toll will only become clear with time",
+        "source": "Business",
+        "category": "economist",
+        "url": "https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
+        "published": "2026-11-18T00:20:05+00:00"
+      },
+      {
+        "id": "e5250ad7cbe3c34e977f679e67e0bfe1",
+        "title": "Why startups still go public, eventually",
+        "summary": "Costly regulation is not a big deterrent to IPOs",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+        "published": "2026-11-17T18:38:26+00:00"
+      },
+      {
+        "id": "af13941a2ade7ebcc170fbc04cb01c45",
+        "title": "Does Donald Trump care about the economy?",
+        "summary": "His economic advisers have gone missing after a bruising midterm defeat",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+        "published": "2026-11-17T17:54:03+00:00"
+      },
+      {
+        "id": "42623b3a90939ef7f7f350ec4cdc39c7",
+        "title": "The incredible shrinking legacy of Donald J Trump",
+        "summary": "A three-way summit with Vladimir Putin and Xi Jinping in China will diminish America",
+        "source": "International",
+        "category": "economist",
+        "url": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
+        "published": "2026-11-17T16:53:04+00:00"
+      },
+      {
+        "id": "5e6611619a0a56d56696a97b487611cb",
+        "title": "Asia Bulletin newsletter: Xi, Trump, Putin and a theme park",
+        "summary": "Jeremy Page, Chief China correspondent, on why Shenzhen is China’s window on the world",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
+        "published": "2026-11-17T13:08:21+00:00"
+      },
       {
         "id": "45b657033c74f2f200445caa542c63c9",
         "title": "Trump Inc is in free fall",
@@ -397,51 +442,6 @@
         "category": "economist",
         "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
         "published": "2026-11-16T18:28:18+00:00"
-      },
-      {
-        "id": "ca7b00f2f0f794db6dcb8e5625b31a41",
-        "title": "The War Room newsletter: Will America or Iran blink first?",
-        "summary": "Alex Turner, our defence editor, on why neither side can end the stalemate",
-        "source": "International",
-        "category": "economist",
-        "url": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
-        "published": "2026-11-16T17:38:50+00:00"
-      },
-      {
-        "id": "a71287cbb2737162f8227301223cf56b",
-        "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
-        "summary": "Andrew Palmer, our Bartleby columnist, writes about the benefits of “skip-level meetings”",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
-        "published": "2026-11-16T14:53:55+00:00"
-      },
-      {
-        "id": "67e3e9581cb93b8b2899292cdf8e1e20",
-        "title": "Anthropic’s giant IPO puts the heat on OpenAI",
-        "summary": "Coding agents are big business. But what comes next?",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
-        "published": "2026-11-15T19:49:20+00:00"
-      },
-      {
-        "id": "55cffb9e893b9fc27188d66bf2e8bd6a",
-        "title": "Donald Trump will get a warm welcome in the Philippines",
-        "summary": "He almost skipped about the only country that still adores him",
-        "source": "Asia",
-        "category": "economist",
-        "url": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
-        "published": "2026-11-15T14:56:22+00:00"
-      },
-      {
-        "id": "6cca9d6e15ab34b7b1dd3e467e3a7f83",
-        "title": "The Bottom Line newsletter: Nvidia will never be the same",
-        "summary": "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
-        "published": "2026-11-14T11:55:51+00:00"
       }
     ]
   },
@@ -451,99 +451,99 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 5134.0,
-        "prev_close": 5183.18017578125,
-        "change_pct": -0.95,
+        "price": 5051.509765625,
+        "prev_close": 5109.1298828125,
+        "change_pct": -1.13,
         "direction": "down",
-        "price_fmt": "5,134.0",
-        "change_str": "-0.95%"
+        "price_fmt": "5,051.5",
+        "change_str": "-1.13%"
       },
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
         "currency": "USD",
-        "price": 7416.58984375,
-        "prev_close": 7561.669921875,
-        "change_pct": -1.92,
+        "price": 7340.52978515625,
+        "prev_close": 7416.58984375,
+        "change_pct": -1.03,
         "direction": "down",
-        "price_fmt": "7,416.6",
-        "change_str": "-1.92%"
+        "price_fmt": "7,340.5",
+        "change_str": "-1.03%"
       },
       {
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 23572.619140625,
-        "prev_close": 23753.83984375,
-        "change_pct": -0.76,
+        "price": 23292.060546875,
+        "prev_close": 23508.169921875,
+        "change_pct": -0.92,
         "direction": "down",
-        "price_fmt": "23,573",
-        "change_str": "-0.76%"
+        "price_fmt": "23,292",
+        "change_str": "-0.92%"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
         "currency": "JPY",
-        "price": 58888.08984375,
-        "prev_close": 59662.01953125,
-        "change_pct": -1.3,
+        "price": 58696.5390625,
+        "prev_close": 58860.4296875,
+        "change_pct": -0.28,
         "direction": "down",
-        "price_fmt": "58,888",
-        "change_str": "-1.30%"
+        "price_fmt": "58,697",
+        "change_str": "-0.28%"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
         "currency": "GBP",
-        "price": 10881.599609375,
-        "prev_close": 10902.599609375,
-        "change_pct": -0.19,
+        "price": 10689.900390625,
+        "prev_close": 10881.599609375,
+        "change_pct": -1.76,
         "direction": "down",
-        "price_fmt": "10,882",
-        "change_str": "-0.19%"
+        "price_fmt": "10,690",
+        "change_str": "-1.76%"
       },
       {
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8887.099609375,
-        "prev_close": 9044.7001953125,
-        "change_pct": -1.74,
+        "price": 8849.0,
+        "prev_close": 8883.2001953125,
+        "change_pct": -0.38,
         "direction": "down",
-        "price_fmt": "8,887.1",
-        "change_str": "-1.74%"
+        "price_fmt": "8,849.0",
+        "change_str": "-0.38%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2882299423217773,
-        "prev_close": 1.2877600193023682,
-        "change_pct": 0.04,
+        "price": 1.289199948310852,
+        "prev_close": 1.2890299558639526,
+        "change_pct": 0.01,
         "direction": "up",
         "price_fmt": "1.29",
-        "change_str": "+0.04%"
+        "change_str": "+0.01%"
       },
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4178600311279297,
-        "prev_close": 1.4197299480438232,
-        "change_pct": -0.13,
+        "price": 1.4163999557495117,
+        "prev_close": 1.4176199436187744,
+        "change_pct": -0.09,
         "direction": "down",
         "price_fmt": "1.42",
-        "change_str": "-0.13%"
+        "change_str": "-0.09%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.6996400356292725,
-        "prev_close": 1.7019100189208984,
-        "change_pct": -0.13,
-        "direction": "down",
+        "price": 1.7011699676513672,
+        "prev_close": 1.6994800567626953,
+        "change_pct": 0.1,
+        "direction": "up",
         "price_fmt": "1.70",
-        "change_str": "-0.13%"
+        "change_str": "+0.10%"
       },
       {
         "symbol": "JPYSGD=X",
@@ -558,12 +558,12 @@
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
-        "price": 0.19280000030994415,
-        "prev_close": 0.1928,
-        "change_pct": 0.0,
+        "price": 0.19290000200271606,
+        "prev_close": 0.1927,
+        "change_pct": 0.1,
         "direction": "up",
         "price_fmt": "0.19",
-        "change_str": "0.00%"
+        "change_str": "+0.10%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 91.66000366210938,
-        "prev_close": 92.44000244140625,
-        "change_pct": -0.84,
+        "price": 92.7699966430664,
+        "prev_close": 93.13999938964844,
+        "change_pct": -0.4,
         "direction": "down",
-        "price_fmt": "91.66",
-        "change_str": "-0.84%"
+        "price_fmt": "92.77",
+        "change_str": "-0.40%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 3871.199951171875,
-        "prev_close": 3853.0,
-        "change_pct": 0.47,
-        "direction": "up",
-        "price_fmt": "3,871.2",
-        "change_str": "+0.47%"
+        "price": 3802.300048828125,
+        "prev_close": 3864.199951171875,
+        "change_pct": -1.6,
+        "direction": "down",
+        "price_fmt": "3,802.3",
+        "change_str": "-1.60%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 47.275001525878906,
-        "prev_close": 46.78499984741211,
-        "change_pct": 1.05,
-        "direction": "up",
-        "price_fmt": "47.28",
-        "change_str": "+1.05%"
+        "price": 45.959999084472656,
+        "prev_close": 47.28799819946289,
+        "change_pct": -2.81,
+        "direction": "down",
+        "price_fmt": "45.96",
+        "change_str": "-2.81%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.0880000591278076,
-        "prev_close": 3.121999979019165,
-        "change_pct": -1.09,
+        "price": 3.184000015258789,
+        "prev_close": 3.2079999446868896,
+        "change_pct": -0.75,
         "direction": "down",
-        "price_fmt": "3.09",
-        "change_str": "-1.09%"
+        "price_fmt": "3.18",
+        "change_str": "-0.75%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 64887.078125,
-        "prev_close": 65305.0625,
-        "change_pct": -0.64,
+        "price": 64417.28125,
+        "prev_close": 64855.84375,
+        "change_pct": -0.68,
         "direction": "down",
-        "price_fmt": "64,887",
-        "change_str": "-0.64%"
+        "price_fmt": "64,417",
+        "change_str": "-0.68%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1828.02001953125,
-        "prev_close": 1835.4952392578125,
-        "change_pct": -0.41,
+        "price": 1807.699951171875,
+        "prev_close": 1819.27587890625,
+        "change_pct": -0.64,
         "direction": "down",
-        "price_fmt": "1,828.0",
-        "change_str": "-0.41%"
+        "price_fmt": "1,807.7",
+        "change_str": "-0.64%"
       }
     ]
   },
