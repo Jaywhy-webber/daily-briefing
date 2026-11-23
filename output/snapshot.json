@@ -2,375 +2,411 @@
   "news": {
     "singapore": [
       {
-        "id": "a2fe39a9ce11717b222cd63ba0cb8bd1",
-        "title": "YMCA portal breached, data of 13,000 people may be affected, says association",
-        "summary": "The affected system was taken offline on Oct 19 and cybersecurity experts probed the incident.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/ymca-portal-breached-data-of-13000-people-may-be-affected-says-association",
-        "published": "2026-11-22T00:10:00+00:00"
-      },
-      {
-        "id": "4ece6222a80b60f97ddfdad8ebf01677",
-        "title": "How young is too young for kids to start participating in sports and competitions?",
-        "summary": "With Hyrox Youngstars bringing even more kids into competitive sports, experts weigh in on when to start, injury risks, overtraining and healthy competition.",
+        "id": "74fc5b555070c599fe9f400abdae81cf",
+        "title": "Singapore to raise annual value of residential property threshold for social support schemes from March 2027",
+        "summary": "From Mar 1 next year, the threshold for the first annual value of residential property tier will be S$24,000.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/wellness/kids-sports-starting-age-hyrox-youngstars-training-injury-risks-6557641",
-        "published": "2026-11-21T23:52:59+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/property-tax-rebate-av-threshold-6573641",
+        "published": "2026-11-23T02:00:38+00:00"
       },
       {
-        "id": "8c9fa444dbcf81972dc21c055eea8e06",
-        "title": "A pink bedroom, blue walls and bold art: A creative director’s colourful HDB home in Singapore",
-        "summary": "After years of living with neutral interiors, creative director Tony Law embraced bold colours, eclectic furnishings and treasured possessions to create a surprisingly calming home in Marine Parade.",
+        "id": "40cf7c188d480215f0e18aea0ff842a1",
+        "title": "One-off property tax rebate for all owner-occupied homes in 2027",
+        "summary": "The annual value threshold that is used to assess eligibility for social support schemes will be raised.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/one-off-property-tax-rebate-for-all-owner-occupied-homes-in-2027",
+        "published": "2026-11-23T02:00:00+00:00"
+      },
+      {
+        "id": "f224f914f52b375385f73bef7255dbfe",
+        "title": "New neighbourhood planned for Pasir Ris, HDB to keep about 13ha of coastal, forested habitats",
+        "summary": "In planning for the site, HDB commissioned an Environmental Impact Assessment and engaged nature groups.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/housing/new-neighbourhood-planned-for-pasir-ris-hdb-to-keep-about-13ha-of-coastal-forested-habitats",
+        "published": "2026-11-23T01:47:12+00:00"
+      },
+      {
+        "id": "467679c4a74b1676723da966ebd270f5",
+        "title": "CNA Now: Singapore, China to hold high-level bilateral talks, plus other news as it happens",
+        "summary": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/obsessions/colourful-hdb-flat-marine-parade-interior-design-6538716",
-        "published": "2026-11-21T22:04:41+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/cna-now-live-blog-nov-23-6568956",
+        "published": "2026-11-23T01:01:00+00:00"
       },
       {
-        "id": "7188250e05f2307e489c879bcbfa09f6",
-        "title": "Fullerton Health data breach: Migrant workers face risks of employment scams, impersonation",
-        "summary": "Worker groups say leaked names, addresses and phone numbers could make fake work permit and job messages harder to spot.",
+        "id": "ce11ad02cf6660dc2adcf7476497f7f2",
+        "title": "ST Live: HDB engages nature groups to minimise environmental impact of new Pasir Ris neighbourhood",
+        "summary": "Follow the latest updates on ST.",
+        "source": "The Straits Times",
+        "category": "singapore",
+        "url": "https://www.straitstimes.com/singapore/st-live-news-as-it-happens10",
+        "published": "2026-11-22T23:47:07+00:00"
+      },
+      {
+        "id": "42acb4484c596e6636f79c0f372cc705",
+        "title": "She survived bone cancer and two amputations – now this 20-year-old wants to be seen beyond her disability",
+        "summary": "From strangers pushing her wheelchair without asking to being overlooked in crowds and stared at on the MRT, Chloe Chew has faced struggles few realise. She is now finding confidence and a sense of identity through art and has taken up para-fencing.",
         "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.channelnewsasia.com/singapore/fullerton-health-data-breach-migrant-workers-6565521",
-        "published": "2026-11-21T22:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/women/chloe-chew-bone-cancer-survivor-wheelchair-para-fencing-6555046",
+        "published": "2026-11-22T23:19:28+00:00"
       },
       {
-        "id": "b49976d4e1c3da6aceac8d2c67ac2336",
-        "title": "Helping, not snitching: How primary school pupils in Sengkang are learning to stand up for others",
-        "summary": "The GUARD programme was launched in partnership with the Sengkang Neighbourhood Police Centre.",
-        "source": "The Straits Times",
+        "id": "fc967b00b3c53b94c25817b9f13c85ff",
+        "title": "CNA Explains: What can you recycle in Singapore, and where should it go?",
+        "summary": "From cardboard boxes to air conditioners, CNA explains what can be recycled and where. The article is part of Beyond the Bin, a Mediacorp initiative raising awareness on the 3Rs - reduce, reuse and recycle - and more sustainable waste habits in Singapore.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/parenting-education/helping-not-snitching-how-primary-school-pupils-in-sengkang-are-learning-to-stand-up-for-others",
-        "published": "2026-11-21T21:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/singapore/what-can-you-recycle-blue-bins-e-waste-clothes-cna-explains-6538746",
+        "published": "2026-11-22T22:00:00+00:00"
       },
       {
-        "id": "9e9e1820fbf3623daccfb986a11763ad",
-        "title": "Chinese electric car brand JMEV shuts down showroom one year after opening",
-        "summary": "It is the second Chinese EV brand to have closed in the past two years.",
-        "source": "The Straits Times",
+        "id": "b4ac27d2ea485d4396eb527ad9119004",
+        "title": "Commentary: A weak South China Sea code of conduct will be worse than no agreement at all",
+        "summary": "As Singapore takes over as ASEAN chair in 2027, what remains unresolved on the South China Sea code of conduct are arguably the most intractable issues, says Collin Koh from the S Rajaratnam School of International Studies.",
+        "source": "Channel NewsAsia",
         "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/transport/chinese-electric-car-brand-jmev-shuts-down-showroom-one-year-after-opening",
-        "published": "2026-11-21T21:00:00+00:00"
-      },
-      {
-        "id": "04636b95cebe1549b7ce5690f115a788",
-        "title": "NUS student with hearing loss once focused on what she lacked. Then she found what she could give",
-        "summary": "She volunteers as a befriender to deaf individuals and raises awareness of disability inclusion.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/community/nus-student-with-hearing-loss-once-focused-on-what-she-lacked-then-she-found-what-she-could-give",
-        "published": "2026-11-21T21:00:00+00:00"
-      },
-      {
-        "id": "72655dff5c940c134e7ac1030cf1760d",
-        "title": "Vaccination rates among Singapore seniors more than double over past 5 years",
-        "summary": "Nearly seven in 10 seniors received the pneumococcal vaccine in 2025, up from about three in 10 in 2021.",
-        "source": "The Straits Times",
-        "category": "singapore",
-        "url": "https://www.straitstimes.com/singapore/health/vaccination-rates-among-singapore-seniors-more-than-double-over-past-5-years",
-        "published": "2026-11-21T21:00:00+00:00"
+        "url": "https://www.channelnewsasia.com/commentary/south-china-sea-code-conduct-asean-singapore-6571406",
+        "published": "2026-11-22T22:00:00+00:00"
       }
     ],
     "us": [
       {
-        "id": "4af572bdd1dd6092d9b78b1d0d9b9473",
-        "title": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
-        "summary": "The Department of Defense (DOD) recently issued a memo instructing its staff to limit social and informal interactions between U.S. and Canadian military personnel, Sen. Mike Rounds (R-S.D.) said Saturday. During a press conference at the annual Halifax International Security Forum in Halifax, Nova Scotia, the South Dakota Republican said this order was drafted “several…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/",
-        "published": "2026-11-21T23:52:23+00:00"
-      },
-      {
-        "id": "b1fd6563c6bb9a6eacbeeff6efcf13dc",
-        "title": "Sunday shows preview: Trump’s security agenda, House leadership elections take center stage",
-        "summary": "House Democrats nominated Minority Leader Hakeem Jeffries (D-N.Y.) this week for the Speakership, teeing up what would mark his historic appointment as the first Black lawmaker to lead the legislative chamber. Jeffries’s nomination was one of many significant firsts in the lower chamber. House Democrats also elected Rep. Katherine Clark (D-Mass.) as the first woman for…",
-        "source": "The Hill",
-        "category": "us",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/",
-        "published": "2026-11-21T23:06:51+00:00"
-      },
-      {
-        "id": "ae1c048c5fad8170d26fec731756b6b7",
-        "title": "Trump orders federal contractors to check with White House before responding to Congress",
-        "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+        "id": "67400440868b636971ead7d986e76170",
+        "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+        "summary": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal tract, surgery isn't always possible.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
-        "published": "2026-11-21T22:40:36+00:00"
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+        "published": "2026-11-23T01:53:48+00:00"
       },
       {
-        "id": "5af80bbbd0525c7ef5fcd0af3273b9d1",
-        "title": "Hubbard leads Foxx by 330 votes after recount",
-        "summary": "Democrat Chuck Hubbard remains in the lead over incumbent Rep. Virginia Foxx (R-N.C.) after a nearly finalized recount changed only one vote. Hubbard leads by 330 votes in the race for North Carolina’s 5th Congressional District. Decision Desk HQ, The Hill’s nonpartisan election results partner, has not projected a winner in the race. Foxx had…",
+        "id": "d82abe339c2e1a931f4ebb1f920684e1",
+        "title": "Mamdani releases 84,000 more 9/11 records",
+        "summary": "New York City Mayor Zohran Mamdani (D) released 84,000 more records pertaining to the Sept. 11, 2001, attacks following a previous release that showed city leaders lied about air quality. “After the horrific terror attacks of September 11th and the devastating health consequences that followed, New Yorkers across the five boroughs demanded transparency from their…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/",
-        "published": "2026-11-21T22:23:05+00:00"
+        "url": "https://thehill.com/homenews/state-watch/6236426-zohran-mamdani-releases-new-911-records/",
+        "published": "2026-11-22T23:33:47+00:00"
       },
       {
-        "id": "37f738c190435a4ff8db8ef4e6455489",
-        "title": "Google employees protest AI in schools policy",
-        "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+        "id": "22dd8cf134eac66c10e4f03daa34b329",
+        "title": "What it's like at a climate conference as talks collapse",
+        "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-        "published": "2026-11-21T22:01:40+00:00"
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+        "published": "2026-11-22T22:40:23+00:00"
       },
       {
-        "id": "606c17c9a091f42f300088acba6834f1",
-        "title": "Highlights and challenges from covering an historic month in South America",
-        "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+        "id": "6a06566e2c2be9bf425edcd458d5d52f",
+        "title": "Philly festival-goers say pickles are a real big dill",
+        "summary": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
         "source": "NPR",
         "category": "us",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-        "published": "2026-11-21T22:01:35+00:00"
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+        "published": "2026-11-22T22:40:19+00:00"
       },
       {
-        "id": "2cf780c39945990160620d312c899873",
-        "title": "Trump’s grip on GOP tested as MAGA allies head for exit",
-        "summary": "President Trump’s grip on the Republican Party is being seriously tested after the midterm thumping, as stalwarts of his “Make America Great Again” (MAGA) movement flee the ship. Elon Musk’s statement that he is “not MAGA,” a 180-degree turn from where he stood after Trump’s inauguration, is the most notable example. But Musk is not…",
+        "id": "44cca33ce2a291669c3333f42024e273",
+        "title": "Russian ship docked in Libya hit in suspected drone attack",
+        "summary": "A Russian ship docked at a naval base in Benghazi was severely damaged in a suspected Ukrainian drone attack Sunday, according to Libyan officials. The Merkury, a Russian navy corvette, was struck by two sea drones while docked in the eastern Libyan port city, triggering an explosion and a fire. An initial investigation found that…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/",
-        "published": "2026-11-21T22:00:00+00:00"
+        "url": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
+        "published": "2026-11-22T22:03:52+00:00"
       },
       {
-        "id": "ec66b85f7e34be47e3f6fc67d1f95896",
-        "title": "Trump praises Zacharia amid California state bar investigation",
-        "summary": "President Trump heaped praise on former White House Press Secretary Katie Zacharia in a phone interview Saturday, defending her quick exit from the role earlier this fall. “I saw the way she was being treated and I said, ‘Katie, you don’t need this,’” Trump told Fox News’ Kayleigh McEnany, a former Trump press secretary. “She…",
+        "id": "bfa333ff0df0839770b921d20dc11790",
+        "title": "This Week on The Hill: Lawmakers break for Thanksgiving as year-end agenda looms",
+        "summary": "Lawmakers are home for Thanksgiving, but they will have little time to enjoy the break before returning to a packed legislative agenda. With Democrats set to take control of both chambers in January, Republicans have just a few weeks left to push through their priorities before the clock on their power expires. Government funding and…",
         "source": "The Hill",
         "category": "us",
-        "url": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/",
-        "published": "2026-11-21T21:07:46+00:00"
+        "url": "https://thehill.com/premium/6234918-congress-lame-duck-agenda-thanksgiving-deadlines/",
+        "published": "2026-11-22T22:00:00+00:00"
+      },
+      {
+        "id": "f3f4884cab8e9ca6158f42e74873d799",
+        "title": "Jeffries faces growing pains with large majority and sprawling investigative agenda",
+        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) is set to take over the largest Democratic Caucus since the 1990s, and with it, potential headaches stemming from policy disagreements and sprawling investigations. Democrats have been in a celebratory mood since exceeding expectations in the midterms and picking up almost 50 new seats in the House, returning them…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/the-120/6234822-hakeem-jeffries-democratic-house-speaker-agenda/",
+        "published": "2026-11-22T22:00:00+00:00"
+      },
+      {
+        "id": "d6ab78cefa96988e8ccd375fd07b6a2e",
+        "title": "Democrats secure largest House majority in election in three decades",
+        "summary": "Democrats have secured the largest House majority in a regular election in decades, following their notable 2026 midterm election victories in regions where they have historically struggled. According to Decision Desk HQ, Democrats are projected to lock down 258 seats in the House for the next Congress. The last time the party secured that many…",
+        "source": "The Hill",
+        "category": "us",
+        "url": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
+        "published": "2026-11-22T21:33:52+00:00"
       }
     ],
     "asia": [
       {
-        "id": "fff46c2242074e2fa82a583c6c6c2e26",
-        "title": "Xi’s Apec summit speech is a call to cooperation suited to the times",
-        "summary": "In his keynote speech at the Apec CEO Summit in Shenzhen on November 18, President Xi Jinping quoted the ancient Chinese saying “fan yi zhi dao yu shi jie xing”, which suggests that all approaches must move with the times to be of benefit. Of all the messages in his speech, the eight characters of the Chinese saying caught my attention. Rooted in the I Ching, or Book of Changes, the phrase carries a simple but important idea: progress comes from creating benefits while recognising that the ways.",
+        "id": "4368c0d55a1b806450036bb1a4c6fb99",
+        "title": "China undertaker recalls toughest case: 2 days restoring accident victim’s face from photo",
+        "summary": "An award-winning young Chinese undertaker has shared the cases that have stayed with him, saying his greatest inspiration is that “nothing matters except life and death.” Zhou Wang, 32, has worked as an undertaker at Hangzhou Funeral Home in Zhejiang province, eastern China, for more than a decade. He won the title of “Gold Medal Mortuary Cosmetologist” at a provincial competition in 2022 and was named the city’s “civil affairs craftsman” the following year. Reflecting on his decade-long career,",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times",
-        "published": "2026-11-22T01:30:06+00:00"
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375376/china-undertaker-recalls-toughest-case-2-days-restoring-accident-victims-face-photo",
+        "published": "2026-11-23T02:00:21+00:00"
       },
       {
-        "id": "3624ed57b0710761a1be1a43cd64dfb0",
-        "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
-        "summary": "“Our position is clear: as long as Iran's demands are not met, the discussion on the Strait of Hormuz and its opening is pointless,” Foreign Minister Abbas Araghchi said",
+        "id": "8434c62a48bb63102c80e927e8d75703",
+        "title": "China’s memory chipmakers are catching up to industry leaders. What happens when they do?",
+        "summary": "This article was first published by The Korea Times in a partnership with the South China Morning Post. Riding a two-year artificial intelligence boom, China’s domestic memory chipmakers have grown faster and bolder than ever – but early signs of a market cool-down threaten to test their momentum. China’s two biggest champions in memory chip self-sufficiency, ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies (YMTC), have leveraged state backing, new factories and advancing...",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/tech/big-tech/article/3375363/chinas-memory-chipmakers-are-catching-industry-leaders-what-happens-when-they-do",
+        "published": "2026-11-23T02:00:16+00:00"
+      },
+      {
+        "id": "105b3906fd21508d3cb4ac471157c916",
+        "title": "3 killed and 1 wounded in shooting at Ohio baby shower; 1 man in custody, police say",
+        "summary": "Authorities said one of the shooters, a 29-year-old man, was taken into custody, but he wasn't immediately charged. A second suspected shooter, a 19-year-old man, was one of the people killed, police said",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece",
-        "published": "2026-11-22T01:29:41+00:00"
+        "url": "https://www.thehindu.com/news/international/3-killed-and-1-wounded-in-shooting-at-ohio-baby-shower-1-man-in-custody-police-say/article71733198.ece",
+        "published": "2026-11-23T01:55:37+00:00"
       },
       {
-        "id": "65ebe68d16abb312452b018ed2d68a0c",
-        "title": "Thousands march in Lisbon as living costs fuel anger",
-        "summary": "The protest ⁠followed weeks of unrest, including housing activists’ tent camps in ⁠Lisbon and Porto, and comes amid a broader wave of demonstrations across Europe over ‌living costs and housing",
+        "id": "6c877a6a050af56ae32dc84722650cd5",
+        "title": "North Korea seeks power for security, not supremacy, Kim says",
+        "summary": "Kim Jong-un said North Korea would strive to achieve “power and capability” to ensure its security and peace but would not pursue supremacy, state media reported on Monday. Kim made the remarks at a ceremony to receive credentials from newly appointed ambassadors – including Russia’s – in a rare departure from protocol, as the task has traditionally been performed by a senior official rather than Kim himself. The ceremony followed Kim’s snubbing of US President Donald Trump’s overtures last week",
+        "source": "South China Morning Post",
+        "category": "asia",
+        "url": "https://www.scmp.com/news/asia/east-asia/article/3375409/north-korea-seeks-power-security-not-supremacy-kim-says",
+        "published": "2026-11-23T01:43:25+00:00"
+      },
+      {
+        "id": "c889f0e0a71608f685c1791ba106ace8",
+        "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+        "summary": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide",
         "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.thehindu.com/news/international/thousands-march-in-lisbon-as-living-costs-fuel-anger/article71730501.ece",
-        "published": "2026-11-22T01:28:36+00:00"
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+        "published": "2026-11-23T01:39:51+00:00"
       },
       {
-        "id": "2c6f555030ea1ca5bf75f0b8806fef46",
-        "title": "How the battle to host UN high seas treaty tests China’s push for global leadership",
-        "summary": "A rival joint bid by Belgium and Chile to host the secretariat for the landmark UN high seas treaty could present a fresh diplomatic test for Beijing ahead of the 2027 vote. Observers say the surprise November 6 announcement of their merged bid to oversee the Agreement on Biodiversity Beyond National Jurisdiction (BBNJ) will complicate China’s efforts to secure its first major UN body headquarters. The agreement, which took effect in January, is the first legally binding framework to protect...",
-        "source": "South China Morning Post",
+        "id": "cef0ea79b841e666789ecff2e94de26b",
+        "title": "Search for Indonesia factory fire missing to resume on Nov 23, as police remove 24 body bags",
+        "summary": "The fire broke out on Saturday (Nov 21) evening at the PT Fonusa Agung Mulia candy factory in Cikande, in the Serang regency.",
+        "source": "CNA Asia",
         "category": "asia",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3375214/how-battle-host-un-high-seas-treaty-tests-chinas-push-global-leadership",
-        "published": "2026-11-22T01:00:09+00:00"
+        "url": "https://www.channelnewsasia.com/asia/indonesia-factory-fire-search-resume-body-bags-victims-6573141",
+        "published": "2026-11-23T01:31:12+00:00"
       },
       {
-        "id": "c08b7eda081e2689d8e45cf0b3be52d3",
-        "title": "Paolo Bulgari, the Italian jeweller who dazzled stars and supermodels, dies at 89",
-        "summary": "Paolo Bulgari, the grandson of a Greek silversmith who helped transform the family jewellery business into a global luxury brand synonymous with Italian glamour and design, has died. He was 89. His family announced his death on Saturday, describing him as “the greatest jeweller of our time” and praising his humanity and entrepreneurial talent. Bulgari presided for decades over a brand celebrated by supermodels, Hollywood stars and collectors for its bold designs and distinctive use of...",
+        "id": "d3e72a0cc6a17cf951e60026dd34b906",
+        "title": "Reform of Hong Kong’s sexual offence laws better late than never",
+        "summary": "After two decades of waiting, Hong Kong’s laws on sexual offences are about to join the 21st century. Wednesday is International Day for the Elimination of Violence against Women. It is fitting that the city government will introduce the Sexual Offences Legislation (Amendment) Bill 2026 in the Legislative Council that same day. The government gazetted the bill earlier this month following public consultation. Hong Kong’s sexual offence laws have long needed updating. Most of the provisions...",
         "source": "South China Morning Post",
         "category": "asia",
-        "url": "https://www.scmp.com/news/world/europe/article/3375352/paolo-bulgari-italian-jeweller-who-dazzled-stars-and-supermodels-dies-89",
-        "published": "2026-11-22T00:57:19+00:00"
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3375230/reform-hong-kongs-sexual-offence-laws-better-late-never",
+        "published": "2026-11-23T01:30:05+00:00"
       },
       {
-        "id": "c99642f8a5154b5b7104add6ba7421bc",
-        "title": "Hong Kong’s Election Committee race: how voting works and new candidates to watch",
-        "summary": "Hong Kong goes to the polls on Sunday for some 5,700 eligible voters to choose members of the powerful Election Committee, a 1,500-strong electoral college that will nominate candidates and elect the city leader in next year’s chief executive race, as well as nominate candidates and elect legislators in the 2029 Legislative Council election. Here is what you need to know about the 2026 Election Committee Subsector Ordinary Elections and the candidates to watch. 1. What is the Election...",
-        "source": "South China Morning Post",
+        "id": "44b2a8404b154a4e2fedbd1042bd4a92",
+        "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+        "summary": "The strike at the Benghazi Naval Base in eastern Libya severely damaged the Merkury, a Russian navy corvette, and ignited a fire at the facility, two Libyan military officials said",
+        "source": "The Hindu",
         "category": "asia",
-        "url": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch",
-        "published": "2026-11-22T00:00:23+00:00"
-      },
-      {
-        "id": "7fa246fac6aad6a95da978aa8913d54b",
-        "title": "Weak yen, tax cuts put Japan’s defence plans in a Trump bind",
-        "summary": "Japanese Prime Minister Sanae Takaichi is facing growing backlash from fellow conservatives over plans to rein in the country’s next five-year defence budget, but analysts say pressure from Washington could pose an even bigger challenge. The dispute pits demands for a stronger military against Japan’s economic constraints, with a weak yen and concerns over government finances complicating Takaichi’s efforts to satisfy both her political allies and US President Donald Trump. The Finance Ministry.",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/week-asia/politics/article/3375224/weak-yen-tax-cuts-put-japans-defence-plans-trump-bind",
-        "published": "2026-11-22T00:00:12+00:00"
-      },
-      {
-        "id": "0da48b46d602cefd3e840e3eb40c4005",
-        "title": "How a retracted UK Covid-19 vaccine study tainted the global hunt for mutation-proof shots",
-        "summary": "A 2022 study exploring a vaccine design for pan-Sars-CoV-2 immunity was retracted last month after its lead author, then in Britain, admitted to fabricating data and falsifying images in the paper. While the retraction of the study, widely cited up until this year by international scientists, marks a significant blow to vaccine research, virologists said the foundational science targeting broader coronavirus immunity remained robust and independent of the retracted study. Citation records show..",
-        "source": "South China Morning Post",
-        "category": "asia",
-        "url": "https://www.scmp.com/news/china/science/article/3375190/how-retracted-uk-covid-19-vaccine-study-tainted-global-hunt-mutation-proof-shots",
-        "published": "2026-11-22T00:00:11+00:00"
+        "url": "https://www.thehindu.com/news/international/suspected-ukrainian-sea-drones-hit-russian-warship-at-benghazi-naval-base-libyan-officials-say/article71733178.ece",
+        "published": "2026-11-23T01:02:56+00:00"
       }
     ],
     "others": [
       {
-        "id": "aeba83dbbeddf48265971e896fd54039",
-        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-        "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+        "id": "1634eda0997259e5ec6ba426da9e0d5e",
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T01:25:03+00:00"
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-23T00:50:35+00:00"
       },
       {
-        "id": "86a9b6df6cc3f85475407c7c88477084",
-        "title": "Moviegoers head for the exits as quake strikes Peru",
-        "summary": "Moviegoers head for the exits as quake strikes Peru",
+        "id": "35d3c444e2c97d7a9ce0cdb949e87f76",
+        "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+        "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
-        "published": "2026-11-22T01:07:19+00:00"
+        "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+        "published": "2026-11-23T00:39:51+00:00"
       },
       {
-        "id": "596d56745f72349eff4abfa923332b69",
-        "title": "Clashes erupt across France in another night of protest",
-        "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+        "id": "d322985c1def947906a5749a302e7267",
+        "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+        "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-        "published": "2026-11-22T00:37:32+00:00"
+        "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+        "published": "2026-11-23T00:18:03+00:00"
       },
       {
-        "id": "94221f6294d7d008bd71833001a1feb9",
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-22T00:10:44+00:00"
-      },
-      {
-        "id": "720db939682b9154d9d28330ca4845c9",
-        "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-        "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+        "id": "f3936cb863f73436aa6761f27f477d7e",
+        "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+        "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
         "source": "Al Jazeera",
         "category": "others",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-        "published": "2026-11-21T23:59:03+00:00"
+        "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+        "published": "2026-11-23T00:03:30+00:00"
       },
       {
-        "id": "eaed5e7286ca06adf139ed112d9cd0f5",
-        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-        "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+        "id": "0359700b3813cd1b61472d1e6f7dfe27",
+        "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+        "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
         "source": "BBC World",
         "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-21T22:19:43+00:00"
+        "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-22T22:37:43+00:00"
       },
       {
-        "id": "8c4889b0056b454b5c65ddf4f12e43b1",
-        "title": "Russia-bound ship attacked in Gulf of Finland",
-        "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-        "source": "BBC World",
-        "category": "others",
-        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-21T19:20:22+00:00"
-      },
-      {
-        "id": "5765d3ca74c9a3aaf003665229fa2aac",
-        "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-        "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night.Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread panic in the city of Guasave. Continue reading...",
+        "id": "16b609684b02c5bc8a8d263ef99bf83e",
+        "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+        "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern governmen",
         "source": "The Guardian",
         "category": "others",
-        "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-        "published": "2026-11-21T17:46:55+00:00"
+        "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+        "published": "2026-11-22T21:33:44+00:00"
+      },
+      {
+        "id": "5c12158c82b3dbee968fa38fa1550aa5",
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+        "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-22T20:28:09+00:00"
+      },
+      {
+        "id": "0c0411e4f6fd463ca694936eada67252",
+        "title": "What's next after no deal at COP31 climate talks?",
+        "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+        "source": "BBC World",
+        "category": "others",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-22T18:57:24+00:00"
       }
     ],
     "tech": [
       {
-        "id": "31ee0d9fdb15c9679ff9207e77fc4e4b",
-        "title": "Sandwich Simulator",
-        "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 13 # Comments: 2",
+        "id": "f960f475a7d00d4f65c23b8d8cfa7f79",
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 20 # Comments: 2",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://stulle.app/",
-        "published": "2026-11-22T00:07:59+00:00"
+        "url": "https://spelunkr.tv",
+        "published": "2026-11-23T01:13:51+00:00"
       },
       {
-        "id": "acd2d65fb0e4e12fd1abf73732c56ab5",
-        "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-        "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
-        "source": "Ars Technica",
-        "category": "tech",
-        "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-        "published": "2026-11-21T22:12:41+00:00"
-      },
-      {
-        "id": "5f7d5b7700bc5953cd7da66de42a8435",
-        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-        "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 54 # Comments: 5",
+        "id": "6827df42c728f88516f755e19abf32bb",
+        "title": "What we learned operating auth for 1k APIs",
+        "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 4 # Comments: 1",
         "source": "Hacker News (Top)",
         "category": "tech",
-        "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-        "published": "2026-11-21T22:09:58+00:00"
+        "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+        "published": "2026-11-23T01:01:11+00:00"
       },
       {
-        "id": "3483444aca33d475fcee23e009adf5d1",
-        "title": "Amazon is complaining about NYC Council on shipping labels, too",
-        "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]",
+        "id": "28e926ec89148ff7aff97ba9207ef067",
+        "title": "Nespresso's project to reduce grams of coffee per capsule",
+        "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 90 # Comments: 83",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+        "published": "2026-11-22T23:57:45+00:00"
+      },
+      {
+        "id": "354c3e4c758457b65d74fb51bc2e56ad",
+        "title": "What should AAA game devs do",
+        "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 22 # Comments: 35",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
+        "published": "2026-11-22T23:51:00+00:00"
+      },
+      {
+        "id": "11732177a5ec39b6ef1a62026282c47f",
+        "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+        "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 154 # Comments: 127",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+        "published": "2026-11-22T23:12:10+00:00"
+      },
+      {
+        "id": "1e676ed33d7893f7cecf69affdb7fe95",
+        "title": "GL.iNet Security Notice 2026-11-20",
+        "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 87 # Comments: 35",
+        "source": "Hacker News (Top)",
+        "category": "tech",
+        "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+        "published": "2026-11-22T23:06:37+00:00"
+      },
+      {
+        "id": "e7324e444f2300f05e0fbe9cbc5b7c25",
+        "title": "We haven’t seen the last of the major tech outages",
+        "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
         "source": "The Verge",
         "category": "tech",
-        "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-        "published": "2026-11-21T21:59:31+00:00"
+        "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+        "published": "2026-11-22T22:48:02+00:00"
       },
       {
-        "id": "7ffd654841122b1a257315fc7b49e898",
-        "title": "Advice for the next 100 Rust GUIs",
-        "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 89 # Comments: 8",
-        "source": "Hacker News (Top)",
+        "id": "6056030da7324492e8bddbbd78b2e445",
+        "title": "Delta flights in and out of Atlanta delayed due to system outage",
+        "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
+        "source": "The Verge",
         "category": "tech",
-        "url": "https://linebender.org/blog/next-100-guis/",
-        "published": "2026-11-21T21:17:53+00:00"
-      },
-      {
-        "id": "6cf118a90d91a50ef310022191afd85f",
-        "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-        "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://tasklet.ai/careers",
-        "published": "2026-11-21T21:11:08+00:00"
-      },
-      {
-        "id": "fa851471f86e48cbb6aae7c940b642a8",
-        "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-        "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 28 # Comments: 11",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-        "published": "2026-11-21T21:06:14+00:00"
-      },
-      {
-        "id": "9f1b6b84d466eb13a5e99e360c3259ed",
-        "title": "Pandex – Official European Law for AI Agents, over MCP",
-        "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 31 # Comments: 5",
-        "source": "Hacker News (Top)",
-        "category": "tech",
-        "url": "https://www.pandex.io",
-        "published": "2026-11-21T20:47:41+00:00"
+        "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+        "published": "2026-11-22T17:46:44+00:00"
       }
     ],
     "economist": [
+      {
+        "id": "e878207f959db0717e53404060b9f329",
+        "title": "The messy breakdown of the UN’s latest climate conference",
+        "summary": "The parties could not even agree on whether to mention fossil fuels in the summary text",
+        "source": "International",
+        "category": "economist",
+        "url": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-latest-climate-conference",
+        "published": "2026-11-22T22:26:59+00:00"
+      },
+      {
+        "id": "ff0ecd13186095bad97d36b34a86d1b3",
+        "title": "How much more air can come out of the AI trade?",
+        "summary": "Markets are troubled—for good reason",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+        "published": "2026-11-22T19:44:21+00:00"
+      },
+      {
+        "id": "65fe2fb4abfa741fa572ec18f4eda14a",
+        "title": "The Gandhi dynasty suffers for India",
+        "summary": "And India suffers the Gandhi dynasty",
+        "source": "Asia",
+        "category": "economist",
+        "url": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
+        "published": "2026-11-22T12:18:07+00:00"
+      },
+      {
+        "id": "494c4347b44db5a592b22e7581ceab47",
+        "title": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
+        "summary": "The Public Investment Fund is distracted, and not just by war",
+        "source": "Finance",
+        "category": "economist",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
+        "published": "2026-11-22T11:13:42+00:00"
+      },
       {
         "id": "27b36447aed7b77ab29389127510a0b3",
         "title": "Anthropic soars, but it may soon be back, cap in hand",
@@ -399,48 +435,12 @@
         "published": "2026-11-19T14:01:02+00:00"
       },
       {
-        "id": "9aa10ddfcb56acd562a30357065d9bbe",
-        "title": "America’s neglect of global science is backfiring",
-        "summary": "The Trump administration’s reforms have overcorrected for past mistakes",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
-        "published": "2026-11-19T14:01:02+00:00"
-      },
-      {
-        "id": "bac5d4e3fe64dfd03f15d7fffa5d4092",
-        "title": "Can Britannia rule the waves again?",
-        "summary": "A risky bet that could transform the nature of sea power",
-        "source": "Leaders",
-        "category": "economist",
-        "url": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
-        "published": "2026-11-19T14:01:02+00:00"
-      },
-      {
         "id": "86096e7e246b97b393f893b0103491d0",
         "title": "The world’s carmakers are revving up in America",
         "summary": "Donald Trump’s policies are only part of the explanation",
         "source": "Business",
         "category": "economist",
         "url": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
-        "published": "2026-11-19T14:01:02+00:00"
-      },
-      {
-        "id": "f461640156afe0ebda3b0d521ea0e833",
-        "title": "The global south’s smartphone king goes big on AI",
-        "summary": "Faced with stiffening competition and rising costs, Transsion plans its next act",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
-        "published": "2026-11-19T14:01:02+00:00"
-      },
-      {
-        "id": "eb0acae8ead0cc7d65cbf81d47d1ce20",
-        "title": "Jensen Huang’s fall is bad news for Silicon Valley’s accelerationists",
-        "summary": "Already their movement was on the back foot",
-        "source": "Business",
-        "category": "economist",
-        "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
         "published": "2026-11-19T14:01:02+00:00"
       }
     ]
@@ -451,12 +451,12 @@
         "symbol": "^STI",
         "label": "STI",
         "currency": "SGD",
-        "price": 4975.169921875,
-        "prev_close": 5079.490234375,
-        "change_pct": -2.05,
+        "price": 4905.6201171875,
+        "prev_close": 4975.169921875,
+        "change_pct": -1.4,
         "direction": "down",
-        "price_fmt": "4,975.2",
-        "change_str": "-2.05%"
+        "price_fmt": "4,905.6",
+        "change_str": "-1.40%"
       },
       {
         "symbol": "^GSPC",
@@ -473,12 +473,12 @@
         "symbol": "^HSI",
         "label": "Hang Seng",
         "currency": "HKD",
-        "price": 22410.80078125,
-        "prev_close": 22841.619140625,
-        "change_pct": -1.89,
+        "price": 22109.400390625,
+        "prev_close": 22410.80078125,
+        "change_pct": -1.34,
         "direction": "down",
-        "price_fmt": "22,411",
-        "change_str": "-1.89%"
+        "price_fmt": "22,109",
+        "change_str": "-1.34%"
       },
       {
         "symbol": "^N225",
@@ -506,19 +506,19 @@
         "symbol": "^AXJO",
         "label": "ASX 200",
         "currency": "AUD",
-        "price": 8592.599609375,
+        "price": 8599.2998046875,
         "prev_close": 8592.599609375,
-        "change_pct": 0.0,
-        "direction": "flat",
-        "price_fmt": "8,592.6",
-        "change_str": "0.00%"
+        "change_pct": 0.08,
+        "direction": "up",
+        "price_fmt": "8,599.3",
+        "change_str": "+0.08%"
       }
     ],
     "fx": [
       {
         "symbol": "USDSGD=X",
         "label": "USD/SGD",
-        "price": 1.2899999618530273,
+        "price": 1.2900400161743164,
         "prev_close": 1.2915500402450562,
         "change_pct": -0.12,
         "direction": "down",
@@ -528,42 +528,42 @@
       {
         "symbol": "EURSGD=X",
         "label": "EUR/SGD",
-        "price": 1.4147000312805176,
+        "price": 1.4170000553131104,
         "prev_close": 1.4167200326919556,
-        "change_pct": -0.14,
-        "direction": "down",
-        "price_fmt": "1.41",
-        "change_str": "-0.14%"
+        "change_pct": 0.02,
+        "direction": "up",
+        "price_fmt": "1.42",
+        "change_str": "+0.02%"
       },
       {
         "symbol": "GBPSGD=X",
         "label": "GBP/SGD",
-        "price": 1.6862000226974487,
+        "price": 1.6913399696350098,
         "prev_close": 1.6902600526809692,
-        "change_pct": -0.24,
-        "direction": "down",
+        "change_pct": 0.06,
+        "direction": "up",
         "price_fmt": "1.69",
-        "change_str": "-0.24%"
+        "change_str": "+0.06%"
       },
       {
         "symbol": "JPYSGD=X",
         "label": "JPY/SGD",
-        "price": 0.008089999668300152,
-        "prev_close": 0.008,
-        "change_pct": 1.12,
-        "direction": "up",
+        "price": 0.008070000447332859,
+        "prev_close": 0.0081,
+        "change_pct": -0.37,
+        "direction": "down",
         "price_fmt": "0.01",
-        "change_str": "+1.12%"
+        "change_str": "-0.37%"
       },
       {
         "symbol": "CNYSGD=X",
         "label": "CNY/SGD",
         "price": 0.19269999861717224,
-        "prev_close": 0.1933,
-        "change_pct": -0.31,
+        "prev_close": 0.1927,
+        "change_pct": -0.0,
         "direction": "down",
         "price_fmt": "0.19",
-        "change_str": "-0.31%"
+        "change_str": "-0.00%"
       }
     ],
     "commodities": [
@@ -571,45 +571,45 @@
         "symbol": "BZ=F",
         "label": "Brent Crude",
         "unit": "USD/bbl",
-        "price": 92.56999969482422,
-        "prev_close": 91.9800033569336,
-        "change_pct": 0.64,
-        "direction": "up",
-        "price_fmt": "92.57",
-        "change_str": "+0.64%"
+        "price": 89.76000213623047,
+        "prev_close": 92.56999969482422,
+        "change_pct": -3.04,
+        "direction": "down",
+        "price_fmt": "89.76",
+        "change_str": "-3.04%"
       },
       {
         "symbol": "GC=F",
         "label": "Gold",
         "unit": "USD/oz",
-        "price": 3515.39990234375,
-        "prev_close": 3685.5,
-        "change_pct": -4.62,
-        "direction": "down",
-        "price_fmt": "3,515.4",
-        "change_str": "-4.62%"
+        "price": 3605.199951171875,
+        "prev_close": 3515.39990234375,
+        "change_pct": 2.55,
+        "direction": "up",
+        "price_fmt": "3,605.2",
+        "change_str": "+2.55%"
       },
       {
         "symbol": "SI=F",
         "label": "Silver",
         "unit": "USD/oz",
-        "price": 41.03499984741211,
-        "prev_close": 44.31800079345703,
-        "change_pct": -7.41,
-        "direction": "down",
-        "price_fmt": "41.03",
-        "change_str": "-7.41%"
+        "price": 42.08000183105469,
+        "prev_close": 41.03499984741211,
+        "change_pct": 2.55,
+        "direction": "up",
+        "price_fmt": "42.08",
+        "change_str": "+2.55%"
       },
       {
         "symbol": "NG=F",
         "label": "Nat. Gas",
         "unit": "USD/MMBtu",
-        "price": 3.4110000133514404,
-        "prev_close": 3.2679998874664307,
-        "change_pct": 4.38,
+        "price": 3.624000072479248,
+        "prev_close": 3.4110000133514404,
+        "change_pct": 6.24,
         "direction": "up",
-        "price_fmt": "3.41",
-        "change_str": "+4.38%"
+        "price_fmt": "3.62",
+        "change_str": "+6.24%"
       }
     ],
     "crypto": [
@@ -617,23 +617,23 @@
         "symbol": "BTC-USD",
         "label": "Bitcoin",
         "unit": "USD",
-        "price": 59997.0390625,
-        "prev_close": 58798.98046875,
-        "change_pct": 2.04,
+        "price": 60795.16015625,
+        "prev_close": 60094.08984375,
+        "change_pct": 1.17,
         "direction": "up",
-        "price_fmt": "59,997",
-        "change_str": "+2.04%"
+        "price_fmt": "60,795",
+        "change_str": "+1.17%"
       },
       {
         "symbol": "ETH-USD",
         "label": "Ethereum",
         "unit": "USD",
-        "price": 1683.5,
-        "prev_close": 1619.43212890625,
-        "change_pct": 3.96,
+        "price": 1707.6800537109375,
+        "prev_close": 1682.20458984375,
+        "change_pct": 1.51,
         "direction": "up",
-        "price_fmt": "1,683.5",
-        "change_str": "+3.96%"
+        "price_fmt": "1,707.7",
+        "change_str": "+1.51%"
       }
     ]
   },
